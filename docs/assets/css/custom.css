@@ -1,0 +1,61 @@
+/* SpineRadiology.com Custom Styles */
+
+/* Overall typography refinements */
+.md-typeset h1 {
+  font-weight: 700;
+  color: var(--md-primary-fg-color);
+}
+
+/* Card grid for homepage */
+.md-typeset .grid.cards > ul > li {
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 8px;
+  transition: box-shadow 0.2s, transform 0.2s;
+}
+
+.md-typeset .grid.cards > ul > li:hover {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  transform: translateY(-2px);
+}
+
+/* Imaging findings tables */
+.md-typeset table:not([class]) {
+  border-collapse: collapse;
+  font-size: 0.85rem;
+}
+
+.md-typeset table:not([class]) th {
+  background-color: var(--md-primary-fg-color);
+  color: white;
+  font-weight: 600;
+}
+
+/* Admonition customization for clinical pearls */
+.md-typeset .admonition.tip,
+.md-typeset details.tip {
+  border-color: #4caf50;
+}
+
+/* Key findings highlight */
+.md-typeset mark {
+  background-color: #fff3cd;
+  padding: 0.1em 0.3em;
+  border-radius: 3px;
+}
+
+/* Disclaimer styling */
+.md-typeset .admonition.warning {
+  font-size: 0.85rem;
+}
+
+/* Image styling for pathology images */
+.md-typeset img {
+  border-radius: 4px;
+  border: 1px solid var(--md-default-fg-color--lightest);
+}
+
+/* Footer copyright */
+.md-copyright {
+  font-size: 0.7rem;
+  opacity: 0.7;
+}

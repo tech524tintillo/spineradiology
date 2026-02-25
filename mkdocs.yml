@@ -1,0 +1,331 @@
+site_name: SpineRadiology.com
+site_url: https://spineradiology.com
+site_description: A comprehensive wiki and reference for spine radiology — anatomy, pathology, imaging findings, and differential diagnosis.
+site_author: Expert Radiology
+
+theme:
+  name: material
+  custom_dir: docs/overrides
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: light blue
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: light blue
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  font:
+    text: Inter
+    code: Roboto Mono
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - navigation.indexes
+    - search.suggest
+    - search.highlight
+    - search.share
+    - toc.follow
+    - content.tooltips
+  icon:
+    logo: material/hospital-box
+  favicon: assets/images/favicon.png
+
+plugins:
+  - search:
+      separator: '[\s\-\.]+'
+  - tags
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.mark
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+      toc_depth: 3
+  - def_list
+  - pymdownx.keys
+  - pymdownx.caret
+  - pymdownx.tilde
+
+extra:
+  social:
+    - icon: fontawesome/solid/envelope
+      link: mailto:avery@expertradiology.com
+  generator: false
+
+extra_css:
+  - assets/css/custom.css
+
+copyright: "&copy; 2025 SpineRadiology.com — For educational purposes only. Not a substitute for clinical judgment."
+
+nav:
+  - Home: index.md
+  - Anatomy:
+    - anatomy/index.md
+    - Vertebral Column Overview: anatomy/vertebral-column-overview.md
+    - Cervical Vertebrae (C1-C7): anatomy/cervical-vertebrae.md
+    - Atlas (C1) and Axis (C2): anatomy/atlas-axis.md
+    - Thoracic Vertebrae (T1-T12): anatomy/thoracic-vertebrae.md
+    - Lumbar Vertebrae (L1-L5): anatomy/lumbar-vertebrae.md
+    - Sacrum and Coccyx: anatomy/sacrum-coccyx.md
+    - Intervertebral Disc: anatomy/intervertebral-disc.md
+    - Spinal Cord: anatomy/spinal-cord.md
+    - Conus Medullaris and Cauda Equina: anatomy/conus-cauda-equina.md
+    - Spinal Nerve Roots and Dermatomes: anatomy/nerve-roots-dermatomes.md
+    - Spinal Ligaments: anatomy/spinal-ligaments.md
+    - Anterior Longitudinal Ligament: anatomy/anterior-longitudinal-ligament.md
+    - Posterior Longitudinal Ligament: anatomy/posterior-longitudinal-ligament.md
+    - Ligamentum Flavum: anatomy/ligamentum-flavum.md
+    - Facet Joints: anatomy/facet-joints.md
+    - Spinal Canal and Neural Foramina: anatomy/spinal-canal-neural-foramina.md
+    - Thecal Sac and CSF Spaces: anatomy/thecal-sac-csf.md
+    - Vertebral Artery: anatomy/vertebral-artery.md
+    - Spinal Arterial Supply: anatomy/spinal-arterial-supply.md
+    - Spinal Venous Plexus: anatomy/spinal-venous-plexus.md
+    - Paraspinal Musculature: anatomy/paraspinal-musculature.md
+    - Craniocervical Junction: anatomy/craniocervical-junction.md
+    - Thoracolumbar Junction: anatomy/thoracolumbar-junction.md
+    - Lumbosacral Junction: anatomy/lumbosacral-junction.md
+    - Normal Spinal Curvatures and Alignment: anatomy/spinal-curvatures-alignment.md
+
+  - Imaging Modalities:
+    - imaging-modalities/index.md
+    - Spine Radiography (X-ray): imaging-modalities/spine-radiography.md
+    - Flexion-Extension Radiographs: imaging-modalities/flexion-extension-radiographs.md
+    - CT of the Spine: imaging-modalities/ct-spine.md
+    - CT Myelography: imaging-modalities/ct-myelography.md
+    - MRI of the Spine: imaging-modalities/mri-spine.md
+    - MRI Pulse Sequences: imaging-modalities/mri-pulse-sequences.md
+    - Gadolinium Enhancement: imaging-modalities/gadolinium-enhancement.md
+    - MR Myelography: imaging-modalities/mr-myelography.md
+    - Diffusion-Weighted Imaging: imaging-modalities/dwi-spine.md
+    - Bone Scan: imaging-modalities/bone-scan.md
+    - PET/CT of the Spine: imaging-modalities/pet-ct-spine.md
+    - Spinal Angiography: imaging-modalities/spinal-angiography.md
+    - Discography: imaging-modalities/discography.md
+    - Ultrasound of Neonatal Spine: imaging-modalities/ultrasound-neonatal-spine.md
+    - Image-Guided Spine Procedures: imaging-modalities/image-guided-procedures.md
+
+  - Degenerative Disease:
+    - degenerative-disease/index.md
+    - Degenerative Disc Disease Overview: degenerative-disease/degenerative-disc-disease.md
+    - Disc Bulge vs Herniation Nomenclature: degenerative-disease/disc-bulge-vs-herniation.md
+    - Disc Protrusion: degenerative-disease/disc-protrusion.md
+    - Disc Extrusion: degenerative-disease/disc-extrusion.md
+    - Disc Sequestration: degenerative-disease/disc-sequestration.md
+    - Annular Fissure: degenerative-disease/annular-fissure.md
+    - Cervical Disc Herniation: degenerative-disease/cervical-disc-herniation.md
+    - Lumbar Disc Herniation: degenerative-disease/lumbar-disc-herniation.md
+    - Thoracic Disc Herniation: degenerative-disease/thoracic-disc-herniation.md
+    - Far Lateral Disc Herniation: degenerative-disease/far-lateral-disc-herniation.md
+    - Spinal Stenosis Overview: degenerative-disease/spinal-stenosis.md
+    - Cervical Spinal Stenosis: degenerative-disease/cervical-spinal-stenosis.md
+    - Lumbar Spinal Stenosis: degenerative-disease/lumbar-spinal-stenosis.md
+    - Central Canal Stenosis: degenerative-disease/central-canal-stenosis.md
+    - Lateral Recess Stenosis: degenerative-disease/lateral-recess-stenosis.md
+    - Foraminal Stenosis: degenerative-disease/foraminal-stenosis.md
+    - Spondylosis: degenerative-disease/spondylosis.md
+    - Cervical Spondylotic Myelopathy: degenerative-disease/cervical-spondylotic-myelopathy.md
+    - Osteophyte Formation: degenerative-disease/osteophyte-formation.md
+    - Facet Joint Arthropathy: degenerative-disease/facet-arthropathy.md
+    - Facet Joint Synovial Cyst: degenerative-disease/facet-synovial-cyst.md
+    - Spondylolisthesis Overview: degenerative-disease/spondylolisthesis.md
+    - Degenerative Spondylolisthesis: degenerative-disease/degenerative-spondylolisthesis.md
+    - Isthmic Spondylolisthesis: degenerative-disease/isthmic-spondylolisthesis.md
+    - Modic Endplate Changes: degenerative-disease/modic-changes.md
+    - Schmorl Nodes: degenerative-disease/schmorl-nodes.md
+    - Vacuum Disc Phenomenon: degenerative-disease/vacuum-disc.md
+    - DISH: degenerative-disease/dish.md
+    - OPLL: degenerative-disease/opll.md
+    - Ligamentum Flavum Hypertrophy: degenerative-disease/ligamentum-flavum-hypertrophy.md
+    - Baastrup Disease: degenerative-disease/baastrup-disease.md
+
+  - Trauma:
+    - trauma/index.md
+    - Spine Trauma Imaging Approach: trauma/imaging-approach.md
+    - NEXUS and Canadian C-Spine Rules: trauma/nexus-canadian-rules.md
+    - AO Spine Classification: trauma/ao-spine-classification.md
+    - Denis Three-Column Model: trauma/denis-three-column.md
+    - TLICS: trauma/tlics.md
+    - SLIC: trauma/slic.md
+    - Occipital Condyle Fracture: trauma/occipital-condyle-fracture.md
+    - Atlanto-Occipital Dissociation: trauma/atlanto-occipital-dissociation.md
+    - Jefferson Fracture: trauma/jefferson-fracture.md
+    - Odontoid Fractures: trauma/odontoid-fractures.md
+    - Hangman Fracture: trauma/hangman-fracture.md
+    - Subaxial Cervical Fractures: trauma/subaxial-cervical-fractures.md
+    - Facet Dislocations: trauma/facet-dislocations.md
+    - Teardrop Fracture: trauma/teardrop-fracture.md
+    - Clay Shoveler Fracture: trauma/clay-shoveler-fracture.md
+    - Thoracolumbar Burst Fracture: trauma/burst-fracture.md
+    - Thoracolumbar Compression Fracture: trauma/compression-fracture.md
+    - Chance Fracture: trauma/chance-fracture.md
+    - Fracture-Dislocation: trauma/fracture-dislocation.md
+    - Sacral Fractures: trauma/sacral-fractures.md
+    - Coccygeal Fracture: trauma/coccygeal-fracture.md
+    - Spinal Cord Injury Imaging: trauma/spinal-cord-injury.md
+    - Spinal Epidural Hematoma: trauma/epidural-hematoma.md
+    - Traumatic Disc Herniation: trauma/traumatic-disc-herniation.md
+    - SCIWORA: trauma/sciwora.md
+    - Acute vs Chronic Compression Fracture: trauma/acute-vs-chronic-compression.md
+    - Insufficiency Fractures: trauma/insufficiency-fractures.md
+    - Transverse Process Fractures: trauma/transverse-process-fractures.md
+    - Spinous Process Fractures: trauma/spinous-process-fractures.md
+    - Penetrating Spine Trauma: trauma/penetrating-trauma.md
+
+  - Neoplasms:
+    - neoplasms/index.md
+    - Spine Tumors Overview: neoplasms/spine-tumors-overview.md
+    - Extradural vs Intradural Classification: neoplasms/extradural-intradural-classification.md
+    - Vertebral Body Metastases: neoplasms/vertebral-metastases.md
+    - Blastic vs Lytic Metastases: neoplasms/blastic-vs-lytic.md
+    - Epidural Metastases and Cord Compression: neoplasms/epidural-metastases.md
+    - Vertebral Hemangioma: neoplasms/vertebral-hemangioma.md
+    - Multiple Myeloma / Plasmacytoma: neoplasms/myeloma-plasmacytoma.md
+    - Lymphoma of the Spine: neoplasms/lymphoma.md
+    - Chordoma: neoplasms/chordoma.md
+    - Giant Cell Tumor: neoplasms/giant-cell-tumor.md
+    - Osteoid Osteoma and Osteoblastoma: neoplasms/osteoid-osteoma-osteoblastoma.md
+    - Aneurysmal Bone Cyst: neoplasms/aneurysmal-bone-cyst.md
+    - Eosinophilic Granuloma: neoplasms/eosinophilic-granuloma.md
+    - Osteosarcoma / Ewing Sarcoma: neoplasms/osteosarcoma-ewing.md
+    - Chondrosarcoma: neoplasms/chondrosarcoma.md
+    - Schwannoma: neoplasms/schwannoma.md
+    - Meningioma: neoplasms/meningioma.md
+    - Neurofibroma: neoplasms/neurofibroma.md
+    - Dumbbell Lesions: neoplasms/dumbbell-lesions.md
+    - Drop Metastases: neoplasms/drop-metastases.md
+    - Astrocytoma: neoplasms/astrocytoma.md
+    - Ependymoma: neoplasms/ependymoma.md
+    - Myxopapillary Ependymoma: neoplasms/myxopapillary-ependymoma.md
+    - Hemangioblastoma: neoplasms/hemangioblastoma.md
+    - Spinal Lipoma: neoplasms/spinal-lipoma.md
+
+  - Infection:
+    - infection/index.md
+    - Spinal Infection Overview: infection/spinal-infection-overview.md
+    - Pyogenic Spondylodiscitis: infection/pyogenic-spondylodiscitis.md
+    - Vertebral Osteomyelitis: infection/vertebral-osteomyelitis.md
+    - Epidural Abscess: infection/epidural-abscess.md
+    - Spinal Tuberculosis: infection/spinal-tuberculosis.md
+    - Brucella Spondylitis: infection/brucella-spondylitis.md
+    - Fungal Spinal Infection: infection/fungal-infection.md
+    - Post-Operative Spinal Infection: infection/post-operative-infection.md
+    - Paravertebral Abscess: infection/paravertebral-abscess.md
+    - Discitis in Children: infection/discitis-children.md
+    - Spinal Subdural Empyema: infection/subdural-empyema.md
+    - Infection vs Tumor: infection/infection-vs-tumor.md
+
+  - Inflammatory / Autoimmune:
+    - inflammatory-autoimmune/index.md
+    - Ankylosing Spondylitis: inflammatory-autoimmune/ankylosing-spondylitis.md
+    - Bamboo Spine: inflammatory-autoimmune/bamboo-spine.md
+    - Romanus and Andersson Lesions: inflammatory-autoimmune/romanus-andersson-lesions.md
+    - Psoriatic Spondyloarthropathy: inflammatory-autoimmune/psoriatic-spondyloarthropathy.md
+    - Reactive Arthritis: inflammatory-autoimmune/reactive-arthritis.md
+    - Rheumatoid Arthritis Cervical Spine: inflammatory-autoimmune/rheumatoid-arthritis-cervical.md
+    - Atlantoaxial Subluxation in RA: inflammatory-autoimmune/atlantoaxial-subluxation-ra.md
+    - Cranial Settling in RA: inflammatory-autoimmune/cranial-settling-ra.md
+    - SAPHO Syndrome: inflammatory-autoimmune/sapho-syndrome.md
+    - Sarcoidosis of the Spine: inflammatory-autoimmune/sarcoidosis.md
+    - Transverse Myelitis: inflammatory-autoimmune/transverse-myelitis.md
+    - Multiple Sclerosis Spinal Cord: inflammatory-autoimmune/multiple-sclerosis-spine.md
+
+  - Congenital / Developmental:
+    - congenital-developmental/index.md
+    - Spinal Dysraphism Overview: congenital-developmental/spinal-dysraphism.md
+    - Spina Bifida Occulta: congenital-developmental/spina-bifida-occulta.md
+    - Meningocele: congenital-developmental/meningocele.md
+    - Myelomeningocele: congenital-developmental/myelomeningocele.md
+    - Tethered Cord Syndrome: congenital-developmental/tethered-cord.md
+    - Diastematomyelia: congenital-developmental/diastematomyelia.md
+    - Dermal Sinus Tract: congenital-developmental/dermal-sinus-tract.md
+    - Lipomyelomeningocele: congenital-developmental/lipomyelomeningocele.md
+    - Caudal Regression Syndrome: congenital-developmental/caudal-regression.md
+    - Chiari I Malformation: congenital-developmental/chiari-i.md
+    - Syringomyelia: congenital-developmental/syringomyelia.md
+    - Klippel-Feil Syndrome: congenital-developmental/klippel-feil.md
+    - Os Odontoideum: congenital-developmental/os-odontoideum.md
+    - Block Vertebra: congenital-developmental/block-vertebra.md
+    - Butterfly Vertebra: congenital-developmental/butterfly-vertebra.md
+    - Hemivertebra: congenital-developmental/hemivertebra.md
+    - Transitional Vertebra: congenital-developmental/transitional-vertebra.md
+    - Scheuermann Disease: congenital-developmental/scheuermann-disease.md
+
+  - Vascular:
+    - vascular/index.md
+    - Spinal Vascular Malformations Overview: vascular/vascular-malformations-overview.md
+    - Spinal Dural AVF: vascular/dural-avf.md
+    - Spinal AVM: vascular/spinal-avm.md
+    - Perimedullary AVF: vascular/perimedullary-avf.md
+    - Spinal Cord Infarction: vascular/spinal-cord-infarction.md
+    - Anterior Spinal Artery Syndrome: vascular/anterior-spinal-artery-syndrome.md
+    - Venous Congestion Myelopathy: vascular/venous-congestion-myelopathy.md
+    - Hematomyelia: vascular/hematomyelia.md
+    - Spinal Subarachnoid Hemorrhage: vascular/spinal-sah.md
+    - Cavernous Malformation: vascular/cavernous-malformation.md
+
+  - Metabolic / Systemic:
+    - metabolic-systemic/index.md
+    - Osteoporosis Spine Imaging: metabolic-systemic/osteoporosis.md
+    - Osteoporotic Compression Fractures: metabolic-systemic/osteoporotic-compression-fractures.md
+    - Benign vs Pathologic Compression Fracture: metabolic-systemic/benign-vs-pathologic-fracture.md
+    - Paget Disease: metabolic-systemic/paget-disease.md
+    - Renal Osteodystrophy: metabolic-systemic/renal-osteodystrophy.md
+    - Hyperparathyroidism: metabolic-systemic/hyperparathyroidism.md
+    - Fluorosis: metabolic-systemic/fluorosis.md
+    - Acromegaly: metabolic-systemic/acromegaly.md
+    - Sickle Cell Spine: metabolic-systemic/sickle-cell-spine.md
+    - Neuropathic Spine: metabolic-systemic/neuropathic-spine.md
+    - Fibrous Dysplasia: metabolic-systemic/fibrous-dysplasia.md
+    - Amyloidosis: metabolic-systemic/amyloidosis.md
+
+  - Post-Surgical Spine:
+    - post-surgical-spine/index.md
+    - Post-Surgical Imaging Approach: post-surgical-spine/imaging-approach.md
+    - Normal Post-Operative MRI: post-surgical-spine/normal-post-op-mri.md
+    - Posterior Spinal Fusion Hardware: post-surgical-spine/posterior-fusion-hardware.md
+    - ACDF: post-surgical-spine/acdf.md
+    - Lumbar Laminectomy: post-surgical-spine/lumbar-laminectomy.md
+    - Disc Arthroplasty: post-surgical-spine/disc-arthroplasty.md
+    - Interbody Fusion Devices: post-surgical-spine/interbody-fusion.md
+    - Vertebroplasty and Kyphoplasty: post-surgical-spine/vertebroplasty-kyphoplasty.md
+    - Failed Back Surgery Syndrome: post-surgical-spine/fbss.md
+    - Recurrent Herniation vs Scar: post-surgical-spine/recurrent-herniation-vs-scar.md
+    - Hardware Failure: post-surgical-spine/hardware-failure.md
+    - Adjacent Segment Disease: post-surgical-spine/adjacent-segment-disease.md
+    - Pseudarthrosis: post-surgical-spine/pseudarthrosis.md
+    - Post-Operative Epidural Hematoma: post-surgical-spine/post-op-epidural-hematoma.md
+    - Post-Operative Infection Imaging: post-surgical-spine/post-op-infection.md
+
+  - Special Topics:
+    - special-topics/index.md
+    - MRI Artifacts and Pitfalls: special-topics/mri-artifacts-pitfalls.md
+    - CSF Flow Artifacts: special-topics/csf-flow-artifacts.md
+    - Truncation Artifact: special-topics/truncation-artifact.md
+    - Tarlov Cysts: special-topics/tarlov-cysts.md
+    - Spinal Arachnoid Cyst: special-topics/arachnoid-cyst.md
+    - Meningeal Cyst Classification: special-topics/meningeal-cyst-classification.md
+    - Spine Measurements: special-topics/spine-measurements.md
+    - Spinal Canal Diameter Normals: special-topics/spinal-canal-diameter.md
+    - Structured Reporting Spine MRI: special-topics/structured-reporting-mri.md
+    - Structured Reporting Spine CT: special-topics/structured-reporting-ct.md
+    - Radiculopathy Imaging Correlation: special-topics/radiculopathy.md
+    - Myelopathy Imaging Correlation: special-topics/myelopathy.md
+    - Cauda Equina Syndrome: special-topics/cauda-equina-syndrome.md
+    - Pediatric Spine Imaging: special-topics/pediatric-spine.md
+    - Incidental Spine Findings: special-topics/incidental-findings.md
