@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+{% block scripts %}
+{{ super() }}
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  var t = document.querySelector('.md-header__topic');
+  if (t) { t.style.cursor = 'pointer'; t.onclick = function() { window.location.href = '/'; }; }
+});
+</script>
+{% endblock %}
