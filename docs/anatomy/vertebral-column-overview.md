@@ -4,7 +4,7 @@
 
 The vertebral column (spine) is the central bony structure of the axial skeleton, consisting of **33 vertebrae** in total — 7 cervical, 12 thoracic, 5 lumbar, 5 fused sacral, and 4 fused coccygeal segments. It serves as the primary structural support for the trunk, protects the spinal cord and nerve roots, and provides attachment points for the ribs and muscles of the trunk.
 
-![Vertebral column regions](https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Vertebral_column-coloured.png/250px-Vertebral_column-coloured.png){ align=right width="200" }
+![Vertebral column regions](../../assets/images/anatomy/vertebral-column.png){ align=right width="200" }
 
 ## Vertebral Regions
 
