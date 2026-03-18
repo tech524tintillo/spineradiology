@@ -1,4 +1,4 @@
-site_name: SpineRadiology.com
+site_name: Spine Radiology
 site_url: https://spineradiology.com
 site_description: A comprehensive wiki and reference for spine radiology — anatomy, pathology, imaging findings, and differential diagnosis.
 site_author: Expert Radiology
@@ -7,18 +7,18 @@ theme:
   name: material
   custom_dir: docs/overrides
   palette:
-    - scheme: default
-      primary: indigo
-      accent: light blue
-      toggle:
-        icon: material/brightness-7
-        name: Switch to dark mode
     - scheme: slate
       primary: indigo
       accent: light blue
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
+    - scheme: default
+      primary: indigo
+      accent: light blue
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
   font:
     text: Inter
     code: Roboto Mono
@@ -60,6 +60,9 @@ markdown_extensions:
   - pymdownx.keys
   - pymdownx.caret
   - pymdownx.tilde
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 extra:
   social:
@@ -101,7 +104,6 @@ nav:
     - Thoracolumbar Junction: anatomy/thoracolumbar-junction.md
     - Lumbosacral Junction: anatomy/lumbosacral-junction.md
     - Normal Spinal Curvatures and Alignment: anatomy/spinal-curvatures-alignment.md
-
   - Imaging Modalities:
     - imaging-modalities/index.md
     - Spine Radiography (X-ray): imaging-modalities/spine-radiography.md
@@ -119,7 +121,6 @@ nav:
     - Discography: imaging-modalities/discography.md
     - Ultrasound of Neonatal Spine: imaging-modalities/ultrasound-neonatal-spine.md
     - Image-Guided Spine Procedures: imaging-modalities/image-guided-procedures.md
-
   - Degenerative Disease:
     - degenerative-disease/index.md
     - Degenerative Disc Disease Overview: degenerative-disease/degenerative-disc-disease.md
@@ -153,7 +154,6 @@ nav:
     - OPLL: degenerative-disease/opll.md
     - Ligamentum Flavum Hypertrophy: degenerative-disease/ligamentum-flavum-hypertrophy.md
     - Baastrup Disease: degenerative-disease/baastrup-disease.md
-
   - Trauma:
     - trauma/index.md
     - Spine Trauma Imaging Approach: trauma/imaging-approach.md
@@ -186,7 +186,6 @@ nav:
     - Transverse Process Fractures: trauma/transverse-process-fractures.md
     - Spinous Process Fractures: trauma/spinous-process-fractures.md
     - Penetrating Spine Trauma: trauma/penetrating-trauma.md
-
   - Neoplasms:
     - neoplasms/index.md
     - Spine Tumors Overview: neoplasms/spine-tumors-overview.md
@@ -214,7 +213,6 @@ nav:
     - Myxopapillary Ependymoma: neoplasms/myxopapillary-ependymoma.md
     - Hemangioblastoma: neoplasms/hemangioblastoma.md
     - Spinal Lipoma: neoplasms/spinal-lipoma.md
-
   - Infection:
     - infection/index.md
     - Spinal Infection Overview: infection/spinal-infection-overview.md
@@ -229,7 +227,6 @@ nav:
     - Discitis in Children: infection/discitis-children.md
     - Spinal Subdural Empyema: infection/subdural-empyema.md
     - Infection vs Tumor: infection/infection-vs-tumor.md
-
   - Inflammatory / Autoimmune:
     - inflammatory-autoimmune/index.md
     - Ankylosing Spondylitis: inflammatory-autoimmune/ankylosing-spondylitis.md
@@ -244,7 +241,6 @@ nav:
     - Sarcoidosis of the Spine: inflammatory-autoimmune/sarcoidosis.md
     - Transverse Myelitis: inflammatory-autoimmune/transverse-myelitis.md
     - Multiple Sclerosis Spinal Cord: inflammatory-autoimmune/multiple-sclerosis-spine.md
-
   - Congenital / Developmental:
     - congenital-developmental/index.md
     - Spinal Dysraphism Overview: congenital-developmental/spinal-dysraphism.md
@@ -265,7 +261,6 @@ nav:
     - Hemivertebra: congenital-developmental/hemivertebra.md
     - Transitional Vertebra: congenital-developmental/transitional-vertebra.md
     - Scheuermann Disease: congenital-developmental/scheuermann-disease.md
-
   - Vascular:
     - vascular/index.md
     - Spinal Vascular Malformations Overview: vascular/vascular-malformations-overview.md
@@ -278,7 +273,6 @@ nav:
     - Hematomyelia: vascular/hematomyelia.md
     - Spinal Subarachnoid Hemorrhage: vascular/spinal-sah.md
     - Cavernous Malformation: vascular/cavernous-malformation.md
-
   - Metabolic / Systemic:
     - metabolic-systemic/index.md
     - Osteoporosis Spine Imaging: metabolic-systemic/osteoporosis.md
@@ -293,7 +287,6 @@ nav:
     - Neuropathic Spine: metabolic-systemic/neuropathic-spine.md
     - Fibrous Dysplasia: metabolic-systemic/fibrous-dysplasia.md
     - Amyloidosis: metabolic-systemic/amyloidosis.md
-
   - Post-Surgical Spine:
     - post-surgical-spine/index.md
     - Post-Surgical Imaging Approach: post-surgical-spine/imaging-approach.md
@@ -311,7 +304,6 @@ nav:
     - Pseudarthrosis: post-surgical-spine/pseudarthrosis.md
     - Post-Operative Epidural Hematoma: post-surgical-spine/post-op-epidural-hematoma.md
     - Post-Operative Infection Imaging: post-surgical-spine/post-op-infection.md
-
   - Special Topics:
     - special-topics/index.md
     - MRI Artifacts and Pitfalls: special-topics/mri-artifacts-pitfalls.md
