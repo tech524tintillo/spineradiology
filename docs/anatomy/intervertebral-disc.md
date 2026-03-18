@@ -27,7 +27,6 @@ The intervertebral disc is a fibrocartilaginous structure situated between adjac
 - Critical pathway for disc nutrition via diffusion from vertebral body vasculature
 - Endplate damage disrupts nutrition and accelerates disc degeneration
 
-![Intervertebral disc](../assets/images/anatomy/intervertebral-disc.png)
 
 !!! tip "Clinical Pearl"
     The annulus fibrosus is **thinnest posterolaterally**, explaining why the vast majority of disc herniations occur in a posterolateral direction, compressing the traversing nerve root. The posterior longitudinal ligament provides some reinforcement in the midline but is weaker laterally.

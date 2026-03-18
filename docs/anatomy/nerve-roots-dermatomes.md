@@ -46,7 +46,6 @@ Knowledge of dermatomes enables clinical localization of radiculopathy:
 | **S1** | Lateral foot, sole, small toe | Ankle plantarflexion (gastrocnemius) | Achilles reflex |
 | **S2–S4** | Perianal region | Bladder and bowel sphincters | Bulbocavernosus reflex |
 
-![Dermatome map](../assets/images/anatomy/dermatome-map.png)
 
 ## Imaging Correlation
 

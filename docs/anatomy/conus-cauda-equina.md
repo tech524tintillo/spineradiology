@@ -29,7 +29,6 @@ The **conus medullaris** is the tapered terminal end of the spinal cord, normall
 | **Filum terminale internum** | Extends from the conus to the end of the thecal sac (S2); composed of pia mater; normally ≤ 2 mm thick |
 | **Filum terminale externum (coccygeal ligament)** | Extends from S2 to the coccyx; composed of dura and pia |
 
-![Cauda equina](../assets/images/anatomy/cauda-equina.png)
 
 !!! tip "Clinical Pearl"
     A filum terminale thicker than **2 mm** on axial MRI, or a filum that enhances with contrast or contains fat (bright on T1), suggests a **thickened filum** or **fatty filum** — findings associated with tethered cord syndrome even if the conus level is normal. See [Tethered Cord Syndrome](../congenital-developmental/tethered-cord.md).
