@@ -39,7 +39,10 @@ The spinal cord in cross-section demonstrates a characteristic butterfly-shaped 
 - **Lateral corticospinal tracts** — carry voluntary motor signals
 - **Spinothalamic tracts** — carry pain and temperature sensation
 
-![Spinal cord](../assets/images/anatomy/spinal-cord-cross-section.png)
+<figure markdown="span">
+  ![Spinal cord cross-section](../assets/images/anatomy/spinal-cord-cross-section.png){ width="550" }
+  <figcaption>Spinal cord cross-section showing ascending (blue) and descending (red) tracts within the white matter surrounding the central gray matter. (CC BY-SA 3.0)</figcaption>
+</figure>
 
 ### Meningeal Coverings
 

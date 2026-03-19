@@ -18,7 +18,10 @@ Lumbar vertebrae are distinguished by their robust size and characteristic morph
 - **Sagittally oriented facet joints** — approximately 90° to the axial plane, allowing flexion/extension but limiting rotation
 - **Triangular vertebral foramen** — larger than thoracic, accommodating the cauda equina below L1–L2
 
-![Lumbar vertebra](../assets/images/anatomy/lumbar-vertebra.png)
+<figure markdown="span">
+  ![Lumbar vertebra](../assets/images/anatomy/lumbar-vertebra.png){ width="450" }
+  <figcaption>Lumbar vertebra — the largest of the mobile vertebrae, with a thick body and short spinous process. (Gray's Anatomy, public domain)</figcaption>
+</figure>
 
 ### Lumbar Pedicles and Foramina
 

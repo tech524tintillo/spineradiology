@@ -17,7 +17,10 @@ The sacrum is a keystone structure transmitting the weight of the spine to the p
 - **Sacral hiatus** — the opening at the caudal end of the sacral canal (absent S5 laminae), used for caudal epidural access
 - **Sacral cornua** — small bony projections flanking the sacral hiatus
 
-![Sacrum](../assets/images/anatomy/sacrum.png)
+<figure markdown="span">
+  ![Sacrum](../assets/images/anatomy/sacrum.png){ width="400" }
+  <figcaption>Sacrum (anterior view), showing the promontory, anterior sacral foramina, and auricular surfaces. (Gray's Anatomy, public domain)</figcaption>
+</figure>
 
 ### Sacroiliac Joints
 

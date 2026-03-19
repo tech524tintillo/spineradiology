@@ -17,7 +17,10 @@ The atlas is a ring-shaped vertebra with **no vertebral body and no spinous proc
     - **Inferior articular facets** — flat to slightly convex; articulate with C2 superior facets (atlantoaxial joints — primarily rotation)
 - **Transverse processes** — unusually long and stout; contain transverse foramina for the vertebral arteries
 
-![Atlas (C1) superior view](../assets/images/anatomy/atlas-c1.png)
+<figure markdown="span">
+  ![Atlas (C1) superior view](../assets/images/anatomy/atlas-c1.png){ width="450" }
+  <figcaption>The atlas (C1), superior view — a ring-shaped vertebra with no body and no spinous process. (Gray's Anatomy, public domain)</figcaption>
+</figure>
 
 ### Axis (C2)
 
@@ -29,7 +32,10 @@ The axis is defined by the **odontoid process (dens)**, a tooth-like projection 
 - **Pars interarticularis** — the region between the superior and inferior articular facets, a common fracture site (Hangman fracture)
 - **Spinous process** — large and bifid
 
-![Axis (C2) anterior view](../assets/images/anatomy/axis-c2.png)
+<figure markdown="span">
+  ![Axis (C2) anterior view](../assets/images/anatomy/axis-c2.png){ width="450" }
+  <figcaption>The axis (C2), showing the odontoid process (dens) projecting superiorly. (Gray's Anatomy, public domain)</figcaption>
+</figure>
 
 ### Ligamentous Stabilizers
 

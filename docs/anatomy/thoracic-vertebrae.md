@@ -18,7 +18,10 @@ Thoracic vertebrae are characterized by several distinguishing features:
 - **Circular vertebral foramen** — smaller than cervical or lumbar, as the thoracic cord is narrower
 - **Coronal-oriented facet joints** — approximately 60° to the axial plane, limiting flexion/extension but permitting rotation
 
-![Thoracic vertebra](../assets/images/anatomy/thoracic-vertebra.png)
+<figure markdown="span">
+  ![Thoracic vertebra](../assets/images/anatomy/thoracic-vertebra.png){ width="450" }
+  <figcaption>Thoracic vertebra (lateral view), showing the costal facets for rib articulation. (Gray's Anatomy, public domain)</figcaption>
+</figure>
 
 ### Regional Variations
 
