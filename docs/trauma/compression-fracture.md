@@ -37,6 +37,11 @@ MRI is crucial for:
 !!! tip "Clinical Pearl"
     The key MRI features suggesting a malignant rather than osteoporotic compression fracture include: convex posterior vertebral body contour (rather than retropulsion of an angular fragment), complete replacement of normal marrow signal, involvement of the pedicles, epidural soft tissue mass, and enhancement of the entire vertebral body rather than a band pattern. Diffusion-weighted imaging (DWI) can also help — malignant fractures typically show restricted diffusion.
 
+<figure markdown="span">
+  ![Vertebral compression fracture diagram](../assets/images/trauma/compression-fracture-diagram.png){ width="400" }
+  <figcaption>Illustration of a vertebral compression fracture showing anterior wedge deformity of the vertebral body. (Source: Blausen Medical, CC BY 3.0)</figcaption>
+</figure>
+
 ## Classification
 
 ### AO Spine
