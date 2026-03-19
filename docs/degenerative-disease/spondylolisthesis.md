@@ -6,6 +6,11 @@ Spondylolisthesis is the anterior (or rarely posterior) displacement of one vert
 
 ## Classification
 
+<figure markdown="span">
+  ![Spondylolisthesis](../assets/images/degenerative/spondylolisthesis.png){ width="450" }
+  <figcaption>Lateral radiograph demonstrating spondylolisthesis — anterior displacement of one vertebra relative to the one below. (Wikimedia Commons)</figcaption>
+</figure>
+
 ### Wiltse-Newman Classification (by Etiology)
 
 | Type | Cause | Typical Level |

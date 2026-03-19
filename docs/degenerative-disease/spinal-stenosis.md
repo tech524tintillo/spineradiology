@@ -6,6 +6,11 @@ Spinal stenosis is the narrowing of the spinal canal, neural foramina, or latera
 
 ## Types by Location
 
+<figure markdown="span">
+  ![Spinal stenosis causes](../assets/images/degenerative/spinal-stenosis-causes.png){ width="550" }
+  <figcaption>Four major causes of degenerative spinal canal stenosis: disc herniation, facet joint hypertrophy, ligamentum flavum hypertrophy, and spondylolisthesis. (CC BY-SA 4.0)</figcaption>
+</figure>
+
 | Type | Location | Structures Compressed |
 |------|----------|----------------------|
 | **Central canal stenosis** | Central spinal canal | Spinal cord (cervical/thoracic) or cauda equina (lumbar) |
