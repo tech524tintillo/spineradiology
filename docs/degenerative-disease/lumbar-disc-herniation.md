@@ -23,6 +23,11 @@ In the lumbar spine, the relationship between herniation location and the affect
 
 ## Imaging Findings
 
+<figure markdown="span">
+  ![Lumbar disc herniation MRI](../assets/images/degenerative/disc-herniation-mri.png){ width="400" }
+  <figcaption>Sagittal MRI diagram showing a lumbar disc herniation compressing the thecal sac and nerve root. (Wikimedia Commons, CC BY-SA 3.0)</figcaption>
+</figure>
+
 ### MRI (Gold Standard)
 
 - **Sagittal T2:** disc extension beyond the vertebral margin; assess craniocaudal migration

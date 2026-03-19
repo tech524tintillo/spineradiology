@@ -6,6 +6,11 @@ A disc extrusion is a type of herniation in which the displaced disc material ex
 
 ## Imaging Findings
 
+<figure markdown="span">
+  ![Herniated disc](../assets/images/degenerative/herniated-disc.png){ width="400" }
+  <figcaption>Diagram of a herniated intervertebral disc with nuclear material extending through the annulus fibrosus. (Wikimedia Commons, public domain)</figcaption>
+</figure>
+
 ### MRI
 
 - Focal disc extension with a **narrower base (neck) than the dome** — the key distinguishing feature from protrusion

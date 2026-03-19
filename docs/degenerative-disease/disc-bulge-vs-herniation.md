@@ -6,6 +6,11 @@ The distinction between disc bulge and disc herniation is defined by the extent 
 
 ## Nomenclature
 
+<figure markdown="span">
+  ![Disc herniation stages](../assets/images/degenerative/disc-herniation-stages.png){ width="550" }
+  <figcaption>Stages of disc herniation: degeneration, prolapse, extrusion, and sequestration. (Smart-Servier, CC BY 3.0)</figcaption>
+</figure>
+
 ### Disc Bulge
 
 - **Definition:** circumferential (>50% of disc circumference) extension of disc tissue beyond the vertebral body margins
