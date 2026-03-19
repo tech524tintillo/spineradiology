@@ -6,6 +6,11 @@ The spinal ligaments are a series of strong connective tissue bands that stabili
 
 ## Anatomy
 
+<figure markdown="span">
+  ![Spinal ligaments](../assets/images/anatomy/spinal-ligaments.png){ width="450" }
+  <figcaption>Median sagittal section of two lumbar vertebrae showing the anterior and posterior longitudinal ligaments, ligamentum flavum, and interspinous ligament. (Gray's Anatomy, public domain)</figcaption>
+</figure>
+
 The major spinal ligaments can be organized by their relationship to the vertebral canal:
 
 ### Anterior Ligaments

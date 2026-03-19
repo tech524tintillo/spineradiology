@@ -6,6 +6,11 @@ The facet joints (zygapophyseal joints) are paired synovial joints formed by the
 
 ## Anatomy
 
+<figure markdown="span">
+  ![Facet joints](../assets/images/anatomy/facet-joints.png){ width="400" }
+  <figcaption>Lumbar vertebra (posterior view) showing the superior and inferior articular processes that form the facet joints. (Gray's Anatomy, public domain)</figcaption>
+</figure>
+
 ### Structure
 
 Each facet joint is a true diarthrodial (synovial) joint consisting of:

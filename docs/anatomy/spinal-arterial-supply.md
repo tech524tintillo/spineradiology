@@ -8,6 +8,11 @@ The spinal cord receives its arterial blood supply from three longitudinal arter
 
 ### Longitudinal Arteries
 
+<figure markdown="span">
+  ![Spinal arteries](../assets/images/anatomy/spinal-arteries.png){ width="400" }
+  <figcaption>The anterior and posterior spinal arteries and their segmental reinforcing branches. (Gray's Anatomy, public domain)</figcaption>
+</figure>
+
 - **Anterior spinal artery (ASA)** — a single midline vessel running in the anterior median fissure of the cord; supplies the anterior two-thirds of the cord (motor tracts, spinothalamic tracts, and the anterior horns)
 - **Posterior spinal arteries (PSA)** — paired arteries running along the posterolateral surface of the cord near the dorsal root entry zones; supply the posterior one-third (dorsal columns and posterior horns)
 

@@ -8,6 +8,11 @@ The paraspinal muscles are the deep muscles of the back that lie immediately adj
 
 ### Posterior Musculature — Erector Spinae Group
 
+<figure markdown="span">
+  ![Paraspinal muscles](../assets/images/anatomy/paraspinal-muscles.png){ width="400" }
+  <figcaption>The deep muscles of the back, including the erector spinae and transversospinales groups. (Gray's Anatomy, public domain)</figcaption>
+</figure>
+
 The erector spinae (sacrospinalis) is the largest muscle mass of the back, running from the sacrum to the skull in three columns:
 
 - **Iliocostalis** (lateral column) — attaches to the ribs and transverse processes

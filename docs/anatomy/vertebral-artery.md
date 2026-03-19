@@ -6,6 +6,11 @@ The vertebral arteries are paired vessels that ascend through the transverse for
 
 ## Anatomy
 
+<figure markdown="span">
+  ![Vertebral artery](../assets/images/anatomy/vertebral-artery.png){ width="400" }
+  <figcaption>The vertebral artery ascending through the transverse foramina of the cervical vertebrae. (Gray's Anatomy, public domain)</figcaption>
+</figure>
+
 ### Course
 
 The vertebral artery is divided into four segments:

@@ -14,12 +14,22 @@ The craniocervical junction (CCJ), also called the craniovertebral junction (CVJ
 
 ### Joints
 
+<figure markdown="span">
+  ![Craniocervical junction anterior](../assets/images/anatomy/craniocervical-anterior.png){ width="450" }
+  <figcaption>Anterior view of the atlanto-occipital and atlanto-axial joints showing the articulations between the occiput, atlas, and axis. (Gray's Anatomy, public domain)</figcaption>
+</figure>
+
 - **Atlanto-occipital joints** — paired condylar joints between the occipital condyles and the superior articular facets of C1; allow primarily **flexion and extension** ("yes" motion) and some lateral bending
 - **Atlanto-axial joints:**
     - **Median atlantoaxial joint** — between the dens of C2 and the anterior arch of C1 (anterior) and the transverse ligament (posterior)
     - **Lateral atlantoaxial joints** — paired joints between the inferior facets of C1 and the superior facets of C2; allow primarily **rotation** ("no" motion)
 
 ### Ligaments
+
+<figure markdown="span">
+  ![Craniocervical ligaments](../assets/images/anatomy/craniocervical-posterior.png){ width="450" }
+  <figcaption>Posterior view of the craniocervical ligaments including the tectorial membrane, cruciate ligament, and alar ligaments. (Gray's Anatomy, public domain)</figcaption>
+</figure>
 
 - **Transverse ligament of the atlas** — the most important stabilizer of the atlantoaxial joint; holds the dens against the anterior arch of C1; its disruption results in atlantoaxial instability
 - **Alar ligaments** — paired ligaments from the lateral dens to the occipital condyles; limit rotation and lateral bending
