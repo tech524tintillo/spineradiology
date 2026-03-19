@@ -44,6 +44,11 @@ CT is definitive for characterizing the fracture:
   <figcaption>Lateral radiograph demonstrating a hangman fracture with a fracture line through the pars interarticularis of C2 (arrow) and anterior subluxation of the C2 body on C3. (Source: Wikimedia Commons, CC BY-SA 3.0)</figcaption>
 </figure>
 
+<figure markdown="span">
+  ![Hangman fracture CT](../assets/images/trauma/hangman-fracture-ct.png){ width="500" }
+  <figcaption>Sagittal CT demonstrating a hangman fracture (traumatic spondylolisthesis of C2) with a fracture through the pars interarticularis and anterior subluxation of the C2 body on C3. (Source: Wikimedia Commons, CC BY-SA)</figcaption>
+</figure>
+
 ### MRI
 - Evaluates C2–C3 disc integrity (key for distinguishing Type I from Type II)
 - Assesses spinal cord for compression or edema

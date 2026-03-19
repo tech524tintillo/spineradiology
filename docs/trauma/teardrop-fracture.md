@@ -40,6 +40,11 @@ Flexion teardrop fractures are strongly associated with **anterior cord syndrome
 !!! tip "Clinical Pearl"
     The sagittal vertebral body fracture is a critical distinguishing feature of the flexion teardrop fracture. If you see a triangular anteroinferior fragment AND a sagittal body fracture on coronal CT, this is a flexion teardrop injury — an unstable, three-column injury — not a benign extension teardrop.
 
+<figure markdown="span">
+  ![Flexion teardrop fracture C3 CT](../assets/images/trauma/teardrop-fracture-c3-ct.png){ width="500" }
+  <figcaption>Sagittal CT demonstrating a flexion teardrop fracture of C3 (arrow) with a triangular fragment from the anteroinferior vertebral body and retropulsion into the spinal canal. (Source: Wikimedia Commons, CC BY-SA)</figcaption>
+</figure>
+
 ## Extension Teardrop Fracture
 
 ### Mechanism

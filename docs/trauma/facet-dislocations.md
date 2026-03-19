@@ -34,6 +34,11 @@ CT with sagittal and coronal reformats provides definitive characterization:
 - Associated fractures of the articular processes, lateral masses, or laminae
 - Canal compromise and retropulsed disc or bone fragments
 
+<figure markdown="span">
+  ![Cervical facet dislocation CT](../assets/images/trauma/facet-dislocation-c6c7.png){ width="500" }
+  <figcaption>CT image demonstrating a cervical facet dislocation at C6–C7 with anterior translation of the superior vertebral body. (Source: Wikimedia Commons, CC BY-SA)</figcaption>
+</figure>
+
 ### MRI
 MRI is critical before reduction is attempted:
 

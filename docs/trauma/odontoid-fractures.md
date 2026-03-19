@@ -46,8 +46,18 @@ CT with sagittal and coronal reformats is the definitive imaging study:
     Os odontoideum — a well-corticated ossicle separated from the dens by a smooth gap — must be distinguished from an acute Type II odontoid fracture. Os odontoideum has smooth, sclerotic margins and lacks surrounding edema on MRI. An acute fracture has irregular margins and shows bone marrow edema on STIR. Os odontoideum may itself cause atlantoaxial instability and requires clinical evaluation.
 
 <figure markdown="span">
-  ![C2 odontoid fracture](../assets/images/trauma/c2-odontoid-fracture.png){ width="400" }
-  <figcaption>CT image demonstrating a fracture of the odontoid process (dens) of C2. (Source: Wikimedia Commons)</figcaption>
+  ![Type II odontoid fracture CT sagittal and coronal](../assets/images/trauma/odontoid-type2-sagcor.png){ width="500" }
+  <figcaption>Coronal and sagittal CT reformats demonstrating a Type II odontoid fracture at the base of the dens (Anderson and D'Alonzo classification). (Source: Wikimedia Commons, CC BY-SA)</figcaption>
+</figure>
+
+<figure markdown="span">
+  ![Type II dens fracture marked](../assets/images/trauma/type2-dens-fracture-marked.png){ width="400" }
+  <figcaption>Sagittal CT showing a Type II dens fracture with the fracture line at the base of the odontoid process (red arrow). (Source: Wikimedia Commons, CC BY-SA)</figcaption>
+</figure>
+
+<figure markdown="span">
+  ![Type III odontoid fracture](../assets/images/trauma/odontoid-type3-marked.png){ width="400" }
+  <figcaption>Sagittal CT demonstrating a Type III odontoid fracture extending into the body of C2 (red arrows). (Source: Wikimedia Commons, CC BY-SA)</figcaption>
 </figure>
 
 ## Risk Factors for Nonunion (Type II)

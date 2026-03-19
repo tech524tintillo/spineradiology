@@ -34,6 +34,21 @@ CT is the primary modality for characterizing burst fractures:
 - **Axial images** — Sagittal (vertical) fracture line through the vertebral body (characteristic of burst mechanism), retropulsed fragments in the canal, widened interpedicular distance
 - **Coronal images** — Widened interpedicular distance (a hallmark of burst fractures), lateral displacement of pedicles
 
+<figure markdown="span">
+  ![Burst fracture L4 sagittal CT](../assets/images/trauma/burst-fracture-l4-sagittal.png){ width="400" }
+  <figcaption>Sagittal CT demonstrating an L4 burst fracture with loss of vertebral body height and retropulsion of the posterior wall into the spinal canal. (Source: Wikimedia Commons, CC BY-SA)</figcaption>
+</figure>
+
+<figure markdown="span">
+  ![Burst fracture L4 coronal CT](../assets/images/trauma/burst-fracture-l4-coronal.png){ width="400" }
+  <figcaption>Coronal CT of the same L4 burst fracture showing widened interpedicular distance and a sagittal fracture line through the vertebral body. (Source: Wikimedia Commons, CC BY-SA)</figcaption>
+</figure>
+
+<figure markdown="span">
+  ![Burst fracture L4 axial CT](../assets/images/trauma/burst-fracture-l4-axial.png){ width="400" }
+  <figcaption>Axial CT of the L4 burst fracture demonstrating comminution of the vertebral body with retropulsion of fragments into the spinal canal. (Source: Wikimedia Commons, CC BY-SA)</figcaption>
+</figure>
+
 ### Radiography
 - Loss of vertebral body height (both anterior and posterior)
 - Widened interpedicular distance on AP view (an important distinguishing feature from compression fractures)
