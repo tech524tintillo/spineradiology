@@ -16,6 +16,7 @@ Cervical vertebrae are the smallest of the mobile vertebrae and share several di
 - **Transverse foramina** — bilateral openings in the transverse processes transmitting the vertebral arteries (C1–C6)
 - **Triangular vertebral foramen** — larger than thoracic or lumbar to accommodate the cervical enlargement of the spinal cord
 
+![Cervical vertebra anatomy](../assets/images/anatomy/cervical-vertebra.png)
 
 ### Unique Vertebrae
 
