@@ -57,4 +57,4 @@ MRI is the primary modality for detecting traumatic disc herniation:
 
 - [Facet Dislocations](facet-dislocations.md)
 - [Spinal Cord Injury Imaging](spinal-cord-injury.md)
-- [Disc Herniation — Overview](../degenerative-disease/disc-herniation-overview.md)
+- [Disc Herniation — Overview](../degenerative-disease/disc-bulge-vs-herniation.md)

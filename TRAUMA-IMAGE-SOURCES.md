@@ -7,7 +7,7 @@
 - **Source:** Wikimedia Commons — `File:JeffersonBurstandT2OndontCTMark.png`
 - **URL:** https://commons.wikimedia.org/wiki/File:JeffersonBurstandT2OndontCTMark.png
 - **License:** CC BY-SA 3.0
-- **Save as:** `docs/assets/images/trauma/jefferson-fracture-ct.png`
+- **Save as:** `docs/assets/images/trauma/jefferson-fracture-ct.jpg`
 - **Caption:** Axial CT image demonstrating a Jefferson burst fracture of C1 with fractures of both the anterior and posterior arches and lateral displacement of the lateral masses. (Source: Wikimedia Commons, CC BY-SA 3.0)
 
 ### 2. Hangman Fracture Lateral Radiograph
@@ -15,7 +15,7 @@
 - **Source:** Wikimedia Commons — `File:Hangman's_fracture.JPG`
 - **URL:** https://commons.wikimedia.org/wiki/File:Hangman%27s_fracture.JPG
 - **License:** CC BY-SA 3.0
-- **Save as:** `docs/assets/images/trauma/hangman-fracture-xray.png`
+- **Save as:** `docs/assets/images/trauma/hangman-fracture-xray.jpg`
 - **Caption:** Lateral radiograph demonstrating a hangman fracture with a fracture line through the pars interarticularis of C2 (arrow) and anterior subluxation of the C2 body on C3. (Source: Wikimedia Commons, CC BY-SA 3.0)
 
 ## Images Awaiting Avery's Anonymized Cases
