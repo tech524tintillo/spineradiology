@@ -1,12 +1,22 @@
 # Vascular
 
-Spinal vascular malformations, cord infarction, and hemorrhagic conditions.
+Vascular disorders of the spine include vascular malformations, spinal cord infarction, hemorrhage, and venous congestion. These conditions often present acutely with neurological deficits and require urgent imaging for diagnosis. MRI is the primary modality, with spinal angiography remaining the gold standard for characterizing vascular malformations.
 
-## Articles in this Section
+## Vascular Malformations
 
-| Article | Description |
-|---------|-------------|
-| [Spinal Vascular Malformations Overview](vascular-malformations-overview.md) | Classification and imaging approach |
-| [Spinal Dural AVF](dural-avf.md) | Most common spinal vascular malformation |
-| [Spinal Cord Infarction](spinal-cord-infarction.md) | Ischemic injury to the spinal cord |
-| [Anterior Spinal Artery Syndrome](anterior-spinal-artery-syndrome.md) | Anterior cord ischemia |
+- [Spinal Vascular Malformations Overview](vascular-malformations-overview.md)
+- [Spinal Dural AVF](dural-avf.md)
+- [Spinal AVM](spinal-avm.md)
+- [Perimedullary AVF](perimedullary-avf.md)
+- [Cavernous Malformation](cavernous-malformation.md)
+
+## Ischemia and Infarction
+
+- [Spinal Cord Infarction](spinal-cord-infarction.md)
+- [Anterior Spinal Artery Syndrome](anterior-spinal-artery-syndrome.md)
+
+## Hemorrhage and Congestion
+
+- [Venous Congestion Myelopathy](venous-congestion-myelopathy.md)
+- [Hematomyelia](hematomyelia.md)
+- [Spinal Subarachnoid Hemorrhage](spinal-sah.md)
