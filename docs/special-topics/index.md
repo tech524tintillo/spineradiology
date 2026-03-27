@@ -1,15 +1,33 @@
 # Special Topics
 
-Imaging artifacts, spine measurements, structured reporting templates, and clinical-radiologic correlation.
+This section covers practical topics that span multiple categories — imaging artifacts and pitfalls, cystic lesions, standardized measurements, structured reporting templates, and clinical-radiological correlation for common presentations.
 
-## Articles in this Section
+## Artifacts and Pitfalls
 
-| Article | Description |
-|---------|-------------|
-| [MRI Artifacts and Pitfalls](mri-artifacts-pitfalls.md) | Common artifacts mimicking pathology |
-| [Spine Measurements](spine-measurements.md) | Key reference values and measurement techniques |
-| [Spinal Canal Diameter Normals](spinal-canal-diameter.md) | Normal canal dimensions by level |
-| [Radiculopathy — Imaging Correlation](radiculopathy.md) | Matching imaging to clinical symptoms |
-| [Myelopathy — Imaging Correlation](myelopathy.md) | Cord signal changes and clinical findings |
-| [Cauda Equina Syndrome](cauda-equina-syndrome.md) | Emergency imaging evaluation |
-| [Incidental Spine Findings](incidental-findings.md) | What to report and when |
+- [MRI Artifacts and Pitfalls](mri-artifacts-pitfalls.md)
+- [CSF Flow Artifacts](csf-flow-artifacts.md)
+- [Truncation Artifact](truncation-artifact.md)
+
+## Cystic Lesions
+
+- [Tarlov Cysts](tarlov-cysts.md)
+- [Spinal Arachnoid Cyst](arachnoid-cyst.md)
+- [Meningeal Cyst Classification](meningeal-cyst-classification.md)
+
+## Measurements and Reporting
+
+- [Spine Measurements](spine-measurements.md)
+- [Spinal Canal Diameter Normals](spinal-canal-diameter.md)
+- [Structured Reporting — Spine MRI](structured-reporting-mri.md)
+- [Structured Reporting — Spine CT](structured-reporting-ct.md)
+
+## Clinical Correlation
+
+- [Radiculopathy Imaging Correlation](radiculopathy.md)
+- [Myelopathy Imaging Correlation](myelopathy.md)
+- [Cauda Equina Syndrome](cauda-equina-syndrome.md)
+
+## Special Populations
+
+- [Pediatric Spine Imaging](pediatric-spine.md)
+- [Incidental Spine Findings](incidental-findings.md)
