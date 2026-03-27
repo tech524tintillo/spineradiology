@@ -22,6 +22,11 @@ Anterior spinal artery syndrome is the clinical manifestation of infarction in t
 - Posterior columns are spared (normal signal)
 - May span multiple vertebral segments, typically in the thoracolumbar watershed zone (T4–T8)
 
+<figure markdown="span">
+  ![Owl eyes sign anterior spinal artery syndrome](../assets/images/vascular/owl-eyes-cord-infarction.png){ width="500" }
+  <figcaption>Anterior spinal cord syndrome. Sagittal T2 showing long-segment cord hyperintensity (A) and axial T2 showing the "owl's eye sign" with bilateral anterior horn involvement (B), characteristic of anterior spinal artery territory infarction. (Source: Harada et al., J Gen Fam Med, 2018. CC BY 4.0)</figcaption>
+</figure>
+
 !!! tip "Clinical Pearl"
     Anterior spinal artery syndrome must be distinguished from other causes of acute myelopathy — particularly transverse myelitis and cord compression. The key MRI clue is the **anterior two-thirds distribution** with posterior column sparing. On axial images, this creates a characteristic "pencil-shaped" or crescent-shaped T2 hyperintensity in the anterior cord, distinct from the central cord involvement of transverse myelitis or the dorsal column involvement of B12 deficiency.
 

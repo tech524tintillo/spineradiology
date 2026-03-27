@@ -22,6 +22,11 @@ Paget disease (osteitis deformans) is a chronic disorder of bone remodeling char
 ### Nuclear Medicine
 - Bone scan shows intensely increased uptake in affected vertebrae — very sensitive for detecting polyostotic involvement
 
+<figure markdown="span">
+  ![Paget disease CT and MRI](../assets/images/metabolic-systemic/paget-disease-ct-mri.png){ width="500" }
+  <figcaption>Paget disease of L4. (A) Sagittal CT showing an enlarged, squared vertebral body with cortical thickening and coarsened trabeculae. (B) Axial CT showing sclerotic remodeling extending into the pedicles and neural arch. (C-D) Sagittal T1 and T2 MRI showing heterogeneous marrow signal with enlargement. (Source: PMC9953426, Biomedicines, 2023. CC BY 4.0)</figcaption>
+</figure>
+
 !!! tip "Clinical Pearl"
     The key distinction between an **ivory vertebra from Paget disease vs blastic metastasis**: Paget disease **enlarges** the vertebral body (expanded in AP and transverse dimensions), while metastasis does not change vertebral body size. On CT, Paget shows cortical thickening ("picture frame"), while blastic metastasis shows diffuse sclerosis without cortical thickening. Also check the pedicles — in Paget, the pedicles and posterior elements are often involved and enlarged.
 

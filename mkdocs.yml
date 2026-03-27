@@ -42,6 +42,7 @@ plugins:
   - search:
       separator: '[\s\-\.]+'
   - tags
+  - glightbox
 
 markdown_extensions:
   - admonition

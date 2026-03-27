@@ -28,6 +28,11 @@ Spinal cord infarction results from interruption of the arterial blood supply to
 - Usually normal in the acute phase
 - CT angiography may identify the underlying vascular cause (aortic dissection, thrombosis)
 
+<figure markdown="span">
+  ![Owl eyes sign spinal cord infarction](../assets/images/vascular/owl-eyes-cord-infarction.png){ width="500" }
+  <figcaption>Anterior spinal artery infarction. (A) Sagittal T2 MRI showing long-segment hyperintensity extending from T5 to T10 in the anterior cord. (B) Axial T2 showing the classic "owl's eye sign" — bilateral symmetric hyperintensity in the anterior horns. (Source: Harada et al., J Gen Fam Med, 2018. CC BY 4.0)</figcaption>
+</figure>
+
 !!! tip "Clinical Pearl"
     The **"owl eyes" sign** — bilateral symmetric T2 hyperintensity in the anterior horns on axial MRI — is highly characteristic of anterior spinal artery infarction. Concurrent **vertebral body marrow edema** on STIR at the same level further supports the diagnosis, as the segmental arteries supply both the cord and the vertebral body. DWI showing restricted diffusion in the cord is the earliest finding, just as in brain infarction.
 
