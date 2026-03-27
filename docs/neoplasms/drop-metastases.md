@@ -37,6 +37,11 @@ Drop metastases (leptomeningeal carcinomatosis or leptomeningeal metastases) ref
 !!! tip "Clinical Pearl"
     **Post-contrast T1 with fat saturation of the entire spine** is the essential sequence for detecting drop metastases. Pre-contrast T1 should also be obtained to avoid confusing pre-existing T1-bright substances (fat, blood products) with enhancement. In patients with medulloblastoma, ependymoma, or other tumors prone to CSF dissemination, whole-spine post-contrast MRI is part of standard staging.
 
+<figure markdown="span">
+  ![Ependymoma with drop metastases](../assets/images/neoplasms/ependymoma-drop-mets.png){ width="500" }
+  <figcaption>MYCN-amplified spinal ependymoma with leptomeningeal spread. Post-contrast MRI showing multiple enhancing nodules in the posterior fossa, cervical cord, and cauda equina consistent with drop metastases. (Source: Defined et al., Front Pediatr, 2023. CC BY 4.0)</figcaption>
+</figure>
+
 ## Clinical Significance
 
 Drop metastases change staging and treatment. Their presence typically upstages the primary tumor and affects the radiation treatment plan — craniospinal irradiation may be indicated when drop metastases are identified.

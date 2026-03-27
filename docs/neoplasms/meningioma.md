@@ -22,6 +22,21 @@ Meningioma is a benign tumor arising from arachnoid cap cells of the meninges. S
 - No foraminal widening (unlike schwannoma)
 - CT myelography shows intradural filling defect
 
+<figure markdown="span">
+  ![Thoracic spinal meningioma MRI](../assets/images/neoplasms/spinal-meningioma-mri.png){ width="500" }
+  <figcaption>Thoracic spinal meningioma at T7–T8. Sagittal and axial T1 post-contrast MRI showing a homogeneously enhancing intradural extramedullary mass with ventral displacement and compression of the spinal cord. (Source: PMC11011121, Medicina, 2024. CC BY 4.0)</figcaption>
+</figure>
+
+<figure markdown="span">
+  ![Cervical spinal meningioma MRI](../assets/images/neoplasms/meningioma-cervical-mri.png){ width="500" }
+  <figcaption>Cervical spinal meningioma at C4–C6. Sagittal and axial T1 post-contrast and T2-weighted MRI showing a ventrolateral enhancing mass with extension into the neural foramen. (Source: PMC11011121, Medicina, 2024. CC BY 4.0)</figcaption>
+</figure>
+
+<figure markdown="span">
+  ![Meningioma with dural tail sign](../assets/images/neoplasms/meningioma-dural-tail-mri.png){ width="500" }
+  <figcaption>Spinal meningioma at T12. T2-weighted and post-contrast T1-weighted MRI showing the dural tail sign — linear enhancement of the dura extending from the tumor margins (arrows). (Source: Yoo et al., PLoS ONE, 2020. CC BY 4.0)</figcaption>
+</figure>
+
 ## Distinguishing from Schwannoma
 
 | Feature | Meningioma | Schwannoma |

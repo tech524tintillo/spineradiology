@@ -23,6 +23,11 @@ Schwannoma (neurilemmoma) is a benign nerve sheath tumor arising from Schwann ce
 !!! tip "Clinical Pearl"
     The key MRI features distinguishing schwannoma from meningioma (the two most common intradural extramedullary tumors): Schwannomas arise from a nerve root (eccentric, may extend through the foramen as a dumbbell), are T2-hyperintense, and may be cystic. Meningiomas are dura-based (broad dural attachment), have a "dural tail" sign, and are more common in the thoracic spine in middle-aged women.
 
+<figure markdown="span">
+  ![Spinal schwannoma with cystic change](../assets/images/neoplasms/schwannoma-mri-cystic.png){ width="500" }
+  <figcaption>Spinal schwannoma at L4. Sagittal and axial T2-weighted images showing an intradural extramedullary mass with cystic change (arrows). Post-contrast T1 images show enhancement with non-enhancing cystic portions. (Source: Yoo et al., PLoS ONE, 2020. CC BY 4.0)</figcaption>
+</figure>
+
 ## Multiple Schwannomas
 
 Multiple spinal schwannomas should raise concern for **schwannomatosis** or **neurofibromatosis type 2 (NF2)**. NF2 is associated with bilateral vestibular schwannomas, multiple spinal schwannomas, and meningiomas.

@@ -22,6 +22,11 @@ Ependymoma is the most common intramedullary spinal cord tumor in adults, arisin
 !!! tip "Clinical Pearl"
     The **hemosiderin cap** — a rim of T2-dark signal (GRE/SWI accentuated) at the poles of an intramedullary tumor — is highly suggestive of ependymoma. It results from the tumor's tendency to bleed at its margins. Combined with central cord location, well-defined margins, and homogeneous enhancement, this is a near-pathognomonic combination.
 
+<figure markdown="span">
+  ![Spinal ependymoma MRI](../assets/images/neoplasms/spinal-ependymoma-mri.png){ width="500" }
+  <figcaption>Cervical spinal cord ependymoma in a 17-year-old with NF2. Sagittal T2-weighted images showing cystic areas, with post-contrast images demonstrating enhancement of the solid tumor components and expansion of the cervical cord. (Source: Defined et al., Front Pediatr, 2023. CC BY 4.0)</figcaption>
+</figure>
+
 ## Subtypes
 
 - **Cellular ependymoma (WHO grade II)** — The most common subtype in the cervical cord
