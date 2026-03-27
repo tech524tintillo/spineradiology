@@ -50,4 +50,4 @@ A variant involving the thoracolumbar junction or lumbar spine, characterized by
 ## Related Articles
 
 - [Schmorl Nodes](../degenerative-disease/schmorl-nodes.md)
-- [Thoracic Spine](../anatomy/thoracic-spine.md)
+- [Thoracic Spine](../anatomy/thoracic-vertebrae.md)

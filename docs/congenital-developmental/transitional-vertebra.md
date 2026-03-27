@@ -47,4 +47,4 @@ The most important clinical implication of LSTVs is **vertebral numbering confus
 ## Related Articles
 
 - [Vertebral Column Overview](../anatomy/vertebral-column-overview.md)
-- [Lumbar Spine](../anatomy/lumbar-spine.md)
+- [Lumbar Spine](../anatomy/lumbar-vertebrae.md)
