@@ -1,15 +1,35 @@
 # Congenital / Developmental
 
-Spinal dysraphism, segmentation anomalies, Chiari malformations, and developmental spinal conditions.
+Congenital and developmental abnormalities of the spine encompass a wide spectrum of conditions ranging from incidental segmentation anomalies to complex spinal dysraphisms with significant neurological implications. These conditions result from errors during embryological development of the vertebral column, spinal cord, and surrounding structures.
 
-## Articles in this Section
+This section covers spinal dysraphisms (open and closed), craniocervical junction anomalies, segmentation anomalies, and developmental disorders of the vertebral bodies.
 
-| Article | Description |
-|---------|-------------|
-| [Spinal Dysraphism Overview](spinal-dysraphism.md) | Classification of neural tube defects |
-| [Myelomeningocele](myelomeningocele.md) | Open spinal dysraphism |
-| [Tethered Cord Syndrome](tethered-cord.md) | Low-lying conus with tethering |
-| [Chiari I Malformation](chiari-i.md) | Tonsillar ectopia and associated findings |
-| [Syringomyelia](syringomyelia.md) | Spinal cord cavitation |
-| [Transitional Vertebra](transitional-vertebra.md) | Lumbosacral transitional anatomy |
-| [Scheuermann Disease](scheuermann-disease.md) | Developmental kyphosis |
+## Spinal Dysraphism
+
+- [Spinal Dysraphism Overview](spinal-dysraphism.md)
+- [Spina Bifida Occulta](spina-bifida-occulta.md)
+- [Meningocele](meningocele.md)
+- [Myelomeningocele](myelomeningocele.md)
+- [Tethered Cord Syndrome](tethered-cord.md)
+- [Diastematomyelia](diastematomyelia.md)
+- [Dermal Sinus Tract](dermal-sinus-tract.md)
+- [Lipomyelomeningocele](lipomyelomeningocele.md)
+- [Caudal Regression Syndrome](caudal-regression.md)
+
+## Craniocervical and Upper Cervical Anomalies
+
+- [Chiari I Malformation](chiari-i.md)
+- [Syringomyelia](syringomyelia.md)
+- [Klippel-Feil Syndrome](klippel-feil.md)
+- [Os Odontoideum](os-odontoideum.md)
+
+## Segmentation and Formation Anomalies
+
+- [Block Vertebra](block-vertebra.md)
+- [Butterfly Vertebra](butterfly-vertebra.md)
+- [Hemivertebra](hemivertebra.md)
+- [Transitional Vertebra](transitional-vertebra.md)
+
+## Developmental Disorders
+
+- [Scheuermann Disease](scheuermann-disease.md)
