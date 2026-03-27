@@ -1,14 +1,26 @@
 # Infection
 
-Spondylodiscitis, vertebral osteomyelitis, epidural abscess, spinal tuberculosis, and post-operative infection.
+Spinal infections encompass a spectrum of bacterial, mycobacterial, fungal, and parasitic diseases that can involve the vertebral bodies, intervertebral discs, epidural space, and spinal cord. Early diagnosis is critical because delayed treatment can lead to irreversible neurological injury, spinal instability, and sepsis.
 
-## Articles in this Section
+MRI with contrast is the imaging modality of choice for suspected spinal infection, offering superior sensitivity for detecting early disease, epidural extension, and spinal cord compromise. This section covers the major types of spinal infection, their characteristic imaging features, and key differential diagnostic considerations.
 
-| Article | Description |
-|---------|-------------|
-| [Spinal Infection Overview](spinal-infection-overview.md) | Imaging approach to spinal infection |
-| [Pyogenic Spondylodiscitis](pyogenic-spondylodiscitis.md) | Bacterial disc and vertebral infection |
-| [Vertebral Osteomyelitis](vertebral-osteomyelitis.md) | Vertebral body infection |
-| [Epidural Abscess](epidural-abscess.md) | Epidural space infection |
-| [Spinal Tuberculosis](spinal-tuberculosis.md) | Pott disease |
-| [Infection vs Tumor](infection-vs-tumor.md) | Key differentiating imaging features |
+## Overview
+
+- [Spinal Infection Overview](spinal-infection-overview.md)
+
+## Specific Infections
+
+- [Pyogenic Spondylodiscitis](pyogenic-spondylodiscitis.md)
+- [Vertebral Osteomyelitis](vertebral-osteomyelitis.md)
+- [Epidural Abscess](epidural-abscess.md)
+- [Spinal Tuberculosis](spinal-tuberculosis.md)
+- [Brucella Spondylitis](brucella-spondylitis.md)
+- [Fungal Spinal Infection](fungal-infection.md)
+- [Post-Operative Spinal Infection](post-operative-infection.md)
+- [Paravertebral Abscess](paravertebral-abscess.md)
+- [Discitis in Children](discitis-children.md)
+- [Spinal Subdural Empyema](subdural-empyema.md)
+
+## Differential Diagnosis
+
+- [Infection vs Tumor](infection-vs-tumor.md)
