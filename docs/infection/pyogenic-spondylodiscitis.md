@@ -18,6 +18,11 @@ In children, the disc retains its blood supply until approximately age 8, allowi
 - **Post-contrast** — Enhancement of the disc, vertebral endplates, and surrounding tissues. Look for epidural enhancement or abscess.
 - **Endplate destruction** — Irregular, eroded endplates with loss of the normal cortical line
 
+<figure markdown="span">
+  ![Pyogenic spondylodiscitis MRI](../assets/images/infection/pyogenic-spondylodiscitis-mri.png){ width="500" }
+  <figcaption>Pyogenic spondylodiscitis of L2–L3. Sagittal T1 (A) and post-contrast T1 (B) MRI showing disc signal alteration, endplate erosions, and diffuse vertebral body enhancement. (Source: PMC11123694, Diagnostics, 2024. CC BY 4.0)</figcaption>
+</figure>
+
 ### CT
 - Endplate erosion and irregularity
 - Disc space narrowing

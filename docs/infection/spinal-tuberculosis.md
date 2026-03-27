@@ -35,6 +35,11 @@ Spinal tuberculosis (Pott disease) is infection of the spine by Mycobacterium tu
 !!! tip "Clinical Pearl"
     The triad of **anterior vertebral body destruction + large paravertebral abscess + relative disc preservation** is highly suggestive of spinal tuberculosis rather than pyogenic infection. The paravertebral abscess is often described as a "cold abscess" because it forms without the acute inflammatory signs typical of pyogenic infection. Calcification within a paravertebral abscess is another clue to TB.
 
+<figure markdown="span">
+  ![Spinal tuberculosis MRI and CT](../assets/images/infection/spinal-tuberculosis-mri.png){ width="500" }
+  <figcaption>Tubercular spondylodiscitis. Axial and coronal STIR, axial T1 post-contrast, and sagittal CT showing vertebral body destruction with bilateral psoas abscesses (arrows). (Source: PMC11591932, Biomedicines, 2024. CC BY 4.0)</figcaption>
+</figure>
+
 ## Epidemiology
 
 - Most common in the thoracic and thoracolumbar spine

@@ -20,6 +20,11 @@ A paravertebral abscess is a collection of purulent material in the paraspinal s
 - CT is excellent for guiding percutaneous drainage
 - Calcification within the abscess wall suggests chronic infection (tuberculosis)
 
+<figure markdown="span">
+  ![E. coli spondylodiscitis with paravertebral involvement](../assets/images/infection/ecoli-spondylodiscitis-mri.png){ width="500" }
+  <figcaption>E. coli spondylodiscitis. Sagittal T2 and T1 post-contrast MRI showing vertebral body collapse, endplate destruction, and paravertebral soft tissue enhancement with epidural extension. (Source: PMC11591932, Biomedicines, 2024. CC BY 4.0)</figcaption>
+</figure>
+
 ### Psoas Abscess
 
 The psoas muscle runs from T12 to the lesser trochanter of the femur, providing a pathway for infection to track distally:

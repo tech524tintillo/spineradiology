@@ -29,6 +29,11 @@ A spinal epidural abscess (SEA) is a collection of purulent material in the epid
 !!! tip "Clinical Pearl"
     The classic clinical triad of spinal epidural abscess is **fever, back pain, and neurological deficit** — but all three are present in only a minority of patients at initial presentation. The neurological deterioration can progress rapidly from radiculopathy to paraplegia within hours. A high index of suspicion in patients with risk factors (IVDU, diabetes, recent spinal procedure) and urgent MRI are essential. **Rim enhancement** on post-contrast MRI distinguishes a drainable abscess from phlegmon (diffuse enhancement without a drainable collection).
 
+<figure markdown="span">
+  ![Spondylodiscitis with epidural involvement](../assets/images/infection/spondylodiscitis-epidural-mri.png){ width="500" }
+  <figcaption>Pyogenic spondylodiscitis with epidural extension. T2-weighted and post-contrast T1 MRI showing marrow edema, endplate destruction, disc involvement, and epidural enhancement with cord compression. (Source: PMC11591932, Biomedicines, 2024. CC BY 4.0)</figcaption>
+</figure>
+
 ## Stages
 
 1. **Phlegmon** — Early inflammatory stage without a drainable collection. MRI shows diffuse epidural enhancement without a rim-enhancing cavity. May respond to antibiotics alone.
