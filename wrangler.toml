@@ -1,0 +1,9 @@
+name = "spineradiology"
+account_id = "47adacb7e3343ef9017aa676334f3244"
+compatibility_date = "2026-04-02"
+preview_urls = false
+
+[assets]
+directory = "./site"
+html_handling = "auto-trailing-slash"
+not_found_handling = "404-page"
