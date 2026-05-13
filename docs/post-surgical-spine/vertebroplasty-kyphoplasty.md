@@ -38,6 +38,15 @@ Vertebroplasty and kyphoplasty are minimally invasive percutaneous procedures fo
 - Pulmonary cement embolism is a rare but serious complication
 - Adjacent-level fracture is a recognized long-term complication
 
+## References
+
+1. Gaillard F, et al. Vertebroplasty and kyphoplasty. Radiopaedia.org. Available from: https://radiopaedia.org/articles/vertebroplasty-and-kyphoplasty
+2. Margetis K, Patel A, Petrone B, Carter KR. Percutaneous Vertebroplasty and Kyphoplasty. In: StatPearls. Treasure Island (FL): StatPearls Publishing; 2026. Available from: https://www.ncbi.nlm.nih.gov/books/NBK525963/
+3. Clark W, Bird P, Gonski P, Diamond TH, Smerdely P, McNeil HP, et al. Safety and efficacy of vertebroplasty for acute painful osteoporotic fractures (VAPOUR): a multicentre, randomised, double-blind, placebo-controlled trial. Lancet. 2016;388(10052):1408-1416. PMID: 27544377.
+4. Klazen CAH, Lohle PNM, de Vries J, Jansen FH, Tielbeek AV, Blonk MC, et al. Vertebroplasty versus conservative treatment in acute osteoporotic vertebral compression fractures (Vertos II): an open-label randomised trial. Lancet. 2010;376(9746):1085-1092. PMID: 20701962.
+5. Firanescu CE, de Vries J, Lodder P, Venmans A, Schoemaker MC, Smeets AJ, et al. Vertebroplasty versus sham procedure for painful acute osteoporotic vertebral compression fractures (VERTOS IV): randomised sham controlled clinical trial. BMJ. 2018;361:k1551. PMID: 29743284.
+6. Expert Panels on Neurological Imaging, Interventional Radiology, and Musculoskeletal Imaging; Khan MA, Jennings JW, Baker JC, et al. ACR Appropriateness Criteria® Management of Vertebral Compression Fractures: 2022 Update. J Am Coll Radiol. 2023;20(5S):S102-S124. PMID: 37236738.
+
 ## Related Articles
 
 - [Osteoporotic Compression Fractures](../metabolic-systemic/osteoporotic-compression-fractures.md)

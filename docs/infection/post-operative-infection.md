@@ -58,6 +58,16 @@ Post-operative imaging interpretation is complicated by normal surgical changes:
 - Biofilm on instrumentation is a major challenge requiring surgical debridement
 - Risk increases with instrumentation, diabetes, obesity, and immunosuppression
 
+## References
+
+1. Hong SH, Choi JY, Lee JW, Kim NR, Choi JA, Kang HS. MR imaging assessment of the spine: infection or an imitation? *RadioGraphics.* 2009;29(2):599-612. <https://pubs.rsna.org/doi/10.1148/rg.292085137>
+2. Kim SJ, Lee SH, Chung HW, Lee MH, Shin MJ, Park SW. Magnetic resonance imaging patterns of post-operative spinal infection: relationship between the clinical onset of infection and the infection site. *J Korean Neurosurg Soc.* 2017;60(4):448-455. <https://pmc.ncbi.nlm.nih.gov/articles/PMC5544379/>
+3. Dowdell J, Brochin R, Kim J, Overley S, Oren J, Freedman B, Cho S. Postoperative spine infection: diagnosis and management. *Global Spine J.* 2018;8(4 Suppl):37S-43S. <https://pmc.ncbi.nlm.nih.gov/articles/PMC6295816/>
+4. Corona-Cedillo R, Saavedra-Navarrete MT, Espinoza-Garcia JJ, Mendoza-Aguilar AN, Ternovoy SK, Roldan-Valadez E. Imaging assessment of the postoperative spine: an updated pictorial review of selected complications. *Biomed Res Int.* 2021;2021:9940001. <https://pmc.ncbi.nlm.nih.gov/articles/PMC8154286/>
+5. Parchi PD, Evangelisti G, Andreani L, Girardi F, Lebl D, Sama A, Lisanti M. Postoperative spine infections. *Orthop Rev (Pavia).* 2015;7(3):5900. <https://pmc.ncbi.nlm.nih.gov/articles/PMC4592931/>
+6. Expert Panel on Neurological Imaging, Ortiz AO, Levitt A, Shah LM, et al. ACR Appropriateness Criteria® Suspected Spine Infection. *J Am Coll Radiol.* 2021;18(11S):S488-S501. <https://pubmed.ncbi.nlm.nih.gov/34794603/>
+7. Spondylodiscitis. *Radiopaedia.org.* <https://radiopaedia.org/articles/spondylodiscitis>
+
 ## Related Articles
 
 - [Epidural Abscess](epidural-abscess.md)

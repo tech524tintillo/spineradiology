@@ -94,6 +94,16 @@ When MRI is contraindicated, CT myelography demonstrates:
 - Cauda equina syndrome is a surgical emergency
 - MRI is the imaging standard for both the conus and cauda equina
 
+## References
+
+1. Saifuddin A, Burnett SJ, White J. The variation of position of the conus medullaris in an adult population. A magnetic resonance imaging study. Spine (Phila Pa 1976). 1998;23(13):1452-6. Available from: https://pubmed.ncbi.nlm.nih.gov/9670396/
+2. Nene Y, Jilani TN. Neuroanatomy, Conus Medullaris. In: StatPearls. Treasure Island (FL): StatPearls Publishing; 2023. Available from: https://www.ncbi.nlm.nih.gov/books/NBK545227/
+3. Berg EJ, Ashurst JV. Anatomy, Back, Cauda Equina. In: StatPearls. Treasure Island (FL): StatPearls Publishing; 2023. Available from: https://www.ncbi.nlm.nih.gov/books/NBK513251/
+4. Moon MS, Jeong JH, Kim SJ, Kim MS, Choi WR. Magnetic Resonance Imaging Observations of the Conus Medullaris in a Korean Population. Asian Spine J. 2019;13(2):313-7. Available from: https://pmc.ncbi.nlm.nih.gov/articles/PMC6454280/
+5. Otto N, Kucera J, Hayes LL, Chandra T. Tethered Cord Syndrome: Role of Imaging Findings in Surgical Decision-Making. Cureus. 2023;15(9):e44854. Available from: https://pmc.ncbi.nlm.nih.gov/articles/PMC10560071/
+6. Saker E, Henry BM, Tomaszewski KA, Loukas M, Iwanaga J, Oskouian RJ, Tubbs RS. The filum terminale internum and externum: A comprehensive review. J Clin Neurosci. 2017;40:6-13. Available from: https://pubmed.ncbi.nlm.nih.gov/28087185/
+7. Conus medullaris. Radiopaedia.org. Available from: https://radiopaedia.org/articles/conus-medullaris
+
 ## Related Articles
 
 - [Spinal Cord](spinal-cord.md)

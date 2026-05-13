@@ -90,6 +90,15 @@ The AO Spine group has also developed specific classification systems for the cr
 - CT is essential for morphological classification; MRI is required for PLC assessment
 - Specific AO Spine classification systems exist for the upper cervical spine (C0–C2) and subaxial cervical spine (C3–C7)
 
+## References
+
+1. Vaccaro AR, Oner C, Kepler CK, et al. AOSpine thoracolumbar spine injury classification system: fracture description, neurological status, and key modifiers. Spine (Phila Pa 1976). 2013;38(23):2028-37. Available from: https://pubmed.ncbi.nlm.nih.gov/23970107/
+2. Vaccaro AR, Koerner JD, Radcliff KE, et al. AOSpine subaxial cervical spine injury classification system. Eur Spine J. 2016;25(7):2173-84. Available from: https://pubmed.ncbi.nlm.nih.gov/25716661/
+3. Kepler CK, Vaccaro AR, Schroeder GD, et al. The Thoracolumbar AOSpine Injury Score. Global Spine J. 2016;6(4):329-34. Available from: https://pubmed.ncbi.nlm.nih.gov/27190734/
+4. Vaccaro AR, Schroeder GD, Kepler CK, et al. The surgical algorithm for the AOSpine thoracolumbar spine injury classification system. Eur Spine J. 2016;25(4):1087-94. Available from: https://pubmed.ncbi.nlm.nih.gov/25953527/
+5. Vaccaro AR, Lambrechts MJ, Karamian BA, et al. AO Spine upper cervical injury classification system: a description and reliability study. Spine J. 2022;22(12):2042-9. Available from: https://pubmed.ncbi.nlm.nih.gov/35964830/
+6. AO Spine classification of thoracolumbar injuries. Radiopaedia. Available from: https://radiopaedia.org/articles/ao-spine-classification-of-thoracolumbar-injuries-1
+
 ## Related Articles
 
 - [Denis Three-Column Model](denis-three-column.md)

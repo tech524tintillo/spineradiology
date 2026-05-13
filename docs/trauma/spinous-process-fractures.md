@@ -45,6 +45,15 @@ Isolated spinous process fractures are stable and treated conservatively with an
 - Always evaluate for associated injuries — a spinous process fracture may be the visible tip of a larger flexion-distraction injury
 - Treatment is conservative with excellent prognosis
 
+## References
+
+1. Gaillard F, et al. Clay-shoveler fracture. Radiopaedia.org. https://radiopaedia.org/articles/clay-shoveler-fracture-2
+2. Altunrende ME, Ekin EE. Traumatic isolated spinous process fractures. Ulus Travma Acil Cerrahi Derg (Turkish Journal of Trauma & Emergency Surgery). 2025. https://pmc.ncbi.nlm.nih.gov/articles/PMC12000981/
+3. Vu C, Gendelberg D. Classifications in Brief: AO Thoracolumbar Classification System. Clin Orthop Relat Res. 2020;478(2):434-440. https://pmc.ncbi.nlm.nih.gov/articles/PMC7438146/
+4. Han SR, Sohn MJ. Twelve Contiguous Spinous Process Fracture of Cervico-Thoracic Spine. Korean Journal of Spine. 2014. https://pmc.ncbi.nlm.nih.gov/articles/PMC4206959/
+5. Clay-Shoveler Fracture (Cervical Spinous Process Fractures). Orthobullets. https://www.orthobullets.com/spine/12284/clay-shoveler-fracture-cervical-spinous-process-fractures
+6. AO Spine Classification of Thoracolumbar Fractures. The Radiology Assistant. https://radiologyassistant.nl/musculoskeletal/spine/ao-classification
+
 ## Related Articles
 
 - [Clay Shoveler Fracture](clay-shoveler-fracture.md)

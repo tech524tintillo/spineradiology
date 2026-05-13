@@ -29,6 +29,17 @@ Hyperparathyroidism causes excessive parathyroid hormone (PTH) secretion, leadin
 - Compression fractures occur from weakened bone
 - Check serum calcium, phosphate, and PTH levels
 
+## References
+
+1. Vilanilam GK, Nikpanah M, Vo CD, Kearns C. Osteitis Fibrosa Cystica: Brown Tumors of Hyperparathyroidism and End-Stage Renal Disease. *RadioGraphics.* 2023;43(5):e220211. <https://pubmed.ncbi.nlm.nih.gov/37079460/>
+2. Chang CY, Rosenthal DI, Mitchell DM, Handa A, Kattapuram SV, Huang AJ. Imaging Findings of Metabolic Bone Disease. *RadioGraphics.* 2016;36(6):1871-1887. <https://pubmed.ncbi.nlm.nih.gov/27726750/>
+3. Bennett J, Suliburk JW, Morón FE. Osseous Manifestations of Primary Hyperparathyroidism: Imaging Findings. *Int J Endocrinol.* 2020;2020:3146535. <https://pmc.ncbi.nlm.nih.gov/articles/PMC7054819/>
+4. Wittenberg A. The rugger jersey spine sign. *Radiology.* 2004;230(2):491-492. <https://pubmed.ncbi.nlm.nih.gov/14752190/>
+5. Helbing A, Leslie SW, Levine SN. Primary Hyperparathyroidism. In: *StatPearls.* Treasure Island (FL): StatPearls Publishing; updated 2026 Jan 31. <https://www.ncbi.nlm.nih.gov/books/NBK441895/>
+6. Muppidi V, Meegada SR, Rehman A. Secondary Hyperparathyroidism. In: *StatPearls.* Treasure Island (FL): StatPearls Publishing; updated 2023 Aug 28. <https://www.ncbi.nlm.nih.gov/books/NBK557822/>
+7. Rugger jersey spine (hyperparathyroidism). *Radiopaedia.org.* <https://radiopaedia.org/articles/rugger-jersey-spine-hyperparathyroidism-1>
+8. Zander D, Bunch PM, Policeni B, et al. ACR Appropriateness Criteria® Parathyroid Adenoma. *J Am Coll Radiol.* 2021;18(11S):S406-S422. <https://pubmed.ncbi.nlm.nih.gov/34794597/>
+
 ## Related Articles
 
 - [Renal Osteodystrophy](renal-osteodystrophy.md)

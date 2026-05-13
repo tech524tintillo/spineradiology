@@ -53,6 +53,16 @@ MRI is the primary modality for detecting traumatic disc herniation:
 - Pre-reduction MRI is recommended for cervical facet dislocations to identify disc herniations that could worsen cord injury during reduction
 - Surgical discectomy is indicated when there is significant cord or cauda equina compression
 
+## References
+
+1. Doran SE, Papadopoulos SM, Ducker TB, Lillehei KO. Magnetic resonance imaging documentation of coexistent traumatic locked facets of the cervical spine and disc herniation. *J Neurosurg.* 1993;79(3):341-345. [https://pubmed.ncbi.nlm.nih.gov/8360729/](https://pubmed.ncbi.nlm.nih.gov/8360729/)
+2. Botolin S, VanderHeiden TF, Moore EE, Fried H, Stahel PF. The role of pre-reduction MRI in the management of complex cervical spine fracture-dislocations: an ongoing controversy? *Patient Saf Surg.* 2017;11:23. [https://pmc.ncbi.nlm.nih.gov/articles/PMC5591568/](https://pmc.ncbi.nlm.nih.gov/articles/PMC5591568/)
+3. Onishi FJ, Daniel JW, Joaquim AF, et al. The impact of traumatic herniated discs in cervical facets dislocations treatments: systematic review and meta-analysis. *Eur Spine J.* 2022;31(10):2664-2674. [https://pubmed.ncbi.nlm.nih.gov/35763222/](https://pubmed.ncbi.nlm.nih.gov/35763222/)
+4. Song J, Oh JYL. Traumatic intradural disc herniation following a cervical facet dislocation: a case report. *J Spine Surg.* 2022;8(1):76-83. [https://pmc.ncbi.nlm.nih.gov/articles/PMC8990393/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8990393/)
+5. Mubark I, Abouelela A, Hassan M, Genena A, Ashwood N. Sub-axial cervical facet dislocation: a review of current concepts. *Cureus.* 2021;13(1):e12581. [https://pmc.ncbi.nlm.nih.gov/articles/PMC7870112/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7870112/)
+6. Liu K, Zhang Z. Reduction of lower cervical facet dislocation: a review of all techniques. *Neurospine.* 2023;20(1):181-204. [https://pmc.ncbi.nlm.nih.gov/articles/PMC10080426/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10080426/)
+7. Discoligamentous injury. *Radiopaedia.org.* [https://radiopaedia.org/articles/discoligamentous-injury-1](https://radiopaedia.org/articles/discoligamentous-injury-1)
+
 ## Related Articles
 
 - [Facet Dislocations](facet-dislocations.md)

@@ -67,6 +67,15 @@ Positron emission tomography/computed tomography (PET/CT) combines functional me
 - SUV quantification provides objective assessment of metabolic activity
 - False positives from infection, inflammation, and post-treatment changes limit specificity
 
+## References
+
+1. Patel PY, Dalal I, Griffith B. [18F]FDG-PET evaluation of spinal pathology in patients in oncology: pearls and pitfalls for the neuroradiologist. AJNR Am J Neuroradiol. 2022;43(3):332-340. https://pmc.ncbi.nlm.nih.gov/articles/PMC8910786/
+2. Cheung H, Yechoor A, Behnia F, Behrad Abadi A, Khodarahmi I, Soltanolkotabi M, Shafiei M, Chalian M. Common skeletal neoplasms and nonneoplastic lesions at 18F-FDG PET/CT. RadioGraphics. 2022;42(1):250-267. https://pubmed.ncbi.nlm.nih.gov/34919467/
+3. Panagiotidis E, Lam K, Mistry A, Seshadri N, Vinjamuri S. Skeletal metastases and benign mimics on NaF PET/CT: a pictorial review. AJR Am J Roentgenol. 2018;211(1):W64-W74. https://pubmed.ncbi.nlm.nih.gov/29702023/
+4. Farolfi A, Calderoni L, Mattana F, Mei R, Telo S, Fanti S, Castellucci P. Current and emerging clinical applications of PSMA PET diagnostic imaging for prostate cancer. J Nucl Med. 2021;62(5):596-604. https://pubmed.ncbi.nlm.nih.gov/33712536/
+5. Sanli Y, Garg I, Kandathil A, Kendi T, Zanetti MJB, Kuyumcu S, Subramaniam RM. Neuroendocrine tumor diagnosis and management: 68Ga-DOTATATE PET/CT. AJR Am J Roentgenol. 2018;211(2):267-277. https://pubmed.ncbi.nlm.nih.gov/29975116/
+6. Prodromou ML, Ziakas PD, Poulou LS, Karsaliakos P, Thanos L, Mylonakis E. FDG PET is a robust tool for the diagnosis of spondylodiscitis: a meta-analysis of diagnostic data. Clin Nucl Med. 2014;39(4):330-335. https://pubmed.ncbi.nlm.nih.gov/24445277/
+
 ## Related Articles
 
 - [Nuclear Medicine — Bone Scan](bone-scan.md)

@@ -81,6 +81,17 @@ Ultrasound is the first-line screening study in neonates with cutaneous markers 
 - Cutaneous markers (deep dimple, hairy patch, lipoma, dermal sinus) warrant screening
 - Abnormal findings require MRI for confirmation and surgical planning
 
+## References
+
+1. Inarejos Clemente EJ, Navallas Irujo M, Navarro OM, Salas Flores B, Sousa Cacheiro P, Ladera E, et al. US of the spine in neonates and infants: a practical guide. RadioGraphics. 2023;43(6):e220136. doi:10.1148/rg.220136.
+2. Lowe LH, Johanek AJ, Moore CW. Sonography of the neonatal spine: part 1, normal anatomy, imaging pitfalls, and variations that may simulate disorders. AJR Am J Roentgenol. 2007;188(3):733–738. doi:10.2214/AJR.05.2159.
+3. Lowe LH, Johanek AJ, Moore CW. Sonography of the neonatal spine: part 2, spinal disorders. AJR Am J Roentgenol. 2007;188(3):739–744. doi:10.2214/AJR.05.2160.
+4. Rees MA, Squires JH, Coley BD, Hoehne B, Ho ML. Ultrasound of congenital spine anomalies. Pediatr Radiol. 2021;51(13):2442–2457. doi:10.1007/s00247-021-05178-6.
+5. Kucera JN, Coley I, O'Hara S, Kosnik EJ, Coley BD. The simple sacral dimple: diagnostic yield of ultrasound in neonates. Pediatr Radiol. 2015;45(2):211–216. doi:10.1007/s00247-014-3110-1.
+6. Wilson P, Hayes E, Barber A, Lohr J. Screening for spinal dysraphisms in newborns with sacral dimples. Clin Pediatr (Phila). 2016;55(11):1064–1070. doi:10.1177/0009922816664061.
+7. Nair N, Sreenivas M, Gupta AK, Kandasamy D, Jana M. Neonatal and infantile spinal sonography: a useful investigation often underutilized. Indian J Radiol Imaging. 2016;26(4):493–501. doi:10.4103/0971-3026.195788.
+8. Asil K, Yaldiz M. Conus medullaris levels on ultrasonography in term newborns: normal levels and dermatological findings. J Korean Neurosurg Soc. 2018;61(6):731–736. doi:10.3340/jkns.2016.1212.001.
+
 ## Related Articles
 
 - [Spinal Cord](../anatomy/spinal-cord.md)

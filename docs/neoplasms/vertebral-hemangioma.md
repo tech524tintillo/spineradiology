@@ -63,6 +63,14 @@ Features suggesting an aggressive hemangioma that may cause symptoms:
 - Atypical hemangiomas with low T1 signal can mimic metastases — CT confirms the diagnosis
 - Aggressive hemangiomas with epidural extension are rare but may require treatment
 
+## References
+
+1. Kato K, Teferi N, Challa M, Eschbacher K, Yamaguchi S. Vertebral hemangiomas: a review on diagnosis and management. J Orthop Surg Res. 2024;19:310. Available from: https://pmc.ncbi.nlm.nih.gov/articles/PMC11127296/
+2. Cloran FJ, Pukenas BA, Loevner LA, Aquino C, Schuster J, Mohan S. Aggressive spinal haemangiomas: imaging correlates to clinical presentation with analysis of treatment algorithm and clinical outcomes. Br J Radiol. 2015;88(1055):20150470. Available from: https://pmc.ncbi.nlm.nih.gov/articles/PMC4743441/
+3. Tafti D, Cecava ND. Spinal Hemangioma. In: StatPearls. Treasure Island (FL): StatPearls Publishing; 2023. Available from: https://www.ncbi.nlm.nih.gov/books/NBK532997/
+4. Vertebral haemangioma. Radiopaedia.org. Available from: https://radiopaedia.org/articles/vertebral-haemangioma-2
+5. Quinn SF. Vertebral hemangioma. Radsource MRI Web Clinic. November 2006. Available from: https://radsource.us/vertebral-hemangioma/
+
 ## Related Articles
 
 - [Spine Tumors Overview](spine-tumors-overview.md)

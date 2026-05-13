@@ -40,6 +40,16 @@ Central canal stenosis is narrowing of the central spinal canal, resulting in co
 - Cord T2 signal change indicates myelopathy and is an important prognostic marker
 - Absolute stenosis (<10 mm AP) is almost always clinically significant
 
+## References
+
+1. Schizas C, Theumann N, Burn A, Tansey R, Wardlaw D, Smith FW, Kulik G. Qualitative grading of severity of lumbar spinal stenosis based on the morphology of the dural sac on magnetic resonance images. *Spine (Phila Pa 1976)*. 2010;35(21):1919-1924. PMID: 20671589. <https://pubmed.ncbi.nlm.nih.gov/20671589/>
+2. Ko YJ, Lee E, Lee JW, Park CY, Cho J, Kang Y, Ahn JM. Clinical validity of two different grading systems for lumbar central canal stenosis: Schizas and Lee classification systems. *PLoS One*. 2020;15(5):e0233633. PMID: 32459814. <https://pubmed.ncbi.nlm.nih.gov/32459814/>
+3. Seo J, Lee JW. Magnetic Resonance Imaging Grading Systems for Central Canal and Neural Foraminal Stenoses of the Lumbar and Cervical Spines With a Focus on the Lee Grading System. *Korean J Radiol*. 2023;24(3):224-234. PMCID: PMC9971835. <https://pmc.ncbi.nlm.nih.gov/articles/PMC9971835/>
+4. Steurer J, Roner S, Gnannt R, Hodler J. Quantitative radiologic criteria for the diagnosis of lumbar spinal stenosis: a systematic literature review. *BMC Musculoskelet Disord*. 2011;12:175. PMCID: PMC3161920. <https://pmc.ncbi.nlm.nih.gov/articles/PMC3161920/>
+5. Premchandran D, Saralaya VV, Mahale A. Predicting Lumbar Central Canal Stenosis – A Magnetic Resonance Imaging Study. *J Clin Diagn Res*. 2014;8(11):RC01-RC05. PMCID: PMC4290304. <https://pmc.ncbi.nlm.nih.gov/articles/PMC4290304/>
+6. Munakomi S, Cruz R. Lumbar Spinal Stenosis. In: *StatPearls* [Internet]. Treasure Island (FL): StatPearls Publishing; updated 2024. <https://www.ncbi.nlm.nih.gov/books/NBK531493/>
+7. Lumbar spinal canal stenosis grading systems by Lee and Schizas. *Radiopaedia*. <https://radiopaedia.org/cases/lumbar-spinal-canal-stenosis-grading-systems-by-lee-and-schizas>
+
 ## Related Articles
 
 - [Spinal Stenosis](spinal-stenosis.md)

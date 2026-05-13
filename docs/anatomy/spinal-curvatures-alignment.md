@@ -84,6 +84,22 @@ Standing full-length (36-inch) scoliosis radiographs are the standard for alignm
 - Standing full-length radiographs are the standard for alignment assessment
 - Atypical scoliosis patterns (left thoracic, painful, rapidly progressive) require MRI to exclude underlying pathology
 
+## References
+
+1. Martini ML, Neifert SN, Chapman EK, Mroz TE, Rasouli JJ. Cervical Spine Alignment in the Sagittal Axis: A Review of the Best Validated Measures in Clinical Practice. *Global Spine J.* 2021;11(8):1307-1319. PMID: 33203239. [https://pmc.ncbi.nlm.nih.gov/articles/PMC8453677/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8453677/)
+
+2. Abrisham SMJ, Ardekani MRS, Mzarch MAB. Evaluation of the Normal Range of Thoracic Kyphosis and Lumbar Lordosis Angles Using EOS Imaging. *Maedica (Bucur).* 2020;15(1):87-91. PMID: 32419866. [https://pmc.ncbi.nlm.nih.gov/articles/PMC7221279/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7221279/)
+
+3. Philippi M, Shin C, Quevedo S, Weiner J, Chavarria J, Avramis I, Rizkalla JM. Roussouly classification of adult spinal deformity. *Proc (Bayl Univ Med Cent).* 2024;37(4):688-691. PMID: 38910817. [https://pmc.ncbi.nlm.nih.gov/articles/PMC11188786/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11188786/)
+
+4. Merrill RK, Kim JS, Leven DM, Kim JH, Cho SK. Beyond Pelvic Incidence-Lumbar Lordosis Mismatch: The Importance of Assessing the Entire Spine to Achieve Global Sagittal Alignment. *Global Spine J.* 2017;7(6):536-542. PMID: 28894683. [https://pmc.ncbi.nlm.nih.gov/articles/PMC5582711/](https://pmc.ncbi.nlm.nih.gov/articles/PMC5582711/)
+
+5. Slattery C, Verma K. Classification in Brief: SRS-Schwab Classification of Adult Spinal Deformity. *Clin Orthop Relat Res.* 2018;476(9):1890-1894. PMID: 29601382. [https://pmc.ncbi.nlm.nih.gov/articles/PMC6259802/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6259802/)
+
+6. Kim D, Davis DD, Menger RP. Spine Sagittal Balance. In: *StatPearls.* Treasure Island (FL): StatPearls Publishing; 2023. [https://www.ncbi.nlm.nih.gov/books/NBK534858/](https://www.ncbi.nlm.nih.gov/books/NBK534858/)
+
+7. Sagittal balance. Radiopaedia.org. [https://radiopaedia.org/articles/sagittal-balance](https://radiopaedia.org/articles/sagittal-balance)
+
 ## Related Articles
 
 - [Vertebral Column Overview](vertebral-column-overview.md)

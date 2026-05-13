@@ -32,6 +32,16 @@ An annular fissure (also called annular tear) is a disruption of the concentric 
 - HIZ is found in up to 25% of asymptomatic people — specificity for pain is limited
 - Must correlate with clinical symptoms and other imaging findings
 
+## References
+
+1. Fardon DF, Williams AL, Dohring EJ, Murtagh FR, Gabriel Rothman SL, Sze GK. Lumbar disc nomenclature: version 2.0: Recommendations of the combined task forces of the North American Spine Society, the American Society of Spine Radiology and the American Society of Neuroradiology. *Spine J.* 2014;14(11):2525–2545. [PubMed](https://pubmed.ncbi.nlm.nih.gov/24768732/) | [AJNR co-publication](https://www.ajnr.org/content/35/11/2029)
+2. Peng B, Hou S, Wu W, Zhang C, Yang Y. The pathogenesis and clinical significance of a high-intensity zone (HIZ) of lumbar intervertebral disc on MR imaging in the patient with discogenic low back pain. *Eur Spine J.* 2006;15(5):583–587. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3489329/)
+3. Bartynski WS, Agarwal V, Trang H, et al. Enhancing Annular Fissures and High-Intensity Zones: Pain, Internal Derangement, and Anesthetic Response at Provocation Lumbar Discography. *AJNR Am J Neuroradiol.* 2023;44(1):95–104. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC9835906/)
+4. Teraguchi M, Yim R, Cheung JP, Samartzis D. The association of high-intensity zones on MRI and low back pain: a systematic review. *Scoliosis Spinal Disord.* 2018;13:22. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30377668/)
+5. Munter FM, Wasserman BA, Wu HM, Yousem DM. Serial MR imaging of annular tears in lumbar intervertebral disks. *AJNR Am J Neuroradiol.* 2002;23(7):1105–1109. [PubMed](https://pubmed.ncbi.nlm.nih.gov/12169465/)
+6. Smithuis R. Lumbar Disc Nomenclature 2.0. The Radiology Assistant. 2017. [radiologyassistant.nl](https://radiologyassistant.nl/neuroradiology/spine/lumbar-disc-nomenclature-2-0)
+7. Annular fissure. Radiopaedia.org. [radiopaedia.org/articles/annular-fissure](https://radiopaedia.org/articles/annular-fissure)
+
 ## Related Articles
 
 - [Degenerative Disc Disease](degenerative-disc-disease.md)

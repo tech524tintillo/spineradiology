@@ -67,6 +67,15 @@ The TLJ represents a gradual transition between thoracic and lumbar morphology:
 - The TLICS scoring system guides management based on fracture morphology, PLC integrity, and neurologic status
 - PLC integrity on MRI is the critical factor distinguishing stable from unstable injuries
 
+## References
+
+1. Fernández-de Thomas RJ, De Jesus O. **Thoracolumbar Spine Fracture.** StatPearls Publishing; updated 2023. [https://www.ncbi.nlm.nih.gov/books/NBK562204/](https://www.ncbi.nlm.nih.gov/books/NBK562204/)
+2. Fradet L, Petit Y, Wagnac E, Aubin CE, Arnoux PJ. **Biomechanics of thoracolumbar junction vertebral fractures from various kinematic conditions.** *Med Biol Eng Comput.* 2014;52(1):87-94. PMID: 24165806. [https://pubmed.ncbi.nlm.nih.gov/24165806/](https://pubmed.ncbi.nlm.nih.gov/24165806/)
+3. Lee JY, Vaccaro AR, Lim MR, et al. **Thoracolumbar injury classification and severity score: a new paradigm for the treatment of thoracolumbar spine trauma.** *J Orthop Sci.* 2005;10(6):671-675. PMID: 16307197. [https://pmc.ncbi.nlm.nih.gov/articles/PMC2779435/](https://pmc.ncbi.nlm.nih.gov/articles/PMC2779435/)
+4. Jiménez-Almonte JH, King JD, Luo TD, Cassidy RC, Aneja A. **Classifications in Brief: Thoracolumbar Injury Classification and Injury Severity Score System.** *Clin Orthop Relat Res.* 2018;476(6):1352-1357. PMID: 29419629. [https://pmc.ncbi.nlm.nih.gov/articles/PMC6263590/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6263590/)
+5. Masharawi Y, Rothschild B, Dar G, et al. **Facet orientation in the thoracolumbar spine: three-dimensional anatomic and biomechanical analysis.** *Spine (Phila Pa 1976).* 2004;29(16):1755-1763. PMID: 15303019. [https://pubmed.ncbi.nlm.nih.gov/15303019/](https://pubmed.ncbi.nlm.nih.gov/15303019/)
+6. Saifuddin A, Burnett SJ, White J. **The variation of position of the conus medullaris in an adult population. A magnetic resonance imaging study.** *Spine (Phila Pa 1976).* 1998;23(13):1452-1456. PMID: 9670396. [https://pubmed.ncbi.nlm.nih.gov/9670396/](https://pubmed.ncbi.nlm.nih.gov/9670396/)
+
 ## Related Articles
 
 - [Thoracic Vertebrae (T1-T12)](thoracic-vertebrae.md)

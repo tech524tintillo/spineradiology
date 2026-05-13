@@ -42,6 +42,16 @@ Clay shoveler fractures are stable injuries and are treated conservatively with 
 - Treatment is conservative with excellent prognosis
 - In the trauma setting, evaluate the rest of the spine for additional injuries
 
+## References
+
+1. Posthuma de Boer J, van Wulfften Palthe AFY, Stadhouder A, Bloemers FW. The Clay Shoveler's Fracture: A Case Report and Review of the Literature. *J Emerg Med*. 2016;51(3):292-297. doi:10.1016/j.jemermed.2016.03.020. PMID: 27262733.
+2. Cancelmo JJ Jr. Clay shoveler's fracture. A helpful diagnostic sign. *Am J Roentgenol Radium Ther Nucl Med*. 1972;115(3):540-543. doi:10.2214/ajr.115.3.540. PMID: 5038634.
+3. Hoong WTJ, Kaliya-Perumal AK. Multiple Clay Shoveler's Fractures of the Thoracic Spine. *Diagnostics (Basel)*. 2022;12(9):2190. doi:10.3390/diagnostics12092190. PMID: 36140592.
+4. Altunrende ME, Ekin EE. Traumatic isolated spinous process fractures. *Ulus Travma Acil Cerrahi Derg*. 2025;31(4):394-398. doi:10.14744/tjtes.2025.20830. PMID: 40211632; PMCID: PMC12000981.
+5. Han SR, Sohn MJ. Twelve Contiguous Spinous Process Fracture of Cervico-Thoracic Spine. *Korean J Spine*. 2014;11(3):212-213. doi:10.14245/kjs.2014.11.3.212. PMID: 25346773; PMCID: PMC4206959.
+6. Lee H, Yoon E, Choi G, Lee S. Multiple episodes of golf-related isolated spinous process fractures (clay-shoveler's fracture) and its ten-year follow-up. *Trauma Case Rep*. 2023;47:100903. doi:10.1016/j.tcr.2023.100903. PMID: 37674772; PMCID: PMC10477732.
+7. Gaillard F, et al. Clay-shoveler fracture. Radiopaedia.org. <https://radiopaedia.org/articles/clay-shoveler-fracture-2>
+
 ## Related Articles
 
 - [Subaxial Cervical Fractures](subaxial-cervical-fractures.md)

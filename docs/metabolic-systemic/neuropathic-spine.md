@@ -40,6 +40,14 @@ The classic features of neuropathic arthropathy are remembered as the 6 D's: Den
 - Normal inflammatory markers help distinguish from infection
 - Progressive and often requires surgical stabilization
 
+## References
+
+1. Ledbetter LN, Salzman KL, Sanders RK, Shah LM. Spinal neuroarthropathy: pathophysiology, clinical and imaging features, and differential diagnosis. *RadioGraphics.* 2016;36(3):783-799. https://pubs.rsna.org/doi/full/10.1148/rg.2016150121
+2. Lacout A, Lebreton C, Mompoint D, Mokhtari S, Vallée CA, Carlier RY. CT and MRI of spinal neuroarthropathy. *AJR Am J Roentgenol.* 2009;193(6):W505-W514. https://pubmed.ncbi.nlm.nih.gov/19933625/
+3. Lee D, Dahdaleh NS. Charcot spinal arthropathy. *J Craniovertebr Junction Spine.* 2018;9(1):9-19. https://pmc.ncbi.nlm.nih.gov/articles/PMC5934971/
+4. Collins AC, Bergman R. Charcot neuropathic osteoarthropathy. In: *StatPearls.* Treasure Island (FL): StatPearls Publishing; updated 2026 Jan 31. https://www.ncbi.nlm.nih.gov/books/NBK470164/
+5. Neuropathic (Charcot) arthropathy of spine, knee and feet. *Radiopaedia.org.* https://radiopaedia.org/cases/neuropathic-charcot-arthopathy-of-spine-knee-and-feet
+
 ## Related Articles
 
 - [Infection vs Tumor](../infection/infection-vs-tumor.md)

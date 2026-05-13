@@ -50,6 +50,14 @@
 - Meyerding grades spondylolisthesis by percentage of slip
 - Normal cervical lordosis 20–40°, thoracic kyphosis 20–45°, lumbar lordosis 40–60°
 
+## References
+
+1. Cobb angle. Radiopaedia.org. Available from: https://radiopaedia.org/articles/cobb-angle
+2. Meyerding classification of spondylolisthesis. Radiopaedia.org. Available from: https://radiopaedia.org/articles/meyerding-classification-of-spondylolisthesis
+3. Atlantodental interval. Radiopaedia.org. Available from: https://radiopaedia.org/articles/atlantodental-interval
+4. Savarese LG, Menezes-Reis R, Bonugli GP, Herrero CFPDS, Defino HLA, Nogueira-Barbosa MH. Spinopelvic sagittal balance: what does the radiologist need to know? Radiol Bras. 2020;53(3):175-184. Available from: https://pmc.ncbi.nlm.nih.gov/articles/PMC7302896/
+5. Koslosky E, Gendelberg D. Classification in Brief: The Meyerding Classification System of Spondylolisthesis. Clin Orthop Relat Res. 2020;478(5):1125-1130. Available from: https://pmc.ncbi.nlm.nih.gov/articles/PMC7170696/
+
 ## Related Articles
 
 - [Spinal Canal Diameter Normals](spinal-canal-diameter.md)

@@ -41,6 +41,16 @@ Brain MRI is essential in any patient with suspected MS cord lesion — perivent
 - Brain MRI is essential for diagnosis per McDonald criteria
 - Distinguish from NMOSD (long-segment, central) — different treatments required
 
+## References
+
+1. Thompson AJ, Banwell BL, Barkhof F, et al. Diagnosis of multiple sclerosis: 2017 revisions of the McDonald criteria. *Lancet Neurol.* 2018;17(2):162-173. <https://pubmed.ncbi.nlm.nih.gov/29275977/>
+2. Wattjes MP, Ciccarelli O, Reich DS, et al. 2021 MAGNIMS-CMSC-NAIMS consensus recommendations on the use of MRI in patients with multiple sclerosis. *Lancet Neurol.* 2021;20(8):653-670. <https://pubmed.ncbi.nlm.nih.gov/34139157/>
+3. Agarwal V, Shah LM, Parsons MS, et al. ACR Appropriateness Criteria® Myelopathy: 2021 Update. *J Am Coll Radiol.* 2021;18(5S):S73-S82. <https://pubmed.ncbi.nlm.nih.gov/33958120/>
+4. Tafti D, Ehsan M, Xixis KL. Multiple Sclerosis. In: *StatPearls.* Treasure Island (FL): StatPearls Publishing; updated 2024 Mar 20. <https://www.ncbi.nlm.nih.gov/books/NBK499849/>
+5. Marrodan M, Gaitán MI, Correale J. Spinal Cord Involvement in MS and Other Demyelinating Diseases. *Biomedicines.* 2020;8(5):130. <https://pmc.ncbi.nlm.nih.gov/articles/PMC7277673/>
+6. Chen Y, Haacke EM, Bernitsas E. Imaging of the Spinal Cord in Multiple Sclerosis: Past, Present, Future. *Brain Sciences.* 2020;10(11):857. <https://pmc.ncbi.nlm.nih.gov/articles/PMC7696997/>
+7. Multiple sclerosis. *Radiopaedia.org.* <https://radiopaedia.org/articles/multiple-sclerosis>
+
 ## Related Articles
 
 - [Transverse Myelitis](transverse-myelitis.md)

@@ -37,6 +37,15 @@ AS is characterized by enthesitis — inflammation at the sites where ligaments,
 - HLA-B27 positive in ~90% of patients
 - Young men aged 15–35 are most commonly affected
 
+## References
+
+1. Wenker KJ, Quint JM. Ankylosing Spondylitis. In: *StatPearls.* Treasure Island (FL): StatPearls Publishing; updated 2023 Jun 20. <https://www.ncbi.nlm.nih.gov/books/NBK470173/>
+2. Ankylosing spondylitis. *Radiopaedia.org.* <https://radiopaedia.org/articles/ankylosing-spondylitis>
+3. Rudwaleit M, van der Heijde D, Landewé R, et al. The development of Assessment of SpondyloArthritis international Society classification criteria for axial spondyloarthritis (part II): validation and final selection. *Ann Rheum Dis.* 2009;68(6):777-783. <https://pubmed.ncbi.nlm.nih.gov/19297344/>
+4. van der Linden S, Valkenburg HA, Cats A. Evaluation of diagnostic criteria for ankylosing spondylitis. A proposal for modification of the New York criteria. *Arthritis Rheum.* 1984;27(4):361-368. <https://pubmed.ncbi.nlm.nih.gov/6231933/>
+5. Hermann KGA, Althoff CE, Schneider U, et al. Spinal changes in patients with spondyloarthritis: comparison of MR imaging and radiographic appearances. *RadioGraphics.* 2005;25(3):559-569. <https://pubmed.ncbi.nlm.nih.gov/15888608/>
+6. Expert Panel on Musculoskeletal Imaging; Czuczman GJ, Mandell JC, Wessell DE, et al. ACR Appropriateness Criteria® Inflammatory Back Pain: Known or Suspected Axial Spondyloarthritis: 2021 Update. *J Am Coll Radiol.* 2021;18(11S):S340-S360. <https://pubmed.ncbi.nlm.nih.gov/34794593/>
+
 ## Related Articles
 
 - [Bamboo Spine](bamboo-spine.md)

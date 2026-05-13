@@ -55,6 +55,16 @@ Type I and Type II fractures are typically treated conservatively with a rigid c
 - MRI assesses alar ligament integrity and associated soft tissue injury
 - CT angiography should be considered to evaluate the vertebral arteries
 
+## References
+
+1. Anderson PA, Montesano PX. Morphology and treatment of occipital condyle fractures. *Spine (Phila Pa 1976)*. 1988;13(7):731-736. [PubMed: 3194779](https://pubmed.ncbi.nlm.nih.gov/3194779/)
+2. Leone A, Cerase A, Colosimo C, Lauro L, Puca A, Marano P. Occipital condylar fractures: a review. *Radiology*. 2000;216(3):635-644. [PubMed: 10966689](https://pubmed.ncbi.nlm.nih.gov/10966689/)
+3. Maserati MB, Stephens B, Zohny Z, et al. Occipital condyle fractures: clinical decision rule and surgical management. *J Neurosurg Spine*. 2009;11(4):388-395. [PubMed: 19929333](https://pubmed.ncbi.nlm.nih.gov/19929333/)
+4. Tomaszewski R, Kler J, Pethe K, Zachurzok A. Evaluation of using the Anderson-Montesano and the Tuli classifications in pediatric patients with occipital condyle fractures. *J Orthop Surg Res*. 2021;16(1):440. [PubMed: 34256792](https://pubmed.ncbi.nlm.nih.gov/34256792/)
+5. Caroli E, Rocchi G, Orlando ER, Delfini R. Occipital condyle fractures: report of five cases and literature review. *Eur Spine J*. 2005;14(5):487-492. [PMC3454667](https://pmc.ncbi.nlm.nih.gov/articles/PMC3454667/)
+6. Gaillard F, et al. Occipital condyle fracture. *Radiopaedia.org*. [https://radiopaedia.org/articles/occipital-condyle-fracture](https://radiopaedia.org/articles/occipital-condyle-fracture)
+7. Anderson and Montesano classification of occipital condyle fractures. *Radiopaedia.org*. [https://radiopaedia.org/articles/anderson-and-montesano-classification-of-occipital-condyle-fractures](https://radiopaedia.org/articles/anderson-and-montesano-classification-of-occipital-condyle-fractures)
+
 ## Related Articles
 
 - [Atlanto-Occipital Dissociation](atlanto-occipital-dissociation.md)

@@ -42,6 +42,16 @@ Chiari I malformation is defined as caudal displacement of the cerebellar tonsil
 - Cine MRI evaluates CSF flow dynamics at the foramen magnum
 - Posterior fossa decompression is the treatment for symptomatic patients
 
+## References
+
+1. Loftus JR, Wassef C, Ellika S. Chiari I deformity: beyond 5 mm below the foramen magnum. RadioGraphics. 2024;44(9):e230227. Available from: https://pubs.rsna.org/doi/full/10.1148/rg.230227
+2. Elster AD, Chen MY. Chiari I malformations: clinical and radiologic reappraisal. Radiology. 1992;183(2):347-53. Available from: https://pubmed.ncbi.nlm.nih.gov/1561334/
+3. Bauer DF, Niazi T, Qaiser R, et al. Congress of Neurological Surgeons systematic review and evidence-based guidelines for patients with Chiari malformation: diagnosis. Neurosurgery. 2023;93(4):723-6. Available from: https://pubmed.ncbi.nlm.nih.gov/37646512/
+4. Pindrik J, McAllister AS, Jones JY. Imaging in Chiari I malformation. Neurosurg Clin N Am. 2023;34(1):67-79. Available from: https://pubmed.ncbi.nlm.nih.gov/36424066/
+5. Haughton V, Mardal KA. Spinal fluid biomechanics and imaging: an update for neuroradiologists. AJNR Am J Neuroradiol. 2014;35(10):1864-9. Available from: https://www.ajnr.org/content/35/10/1864
+6. Kular S, Karsonovich T. Chiari Malformation Type 1. In: StatPearls. Treasure Island (FL): StatPearls Publishing; 2025. Available from: https://www.ncbi.nlm.nih.gov/books/NBK554609/
+7. Gaillard F, et al. Chiari 1 malformation. Reference article, Radiopaedia.org. Available from: https://radiopaedia.org/articles/chiari-1-malformation-1
+
 ## Related Articles
 
 - [Syringomyelia](syringomyelia.md)

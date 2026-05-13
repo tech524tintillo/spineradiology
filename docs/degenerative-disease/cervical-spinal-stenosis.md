@@ -46,6 +46,16 @@ Cervical spinal stenosis is narrowing of the cervical spinal canal resulting in 
 - MRI is essential for cord assessment; CT for bony surgical planning
 - Cord signal change generally warrants surgical referral
 
+## References
+
+1. Pavlov H, Torg JS, Robie B, Jahre C. Cervical spinal stenosis: determination with vertebral body ratio method. *Radiology*. 1987;164(3):771-775. [https://pubmed.ncbi.nlm.nih.gov/3615879/](https://pubmed.ncbi.nlm.nih.gov/3615879/)
+2. Yue WM, Tan SB, Tan MH, Koh DC, Tan CT. The Torg-Pavlov ratio in cervical spondylotic myelopathy: a comparative study between patients with cervical spondylotic myelopathy and a nonspondylotic, nonmyelopathic population. *Spine*. 2001;26(16):1760-1764. [https://pubmed.ncbi.nlm.nih.gov/11493847/](https://pubmed.ncbi.nlm.nih.gov/11493847/)
+3. Chen CJ, Lyu RK, Lee ST, Wong YC, Wang LJ. Intramedullary high signal intensity on T2-weighted MR images in cervical spondylotic myelopathy: prediction of prognosis with type of intensity. *Radiology*. 2001;221(3):789-794. [https://pubmed.ncbi.nlm.nih.gov/11719680/](https://pubmed.ncbi.nlm.nih.gov/11719680/)
+4. Cervical canal stenosis. Radiopaedia.org. [https://radiopaedia.org/articles/cervical-canal-stenosis](https://radiopaedia.org/articles/cervical-canal-stenosis)
+5. Canal-to-body ratio of Torg and Pavlov. Radiopaedia.org. [https://radiopaedia.org/articles/canal-to-body-ratio-of-torg-and-pavlov](https://radiopaedia.org/articles/canal-to-body-ratio-of-torg-and-pavlov)
+6. Margetis K, Donnally CJ III. Cervical Myelopathy. In: *StatPearls*. Treasure Island (FL): StatPearls Publishing. [https://www.ncbi.nlm.nih.gov/books/NBK482312/](https://www.ncbi.nlm.nih.gov/books/NBK482312/)
+7. Zileli M, Borkar SA, Sinha S, et al. Cervical Spondylotic Myelopathy: Natural Course and the Value of Diagnostic Techniques — WFNS Spine Committee Recommendations. *Neurospine*. 2019;16(3):386-402. [https://www.e-neurospine.org/journal/view.php?number=912](https://www.e-neurospine.org/journal/view.php?number=912)
+
 ## Related Articles
 
 - [Cervical Spondylotic Myelopathy](cervical-spondylotic-myelopathy.md)

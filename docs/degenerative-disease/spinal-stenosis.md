@@ -58,6 +58,16 @@ Spinal stenosis is the narrowing of the spinal canal, neural foramina, or latera
 - Cross-sectional area <100 mm² = severe stenosis
 - Neurogenic claudication (positional leg symptoms) is the classic lumbar stenosis presentation
 
+## References
+
+1. Hutchins TA, Peckham M, Shah LM, et al. ACR Appropriateness Criteria® Low Back Pain: 2021 Update. *J Am Coll Radiol*. 2021;18(11S):S361-S379. <https://pubmed.ncbi.nlm.nih.gov/34794594/>
+2. Schizas C, Theumann N, Burn A, et al. Qualitative grading of severity of lumbar spinal stenosis based on the morphology of the dural sac on magnetic resonance images. *Spine (Phila Pa 1976)*. 2010;35(21):1919-1924. <https://pubmed.ncbi.nlm.nih.gov/20671589/>
+3. Steurer J, Roner S, Gnannt R, Hodler J. Quantitative radiologic criteria for the diagnosis of lumbar spinal stenosis: a systematic literature review. *BMC Musculoskelet Disord*. 2011;12:175. <https://pmc.ncbi.nlm.nih.gov/articles/PMC3161920/>
+4. Maus TP. Imaging of spinal stenosis: neurogenic intermittent claudication and cervical spondylotic myelopathy. *Radiol Clin North Am*. 2012;50(4):651-679. <https://pubmed.ncbi.nlm.nih.gov/22643390/>
+5. Munakomi S, Cruz R. Lumbar Spinal Stenosis. *StatPearls*. Treasure Island (FL): StatPearls Publishing. <https://www.ncbi.nlm.nih.gov/books/NBK531493/>
+6. Margetis K, Donnally CJ III. Cervical Myelopathy. *StatPearls*. Treasure Island (FL): StatPearls Publishing. <https://www.ncbi.nlm.nih.gov/books/NBK482312/>
+7. Spinal stenosis. Radiopaedia.org. <https://radiopaedia.org/articles/spinal-stenosis-1>
+
 ## Related Articles
 
 - [Central Canal Stenosis](central-canal-stenosis.md)

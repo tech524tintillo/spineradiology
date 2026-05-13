@@ -39,6 +39,16 @@ Paget disease (osteitis deformans) is a chronic disorder of bone remodeling char
 - Spinal stenosis and cord compression can occur from epidural pagetic bone
 - Bone scan is very sensitive for polyostotic disease
 
+## References
+
+1. Smith SE, Murphey MD, Motamedi K, Mulligan ME, Resnik CS, Gannon FH. From the archives of the AFIP. Radiologic spectrum of Paget disease of bone and its complications with pathologic correlation. *RadioGraphics.* 2002;22(5):1191-1216. <https://pubmed.ncbi.nlm.nih.gov/12235348/>
+2. Theodorou DJ, Theodorou SJ, Kakitsubata Y. Imaging of Paget disease of bone and its musculoskeletal complications: review. *AJR Am J Roentgenol.* 2011;196(6 Suppl):S64-S75. <https://pubmed.ncbi.nlm.nih.gov/21606236/>
+3. Dell'Atti C, Cassar-Pullicino VN, Lalam RK, Tins BJ, Tyrrell PNM. The spine in Paget's disease. *Skeletal Radiol.* 2007;36(7):609-626. <https://pubmed.ncbi.nlm.nih.gov/17410356/>
+4. Hadjipavlou AG, Gaitanis IN, Katonis PG, Lander P. Paget's disease of the spine and its management. *Eur Spine J.* 2001;10(5):370-384. <https://pmc.ncbi.nlm.nih.gov/articles/PMC3611523/>
+5. Saifuddin A, Hassan A. Paget's disease of the spine: unusual features and complications. *Clin Radiol.* 2003;58(2):102-111. <https://pubmed.ncbi.nlm.nih.gov/12623038/>
+6. Anastasopoulou C, Mikes BA. Paget Bone Disease. In: *StatPearls.* Treasure Island (FL): StatPearls Publishing; updated 2023 Nov 12. <https://www.ncbi.nlm.nih.gov/books/NBK430805/>
+7. Paget disease (bone). *Radiopaedia.org.* <https://radiopaedia.org/articles/paget-disease-bone>
+
 ## Related Articles
 
 - [Blastic vs Lytic Metastases](../neoplasms/blastic-vs-lytic.md)

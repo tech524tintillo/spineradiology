@@ -44,6 +44,15 @@ Hemangioblastoma is a benign, highly vascular tumor that can occur as a sporadic
 - Multiple hemangioblastomas mandate screening for VHL
 - Surgical excision of the nodule is curative
 
+## References
+
+1. Shih RY, Koeller KK. Intramedullary Masses of the Spinal Cord: Radiologic-Pathologic Correlation. Radiographics. 2020;40(4):1125-1145.
+2. Chu BC, Terae S, Hida K, Furukawa M, Abe S, Miyasaka K. MR findings in spinal hemangioblastoma: correlation with symptoms and with angiographic and surgical findings. AJNR Am J Neuroradiol. 2001;22(1):206-217.
+3. Zhang Z, Low SW, Sun I, Lim SL, Tan CL, Goh CP. Spinal Hemangioblastoma: The Role of Imaging Characteristics in Preoperative Diagnosis and Surgical Planning. Cureus. 2025;17(4):e82740.
+4. Khan MM, Hall WA, Belkhair S. Hemangioblastoma. In: StatPearls. Treasure Island (FL): StatPearls Publishing; 2025.
+5. Hoff DJ, Tampieri D, Just N. Imaging of spinal cord hemangioblastomas. Can Assoc Radiol J. 1993;44(5):377-383.
+6. Spinal haemangioblastoma. Radiopaedia.org. Available from: https://radiopaedia.org/articles/spinal-haemangioblastoma-1
+
 ## Related Articles
 
 - [Ependymoma](ependymoma.md)

@@ -30,6 +30,15 @@ Amyloid deposition in the spine can cause destructive spondyloarthropathy, most 
 - Congo red staining of biopsy tissue is diagnostic
 - Facet and ligamentum flavum thickening can cause spinal stenosis
 
+## References
+
+1. Bustamante JG, Zaidi SRH. Amyloidosis. In: *StatPearls.* Treasure Island (FL): StatPearls Publishing; updated 2023 Jul 31. <https://www.ncbi.nlm.nih.gov/books/NBK470285/>
+2. Connor T, Hole S. Musculoskeletal Amyloidosis Imaging. In: *StatPearls.* Treasure Island (FL): StatPearls Publishing; updated 2023 May 20. <https://www.ncbi.nlm.nih.gov/books/NBK592389/>
+3. Theodorou DJ, Theodorou SJ, Resnick D. Imaging in dialysis spondyloarthropathy. *Semin Dial.* 2002;15(4):290-6. <https://pubmed.ncbi.nlm.nih.gov/12191028/>
+4. Tsai TT, Kaliya-Perumal AK, Jenq CC, et al. The unresolved problem of beta-2 microglobulin amyloid deposits in the intervertebral discs of long-term dialysis patients. *J Orthop Surg Res.* 2017;12(1):194. <https://pmc.ncbi.nlm.nih.gov/articles/PMC5740589/>
+5. Parmar H, Rath T, Castillo M, Gandhi D. Imaging of focal amyloid depositions in the head, neck, and spine: amyloidoma. *AJNR Am J Neuroradiol.* 2010;31(7):1165-70. <https://www.ajnr.org/content/31/7/1165>
+6. Dialysis-related spondyloarthropathy. *Radiopaedia.org.* <https://radiopaedia.org/articles/dialysis-related-spondyloarthropathy>
+
 ## Related Articles
 
 - [Infection vs Tumor](../infection/infection-vs-tumor.md)

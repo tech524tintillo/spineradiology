@@ -54,6 +54,16 @@ Drop metastases change staging and treatment. Their presence typically upstages 
 - Medulloblastoma has the highest propensity for CSF dissemination
 - Detection changes staging and treatment (may require craniospinal irradiation)
 
+## References
+
+1. Nguyen A, Nguyen A, Dada OT, Desai PD, Ricci JC, Godbole NB, et al. Leptomeningeal Metastasis: A Review of the Pathophysiology, Diagnostic Methodology, and Therapeutic Landscape. Curr Oncol. 2023;30(6):5906-5931. PMID: 37366925.
+2. Meyers SP, Wildenhain SL, Chang JK, Bourekas EC, Beattie PF, Korones DN, et al. Postoperative Evaluation for Disseminated Medulloblastoma Involving the Spine: Contrast-enhanced MR Findings, CSF Cytologic Analysis, Timing of Disease Occurrence, and Patient Outcomes. AJNR Am J Neuroradiol. 2000;21(9):1757-1765. PMID: 11039362.
+3. Fults DW, Taylor MD, Garzia L. Leptomeningeal dissemination: a sinister pattern of medulloblastoma growth. J Neurosurg Pediatr. 2019;23(5):613-621. PMID: 30771762.
+4. Palmisciano P, Sagoo NS, Kharbat AF, Kenfack YJ, Bin Alamer O, Scalia G, et al. Leptomeningeal Metastases of the Spine: A Systematic Review. Anticancer Res. 2022;42(2):619-628.
+5. Koeller KK, Shih RY. Intradural Extramedullary Spinal Neoplasms: Radiologic-Pathologic Correlation. RadioGraphics. 2019;39(2):468-490. PMID: 30844353.
+6. Gaillard F, et al. Leptomeningeal metastases. Radiopaedia.org. Available from: https://radiopaedia.org/articles/leptomeningeal-metastases
+7. Gaillard F, et al. Leptomeningeal drop metastases. Radiopaedia.org. Available from: https://radiopaedia.org/articles/leptomeningeal-drop-metastases-2
+
 ## Related Articles
 
 - [Myxopapillary Ependymoma](myxopapillary-ependymoma.md)

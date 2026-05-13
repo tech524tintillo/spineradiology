@@ -71,6 +71,15 @@ MRI is the gold standard for ligamentous evaluation:
 - MRI is the best modality for evaluating ligamentous integrity
 - DISH and OPLL represent pathologic calcification/ossification of the ALL and PLL, respectively
 
+## References
+
+1. Aryal V, Black AC, Jimenez A. Anatomy, Back, Posterior Longitudinal Ligament. StatPearls Publishing; 2023. [NBK560691](https://www.ncbi.nlm.nih.gov/books/NBK560691/)
+2. Olszewski AD, Yaszemski MJ, White AA 3rd. The anatomy of the human lumbar ligamentum flavum. New observations and their surgical importance. *Spine (Phila Pa 1976)*. 1996;21(20):2307-12. PMID: [8915063](https://pubmed.ncbi.nlm.nih.gov/8915063/)
+3. Bizdikian AJ, El Rachkidi R. Posterior Ligamentous Complex Injuries of the Thoracolumbar Spine: Importance and Surgical Implications. *Cureus*. 2021. PMID: [34796064](https://pmc.ncbi.nlm.nih.gov/articles/PMC8590454/)
+4. Abiola R, Rubery P, Mesfin A. Ossification of the Posterior Longitudinal Ligament: Etiology, Diagnosis, and Outcomes of Nonoperative and Operative Management. *Global Spine Journal*. 2015. PMID: [26933622](https://pmc.ncbi.nlm.nih.gov/articles/PMC4771496/)
+5. Mader R, Baraliakos X, Eshed I, et al. Imaging of diffuse idiopathic skeletal hyperostosis (DISH). *RMD Open*. 2020. PMID: [32111653](https://pmc.ncbi.nlm.nih.gov/articles/PMC7046956/)
+6. Radiopaedia. Posterior ligamentous complex. [radiopaedia.org/articles/posterior-ligamentous-complex](https://radiopaedia.org/articles/posterior-ligamentous-complex)
+
 ## Related Articles
 
 - [Anterior Longitudinal Ligament](anterior-longitudinal-ligament.md)

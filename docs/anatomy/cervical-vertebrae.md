@@ -85,6 +85,17 @@ MRI is essential for evaluating the cervical spinal cord, discs, and ligaments:
 - Prevertebral soft tissue swelling on lateral radiograph is an important indirect sign of injury
 - MRI is critical for cord and soft tissue assessment
 
+## References
+
+1. Waxenbaum JA, Reddy V, Margetis K. Anatomy, Back, Cervical Vertebrae. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2026. Available from: https://www.ncbi.nlm.nih.gov/books/NBK459200/
+2. Gaillard F, Bell DJ, et al. Uncovertebral joint. Reference article, Radiopaedia.org. Available from: https://radiopaedia.org/articles/uncovertebral-joint?lang=us
+3. Hartman J. Anatomy and clinical significance of the uncinate process and uncovertebral joint: a comprehensive review. Clin Anat. 2014;27(3):431–440. Available from: https://pubmed.ncbi.nlm.nih.gov/24453021/
+4. Raveendranath V, Kavitha T, Umamageswari A. Morphometry of the uncinate process, vertebral body, and lamina of the C3–7 vertebrae relevant to cervical spine surgery. Neurospine. 2019;16(4):748–755. Available from: https://pmc.ncbi.nlm.nih.gov/articles/PMC6944996/
+5. Sangari SK, Dossous PM, Heineman T, Mtui EP. Dimensions and anatomical variants of the foramen transversarium of typical cervical vertebrae. Anat Res Int. 2015;2015:391823. Available from: https://pmc.ncbi.nlm.nih.gov/articles/PMC4581543/
+6. Bruneau M, Cornelius JF, Marneffe V, Triffaux M, George B. Anatomical variations of the V2 segment of the vertebral artery. Neurosurgery. 2006;59(1 Suppl 1):ONS20–24. Available from: https://pubmed.ncbi.nlm.nih.gov/16888547/
+7. Bogduk N, Mercer S. Biomechanics of the cervical spine. I: Normal kinematics. Clin Biomech (Bristol). 2000;15(9):633–648. Available from: https://pubmed.ncbi.nlm.nih.gov/10946096/
+8. Yoganandan N, Pintar FA, Lew SM, Rao RD, Rangarajan N. Quantitative analyses of pediatric cervical spine ossification patterns using computed tomography. Ann Adv Automot Med. 2011;55:159–168. Available from: https://pubmed.ncbi.nlm.nih.gov/22105393/
+
 ## Related Articles
 
 - [Atlas (C1) and Axis (C2)](atlas-axis.md)

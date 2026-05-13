@@ -39,6 +39,14 @@ Classifies the extent of the intradural, foraminal, and extraforaminal component
 - MRI defines the extent of both components for surgical planning
 - Multiple dumbbell lesions suggest NF1 or NF2
 
+## References
+
+1. Spinal schwannoma — dumbbell appearance. Radiopaedia.org. Available from: https://radiopaedia.org/cases/spinal-schwannoma-dumbbell-appearance
+2. Matsumoto Y, Endo M, Harimaya K, Hayashida M, Doi T, Iwamoto Y. Malignant peripheral nerve sheath tumors presenting as spinal dumbbell tumors: clinical outcomes and characteristic imaging features. Eur Spine J. 2015;24(10):2119-25. Available from: https://pubmed.ncbi.nlm.nih.gov/25015181/
+3. Asazuma T, Toyama Y, Maruiwa H, Fujimura Y, Hirabayashi K. Surgical strategy for cervical dumbbell tumors based on a three-dimensional classification. Spine (Phila Pa 1976). 2004;29(1):E10-E14. Available from: https://pubmed.ncbi.nlm.nih.gov/14699292/
+4. Jiang L, Lv Y, Liu XG, Ma QJ, Wei F, Dang GT, et al. Results of surgical treatment of cervical dumbbell tumors: surgical approach and development of an anatomic classification system. Spine (Phila Pa 1976). 2009;34(12):1307-14. Available from: https://pubmed.ncbi.nlm.nih.gov/19455006/
+5. Kim TS, Kuh JH, Kim J, Yuh WT, Han J, Lee CH, et al. Spinal schwannoma classification based on the presumed origin with preoperative magnetic resonance images. Neurospine. 2024;21(3):890-902. Available from: https://pmc.ncbi.nlm.nih.gov/articles/PMC11456939/
+
 ## Related Articles
 
 - [Schwannoma](schwannoma.md)

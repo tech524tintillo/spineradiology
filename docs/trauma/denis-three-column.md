@@ -72,6 +72,16 @@ Despite these limitations, the three-column model remains a useful conceptual to
 - Denis classified thoracolumbar fractures into four types: compression, burst, flexion-distraction, and fracture-dislocation
 - The model remains foundational but has been largely supplanted by the AO Spine and TLICS systems for clinical decision-making
 
+## References
+
+1. Denis F. The three column spine and its significance in the classification of acute thoracolumbar spinal injuries. *Spine (Phila Pa 1976)*. 1983;8(8):817-831. [https://pubmed.ncbi.nlm.nih.gov/6670016/](https://pubmed.ncbi.nlm.nih.gov/6670016/)
+2. Zhang A, Chauvin BJ. Denis Classification. In: *StatPearls*. StatPearls Publishing; 2023. [https://www.ncbi.nlm.nih.gov/books/NBK544310/](https://www.ncbi.nlm.nih.gov/books/NBK544310/)
+3. Aebi M. Classification of thoracolumbar fractures and dislocations. *Eur Spine J*. 2010;19(Suppl 1):S2-S7. [https://pmc.ncbi.nlm.nih.gov/articles/PMC2899723/](https://pmc.ncbi.nlm.nih.gov/articles/PMC2899723/)
+4. Su Q, Li C, Li Y, et al. Analysis and improvement of the three-column spinal theory. *BMC Musculoskelet Disord*. 2020;21(1):537. [https://pmc.ncbi.nlm.nih.gov/articles/PMC7425572/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7425572/)
+5. Willén J, Gaekwad UH, Kakulas BA. Acute burst fractures. A comparative analysis of a modern fracture classification and pathologic findings. *Clin Orthop Relat Res*. 1992;(276):169-175. [https://pubmed.ncbi.nlm.nih.gov/1537147/](https://pubmed.ncbi.nlm.nih.gov/1537147/)
+6. Gaillard F, et al. Three column concept of spinal fractures. Radiopaedia.org. [https://radiopaedia.org/articles/three-column-concept-of-spinal-fractures](https://radiopaedia.org/articles/three-column-concept-of-spinal-fractures)
+7. Smithuis R, van Rijn R. Thoracolumbar injury. The Radiology Assistant. [https://radiologyassistant.nl/neuroradiology/spine/thoracolumbar-injury](https://radiologyassistant.nl/neuroradiology/spine/thoracolumbar-injury)
+
 ## Related Articles
 
 - [AO Spine Classification](ao-spine-classification.md)

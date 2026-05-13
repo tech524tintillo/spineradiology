@@ -90,6 +90,16 @@ CT with sagittal and coronal reformats is the definitive imaging study:
 - Type III fractures have a better prognosis and usually heal with conservative management
 - Elderly patients with Type II fractures are increasingly common and have higher surgical risk but also higher nonunion rates with conservative treatment
 
+## References
+
+1. Gaillard F, et al. Anderson and D'Alonzo classification of odontoid process fracture. Radiopaedia.org. <https://radiopaedia.org/articles/anderson-and-dalonzo-classification-of-odontoid-process-fracture>
+2. Munakomi S, Varacallo M. Odontoid Fractures. StatPearls. NCBI Bookshelf. <https://www.ncbi.nlm.nih.gov/books/NBK441956/>
+3. Hadley MN, Browner CM, Liu SS, Sonntag VK. New subtype of acute odontoid fractures (type IIA). Neurosurgery. 1988;22(1):67-71. <https://pubmed.ncbi.nlm.nih.gov/3344089/>
+4. Robinson Y, Robinson AL, Olerud C. Systematic Review on Surgical and Nonsurgical Treatment of Type II Odontoid Fractures in the Elderly. BioMed Res Int. 2014;2014:231948. <https://pmc.ncbi.nlm.nih.gov/articles/PMC3934525/>
+5. Pal D, Sell P, Grevitt M. Type II odontoid fractures in the elderly: an evidence-based narrative review of management. Eur Spine J. 2011;20(2):195-204. <https://pmc.ncbi.nlm.nih.gov/articles/PMC3030710/>
+6. Smith JS, Kepler CK, Kopjar B, Harrop JS, Arnold P, Chapman JR, Fehlings MG, Vaccaro AR, Shaffrey CI. Effect of type II odontoid fracture nonunion on outcome among elderly patients treated without surgery: based on the AOSpine North America geriatric odontoid fracture study. Spine (Phila Pa 1976). 2013;38(26):2240-2246. <https://pubmed.ncbi.nlm.nih.gov/24335630/>
+7. Avila MJ, et al. Nonoperative versus operative management of type II odontoid fracture in older adults: a systematic review and meta-analysis. J Neurosurg Spine. 2023. <https://pubmed.ncbi.nlm.nih.gov/37877937/>
+
 ## Related Articles
 
 - [Jefferson Fracture](jefferson-fracture.md)

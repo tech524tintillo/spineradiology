@@ -58,6 +58,15 @@ All three must be present:
 - Distinguishable from ankylosing spondylitis by normal SI joints and from spondylosis by preserved disc height
 - DISH spine is fracture-prone — even minor trauma can cause unstable fractures
 
+## References
+
+1. Mader R, Baraliakos X, Eshed I, et al. Imaging of diffuse idiopathic skeletal hyperostosis (DISH). *RMD Open*. 2020;6(1):e001151. https://pmc.ncbi.nlm.nih.gov/articles/PMC7046956/
+2. Kuperus JS, Oudkerk SF, Foppen W, et al. Criteria for Early-Phase Diffuse Idiopathic Skeletal Hyperostosis: Development and Validation. *Radiology*. 2019;291(2):420–426. https://pmc.ncbi.nlm.nih.gov/articles/PMC6493062/
+3. Oudkerk SF, de Jong PA, Attrach M, et al. Diagnosis of diffuse idiopathic skeletal hyperostosis with chest computed tomography: inter-observer agreement. *European Radiology*. 2017;27(1):188–194. https://pmc.ncbi.nlm.nih.gov/articles/PMC5127853/
+4. Eshed I. Imaging Characteristics of Diffuse Idiopathic Skeletal Hyperostosis: More Than Just Spinal Bony Bridges. *Diagnostics (Basel)*. 2023;13(3):563. https://pmc.ncbi.nlm.nih.gov/articles/PMC9914876/
+5. Luo TD, Varacallo MA. Diffuse Idiopathic Skeletal Hyperostosis. StatPearls Publishing. https://www.ncbi.nlm.nih.gov/books/NBK538204/
+6. Diffuse idiopathic skeletal hyperostosis. Radiopaedia. https://radiopaedia.org/articles/diffuse-idiopathic-skeletal-hyperostosis
+
 ## Related Articles
 
 - [Spondylosis](spondylosis.md)

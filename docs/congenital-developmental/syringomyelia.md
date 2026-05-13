@@ -36,6 +36,15 @@ Syringomyelia (syrinx) is a fluid-filled cavity within the spinal cord parenchym
 - Post-traumatic syrinx can develop months to years after spinal cord injury
 - Treatment targets the underlying cause (e.g., Chiari decompression)
 
+## References
+
+1. Shenoy VS, Munakomi S, Sampath R. Syringomyelia. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2024. Available from: https://www.ncbi.nlm.nih.gov/books/NBK537110/
+2. Goetz LL, De Jesus O, Munakomi S, McAvoy SM. Posttraumatic Syringomyelia. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2025. Available from: https://www.ncbi.nlm.nih.gov/books/NBK470405/
+3. Syringomyelia. Radiopaedia.org. Available from: https://radiopaedia.org/articles/syringomyelia
+4. Heiss JD, Patronas N, DeVroom HL, et al. Elucidating the pathophysiology of syringomyelia. J Neurosurg. 1999;91(4):553-62.
+5. Schurch B, Wichmann W, Rossier AB. Post-traumatic syringomyelia (cystic myelopathy): a prospective study of 449 patients with spinal cord injury. J Neurol Neurosurg Psychiatry. 1996;60(1):61-7.
+6. Kleindienst A, Laut FM, Roeckelein V, Buchfelder M, Dodoo-Schittko F. Treatment of posttraumatic syringomyelia: evidence from a systematic review. Acta Neurochir (Wien). 2020;162(10):2541-2556.
+
 ## Related Articles
 
 - [Chiari I Malformation](chiari-i.md)

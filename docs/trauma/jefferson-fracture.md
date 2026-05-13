@@ -74,6 +74,16 @@ The key question in Jefferson fractures is whether the **transverse atlantal lig
 - C2 fractures coexist in up to 50% of cases and must be excluded
 - CT is the primary modality for fracture characterization; MRI evaluates ligamentous stability
 
+## References
+
+1. Kopparapu S, Mao G, Judy BF, Theodore N. Fifty years later: the "rule of Spence" is finally ready for retirement. *J Neurosurg Spine*. 2022;37(2):149-156. PMID: 35148514. [https://pubmed.ncbi.nlm.nih.gov/35148514/](https://pubmed.ncbi.nlm.nih.gov/35148514/)
+2. Dickman CA, Greene KA, Sonntag VK. Injuries involving the transverse atlantal ligament: classification and treatment guidelines based upon experience with 39 injuries. *Neurosurgery*. 1996;38(1):44-50. PMID: 8747950. [https://pubmed.ncbi.nlm.nih.gov/8747950/](https://pubmed.ncbi.nlm.nih.gov/8747950/)
+3. Woods RO, Inceoglu S, Akpolat YT, Cheng WK, Jabo B, Danisa O. C1 lateral mass displacement and transverse atlantal ligament failure in Jefferson's fracture: a biomechanical study of the "rule of Spence". *Neurosurgery*. 2018. PMID: 28431136. [https://pubmed.ncbi.nlm.nih.gov/28431136/](https://pubmed.ncbi.nlm.nih.gov/28431136/)
+4. Liu P, Zhu J, Wang Z, et al. "Rule of Spence" and Dickman's classification of transverse atlantal ligament injury revisited: discrepancy of prediction on atlantoaxial stability based on clinical outcome of nonoperative treatment for atlas fractures. *Spine (Phila Pa 1976)*. 2019;44(5):E306-E314. PMID: 30222691. [https://pubmed.ncbi.nlm.nih.gov/30222691/](https://pubmed.ncbi.nlm.nih.gov/30222691/)
+5. Mead LB 2nd, Millhouse PW, Krystal J, Vaccaro AR. C1 fractures: a review of diagnoses, management options, and outcomes. *Curr Rev Musculoskelet Med*. 2016. PMID: 27357228; PMCID: PMC4958388. [https://pmc.ncbi.nlm.nih.gov/articles/PMC4958388/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4958388/)
+6. Fiester P, Rao D, Soule E, et al. Radiologic utility of the Gehweiler and AO spine classification systems for C1 trauma: a retrospective review from a Level I trauma center. *J Craniovertebr Junction Spine*. 2022;13(4):432-438. PMID: 36777912; PMCID: PMC9910133. [https://pmc.ncbi.nlm.nih.gov/articles/PMC9910133/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9910133/)
+7. Lee TT, Green BA, Petrin DR. Treatment of stable burst fracture of the atlas (Jefferson fracture) with rigid cervical collar. *Spine (Phila Pa 1976)*. 1998. PMID: 9779528. [https://pubmed.ncbi.nlm.nih.gov/9779528/](https://pubmed.ncbi.nlm.nih.gov/9779528/)
+
 ## Related Articles
 
 - [Odontoid Fractures](odontoid-fractures.md)

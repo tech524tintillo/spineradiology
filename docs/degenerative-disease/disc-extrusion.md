@@ -35,6 +35,16 @@ A disc extrusion is a type of herniation in which the displaced disc material ex
 - High rate of spontaneous resorption (60–80%) supports conservative management
 - Urgent surgery only for progressive neurologic deficit or cauda equina syndrome
 
+## References
+
+1. Fardon DF, Williams AL, Dohring EJ, Murtagh FR, Gabriel Rothman SL, Sze GK. Lumbar disc nomenclature: version 2.0: Recommendations of the combined task forces of the North American Spine Society, the American Society of Spine Radiology and the American Society of Neuroradiology. *Spine J.* 2014;14(11):2525-2545. [PubMed](https://pubmed.ncbi.nlm.nih.gov/24768732/)
+2. Disc extrusion. Radiopaedia.org. [Radiopaedia](https://radiopaedia.org/articles/disc-extrusion)
+3. Ahn SH, Ahn MW, Byun WM. Effect of the transligamentous extension of lumbar disc herniations on their regression and the clinical outcome of sciatica. *Spine (Phila Pa 1976).* 2000;25(4):475-480. [PubMed](https://pubmed.ncbi.nlm.nih.gov/10707394/)
+4. Weishaupt D, Zanetti M, Hodler J, Boos N. MR imaging of the lumbar spine: prevalence of intervertebral disk extrusion and sequestration, nerve root compression, end plate abnormalities, and osteoarthritis of the facet joints in asymptomatic volunteers. *Radiology.* 1998;209(3):661-666. [PubMed](https://pubmed.ncbi.nlm.nih.gov/9844656/)
+5. Zeng Z, Qin J, Guo L, et al. Prediction and Mechanisms of Spontaneous Resorption in Lumbar Disc Herniation: Narrative Review. *Spine Surg Relat Res.* 2023. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC11165499/)
+6. Yu P, Mao F, Chen J, et al. Characteristics and mechanisms of resorption in lumbar disc herniation. *Arthritis Res Ther.* 2022;24(1):205. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC9396855/)
+7. Kesikburun B, Eksioglu E, Turan A, Adiguzel E, Kesikburun S, Cakci A. Spontaneous regression of extruded lumbar disc herniation: Correlation with clinical outcome. *Pak J Med Sci.* 2019;35(4):974-980. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC6659070/)
+
 ## Related Articles
 
 - [Disc Bulge vs Herniation](disc-bulge-vs-herniation.md)

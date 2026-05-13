@@ -59,6 +59,15 @@ In children, the disc retains its blood supply until approximately age 8, allowi
 - ESR and CRP guide treatment response
 - CT-guided biopsy when blood cultures are negative
 
+## References
+
+1. Berbari EF, Kanj SS, Kowalski TJ, et al. 2015 Infectious Diseases Society of America (IDSA) Clinical Practice Guidelines for the Diagnosis and Treatment of Native Vertebral Osteomyelitis in Adults. *Clin Infect Dis.* 2015;61(6):e26–e46. <https://pubmed.ncbi.nlm.nih.gov/26229122/>
+2. Zimmerli W. Clinical practice. Vertebral osteomyelitis. *N Engl J Med.* 2010;362(11):1022–1029. <https://pubmed.ncbi.nlm.nih.gov/20237348/>
+3. Expert Panel on Neurological Imaging, Ortiz AO, Levitt A, Shah LM, Parsons MS, et al. ACR Appropriateness Criteria® Suspected Spine Infection. *J Am Coll Radiol.* 2021;18(11S):S488–S501. <https://pubmed.ncbi.nlm.nih.gov/34794603/>
+4. Crombé A, Fadli D, Clinca R, et al. Imaging of Spondylodiscitis: A Comprehensive Updated Review—Multimodality Imaging Findings, Differential Diagnosis, and Specific Microorganisms Detection. *Microorganisms.* 2024;12(5):893. <https://pmc.ncbi.nlm.nih.gov/articles/PMC11123694/>
+5. Muscara JD, Blazar E. Diskitis. In: *StatPearls.* Treasure Island (FL): StatPearls Publishing; updated 2023 Mar 6. <https://www.ncbi.nlm.nih.gov/books/NBK541047/>
+6. Pyogenic spondylitis. *Radiopaedia.org.* <https://radiopaedia.org/articles/pyogenic-spondylitis>
+
 ## Related Articles
 
 - [Vertebral Osteomyelitis](vertebral-osteomyelitis.md)

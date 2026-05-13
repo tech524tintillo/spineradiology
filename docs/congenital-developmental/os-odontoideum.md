@@ -39,6 +39,16 @@ Os odontoideum is a well-corticated ossicle separated from the body of C2 by a w
 - MRI evaluates cord compression and pannus formation
 - C1–C2 fusion for unstable or symptomatic cases
 
+## References
+
+1. Pereira Duarte M, Das JM, Weisbrod LJ, Camino Willhuber GO. Os Odontoideum. In: StatPearls. Treasure Island (FL): StatPearls Publishing; 2024. Available from: https://www.ncbi.nlm.nih.gov/books/NBK542297/
+2. Jumah F, Alkhdour S, Mansour S, et al. Os Odontoideum: A Comprehensive Clinical and Surgical Review. Cureus. 2017;9(8):e1551. Available from: https://pmc.ncbi.nlm.nih.gov/articles/PMC5630463/
+3. Cho S, Shlobin NA, Dahdaleh NS. Os odontoideum: A comprehensive review. J Craniovertebr Junction Spine. 2022;13(3):256-264. Available from: https://pmc.ncbi.nlm.nih.gov/articles/PMC9574117/
+4. Sankar WN, Wills BPD, Dormans JP, Drummond DS. Os odontoideum revisited: the case for a multifactorial etiology. Spine (Phila Pa 1976). 2006;31(9):979-984. Available from: https://pubmed.ncbi.nlm.nih.gov/16641773/
+5. Holt RG, Helms CA, Munk PL, Gillespy T 3rd. Hypertrophy of C-1 anterior arch: useful sign to distinguish os odontoideum from acute dens fracture. Radiology. 1989;173(1):207-209. Available from: https://pubmed.ncbi.nlm.nih.gov/2781009/
+6. Jain N, Verma R, Garga UC, Baruah BP, Jain SK, Bhaskar SN. CT and MR imaging of odontoid abnormalities: A pictorial review. Indian J Radiol Imaging. 2016;26(1):108-119. Available from: https://pmc.ncbi.nlm.nih.gov/articles/PMC4813060/
+7. Os odontoideum. Radiopaedia.org. Available from: https://radiopaedia.org/articles/os-odontoideum
+
 ## Related Articles
 
 - [Odontoid Fractures](../trauma/odontoid-fractures.md)

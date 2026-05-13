@@ -99,6 +99,16 @@ When MRI is contraindicated, CT myelography can evaluate:
 - MRI is the gold standard — increased T2 signal in the cord indicates myelopathy
 - Normal cord AP diameter is 8–10 mm at the cervical enlargement
 
+## References
+
+1. Khan YS, Lui F. **Neuroanatomy, Spinal Cord.** StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; updated 2023 Jul 24. PMID: 32644482. <https://www.ncbi.nlm.nih.gov/books/NBK559056/>
+2. Ganapathy MK, Reddy V, Tadi P. **Neuroanatomy, Spinal Cord Morphology.** StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; updated 2024 Sep 10. PMID: 31424790. <https://www.ncbi.nlm.nih.gov/books/NBK545206/>
+3. Harrow-Mortelliti M, Reddy V, Jimsheleishvili G. **Physiology, Spinal Cord.** StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; updated 2023 Mar 17. PMID: 31334987. <https://www.ncbi.nlm.nih.gov/books/NBK544267/>
+4. Hasan S, Arain A. **Neuroanatomy, Spinal Cord Arteries.** StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; updated 2023 Aug 8. PMID: 30969711. <https://www.ncbi.nlm.nih.gov/books/NBK539889/>
+5. Lindeire S, Hauser JM. **Anatomy, Back, Artery of Adamkiewicz.** StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; updated 2025 Mar 25. PMID: 30422566. <https://www.ncbi.nlm.nih.gov/books/NBK532971/>
+6. Taterra D, Skinningsrud B, Pękala PA, et al. **Artery of Adamkiewicz: a meta-analysis of anatomical characteristics.** *Neuroradiology.* 2019;61(8):869-880. PMID: 31030251. <https://pubmed.ncbi.nlm.nih.gov/31030251/>
+7. Winegar BA, Kay MD, Taljanovic M. **Magnetic resonance imaging of the spine.** *Pol J Radiol.* 2020;85:e550-e574. PMID: 33101557. <https://pmc.ncbi.nlm.nih.gov/articles/PMC7571515/>
+
 ## Related Articles
 
 - [Vertebral Column Overview](vertebral-column-overview.md)

@@ -76,6 +76,16 @@ The orientation of the facet joints determines the predominant motion at each sp
 - Synovial cysts from degenerated facet joints are a common cause of lateral recess stenosis at L4–L5
 - CT is best for osseous facet pathology; MRI is best for synovial cysts, effusions, and edema
 
+## References
+
+1. Anaya JEC, Coelho SRN, Taneja AK, Cardoso FN, Skaf AY, Aihara AY. Differential diagnosis of facet joint disorders. RadioGraphics. 2021;41(2):543-558.
+2. Perolat R, Kastler A, Nicot B, Pellat JM, Tahon F, Attye A, et al. Facet joint syndrome: from diagnosis to interventional management. Insights Imaging. 2018;9(5):773-789.
+3. Kwee RM, Kwee TC. Imaging of facet joint diseases. Clin Imaging. 2021;80:167-179.
+4. Doyle AJ, Merrilees M. Synovial cysts of the lumbar facet joints in a symptomatic population: prevalence on magnetic resonance imaging. Spine (Phila Pa 1976). 2004;29(8):874-878.
+5. Curtis L, Dua A, Shah N, Padalia D. Facet joint disease. In: StatPearls. Treasure Island (FL): StatPearls Publishing; 2025.
+6. Facet joint. Radiopaedia.org. Available from: https://radiopaedia.org/articles/facet-joint
+7. Facet joint arthropathy. Radiopaedia.org. Available from: https://radiopaedia.org/articles/facet-joint-arthropathy
+
 ## Related Articles
 
 - [Spinal Ligaments](spinal-ligaments.md)

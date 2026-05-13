@@ -73,6 +73,16 @@ Compression fractures involve failure of the anterior column only. The middle co
 - Treatment is predominantly conservative; vertebral augmentation is reserved for refractory pain
 - Always consider pathological causes (metastatic disease, myeloma) in patients without significant osteoporosis
 
+## References
+
+1. Vu C, Gendelberg D. Classifications in Brief: AO Thoracolumbar Classification System. *Clin Orthop Relat Res*. 2020;478(2):434–440. <https://pmc.ncbi.nlm.nih.gov/articles/PMC7438146/>
+2. Lee JY, Vaccaro AR, Lim MR, et al. Thoracolumbar injury classification and severity score: a new paradigm for the treatment of thoracolumbar spine trauma. *J Orthop Sci*. 2005;10(6):671–675. <https://pmc.ncbi.nlm.nih.gov/articles/PMC2779435/>
+3. Jiménez-Almonte JH, King JD, Luo TD, Cassidy RC, Aneja A. Classifications in Brief: Thoracolumbar Injury Classification and Injury Severity Score System. *Clin Orthop Relat Res*. 2018;476(6):1352–1358. <https://pmc.ncbi.nlm.nih.gov/articles/PMC6263590/>
+4. Donnally CJ III, Margetis K, Varacallo MA. Vertebral Compression Fractures. In: *StatPearls*. Treasure Island (FL): StatPearls Publishing; 2025. <https://www.ncbi.nlm.nih.gov/books/NBK448171/>
+5. Mauch JT, Carr CM, Cloft H, Diehn FE. Review of the Imaging Features of Benign Osteoporotic and Malignant Vertebral Compression Fractures. *AJNR Am J Neuroradiol*. 2018;39(9):1584–1592. <https://pmc.ncbi.nlm.nih.gov/articles/PMC7655272/>
+6. Genant HK, Wu CY, van Kuijk C, Nevitt MC. Vertebral fracture assessment using a semiquantitative technique. *J Bone Miner Res*. 1993;8(9):1137–1148. <https://pubmed.ncbi.nlm.nih.gov/8237484/>
+7. Muijs SPJ, Foppen W, Smithuis F, Smithuis R. AO Spine Classification of Thoracolumbar Fractures. The Radiology Assistant; 2024. <https://radiologyassistant.nl/musculoskeletal/spine/ao-classification>
+
 ## Related Articles
 
 - [Thoracolumbar Burst Fracture](burst-fracture.md)

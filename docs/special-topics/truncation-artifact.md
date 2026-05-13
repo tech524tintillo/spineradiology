@@ -28,6 +28,15 @@ Truncation artifact (Gibbs ringing) appears as alternating bright and dark lines
 - Higher matrix size reduces the artifact
 - Always correlate sagittal and axial images
 
+## References
+
+1. Czervionke LF, Czervionke JM, Daniels DL, Haughton VM. Characteristic features of MR truncation artifacts. AJR Am J Roentgenol. 1988;151(6):1219-28. https://pubmed.ncbi.nlm.nih.gov/3263776/
+2. Taber KH, Herrick RC, Weathers SW, Kumar AJ, Schomer DF, Hayman LA. Pitfalls and artifacts encountered in clinical MR imaging of the spine. Radiographics. 1998;18(6):1499-521. https://pubmed.ncbi.nlm.nih.gov/9821197/
+3. Hakky M, Pandey S, Kwak E, Jara H, Erbay SH. Application of basic physics principles to clinical neuroradiology: differentiating artifacts from true pathology on MRI. AJR Am J Roentgenol. 2013;201(2):369-77. https://pubmed.ncbi.nlm.nih.gov/23883218/
+4. Phillips C, Bagley B, McDonald MA, Schuster NM. Gibbs or truncation artifact on MRI mimicking degenerative cervical myelopathy. Pain Med. 2022;23(4):857-859. https://academic.oup.com/painmedicine/article/23/4/857/6472362
+5. Tarafdar S, Mohan A, Nagarajan K. The "Lip Sign" in MRI of the spinal cord. Korean J Radiol. 2019;20(10):1474-1475. https://www.kjronline.org/DOIx.php?id=10.3348/kjr.2019.0486
+6. Gibbs and truncation artifacts. Radiopaedia. https://radiopaedia.org/articles/gibbs-and-truncation-artifacts
+
 ## Related Articles
 
 - [Syringomyelia](../congenital-developmental/syringomyelia.md)

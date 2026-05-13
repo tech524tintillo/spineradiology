@@ -47,6 +47,15 @@ Spinal lipomas are benign fatty tumors that can occur in several forms within or
 - No enhancement in mature lipomas
 - Lipomyelomeningoceles are congenital malformations discussed separately
 
+## References
+
+1. Gaillard F, et al. Intradural spinal lipoma. Radiopaedia.org. Available from: https://radiopaedia.org/articles/intradural-spinal-lipoma
+2. Gaillard F, et al. Lipomyelomeningocele. Radiopaedia.org. Available from: https://radiopaedia.org/articles/lipomyelomeningocele-1
+3. Kolb L, Yarrarapu SNS, Robson O, Rosario-Collazo JA. Lipoma. In: StatPearls. Treasure Island (FL): StatPearls Publishing; 2026. Available from: https://www.ncbi.nlm.nih.gov/books/NBK507906/
+4. Cools MJ, Al-Holou WN, Stetler WR Jr, Wilson TJ, Muraszko KM, Ibrahim M, et al. Filum terminale lipomas: imaging prevalence, natural history, and conus position. J Neurosurg Pediatr. 2014;13(5):559-67.
+5. Trapp B, Freddi TAL, Hans MOM, Calixto IFTL, Fujino E, Rojas LCA, et al. A practical approach to diagnosis of spinal dysraphism. RadioGraphics. 2021;41(2):559-75.
+6. Patwardhan V, Patanakar T, Patkar D, Armao D, Mukherji SK. MR imaging findings of intramedullary lipomas. AJR Am J Roentgenol. 2000;174(6):1792-3.
+
 ## Related Articles
 
 - [Myxopapillary Ependymoma](myxopapillary-ependymoma.md)

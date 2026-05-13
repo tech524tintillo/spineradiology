@@ -40,6 +40,15 @@ ACDF is the most common cervical spine surgery. The disc is removed through an a
 - Always evaluate adjacent segments for accelerated degeneration
 - Complications: graft subsidence, plate migration, pseudarthrosis, adjacent segment disease
 
+## References
+
+1. Anterior cervical discectomy and fusion (ACDF). Radiopaedia.org. Available from: https://radiopaedia.org/articles/anterior-cervical-discectomy-and-fusion-acdf
+2. Kani KK, Chew FS. Anterior cervical discectomy and fusion: review and update for radiologists. Skeletal Radiol. 2018;47(1):7-17. Available from: https://pubmed.ncbi.nlm.nih.gov/29058045/
+3. Oshina M, Oshima Y, Tanaka S, Riew KD. Radiological Fusion Criteria of Postoperative Anterior Cervical Discectomy and Fusion: A Systematic Review. Global Spine J. 2018;8(7):739-750. Available from: https://pmc.ncbi.nlm.nih.gov/articles/PMC6232720/
+4. Rai V, Sharma V, Kumar M, Thakur L. A systematic review of risk factors and adverse outcomes associated with anterior cervical discectomy and fusion surgery over the past decade. J Craniovertebr Junction Spine. 2024;15(2):141-152. Available from: https://pmc.ncbi.nlm.nih.gov/articles/PMC11216642/
+5. Tsalimas G, Evangelopoulos DS, Benetos IS, Pneumaticos S. Dysphagia as a Postoperative Complication of Anterior Cervical Discectomy and Fusion. Cureus. 2022;14(7):e26888. Available from: https://pmc.ncbi.nlm.nih.gov/articles/PMC9375980/
+6. Rhee JM, Ju KL. Anterior Cervical Discectomy and Fusion. JBJS Essent Surg Tech. 2016;6(4):e37. Available from: https://pmc.ncbi.nlm.nih.gov/articles/PMC6132613/
+
 ## Related Articles
 
 - [Adjacent Segment Disease](adjacent-segment-disease.md)

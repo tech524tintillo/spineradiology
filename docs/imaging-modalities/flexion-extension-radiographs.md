@@ -66,6 +66,16 @@ Flexion-extension radiographs are dynamic lateral radiographs obtained with the 
 - Motion across a fused segment indicates pseudarthrosis
 - MRI is preferred over flexion-extension films for acute ligamentous injury evaluation
 
+## References
+
+1. Khan SN, Erickson G, Sena MJ, Gupta MC. Use of flexion and extension radiographs of the cervical spine to rule out acute instability in patients with negative computed tomography scans. J Orthop Trauma. 2011;25(1):51-56. PMID: 21085024. Available from: https://pubmed.ncbi.nlm.nih.gov/21085024/
+2. Insko EK, Gracias VH, Gupta R, Goettler CE, Gaieski DF, Dalinka MK. Utility of flexion and extension radiographs of the cervical spine in the acute evaluation of blunt trauma. J Trauma. 2002;53(3):426-429. PMID: 12352475. Available from: https://pubmed.ncbi.nlm.nih.gov/12352475/
+3. Alvarez AP, Anderson A, Farhan SD, Lu Y, Lee YP, Oh M, et al. The utility of flexion-extension radiographs in degenerative cervical spondylolisthesis. Clin Spine Surg. 2022;35(7):319-322. PMID: 35276718. PMCID: PMC9311460. Available from: https://pmc.ncbi.nlm.nih.gov/articles/PMC9311460/
+4. Chan V, Marro A, Rempel J, Nataraj A. Determination of dynamic instability in lumbar spondylolisthesis using flexion and extension standing radiographs versus neutral standing radiograph and supine MRI. J Neurosurg Spine. 2019;31(2):229-235. PMID: 31026815. Available from: https://pubmed.ncbi.nlm.nih.gov/31026815/
+5. Wu SK, Kuo LC, Lan HCH, Tsai SW, Chen CL, Su FC. The quantitative measurements of the intervertebral angulation and translation during cervical flexion and extension. Eur Spine J. 2007;16(9):1435-1444. PMID: 17464516. PMCID: PMC2200749. Available from: https://pmc.ncbi.nlm.nih.gov/articles/PMC2200749/
+6. Dvořák J, Panjabi MM, Chang DG, Theiler R, Grob D. Functional radiographic diagnosis of the lumbar spine: flexion-extension and lateral bending. Spine (Phila Pa 1976). 1991;16(5):562-571. PMID: 2052999. Available from: https://pmc.ncbi.nlm.nih.gov/articles/PMC8009657/
+7. Gaillard F, et al. Lumbar spine (flexion and extension views). Radiopaedia.org. Available from: https://radiopaedia.org/articles/lumbar-spine-flexion-and-extension-views
+
 ## Related Articles
 
 - [Spine Radiography (X-ray)](spine-radiography.md)

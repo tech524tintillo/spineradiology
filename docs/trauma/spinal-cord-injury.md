@@ -75,6 +75,16 @@ In the chronic phase (months to years after injury):
 - Post-traumatic syringomyelia can develop months to years after injury and cause progressive deterioration
 - CT should always be obtained first; MRI is added when neurological deficit is present or suspected
 
+## References
+
+1. Talbott JF, Whetstone WD, Readdy WJ, et al. The Brain and Spinal Injury Center score: a novel, simple, and reproducible method for assessing the severity of acute cervical spinal cord injury with axial T2-weighted MRI findings. *J Neurosurg Spine*. 2015;23(4):495–504. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26161519/)
+2. Miyanji F, Furlan JC, Aarabi B, Arnold PM, Fehlings MG. Acute cervical traumatic spinal cord injury: MR imaging findings correlated with neurologic outcome — prospective study with 100 consecutive patients. *Radiology*. 2007;243(3):820–827. [PubMed](https://pubmed.ncbi.nlm.nih.gov/17431129/)
+3. Leypold BG, Flanders AE, Burns AS. The early evolution of spinal cord lesions on MR imaging following traumatic spinal cord injury. *AJNR Am J Neuroradiol*. 2008;29(5):1012–1016. [PubMed](https://pubmed.ncbi.nlm.nih.gov/18296550/)
+4. Roberts TT, Leonard GR, Cepela DJ. Classifications In Brief: American Spinal Injury Association (ASIA) Impairment Scale. *Clin Orthop Relat Res*. 2017;475(5):1499–1504. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC5384910/)
+5. Kumar Y, Hayashi D. Role of magnetic resonance imaging in acute spinal trauma: a pictorial review. *BMC Musculoskelet Disord*. 2016;17:310. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC4957861/)
+6. ASIA impairment scale for spinal injury. Radiopaedia.org. [Radiopaedia](https://radiopaedia.org/articles/asia-impairment-scale-for-spinal-injury)
+7. Brain and Spinal Cord Injury Center (BASIC) score. Radiopaedia.org. [Radiopaedia](https://radiopaedia.org/articles/brain-and-spinal-cord-injury-center-score)
+
 ## Related Articles
 
 - [SCIWORA](sciwora.md)

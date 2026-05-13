@@ -71,6 +71,16 @@ Diffusion-weighted imaging (DWI) is an MRI technique that measures the random (B
 - DWI can detect acute spinal cord infarction analogous to brain DWI for stroke
 - Image quality in the spine is improving with newer techniques (reduced FOV, RESOLVE)
 
+## References
+
+1. Baur A, Stäbler A, Brüning R, et al. Diffusion-weighted MR imaging of bone marrow: differentiation of benign versus pathologic compression fractures. Radiology. 1998;207(2):349-356. Available from: https://pubmed.ncbi.nlm.nih.gov/9577479/
+2. Mauch JT, Carr CM, Cloft H, Diehn FE. Review of the imaging features of benign osteoporotic and malignant vertebral compression fractures. AJNR Am J Neuroradiol. 2018;39(9):1584-1592. Available from: https://pubmed.ncbi.nlm.nih.gov/29348133/
+3. Herneth AM, Philipp MO, Naude J, et al. Vertebral metastases: assessment with apparent diffusion coefficient. Radiology. 2002;225(3):889-894. Available from: https://pubmed.ncbi.nlm.nih.gov/12461275/
+4. Eastwood JD, Vollmer RT, Provenzale JM. Diffusion-weighted imaging in a patient with vertebral and epidural abscesses. AJNR Am J Neuroradiol. 2002;23(3):496-498. Available from: https://pubmed.ncbi.nlm.nih.gov/11901028/
+5. Castillo M. Diffusion-weighted imaging of the spine: is it reliable? AJNR Am J Neuroradiol. 2003;24(6):1251-1253. Available from: https://pubmed.ncbi.nlm.nih.gov/12812965/
+6. Moritani T, Kim J, Capizzano AA, Kirby P, Kademian J, Sato Y. Pyogenic and non-pyogenic spinal infections: emphasis on diffusion-weighted imaging for the detection of abscesses and pus collections. Br J Radiol. 2014;87(1041):20140011. Available from: https://pmc.ncbi.nlm.nih.gov/articles/PMC4453136/
+7. Gaillard F, et al. Diffusion-weighted imaging. Radiopaedia.org. Available from: https://radiopaedia.org/articles/diffusion-weighted-imaging-2
+
 ## Related Articles
 
 - [MRI of the Spine](mri-spine.md)

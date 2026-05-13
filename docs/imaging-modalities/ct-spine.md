@@ -85,6 +85,16 @@ Computed tomography (CT) of the spine uses X-ray beams and computer reconstructi
 - CT cannot adequately evaluate the spinal cord, discs, or ligaments — MRI is required for soft tissue assessment
 - Post-surgical hardware evaluation is a major indication
 
+## References
+
+1. Hassankhani A, Freeman CW, Banks J, et al. ACR Appropriateness Criteria® Acute Spinal Trauma: 2024 Update. J Am Coll Radiol. 2025;22(5S):S48-S66. doi:10.1016/j.jacr.2025.02.013. PMID: 40409895.
+2. Beckmann NM, West OC, Nunez D Jr, et al. ACR Appropriateness Criteria® Suspected Spine Trauma. J Am Coll Radiol. 2019;16(5S):S264-S285. doi:10.1016/j.jacr.2019.02.002. PMID: 31054754.
+3. Dreizin D, Letzing M, Sliker CW, et al. Multidetector CT of blunt cervical spine trauma in adults. RadioGraphics. 2014;34(7):1842-1865. doi:10.1148/rg.347130094. PMID: 25384284.
+4. Ghodasara N, Yi PH, Clark K, Fishman EK, Farshad M, Fritz J. Postoperative Spinal CT: What the Radiologist Needs to Know. RadioGraphics. 2019;39(6):1840-1861. doi:10.1148/rg.2019190050. PMID: 31589573.
+5. Dieckmeyer M, Sollmann N, Kupfer K, et al. Computed Tomography of the Spine: Systematic Review on Acquisition and Reconstruction Techniques to Reduce Radiation Dose. Clin Neuroradiol. 2023;33(2):271-291. doi:10.1007/s00062-022-01227-1. PMID: 36416936.
+6. Radiopaedia. CT cervical spine (protocol). Available at: https://radiopaedia.org/articles/ct-cervical-spine-protocol-1
+7. Radiopaedia. CT lumbar spine (protocol). Available at: https://radiopaedia.org/articles/ct-lumbar-spine-protocol-1
+
 ## Related Articles
 
 - [Spine Radiography (X-ray)](spine-radiography.md)

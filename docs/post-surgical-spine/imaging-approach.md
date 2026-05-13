@@ -39,6 +39,16 @@ Post-operative spine imaging requires knowledge of the specific surgical procedu
 - Post-surgical changes evolve over 6–12 months — serial comparison is essential
 - Enhancement along the surgical tract is normal for up to 12 months
 
+## References
+
+1. Ghodasara N, Yi PH, Clark K, Fishman EK, Farshad M, Fritz J. Postoperative Spinal CT: What the Radiologist Needs to Know. RadioGraphics. 2019;39(6):1840-1861. doi:10.1148/rg.2019190050.
+2. Abel F, Tan ET, Chazen JL, Lebl DR, Sneag DB. MRI after Lumbar Spine Decompression and Fusion Surgery: Technical Considerations, Expected Findings, and Complications. Radiology. 2023;308(1):e222732. doi:10.1148/radiol.222732.
+3. Corona-Cedillo R, Saavedra-Navarrete MT, Espinoza-Garcia JJ, Mendoza-Aguilar AN, Ternovoy SK, Roldan-Valadez E. Imaging Assessment of the Postoperative Spine: An Updated Pictorial Review of Selected Complications. BioMed Research International. 2021;2021:9940001. doi:10.1155/2021/9940001.
+4. Girão MMV, Miyahara LK, Dwan VSY, Baptista E, Taneja AK, Gotfryd A, Castro AAE. Imaging features of the postoperative spine: a guide to basic understanding of spine surgical procedures. Insights into Imaging. 2023;14:103. doi:10.1186/s13244-023-01447-0.
+5. Hueftle MG, Modic MT, Ross JS, Masaryk TJ, Carter JR, Wilber RG, Bohlman HH, Steinberg PM, Delamarter RB. Lumbar spine: postoperative MR imaging with Gd-DTPA. Radiology. 1988;167(3):817-824. doi:10.1148/radiology.167.3.2966418.
+6. Khan MA, Jennings JW, Baker JC, Smolock AR, et al; Expert Panels on Neurological, Interventional, and Musculoskeletal Imaging. ACR Appropriateness Criteria® Management of Vertebral Compression Fractures: 2022 Update. Journal of the American College of Radiology. 2023;20(5S):S102-S124. doi:10.1016/j.jacr.2023.02.015.
+7. Radiopaedia. Metal artifact reduction sequence. Available at: https://radiopaedia.org/articles/metal-artifact-reduction-sequence.
+
 ## Related Articles
 
 - [Normal Post-Operative MRI](normal-post-op-mri.md)

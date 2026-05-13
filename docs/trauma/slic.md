@@ -79,6 +79,14 @@ Key MRI findings suggesting DLC disruption include disc space widening or high s
 - MRI is critical for evaluating DLC integrity and spinal cord injury
 - SLIC applies to C3–C7 injuries; the upper cervical spine (C0–C2) has its own classification systems
 
+## References
+
+1. Vaccaro AR, Hulbert RJ, Patel AA, et al. The subaxial cervical spine injury classification system: a novel approach to recognize the importance of morphology, neurology, and integrity of the disco-ligamentous complex. *Spine (Phila Pa 1976)*. 2007;32(21):2365-2374. [PubMed: 17906580](https://pubmed.ncbi.nlm.nih.gov/17906580/)
+2. Spitnale MJ, Grabowski G. Classification in Brief: Subaxial Cervical Spine Injury Classification and Severity Score System. *Clin Orthop Relat Res*. 2020;478(10):2390-2398. [PMC7491911](https://pmc.ncbi.nlm.nih.gov/articles/PMC7491911/)
+3. Joaquim AF, Patel AA, Vaccaro AR. Cervical injuries scored according to the Subaxial Injury Classification system: An analysis of the literature. *J Craniovertebr Junction Spine*. 2014;5(2):65-70. [PMC4158633](https://pmc.ncbi.nlm.nih.gov/articles/PMC4158633/)
+4. Subaxial cervical spine injury classification. *Radiopaedia*. [radiopaedia.org/articles/subaxial-cervical-spine-injury-classification](https://radiopaedia.org/articles/subaxial-cervical-spine-injury-classification)
+5. Subaxial Injury Classification and Severity Scale (SLICS) Calculator. *MDCalc*. [mdcalc.com/calc/10085](https://www.mdcalc.com/calc/10085/subaxial-injury-classification-severity-scale-slics)
+
 ## Related Articles
 
 - [TLICS](tlics.md)

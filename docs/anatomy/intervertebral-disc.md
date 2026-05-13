@@ -88,6 +88,16 @@ MRI is the gold standard for disc evaluation:
 - MRI T2 signal in the disc reflects hydration status — bright is normal, dark is degenerated
 - Standardized nomenclature distinguishes bulge, protrusion, extrusion, and sequestration
 
+## References
+
+1. Fardon DF, Williams AL, Dohring EJ, Murtagh FR, Gabriel Rothman SL, Sze GK. Lumbar disc nomenclature: version 2.0: Recommendations of the combined task forces of the North American Spine Society, the American Society of Spine Radiology and the American Society of Neuroradiology. Spine J. 2014;14(11):2525-45. Available from: https://pubmed.ncbi.nlm.nih.gov/24768732/
+2. Waxenbaum JA, Reddy V, Williams C, Futterman B. Anatomy, Back, Intervertebral Discs. StatPearls Publishing; 2024. Available from: https://www.ncbi.nlm.nih.gov/books/NBK470583/
+3. Nedresky D, Reddy V, Singh G. Anatomy, Back, Nucleus Pulposus. StatPearls Publishing; 2024. Available from: https://www.ncbi.nlm.nih.gov/books/NBK535373/
+4. Pfirrmann CW, Metzdorf A, Zanetti M, Hodler J, Boos N. Magnetic resonance classification of lumbar intervertebral disc degeneration. Spine. 2001;26(17):1873-8. Available from: https://pubmed.ncbi.nlm.nih.gov/11568697/
+5. Wu Q, Huang JH. Intervertebral disc aging, degeneration, and associated potential molecular mechanisms. J Head Neck Spine Surg. 2017;1(4):555569. Available from: https://pmc.ncbi.nlm.nih.gov/articles/PMC6003710/
+6. Brinjikji W, Diehn FE, Jarvik JG, et al. MRI Findings of Disc Degeneration are More Prevalent in Adults with Low Back Pain than in Asymptomatic Controls: A Systematic Review and Meta-Analysis. AJNR Am J Neuroradiol. 2015;36(12):2394-9. Available from: https://www.ajnr.org/content/36/12/2394
+7. Intervertebral disc. Radiopaedia.org. Available from: https://radiopaedia.org/articles/intervertebral-disc
+
 ## Related Articles
 
 - [Vertebral Column Overview](vertebral-column-overview.md)

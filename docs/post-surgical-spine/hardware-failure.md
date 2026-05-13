@@ -41,6 +41,16 @@ Spinal hardware failure encompasses screw loosening, screw breakage, rod fractur
 - CT is the best modality for hardware assessment
 - Always correlate hardware findings with fusion status
 
+## References
+
+1. Young PM, Berquist TH, Bancroft LW, Peterson JJ. Complications of spinal instrumentation. RadioGraphics. 2007;27(3):775-789. <https://pubs.rsna.org/doi/full/10.1148/rg.273065055>
+2. Wuertzer SD, Pohl EC, Stevens EA, Geer CP. Spinal fusion: role of perioperative radiography. RadioGraphics. 2023;43(4):e220061. <https://pubmed.ncbi.nlm.nih.gov/36893053/>
+3. Corona-Cedillo R, Saavedra-Navarrete MT, Espinoza-Garcia JJ, Mendoza-Aguilar AN, Ternovoy SK, Roldan-Valadez E. Imaging assessment of the postoperative spine: an updated pictorial review of selected complications. BioMed Res Int. 2021;2021:9940001. <https://pmc.ncbi.nlm.nih.gov/articles/PMC8154286/>
+4. Mohi Eldin MM, Ali AMA. Lumbar transpedicular implant failure: a clinical and surgical challenge and its radiological assessment. Asian Spine J. 2014;8(3):281-297. <https://pmc.ncbi.nlm.nih.gov/articles/PMC4068848/>
+5. Wu X, Shi J, Wu J, et al. Pedicle screw loosening: the value of radiological imagings and the identification of risk factors assessed by extraction torque during screw removal surgery. J Orthop Surg Res. 2019;14(1):6. <https://pmc.ncbi.nlm.nih.gov/articles/PMC6322238/>
+6. Peters MJM, Bastiaenen CHG, Brans BT, Weijers RE, Willems PC. The diagnostic accuracy of imaging modalities to detect pseudarthrosis after spinal fusion—a systematic review and meta-analysis of the literature. Skeletal Radiol. 2019;48(10):1499-1510. <https://pmc.ncbi.nlm.nih.gov/articles/PMC6702186/>
+7. Hardware failure. Radiopaedia. <https://radiopaedia.org/articles/hardware-failure-2>
+
 ## Related Articles
 
 - [Pseudarthrosis](pseudarthrosis.md)

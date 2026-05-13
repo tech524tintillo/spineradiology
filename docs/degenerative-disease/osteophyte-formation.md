@@ -40,6 +40,16 @@ Osteophytes (bone spurs) are bony outgrowths that form at the margins of vertebr
 - Hard (osteophyte) vs soft (disc) stenosis distinction affects surgical approach
 - Osteophytes are a normal part of aging and are not inherently symptomatic
 
+## References
+
+1. Pate D, Goobar J, Resnick D, Haghighi P, Sartoris DJ, Pathria MN. Traction osteophytes of the lumbar spine: radiographic-pathologic correlation. *Radiology*. 1988;166(3):843-846. [PubMed](https://pubmed.ncbi.nlm.nih.gov/3340781/)
+2. Nathan H. Osteophytes of the vertebral column: an anatomical study of their development according to age, race, and sex with considerations as to their etiology and significance. *J Bone Joint Surg Am*. Classic study establishing anterior/lateral marginal osteophytes as essentially universal after age 40.
+3. Gazel U, Ayan G, Hryciw N, et al. Disease-specific definitions of new bone formation on spine radiographs: a systematic literature review. *Rheumatol Adv Pract*. 2024;8(2):rkae061. [PMC11142627](https://pmc.ncbi.nlm.nih.gov/articles/PMC11142627/)
+4. Mader R, Verlaan JJ, Buskila D. Diffuse idiopathic skeletal hyperostosis: clinical features and pathogenic mechanisms. *Nat Rev Rheumatol*. 2013;9(12):741-750.
+5. Angelopoulou F, Kraniotis P, Daoussis D. DISH vs Spondyloarthritides. *Mediterranean Journal of Rheumatology*. 2020;31(1):81-83. [PMC7219636](https://pmc.ncbi.nlm.nih.gov/articles/PMC7219636/)
+6. Spondylosis. Radiopaedia. [https://radiopaedia.org/articles/spondylosis](https://radiopaedia.org/articles/spondylosis)
+7. Resnick D, Niwayama G. Radiographic and pathologic features of spinal involvement in diffuse idiopathic skeletal hyperostosis (DISH). *Radiology*. 1976;119(3):559-568. Classic description distinguishing DISH from spondylosis deformans and AS.
+
 ## Related Articles
 
 - [Spondylosis](spondylosis.md)

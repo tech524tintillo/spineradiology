@@ -79,6 +79,22 @@ Determining PLC integrity is the most challenging component of TLICS scoring and
 - MRI is essential for accurate PLC assessment
 - TLICS provides a simple, reproducible framework for surgical decision-making in thoracolumbar trauma
 
+## References
+
+1. Vaccaro AR, Lehman RA Jr, Hurlbert RJ, et al. A new classification of thoracolumbar injuries: the importance of injury morphology, the integrity of the posterior ligamentous complex, and neurologic status. *Spine (Phila Pa 1976)*. 2005;30(20):2325-2333. [PubMed](https://pubmed.ncbi.nlm.nih.gov/16227897/)
+
+2. Lee JY, Vaccaro AR, Lim MR, et al. Thoracolumbar injury classification and severity score: a new paradigm for the treatment of thoracolumbar spine trauma. *J Orthop Sci*. 2005;10(6):671-675. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC2779435/)
+
+3. Jiménez-Almonte JH, King JD, Luo TD, Cassidy RC, Aneja A. Classifications in Brief: Thoracolumbar Injury Classification and Injury Severity Score System. *Clin Orthop Relat Res*. 2018;476(6):1352-1358. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC6263590/)
+
+4. Joaquim AF, Bastos DCA, Torres HHJ, Patel AA. Thoracolumbar Injury Classification and Injury Severity Score System: A Literature Review of Its Safety. *Global Spine J*. 2016;6(1):80-85. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC4733384/)
+
+5. Khurana B, Sheehan SE, Sodickson A, Bono CM, Harris MB. Traumatic thoracolumbar spine injuries: what the spine surgeon wants to know. *RadioGraphics*. 2013;33(7):2031-2046. [PubMed](https://pubmed.ncbi.nlm.nih.gov/24224597/)
+
+6. West C, Roosendaal S, Bot J, Smithuis F. TLICS Classification of fractures. *The Radiology Assistant*. May 1, 2015. [radiologyassistant.nl](https://radiologyassistant.nl/neuroradiology/spine/tlics-classification)
+
+7. Gaillard F, et al. Thoracolumbar injury classification and severity score (TLICS). *Radiopaedia*. [radiopaedia.org](https://radiopaedia.org/articles/thoracolumbar-injury-classification-and-severity-score-tlics-1)
+
 ## Related Articles
 
 - [AO Spine Classification](ao-spine-classification.md)

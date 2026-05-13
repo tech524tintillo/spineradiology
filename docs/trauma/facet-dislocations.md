@@ -71,6 +71,16 @@ MRI is critical before reduction is attempted:
 - CT angiography should be obtained for unilateral dislocations to evaluate the vertebral arteries
 - Both types are unstable and typically require surgical stabilization
 
+## References
+
+1. Leong N, Lim E, Ho CL. Radiological Signs in Traumatic Cervical Facet Joint Dislocations. *Journal of the Belgian Society of Radiology*. 2021;105(1). doi:10.5334/jbsr.2314. Available at: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7894363/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7894363/)
+2. Mubark I, Abouelela A, Hassan M, Genena A, Ashwood N. Sub-Axial Cervical Facet Dislocation: A Review of Current Concepts. *Cureus*. 2021. Available at: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7870112/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7870112/)
+3. O'Shaughnessy J, Grenier JM, Stern PJ. A delayed diagnosis of bilateral facet dislocation of the cervical spine: a case report. *Journal of the Canadian Chiropractic Association*. 2014;58(1):45–51. Available at: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3924504/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3924504/)
+4. Jain M, Khuntia S, Rao BP. Neglected Bilateral Facet Dislocation of the Cervical Spine with Intact Neurology: Reduction Technique. *Asian Journal of Neurosurgery*. 2020;15(3):773–776. Available at: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7591166/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7591166/)
+5. Gaillard F et al. Perched facet joint. *Radiopaedia.org*. Available at: [https://radiopaedia.org/articles/perched-facet-joint](https://radiopaedia.org/articles/perched-facet-joint)
+6. Lloyd-Jones G. Cervical Spine Facet Dislocation — Trauma X-ray gallery. *Radiology Masterclass*. Available at: [https://www.radiologymasterclass.co.uk/gallery/trauma/x-ray_spinal_1/fractures_12](https://www.radiologymasterclass.co.uk/gallery/trauma/x-ray_spinal_1/fractures_12)
+7. Cervical Facet Dislocations & Fractures. *Orthobullets*. Available at: [https://www.orthobullets.com/spine/2064/cervical-facet-dislocations-and-fractures](https://www.orthobullets.com/spine/2064/cervical-facet-dislocations-and-fractures)
+
 ## Related Articles
 
 - [Subaxial Cervical Fractures](subaxial-cervical-fractures.md)

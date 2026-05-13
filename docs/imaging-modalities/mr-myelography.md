@@ -64,6 +64,16 @@ MR myelography is a non-invasive MRI technique that produces images resembling c
 - No contrast injection, no radiation, no lumbar puncture
 - Complementary to standard MRI sequences — adds diagnostic value without additional risk
 
+## References
+
+1. el Gammal T, Brooks BS, Freedy RM, Crews CE. MR myelography: imaging findings. AJR Am J Roentgenol. 1995;164(1):173-7. Available from: https://pubmed.ncbi.nlm.nih.gov/7998533/
+2. el Gammal TA, Crews CE. MR myelography of the cervical spine. RadioGraphics. 1996;16(1):77-88. Available from: https://pubmed.ncbi.nlm.nih.gov/10946691/
+3. Wang YF, Lirng JF, Fuh JL, Hseu SS, Wang SJ. Heavily T2-weighted MR myelography vs CT myelography in spontaneous intracranial hypotension. Neurology. 2009;73(22):1892-8. Available from: https://pubmed.ncbi.nlm.nih.gov/19949036/
+4. Kim BR, Lee JW, Lee E, Kang Y, Ahn JM, Kang HS. Utility of heavily T2-weighted MR myelography as the first step in CSF leak detection and the planning of epidural blood patches. J Clin Neurosci. 2020;77:110-115. Available from: https://pubmed.ncbi.nlm.nih.gov/32402615/
+5. Carvalho GA, Nikkhah G, Matthies C, Penkert G, Samii M. Diagnosis of root avulsions in traumatic brachial plexus injuries: value of computerized tomography myelography and magnetic resonance imaging. J Neurosurg. 1997;86(1):69-76. Available from: https://pubmed.ncbi.nlm.nih.gov/8988084/
+6. Ozdoba C, Gralla J, Rieke A, Binggeli R, Schroth G. Myelography in the age of MRI: why we do it, and how we do it. Radiol Res Pract. 2011;2011:329017. Available from: https://pmc.ncbi.nlm.nih.gov/articles/PMC3197073/
+7. Myelography. Radiopaedia.org. Available from: https://radiopaedia.org/articles/myelography
+
 ## Related Articles
 
 - [MRI of the Spine](mri-spine.md)

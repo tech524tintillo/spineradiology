@@ -61,6 +61,15 @@ In some cases, MRI may be entirely normal despite clinical spinal cord injury â€
 - MRI-negative SCIWORA can occur, particularly in children
 - Management depends on MRI findings â€” compressive lesions may require surgical decompression
 
+## References
+
+1. Pang D, Wilberger JE Jr. Spinal cord injury without radiographic abnormalities in children. *J Neurosurg.* 1982;57(1):114-129. [PubMed](https://pubmed.ncbi.nlm.nih.gov/7086488/)
+2. Farrell CA, Hannon M, Lee LK. Pediatric spinal cord injury without radiographic abnormality in the era of advanced imaging. *Curr Opin Pediatr.* 2017;29(3):286-290. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28306628/)
+3. Atesok K, Tanaka N, O'Brien A, et al. Posttraumatic spinal cord injury without radiographic abnormality. *Adv Orthop.* 2018;2018:7060654. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC5817293/)
+4. Sharma S, Singh M, Wani IH, Sharma S, Sharma N, Singh D. Adult spinal cord injury without radiographic abnormalities (SCIWORA): clinical and radiological correlations. *J Clin Med Res.* 2009;1(3):165-172. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3318880/)
+5. Palombi D, Galeazzi M, Brigato P, et al. Redefining pediatric SCIWORA: a systematic review of the literature on clinical patterns, imaging profiles, and management insights. *J Clin Med.* 2025;14(17):6338. [PubMed](https://pubmed.ncbi.nlm.nih.gov/40944097/)
+6. Gaillard F, et al. Spinal cord injury without radiographic abnormality (SCIWORA). *Radiopaedia.org.* [Radiopaedia](https://radiopaedia.org/articles/spinal-cord-injury-without-radiographic-abnormality-sciwora-1)
+
 ## Related Articles
 
 - [Spinal Cord Injury Imaging](spinal-cord-injury.md)

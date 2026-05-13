@@ -1,5 +1,9 @@
 # Spine Tumors Overview
 
+## Summary
+
+Spinal tumors are classified by compartment — extradural, intradural extramedullary, and intramedullary — a framework that drives the differential diagnosis and the imaging workup. Extradural disease dominates by volume because vertebral metastases (breast, lung, prostate, kidney, thyroid), myeloma, and lymphoma far outnumber primary spinal neoplasms; among benign primary lesions, vertebral hemangioma is the most common. In the intradural extramedullary compartment, meningioma and nerve sheath tumors (schwannoma, neurofibroma) predominate in adults. Intramedullary tumors are dominated by ependymoma in adults and astrocytoma in children. MRI with contrast is the primary modality; CT is used for matrix characterization, cortical bone, and biopsy planning; bone scintigraphy and FDG PET/CT serve staging roles. Compartmental localization on MRI relies on the relationship between tumor, subarachnoid space, and the outer cord contour. Age, lesion topography, and pedicle involvement are the highest-yield discriminators between benign and malignant disease.
+
 ## Introduction
 
 Spinal tumors are broadly categorized by their relationship to the dura mater and spinal cord into three compartments: extradural, intradural extramedullary, and intramedullary. This anatomical classification is fundamental to radiology because the compartment of origin strongly narrows the differential diagnosis and the imaging appearance — particularly on MRI — often allows confident localization.
@@ -53,6 +57,15 @@ MRI is the primary modality for evaluating spinal tumors:
 - MRI with contrast is the primary imaging modality
 - Pedicle involvement is a key distinguishing feature of malignancy
 - The compartment of origin strongly predicts the differential diagnosis
+
+## References
+
+1. Ledbetter LN, Leever JD. Imaging of intraspinal tumors. Radiol Clin North Am. 2019;57(2):341-357.
+2. Patnaik S, Jyotsnarani Y, Uppin SG, Susarla R. Imaging features of primary tumors of the spine: a pictorial essay. Indian J Radiol Imaging. 2016;26(2):279-289.
+3. Van Goethem JWM, van den Hauwe L, Özsarlak Ö, De Schepper AMA, Parizel PM. Spinal tumors. Eur J Radiol. 2004;50(2):159-176.
+4. Rodallec MH, Feydy A, Larousserie F, et al. Diagnostic imaging of solitary tumors of the spine: what to do and say. RadioGraphics. 2008;28(4):1019-1041.
+5. Kushel YV, Belova YD. Comparative epidemiology of adult and pediatric intramedullary spinal cord tumors. Zh Vopr Neirokhir Im N N Burdenko. 2015;79(6):22-28.
+6. Gaillard F, et al. Spinal tumours. Radiopaedia.org. https://radiopaedia.org/articles/spinal-tumours. Accessed May 13, 2026.
 
 ## Related Articles
 

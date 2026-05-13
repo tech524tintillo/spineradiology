@@ -36,6 +36,14 @@ SAPHO syndrome (Synovitis, Acne, Pustulosis, Hyperostosis, Osteitis) is a rare c
 - Thoracic spine is most commonly affected
 - Skin findings (palmoplantar pustulosis, acne) provide clinical context
 
+## References
+
+1. McGauvran AM, Kotsenas AL, Diehn FE, et al. SAPHO syndrome: imaging findings of vertebral involvement. *AJNR Am J Neuroradiol.* 2016;37(8):1567-1572. <https://pmc.ncbi.nlm.nih.gov/articles/PMC7960289/>
+2. Demirci Yildirim T, Sari I. SAPHO syndrome: current clinical, diagnostic and treatment approaches. *Rheumatol Int.* 2024;44(11):2301-2313. <https://pubmed.ncbi.nlm.nih.gov/37889264/>
+3. Przepiera-Będzak H, Brzosko M. SAPHO syndrome: pathogenesis, clinical presentation, imaging, comorbidities and treatment: a review. *Postepy Dermatol Alergol.* 2020;38(6):937-942. <https://pmc.ncbi.nlm.nih.gov/articles/PMC8802951/>
+4. Rukavina I. SAPHO syndrome: a review. *J Child Orthop.* 2015;9(1):19-27. <https://pubmed.ncbi.nlm.nih.gov/25585872/>
+5. SAPHO syndrome. *Radiopaedia.org.* <https://radiopaedia.org/articles/sapho-syndrome>
+
 ## Related Articles
 
 - [Ankylosing Spondylitis](ankylosing-spondylitis.md)

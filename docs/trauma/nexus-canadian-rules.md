@@ -91,6 +91,16 @@ Neither rule applies to the thoracolumbar spine. Thoracolumbar imaging decisions
 - Neither rule applies to obtunded patients, unstable patients, or the thoracolumbar spine
 - Age 65 or older mandates imaging under the Canadian C-Spine Rule
 
+## References
+
+1. Hoffman JR, Mower WR, Wolfson AB, Todd KH, Zucker MI. Validity of a set of clinical criteria to rule out injury to the cervical spine in patients with blunt trauma. National Emergency X-Radiography Utilization Study Group. *N Engl J Med*. 2000;343(2):94-99. PMID: 10891516. <https://pubmed.ncbi.nlm.nih.gov/10891516/>
+2. Stiell IG, Wells GA, Vandemheen KL, et al. The Canadian C-spine rule for radiography in alert and stable trauma patients. *JAMA*. 2001;286(15):1841-1848. PMID: 11597285. <https://pubmed.ncbi.nlm.nih.gov/11597285/>
+3. Stiell IG, Clement CM, McKnight RD, et al. The Canadian C-spine rule versus the NEXUS low-risk criteria in patients with trauma. *N Engl J Med*. 2003;349(26):2510-2518. PMID: 14695411. <https://pubmed.ncbi.nlm.nih.gov/14695411/>
+4. Viccellio P, Simon H, Pressman BD, Shah MN, Mower WR, Hoffman JR; NEXUS Group. A prospective multicenter study of cervical spine injury in children. *Pediatrics*. 2001;108(2):E20. PMID: 11483830. <https://pubmed.ncbi.nlm.nih.gov/11483830/>
+5. Baratloo A, Ahmadzadeh K, Forouzanfar MM, et al. NEXUS vs. Canadian C-Spine Rule (CCR) in Predicting Cervical Spine Injuries; a Systematic Review and Meta-analysis. *Arch Acad Emerg Med*. 2023;11(1):e66. PMID: 37840870. <https://pubmed.ncbi.nlm.nih.gov/37840870/>
+6. Beckmann NM, West OC, Nunez D Jr, et al. ACR Appropriateness Criteria® Suspected Spine Trauma. *J Am Coll Radiol*. 2019;16(5S):S264-S285. PMID: 31054754. <https://pubmed.ncbi.nlm.nih.gov/31054754/>
+7. NEXUS criteria. Radiopaedia.org. <https://radiopaedia.org/articles/nexus-criteria>
+
 ## Related Articles
 
 - [Spine Trauma Imaging Approach](imaging-approach.md)

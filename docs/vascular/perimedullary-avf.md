@@ -34,6 +34,20 @@ A perimedullary arteriovenous fistula (Type IV) is a direct arterial-venous conn
 - Type IVc can cause cord compression from giant venous varix
 - Treatment may include embolization and/or surgery
 
+## References
+
+1. Barrow DL, Colohan AR, Dawson R. Intradural perimedullary arteriovenous fistulas (type IV spinal cord arteriovenous malformations). *J Neurosurg.* 1994;81(2):221-229. <https://pubmed.ncbi.nlm.nih.gov/8027805/>
+
+2. Kona MP, Buch K, Singh J, Rohatgi S. Spinal Vascular Shunts: A Patterned Approach. *AJNR Am J Neuroradiol.* 2021;42(12):2110-2118. <https://pmc.ncbi.nlm.nih.gov/articles/PMC8805746/>
+
+3. McCarty J, Chung C, Samant R, et al. Vascular Pathologic Conditions in and around the Spinal Cord. *RadioGraphics.* 2024;44(9):e240055. <https://pubs.rsna.org/doi/full/10.1148/rg.240055>
+
+4. Ji T, Guo Y, Shi L, Yu J. Study and therapeutic progress on spinal cord perimedullary arteriovenous fistulas. *Biomed Rep.* 2017;7(3):214-220. <https://pubmed.ncbi.nlm.nih.gov/28808569/>
+
+5. Phadke RV, Bhattacharyya A, Handique A, et al. Endovascular Treatment in Spinal Perimedullary Arteriovenous Fistula. *Interv Neuroradiol.* 2014;20(3):357-367. <https://pmc.ncbi.nlm.nih.gov/articles/PMC4178764/>
+
+6. Spinal arteriovenous fistula. *Radiopaedia.org.* <https://radiopaedia.org/articles/spinal-arteriovenous-fistula>
+
 ## Related Articles
 
 - [Spinal Dural AVF](dural-avf.md)

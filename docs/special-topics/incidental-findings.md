@@ -39,6 +39,12 @@ Many spine imaging findings are incidental and require no treatment, follow-up, 
 - Atypical hemangiomas and indeterminate marrow lesions may require workup
 - Clear communication of incidental findings prevents unnecessary patient anxiety and testing
 
+## References
+
+1. Brinjikji W, Luetmer PH, Comstock B, Bresnahan BW, Chen LE, Deyo RA, et al. Systematic literature review of imaging features of spinal degeneration in asymptomatic populations. AJNR Am J Neuroradiol. 2015;36(4):811-6. doi:10.3174/ajnr.A4173. Available from: https://www.ajnr.org/content/36/4/811
+2. Kyere KA, Than KD, Wang AC, Rahman SU, Valdivia-Valdivia JM, La Marca F, et al. Schmorl's nodes. Eur Spine J. 2012;21(11):2115-21. doi:10.1007/s00586-012-2325-9. Available from: https://pubmed.ncbi.nlm.nih.gov/22544358/
+3. Vertebral haemangioma. Radiopaedia.org. Available from: https://radiopaedia.org/articles/vertebral-haemangioma-2
+
 ## Related Articles
 
 - [Vertebral Hemangioma](../neoplasms/vertebral-hemangioma.md)

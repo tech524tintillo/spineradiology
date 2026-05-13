@@ -47,6 +47,15 @@ Ependymoma is the most common intramedullary spinal cord tumor in adults, arisin
 - Gross total resection is often achievable (unlike astrocytoma)
 - Myxopapillary ependymoma is a distinct subtype at the conus/filum
 
+## References
+
+1. Karsonovich T, Hall WA. Ependymoma. In: StatPearls. Treasure Island (FL): StatPearls Publishing; updated 2025 Nov 13. Available from: https://www.ncbi.nlm.nih.gov/books/NBK538244/
+2. Davidson CL, Das JM, Mesfin FB. Intramedullary Spinal Cord Tumors. In: StatPearls. Treasure Island (FL): StatPearls Publishing; updated 2024 Jun 7. Available from: https://www.ncbi.nlm.nih.gov/books/NBK442031/
+3. Cerretti G, et al. Spinal ependymoma in adults: from molecular advances to new treatment perspectives. Front Oncol. 2023;13:1301179. Available from: https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2023.1301179/full
+4. Yuh EL, Barkovich AJ, Gupta N. Imaging of ependymomas: MRI and CT. Childs Nerv Syst. 2009;25(10):1203–13. Available from: https://pmc.ncbi.nlm.nih.gov/articles/PMC2744772/
+5. Choi JY, Chang KH, Yu IK, Kim KH, Kwon BJ, Han MH, Kim IO. Intracranial and spinal ependymomas: review of MR images in 61 patients. Korean J Radiol. 2002;3(4):219–28. Available from: https://pmc.ncbi.nlm.nih.gov/articles/PMC2713843/
+6. Spinal ependymoma. Radiopaedia.org. Available from: https://radiopaedia.org/articles/spinal-ependymoma
+
 ## Related Articles
 
 - [Myxopapillary Ependymoma](myxopapillary-ependymoma.md)

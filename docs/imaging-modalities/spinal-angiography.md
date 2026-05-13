@@ -64,6 +64,15 @@ Spinal angiography (spinal digital subtraction angiography, or DSA) is a cathete
 - Therapeutic embolization can be performed through the same catheter access
 - Spinal cord ischemia is the most serious potential complication
 
+## References
+
+1. Nijenhuis RJ, Mull M, Wilmink JT, Thron AK, Backes WH. MR angiography of the great anterior radiculomedullary artery (Adamkiewicz artery) validated by digital subtraction angiography. AJNR Am J Neuroradiol. 2006;27(7):1565-72. Available from: https://www.ajnr.org/content/27/7/1565
+2. Saraf-Lavi E, Bowen BC, Quencer RM, Sklar EML, Holz A, Falcone S, et al. Detection of spinal dural arteriovenous fistulae with MR imaging and contrast-enhanced MR angiography: sensitivity, specificity, and prediction of vertebral level. AJNR Am J Neuroradiol. 2002;23(5):858-67. Available from: https://pmc.ncbi.nlm.nih.gov/articles/PMC7974721/
+3. Nair S, Gobin YP, Leng LZ, Marcus JD, Bilsky M, Laufer I, et al. Preoperative embolization of hypervascular thoracic, lumbar, and sacral spinal column tumors: technique and outcomes from a single center. Interv Neuroradiol. 2013;19(3):377-85. Available from: https://pmc.ncbi.nlm.nih.gov/articles/PMC3806015/
+4. Rangel-Castilla L, Shah AH, Klucznik RP, Diaz OM. Preoperative Onyx embolization of hypervascular head, neck, and spinal tumors: experience with 100 consecutive cases from a single tertiary center. J Neurointerv Surg. 2014;6(1):51-6. Available from: https://pubmed.ncbi.nlm.nih.gov/23268473/
+5. Gaillard F, et al. Spinal arteriovenous malformations. Radiopaedia.org. Available from: https://radiopaedia.org/articles/spinal-arteriovenous-malformations
+6. Gaillard F, et al. Spinal dural arteriovenous fistula. Radiopaedia.org. Available from: https://radiopaedia.org/articles/spinal-dural-arteriovenous-fistula
+
 ## Related Articles
 
 - [Spinal Arterial Supply](../anatomy/spinal-arterial-supply.md)

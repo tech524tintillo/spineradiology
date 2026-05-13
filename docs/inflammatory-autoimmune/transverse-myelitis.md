@@ -34,6 +34,15 @@ Transverse myelitis (TM) is an inflammatory disorder of the spinal cord characte
 - Thoracic cord is most commonly affected in idiopathic TM
 - Brain MRI should be obtained to evaluate for MS or NMOSD
 
+## References
+
+1. Transverse Myelitis Consortium Working Group. Proposed diagnostic criteria and nosology of acute transverse myelitis. *Neurology.* 2002;59(4):499-505. https://pubmed.ncbi.nlm.nih.gov/12236201/
+2. Wingerchuk DM, Banwell B, Bennett JL, et al. International consensus diagnostic criteria for neuromyelitis optica spectrum disorders. *Neurology.* 2015;85(2):177-189. https://pubmed.ncbi.nlm.nih.gov/26092914/
+3. Simone CG, Emmady PD. Transverse Myelitis. In: *StatPearls.* Treasure Island (FL): StatPearls Publishing; updated 2022 Nov 15. https://www.ncbi.nlm.nih.gov/books/NBK559302/
+4. Lee MJ, Aronberg R, Manganaro MS, Ibrahim M, Parmar HA. Diagnostic Approach to Intrinsic Abnormality of Spinal Cord Signal Intensity. *RadioGraphics.* 2019;39(6):1824-1839. https://pubmed.ncbi.nlm.nih.gov/31589577/
+5. Agarwal V, Shah LM, Parsons MS, et al. ACR Appropriateness Criteria® Myelopathy: 2021 Update. *J Am Coll Radiol.* 2021;18(5S):S73-S82. https://pubmed.ncbi.nlm.nih.gov/33958120/
+6. Transverse myelitis. *Radiopaedia.org.* https://radiopaedia.org/articles/transverse-myelitis
+
 ## Related Articles
 
 - [Multiple Sclerosis — Spinal Cord](multiple-sclerosis-spine.md)

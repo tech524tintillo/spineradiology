@@ -38,6 +38,16 @@ Giant cell tumor (GCT) of bone is a locally aggressive, typically benign neoplas
 - Denosumab is an effective medical treatment
 - High recurrence rate after curettage
 
+## References
+
+1. Shi LS, Li YQ, Wu WJ, Zhang ZK, Gao F, Latif M. Imaging appearance of giant cell tumour of the spine above the sacrum. Br J Radiol. 2015;88(1051):20140566. doi:10.1259/bjr.20140566.
+2. Chakarun CJ, Forrester DM, Gottsegen CJ, Patel DB, White EA, Matcuk GR Jr. Giant cell tumor of bone: review, mimics, and new developments in treatment. RadioGraphics. 2013;33(1):197–211. doi:10.1148/rg.331125089.
+3. van Langevelde K, Cleven AHG, Navas Cañete A, van der Heijden L, van de Sande MAJ, Gelderblom H, Bovée JVMG. Malignant transformation of giant cell tumor of bone and the association with denosumab treatment: a radiology and pathology perspective. Sarcoma. 2022;2022:3425221. doi:10.1155/2022/3425221.
+4. Amary F, Berisha F, Ye H, Gupta M, Gutteridge A, Baumhoer D, et al. H3F3A (histone 3.3) G34W immunohistochemistry: a reliable marker defining benign and malignant giant cell tumor of bone. Am J Surg Pathol. 2017;41(8):1059–1068. doi:10.1097/PAS.0000000000000859.
+5. Leinauer B, Wolf E, Werner M, Baumhoer D, Breining T, Luebke AM, et al. H3F3A-mutated giant cell tumour of bone without giant cells—clinical presentation, radiology and histology of three cases. Histopathology. 2021;79(5):720–730. doi:10.1111/his.14401.
+6. Hosseinzadeh S, Tiwari V, De Jesus O. Giant cell tumor of bone. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2024. Available from: https://www.ncbi.nlm.nih.gov/books/NBK559229/.
+7. Gaillard F, et al. Giant cell tumour of bone. Radiopaedia.org. Available from: https://radiopaedia.org/articles/giant-cell-tumour-of-bone.
+
 ## Related Articles
 
 - [Chordoma](chordoma.md)

@@ -43,6 +43,16 @@ The fused bamboo spine is extremely vulnerable to fracture:
 - The fused spine is extremely brittle — fractures are unstable and often devastating
 - CT and MRI of the entire spine are essential after even minor trauma in AS patients
 
+## References
+
+1. Bamboo spine (ankylosing spondylitis). *Radiopaedia.org.* https://radiopaedia.org/articles/bamboo-spine-ankylosing-spondylitis
+2. Wenker KJ, Quint JM. Ankylosing Spondylitis. In: *StatPearls.* Treasure Island (FL): StatPearls Publishing; updated 2023 Jun 20. https://www.ncbi.nlm.nih.gov/books/NBK470173/
+3. Shah NG, Keraliya A, Nunez DB, Schoenfeld A, Harris MB, Bono CM, Khurana B. Injuries to the rigid spine: what the spine surgeon wants to know. *RadioGraphics.* 2019;39(2):449-466. https://pubmed.ncbi.nlm.nih.gov/30707647/
+4. Campagna R, Pessis E, Feydy A, Guerini H, Thévenin F, Chevrot A, Drapé JL. Fractures of the ankylosed spine: MDCT and MRI with emphasis on individual anatomic spinal structures. *AJR Am J Roentgenol.* 2009;192(4):987-995. https://pubmed.ncbi.nlm.nih.gov/19304705/
+5. Westerveld LA, Verlaan JJ, Oner FC. Spinal fractures in patients with ankylosing spinal disorders: a systematic review of the literature on treatment, neurological status and complications. *Eur Spine J.* 2009;18(2):145-156. https://pubmed.ncbi.nlm.nih.gov/18791749/
+6. Østergaard M, Lambert RGW. Imaging in ankylosing spondylitis. *Ther Adv Musculoskelet Dis.* 2012;4(4):301-311. https://pmc.ncbi.nlm.nih.gov/articles/PMC3403247/
+7. Beckmann NM, West OC, Nunez D Jr, Kirsch CFE, Aulino JM, Broder JS, et al. ACR Appropriateness Criteria® Suspected Spine Trauma. *J Am Coll Radiol.* 2019;16(5S):S264-S285. https://pubmed.ncbi.nlm.nih.gov/31054754/
+
 ## Related Articles
 
 - [Ankylosing Spondylitis](ankylosing-spondylitis.md)

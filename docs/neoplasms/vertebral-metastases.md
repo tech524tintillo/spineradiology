@@ -77,6 +77,16 @@ The Spinal Instability Neoplastic Score (SINS) evaluates mechanical stability in
 - The thoracic spine is most commonly affected
 - Batson venous plexus provides a direct route for pelvic/abdominal tumor spread to the spine
 
+## References
+
+1. Gaillard F, et al. Vertebral metastases. Radiopaedia.org. Available at: https://radiopaedia.org/articles/vertebral-metastases. Accessed May 13, 2026.
+2. Shah LM, Salzman KL. Imaging of spinal metastatic disease. Int J Surg Oncol. 2011;2011:769753. doi:10.1155/2011/769753.
+3. Gottumukkala S, Srivastava U, Brocklehurst S, et al. Fundamentals of radiation oncology for treatment of vertebral metastases. RadioGraphics. 2021;41(7):2136-2156. doi:10.1148/rg.2021210052.
+4. Roberts CC, Daffner RH, Weissman BN, et al. ACR Appropriateness Criteria on metastatic bone disease. J Am Coll Radiol. 2010;7(6):400-409. doi:10.1016/j.jacr.2010.02.015.
+5. Fisher CG, DiPaola CP, Ryken TC, et al. A novel classification system for spinal instability in neoplastic disease: an evidence-based approach and expert consensus from the Spine Oncology Study Group. Spine (Phila Pa 1976). 2010;35(22):E1221-E1229. doi:10.1097/BRS.0b013e3181e16ae2.
+6. Jung HS, Jee WH, McCauley TR, Ha KY, Choi KH. Discrimination of metastatic from acute osteoporotic compression spinal fractures with MR imaging. RadioGraphics. 2003;23(1):179-187. doi:10.1148/rg.231025043.
+7. Brook RC, Tung K, Oeppen R. Batson's plexus and retrograde venous spread of malignancy — a pictorial review. Cancer Imaging. 2014;14(Suppl 1):P40. doi:10.1186/1470-7330-14-S1-P40.
+
 ## Related Articles
 
 - [Blastic vs Lytic Metastases](blastic-vs-lytic.md)

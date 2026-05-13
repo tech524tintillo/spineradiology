@@ -40,6 +40,15 @@ Vertebral osteomyelitis refers specifically to infection of the vertebral body b
 - CT-guided biopsy establishes the organism
 - Granulomatous infections (TB, brucella) may show vertebral body involvement with relative disc preservation early
 
+## References
+
+1. Hall WA, Graeber A, Cecava ND. Vertebral Osteomyelitis. In: *StatPearls.* Treasure Island (FL): StatPearls Publishing; updated 2024 Nov 25. <https://www.ncbi.nlm.nih.gov/books/NBK532256/>
+2. Berbari EF, Kanj SS, Kowalski TJ, et al. 2015 Infectious Diseases Society of America (IDSA) Clinical Practice Guidelines for the Diagnosis and Treatment of Native Vertebral Osteomyelitis in Adults. *Clin Infect Dis.* 2015;61(6):e26-46. <https://pubmed.ncbi.nlm.nih.gov/26229122/>
+3. Zimmerli W. Clinical practice. Vertebral osteomyelitis. *N Engl J Med.* 2010;362(11):1022-1029. <https://pubmed.ncbi.nlm.nih.gov/20237348/>
+4. Expert Panel on Neurological Imaging; Ortiz AO, Levitt A, Shah LM, et al. ACR Appropriateness Criteria® Suspected Spine Infection. *J Am Coll Radiol.* 2021;18(11S):S488-S501. <https://pubmed.ncbi.nlm.nih.gov/34794603/>
+5. Crombé A, Fadli D, Clinca R, et al. Imaging of Spondylodiscitis: A Comprehensive Updated Review—Multimodality Imaging Findings, Differential Diagnosis, and Specific Microorganisms Detection. *Microorganisms.* 2024;12(5):893. <https://pmc.ncbi.nlm.nih.gov/articles/PMC11123694/>
+6. Spondylodiscitis. *Radiopaedia.org.* <https://radiopaedia.org/articles/spondylodiscitis>
+
 ## Related Articles
 
 - [Pyogenic Spondylodiscitis](pyogenic-spondylodiscitis.md)

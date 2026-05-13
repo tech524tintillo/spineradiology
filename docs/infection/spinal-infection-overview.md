@@ -69,6 +69,16 @@ MRI with gadolinium is the most sensitive and specific imaging study:
 - Disc involvement with endplate destruction is the hallmark of infection
 - CT-guided biopsy provides tissue for culture and sensitivity
 
+## References
+
+1. DeSanto J, Ross JS. Spine infection/inflammation. *Radiol Clin North Am.* 2011;49(1):105-127. <https://pubmed.ncbi.nlm.nih.gov/21111132/>
+2. Diehn FE. Imaging of spine infection. *Radiol Clin North Am.* 2012;50(4):777-798. <https://pubmed.ncbi.nlm.nih.gov/22643395/>
+3. Hong SH, Choi JY, Lee JW, Kim NR, Choi JA, Kang HS. MR imaging assessment of the spine: infection or an imitation? *RadioGraphics.* 2009;29(2):599-612. <https://pubmed.ncbi.nlm.nih.gov/19325068/>
+4. Hall WA, Graeber A, Cecava ND. Vertebral Osteomyelitis. In: *StatPearls.* Treasure Island (FL): StatPearls Publishing; updated 2024 Nov 25. <https://www.ncbi.nlm.nih.gov/books/NBK532256/>
+5. Expert Panel on Neurological Imaging. ACR Appropriateness Criteria® Suspected Spine Infection. *J Am Coll Radiol.* 2021. <https://acsearch.acr.org/docs/3148734/Narrative/>
+6. Dhodapkar MM, Patel T, Rubio DR. Imaging in spinal infections: Current status and future directions. *N Am Spine Soc J.* 2023;16:100275. <https://pmc.ncbi.nlm.nih.gov/articles/PMC10562850/>
+7. Spondylodiscitis. *Radiopaedia.org.* <https://radiopaedia.org/articles/spondylodiscitis>
+
 ## Related Articles
 
 - [Pyogenic Spondylodiscitis](pyogenic-spondylodiscitis.md)

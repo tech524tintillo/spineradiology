@@ -84,6 +84,15 @@ Extension teardrop fractures are generally **stable** injuries. The posterior li
 - Retropulsion of the posterior body into the canal is the hallmark of flexion teardrop injuries
 - MRI is essential in flexion teardrop fractures to evaluate cord injury and posterior ligamentous disruption
 
+## References
+
+1. Kim KS, Chen HH, Russell EJ, Rogers LF. Flexion teardrop fracture of the cervical spine: radiographic characteristics. AJR Am J Roentgenol. 1989;152(2):319-326. [https://pubmed.ncbi.nlm.nih.gov/2783508/](https://pubmed.ncbi.nlm.nih.gov/2783508/)
+2. Cirillo I, Blanco S, Cabello S, Ricciardi G, Guiroy A, Yurac R. Flexion teardrop fracture of the cervical spine: a narrative review. EFORT Open Rev. 2025;10(10):806-814. [https://pmc.ncbi.nlm.nih.gov/articles/PMC12497533/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12497533/)
+3. Flexion teardrop fracture. Radiopaedia. [https://radiopaedia.org/articles/flexion-teardrop-fracture-1](https://radiopaedia.org/articles/flexion-teardrop-fracture-1)
+4. Extension teardrop fracture of C2. Radiopaedia. [https://radiopaedia.org/cases/extension-teardrop-fracture-of-c2](https://radiopaedia.org/cases/extension-teardrop-fracture-of-c2)
+5. Extension teardrop fracture cervical spine. Orthobullets. [https://www.orthobullets.com/spine/12102/extension-teardrop-fracture-cervical-spine](https://www.orthobullets.com/spine/12102/extension-teardrop-fracture-cervical-spine)
+6. Flanders A, Smithuis R. Spine — cervical injury. The Radiology Assistant. 2008. [https://radiologyassistant.nl/neuroradiology/spine/cervical-injury](https://radiologyassistant.nl/neuroradiology/spine/cervical-injury)
+
 ## Related Articles
 
 - [Subaxial Cervical Fractures](subaxial-cervical-fractures.md)

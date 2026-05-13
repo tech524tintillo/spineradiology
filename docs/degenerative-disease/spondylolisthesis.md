@@ -60,6 +60,15 @@ Spondylolisthesis is the anterior (or rarely posterior) displacement of one vert
 - Pars integrity is the key distinguishing feature between isthmic and degenerative types
 - Lateral radiograph for measuring slip; CT for pars assessment; MRI for neural compression
 
+## References
+
+1. Koslosky E, Gendelberg D. Classification in Brief: The Meyerding Classification System of Spondylolisthesis. Clin Orthop Relat Res. 2020;478(5):1125-1130. [https://pmc.ncbi.nlm.nih.gov/articles/PMC7170696/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7170696/)
+2. Margetis K, Gillis CC. Spondylolisthesis. StatPearls. NCBI Bookshelf. [https://www.ncbi.nlm.nih.gov/books/NBK430767/](https://www.ncbi.nlm.nih.gov/books/NBK430767/)
+3. Wiltse classification of spondylolisthesis. Radiopaedia. [https://radiopaedia.org/articles/wiltse-classification-of-spondylolisthesis](https://radiopaedia.org/articles/wiltse-classification-of-spondylolisthesis)
+4. Meyerding classification of spondylolisthesis. Radiopaedia. [https://radiopaedia.org/articles/meyerding-classification-of-spondylolisthesis](https://radiopaedia.org/articles/meyerding-classification-of-spondylolisthesis)
+5. Kalichman L, Hunter DJ. Diagnosis and conservative management of degenerative lumbar spondylolisthesis. Eur Spine J. 2008;17(3):327-335. [https://pubmed.ncbi.nlm.nih.gov/18026865/](https://pubmed.ncbi.nlm.nih.gov/18026865/)
+6. Wiltse LL, Newman PH, Macnab I. Classification of spondylolisis and spondylolisthesis. Clin Orthop Relat Res. 1976;(117):23-29. [https://pubmed.ncbi.nlm.nih.gov/1277669/](https://pubmed.ncbi.nlm.nih.gov/1277669/)
+
 ## Related Articles
 
 - [Degenerative Spondylolisthesis](degenerative-spondylolisthesis.md)

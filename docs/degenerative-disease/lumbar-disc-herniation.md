@@ -53,6 +53,15 @@ In the lumbar spine, the relationship between herniation location and the affect
 - Far lateral herniations are easily missed and must be specifically sought
 - Most herniations improve with conservative management; surgery for progressive deficit or cauda equina syndrome
 
+## References
+
+1. Fardon DF, Williams AL, Dohring EJ, Murtagh FR, Gabriel Rothman SL, Sze GK. Lumbar disc nomenclature: version 2.0: Recommendations of the combined task forces of the North American Spine Society, the American Society of Spine Radiology, and the American Society of Neuroradiology. *Spine J*. 2014;14(11):2525-2545. [PubMed](https://pubmed.ncbi.nlm.nih.gov/24768732/)
+2. Williams AL, Murtagh FR, Rothman SLG, Sze GK. Lumbar disc nomenclature: version 2.0. *AJNR Am J Neuroradiol*. 2014;35(11):2029. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC7965177/)
+3. Smithuis R. Lumbar disc herniation and other causes of nerve compression. The Radiology Assistant. December 14, 2014. [radiologyassistant.nl](https://radiologyassistant.nl/neuroradiology/spine/lumbar-disc-herniation)
+4. Al Qaraghli MI, De Jesus O. Lumbar disc herniation. In: *StatPearls*. Treasure Island (FL): StatPearls Publishing; updated August 23, 2023. [NCBI Bookshelf](https://www.ncbi.nlm.nih.gov/books/NBK560878/)
+5. Berra LV, Di Rita A, Longhitano F, et al. Far lateral lumbar disc herniation part 1: Imaging, neurophysiology and clinical features. *World J Orthop*. 2021;12(12):961-969. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC8696601/)
+6. Disc herniation. Radiopaedia.org. [radiopaedia.org/articles/disc-herniation](https://radiopaedia.org/articles/disc-herniation)
+
 ## Related Articles
 
 - [Disc Bulge vs Herniation](disc-bulge-vs-herniation.md)

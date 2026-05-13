@@ -53,6 +53,16 @@ For refractory coccydynia (persistent pain beyond 8–12 weeks), options include
 - Treatment is conservative with analgesics and cushioning
 - Coccydynia can become chronic; ganglion impar block and coccygectomy are options for refractory cases
 
+## References
+
+1. Skalski MR, Matcuk GR, Patel DB, Tomasian A, White EA, Gross JS. Imaging Coccygeal Trauma and Coccydynia. *RadioGraphics*. 2020;40(4):1090-1106. <https://pubmed.ncbi.nlm.nih.gov/32609598/>
+2. Garg B, Ahuja K. Coccydynia — A comprehensive review on etiology, radiological features and management options. *Journal of Clinical Orthopaedics and Trauma*. 2021;12(1):123-129. <https://pmc.ncbi.nlm.nih.gov/articles/PMC7920198/>
+3. Maigne JY, Pigeau I, Roger B. Magnetic resonance imaging findings in the painful adult coccyx. *European Spine Journal*. 2012;21(10):2097-2104. <https://pmc.ncbi.nlm.nih.gov/articles/PMC3463700/>
+4. Zhang Y, Gao G. Progress in the diagnosis and treatment of fracture-dislocation of the coccyx (Review). *Experimental and Therapeutic Medicine*. 2025;30(1):127. <https://pmc.ncbi.nlm.nih.gov/articles/PMC12086318/>
+5. Bain HL, Mabrouk A, Foye P. Coccyx Pain. In: *StatPearls*. Treasure Island (FL): StatPearls Publishing; updated August 2025. <https://www.ncbi.nlm.nih.gov/books/NBK563139/>
+6. Coccygeal fracture. *Radiopaedia.org*. <https://radiopaedia.org/articles/coccygeal-fracture>
+7. Coccydynia. *Radiopaedia.org*. <https://radiopaedia.org/articles/coccydynia>
+
 ## Related Articles
 
 - [Sacral Fractures](sacral-fractures.md)

@@ -52,6 +52,15 @@ The psoas muscle runs from T12 to the lesser trochanter of the femur, providing 
 - Gas within the abscess strongly suggests pyogenic infection
 - Calcified abscess wall suggests chronic infection (tuberculosis)
 
+## References
+
+1. Expert Panel on Neurological Imaging, Ortiz AO, Levitt A, Shah LM, et al. ACR Appropriateness Criteria® Suspected Spine Infection. *J Am Coll Radiol.* 2021;18(11S):S488-S501. <https://pubmed.ncbi.nlm.nih.gov/34794603/>
+2. Ledbetter LN, Salzman KL, Shah LM. Imaging psoas sign in lumbar spinal infections: evaluation of diagnostic accuracy and comparison with established imaging characteristics. *AJNR Am J Neuroradiol.* 2016;37(4):736-741. <https://pmc.ncbi.nlm.nih.gov/articles/PMC7960153/>
+3. Torres GM, Cernigliaro JG, Abbitt PL, et al. Iliopsoas compartment: normal anatomy and pathologic processes. *Radiographics.* 1995;15(6):1285-1297. <https://pubmed.ncbi.nlm.nih.gov/8577956/>
+4. Al-Khafaji MQ, Al-Smadi MW, Al-Khafaji MQ, et al. Evaluating imaging techniques for diagnosing and drainage guidance of psoas muscle abscess: a systematic review. *J Clin Med.* 2024;13(11):3199. <https://pmc.ncbi.nlm.nih.gov/articles/PMC11173313/>
+5. Raghavan M, Palestro CJ. Imaging of spondylodiscitis: an update. *Semin Nucl Med.* 2023;53(2):152-166. <https://pubmed.ncbi.nlm.nih.gov/36522190/>
+6. Spondylodiscitis with psoas abscess. *Radiopaedia.org.* <https://radiopaedia.org/cases/spondylodiscitis-with-psoas-abscess>
+
 ## Related Articles
 
 - [Epidural Abscess](epidural-abscess.md)

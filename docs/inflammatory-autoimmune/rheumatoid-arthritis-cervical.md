@@ -42,6 +42,15 @@ RA causes synovial inflammation (pannus) that erodes bone, cartilage, and ligame
 - Pre-operative cervical spine assessment is essential for RA patients undergoing general anesthesia
 - MRI evaluates cord compression; CT evaluates bony erosions; flexion-extension radiographs assess dynamic instability
 
+## References
+
+1. Shlobin NA, Dahdaleh NS. Cervical spine manifestations of rheumatoid arthritis: a review. *Neurosurg Rev.* 2021;44(4):1957-1965. <https://pubmed.ncbi.nlm.nih.gov/33037539/>
+2. Joaquim AF, Ghizoni E, Tedeschi H, Appenzeller S, Riew KD. Radiological evaluation of cervical spine involvement in rheumatoid arthritis. *Neurosurg Focus.* 2015;38(4):E4. <https://thejns.org/focus/view/journals/neurosurg-focus/38/4/article-pE4.xml>
+3. Mańczak M, Gasik R. Cervical spine instability in the course of rheumatoid arthritis — imaging methods. *Reumatologia.* 2017;55(4):201-207. <https://pmc.ncbi.nlm.nih.gov/articles/PMC5647537/>
+4. Lacy J, Bajaj J, Gillis CC. Atlantoaxial Instability. In: *StatPearls.* Treasure Island (FL): StatPearls Publishing; updated 2023 Jun 12. <https://www.ncbi.nlm.nih.gov/books/NBK519563/>
+5. Expert Panel on Neurological Imaging; Eldaya RW, Parsons MS, Hutchins TA, et al. ACR Appropriateness Criteria® Cervical Pain or Cervical Radiculopathy: 2024 Update. *J Am Coll Radiol.* 2025;22(5S):S136-S162. <https://pubmed.ncbi.nlm.nih.gov/40409873/>
+6. Atlantoaxial subluxation — rheumatoid arthritis. *Radiopaedia.org.* <https://radiopaedia.org/cases/atlantoaxial-subluxation-rheumatoid-arthritis-1>
+
 ## Related Articles
 
 - [Atlantoaxial Subluxation in RA](atlantoaxial-subluxation-ra.md)

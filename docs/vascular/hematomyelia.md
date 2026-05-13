@@ -36,6 +36,15 @@ The cord is expanded at the level of hemorrhage. Surrounding edema (T2 hyperinte
 - GRE/SWI is the most sensitive sequence for hemosiderin detection
 - Always evaluate for an underlying vascular malformation or tumor
 
+## References
+
+1. Haematomyelia. *Radiopaedia.org.* https://radiopaedia.org/articles/haematomyelia
+2. Pierce JL, Donahue JH, Nacey NC, et al. Spinal hematomas: what a radiologist needs to know. *RadioGraphics.* 2018;38(5):1516-1535. https://pubmed.ncbi.nlm.nih.gov/30207937/
+3. Moriarty HK, O'Cearbhaill R, Moriarty PD, Stanley E, Lawler LP, Kavanagh EC. MR imaging of spinal haematoma: a pictorial review. *Br J Radiol.* 2018;92(1095):20180532. https://pmc.ncbi.nlm.nih.gov/articles/PMC6541191/
+4. Leep Hunderfund AN, Wijdicks EFM. Intramedullary spinal cord hemorrhage (hematomyelia). *Rev Neurol Dis.* 2009;6(2):E54-E61. https://pubmed.ncbi.nlm.nih.gov/19587631/
+5. Shaban A, Moritani T, Al Kasab S, Sheharyar A, Limaye KS, Adams HP Jr. Spinal cord hemorrhage. *J Stroke Cerebrovasc Dis.* 2018;27(6):1435-1446. https://pubmed.ncbi.nlm.nih.gov/29555403/
+6. Panda A, Diehn FE, Kim DK, et al. Spinal cord cavernous malformations: MRI commonly shows adjacent intramedullary hemorrhage. *J Neuroimaging.* 2020;30(5):690-696. https://pubmed.ncbi.nlm.nih.gov/32462668/
+
 ## Related Articles
 
 - [Cavernous Malformation](cavernous-malformation.md)

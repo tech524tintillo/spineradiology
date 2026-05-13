@@ -36,6 +36,14 @@ CSF pulsation creates motion artifacts on spine MRI that can mimic intradural pa
 - Cardiac gating and flow compensation reduce the artifact
 - Always correlate with T1 post-contrast if an intradural lesion is suspected
 
+## References
+
+1. Pai V, Boutet A, Malik M, et al. Differentiating CSF flow artifacts from pathology: an educational review. Insights Imaging. 2025;16:288. PMCID: PMC12722609. Available from: https://pmc.ncbi.nlm.nih.gov/articles/PMC12722609/
+2. Quint DJ, Patel SC, Sanders WP, Hearshen DO, Boulos RS. Importance of absence of CSF pulsation artifacts in the MR detection of significant myelographic block at 1.5 T. AJNR Am J Neuroradiol. 1989;10(5):1089-1095. PMID: 2505525. Available from: https://pubmed.ncbi.nlm.nih.gov/2505525/
+3. Ehman RL, Felmlee JP. Flow artifact reduction in MRI: a review of the roles of gradient moment nulling and spatial presaturation. Magn Reson Med. 1990;14(2):293-307. PMID: 2345509. Available from: https://pubmed.ncbi.nlm.nih.gov/2345509/
+4. Wymer DT, Patel KP, Burke WF 3rd, Bhatia VK. Phase-Contrast MRI: Physics, Techniques, and Clinical Applications. RadioGraphics. 2020;40(1):122-140. PMID: 31917664. Available from: https://pubmed.ncbi.nlm.nih.gov/31917664/
+5. CSF turbulent flow MRI artifact. Radiopaedia.org. Available from: https://radiopaedia.org/cases/mri-artifact-by-csf-turbulent-flow-1
+
 ## Related Articles
 
 - [MRI Artifacts and Pitfalls](mri-artifacts-pitfalls.md)

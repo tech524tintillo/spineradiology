@@ -60,6 +60,16 @@ Mixed lytic and blastic components within the same lesion or different lesions i
 - The ivory vertebra differential includes blastic metastasis, Paget disease, and lymphoma
 - PET/CT is more sensitive than bone scan for lytic metastases
 
+## References
+
+1. Shah LM, Salzman KL. Imaging of spinal metastatic disease. Int J Surg Oncol. 2011;2011:769753. Available from: https://pmc.ncbi.nlm.nih.gov/articles/PMC3263660/
+2. Reddington JA, Mendez GA, Ching A, Kubicky CD, Klimo P Jr, Ragel BT. Imaging characteristic analysis of metastatic spine lesions from breast, prostate, lung, and renal cell carcinomas for surgical planning: osteolytic versus osteoblastic. Surg Neurol Int. 2016;7(Suppl 13):S361–S365. Available from: https://pmc.ncbi.nlm.nih.gov/articles/PMC4879848/
+3. Braun RA, Milito CFRB, Goldman SM, Fernandes EA. Ivory vertebra: imaging findings in different diagnoses. Radiol Bras. 2016;49(2):117–121. Available from: https://pmc.ncbi.nlm.nih.gov/articles/PMC4851483/
+4. Graham TS. The ivory vertebra sign. Radiology. 2005;235(2):614–615. Available from: https://pubmed.ncbi.nlm.nih.gov/15858100/
+5. Böker SM, Adams LC, Bender YY, Fahlenkamp UL, Wagner M, Hamm B, Makowski MR. Differentiation of predominantly osteoblastic and osteolytic spine metastases by using susceptibility-weighted MRI. Radiology. 2019;290(1):146–154. Available from: https://pubmed.ncbi.nlm.nih.gov/30375926/
+6. Gaillard F, et al. Ivory vertebra. Radiopaedia.org. Available from: https://radiopaedia.org/articles/ivory-vertebra-1
+7. Gaillard F, et al. Lytic bone metastases. Radiopaedia.org. Available from: https://radiopaedia.org/articles/lytic-bone-metastases-1
+
 ## Related Articles
 
 - [Vertebral Body Metastases](vertebral-metastases.md)

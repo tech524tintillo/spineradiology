@@ -75,6 +75,16 @@ Gadolinium-based contrast agents (GBCAs) are intravenous paramagnetic substances
 - Screen renal function before administration; use macrocyclic agents when possible
 - Not needed routinely for degenerative disease, stenosis, or straightforward disc herniations
 
+## References
+
+1. Gadolinium contrast agents. Radiopaedia. Available from: https://radiopaedia.org/articles/gadolinium-contrast-agents
+2. Ibrahim MA, Hazhirkarzar B, Dublin AB. Gadolinium magnetic resonance imaging. In: StatPearls. Treasure Island (FL): StatPearls Publishing; 2023. Available from: https://www.ncbi.nlm.nih.gov/books/NBK482487/
+3. Ramalho J, Semelka RC, Ramalho M, Nunes RH, AlObaidy M, Castillo M. Gadolinium-based contrast agent accumulation and toxicity: an update. AJNR Am J Neuroradiol. 2016;37(7):1192-1198.
+4. Mathur M, Jones JR, Weinreb JC. Gadolinium deposition and nephrogenic systemic fibrosis: a radiologist's primer. RadioGraphics. 2020;40(1):153-162.
+5. Radbruch A, Weberling LD, Kieslich PJ, et al. Gadolinium retention in the dentate nucleus and globus pallidus is dependent on the class of contrast agent. Radiology. 2015;275(3):783-791.
+6. Haughton V, Schreibman K, De Smet A. Contrast between scar and recurrent herniated disk on contrast-enhanced MR images. AJNR Am J Neuroradiol. 2002;23(10):1652-1656.
+7. Welker KM, Joyner D, Kam AW, et al. State of practice: ASNR statement on gadolinium-based contrast agent use in patients with chronic kidney disease. AJNR Am J Neuroradiol. 2025;46(2):227-230.
+
 ## Related Articles
 
 - [MRI of the Spine](mri-spine.md)

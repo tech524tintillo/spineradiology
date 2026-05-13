@@ -28,6 +28,15 @@ A lipomyelomeningocele is a form of closed spinal dysraphism in which a lipoma i
 - Cord is tethered at the lipoma attachment point
 - Surgical debulking and untethering is indicated for symptomatic patients
 
+## References
+
+1. Trapp B, Freddi TAL, Hans MOM, et al. A Practical Approach to Diagnosis of Spinal Dysraphism. RadioGraphics. 2021;41(2):559-575. doi:10.1148/rg.2021200103. PMID: 33449837. Available from: https://pubs.rsna.org/doi/full/10.1148/rg.2021200103
+2. Kumar J, Afsal M, Garg A. Imaging spectrum of spinal dysraphism on magnetic resonance: A pictorial review. World J Radiol. 2017;9(4):178-190. PMID: 28529681. Available from: https://pmc.ncbi.nlm.nih.gov/articles/PMC5415887/
+3. Morota N, Ihara S, Ogiwara H. New classification of spinal lipomas based on embryonic stage. J Neurosurg Pediatr. 2017;19(4):428-439. doi:10.3171/2016.10.PEDS16247. PMID: 28128702. Available from: https://pubmed.ncbi.nlm.nih.gov/28128702/
+4. Pang D. Surgical management of complex spinal cord lipomas: how, why, and when to operate. A review. J Neurosurg Pediatr. 2019;23(5):537-556. doi:10.3171/2019.2.PEDS18390. PMID: 31042665. Available from: https://pubmed.ncbi.nlm.nih.gov/31042665/
+5. Chellathurai A, Kathirvelu G, Mukkada PJ, Rajendran K, Ramani R. Spinal Dysraphisms: A New Anatomical-Clinicoradiological Classification. Indian J Radiol Imaging. 2022;31(4):809-829. doi:10.1055/s-0041-1741100. PMID: 35136492. Available from: https://pmc.ncbi.nlm.nih.gov/articles/PMC8817824/
+6. Lipomyelomeningocele. Radiopaedia.org. Available from: https://radiopaedia.org/articles/lipomyelomeningocele-1
+
 ## Related Articles
 
 - [Tethered Cord Syndrome](tethered-cord.md)

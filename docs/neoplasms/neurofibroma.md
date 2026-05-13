@@ -38,6 +38,16 @@ Multiple neurofibromas, particularly plexiform neurofibromas, are a hallmark of 
 - Risk of malignant transformation (MPNST) in NF1 patients (8–13%)
 - Distinguish from schwannoma — neurofibromas are fusiform and inseparable from the nerve
 
+## References
+
+1. Messersmith L, Krauland K. Neurofibroma. In: StatPearls. Treasure Island (FL): StatPearls Publishing; 2023. Available from: https://www.ncbi.nlm.nih.gov/books/NBK539707/
+2. Wang MX, Dillman JR, Guccione J, Habiba A, Maher M, Kamel S, et al. Neurofibromatosis from head to toe: what the radiologist needs to know. RadioGraphics. 2022;42(4):1123-1144.
+3. Wasa J, Nishida Y, Tsukushi S, Shido Y, Sugiura H, Nakashima H, et al. MRI features in the differentiation of malignant peripheral nerve sheath tumors and neurofibromas. AJR Am J Roentgenol. 2010;194(6):1568-1574.
+4. Kakkar C, Shetty CM, Koteshwara P, Bajpai S. Telltale signs of peripheral neurogenic tumors on magnetic resonance imaging. Indian J Radiol Imaging. 2015;25(4):453-458.
+5. Fisher MJ, Blakeley JO, Weiss BD, Dombi E, Ahlawat S, Akshintala S, et al. Management of neurofibromatosis type 1-associated plexiform neurofibromas. Neuro Oncol. 2022;24(11):1827-1844.
+6. Ahlawat S, Ly KI, Fayad LM, Fisher MJ, Lessing AJ, Berg DJ, et al. Imaging evaluation of plexiform neurofibromas in neurofibromatosis type 1: a survey-based assessment. Neurology. 2021;97(7 Suppl 1):S111-S119.
+7. Spinal neurofibroma. Radiopaedia.org. Available from: https://radiopaedia.org/articles/spinal-neurofibroma
+
 ## Related Articles
 
 - [Schwannoma](schwannoma.md)

@@ -41,6 +41,18 @@ In the lumbar spine, the nerve root exits **below** the same-numbered pedicle:
 - Clinical-imaging correlation (matching symptoms to specific root to specific structural cause) is the cornerstone of spine radiology
 - The image findings must match the clinical presentation to be clinically significant
 
+## References
+
+1. Margetis K, Magnus W, Mesfin FB. Cervical Radiculopathy. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing. Available from: https://www.ncbi.nlm.nih.gov/books/NBK441828/
+2. Alexander CE, Weisbrod LJ, Varacallo MA. Lumbosacral Radiculopathy. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing. Available from: https://www.ncbi.nlm.nih.gov/books/NBK430837/
+3. Dydyk AM, Khan MZ, Singh P. Radicular Back Pain. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing. Available from: https://www.ncbi.nlm.nih.gov/books/NBK546593/
+4. Expert Panel on Neurological Imaging; Hutchins TA, Peckham M, Shah LM, Parsons MS, et al. ACR Appropriateness Criteria® Low Back Pain: 2021 Update. J Am Coll Radiol. 2021;18(11S):S361-S379. Available from: https://pubmed.ncbi.nlm.nih.gov/34794594/
+5. Expert Panel on Neurological Imaging; Eldaya RW, Parsons MS, Hutchins TA, et al. ACR Appropriateness Criteria® Cervical Pain or Cervical Radiculopathy: 2024 Update. J Am Coll Radiol. 2025;22(5S):S136-S162. Available from: https://pubmed.ncbi.nlm.nih.gov/40409873/
+6. Berry JA, Elia C, Saini HS, Miulli DE. A Review of Lumbar Radiculopathy, Diagnosis, and Treatment. Cureus. 2019;11(10):e5934. Available from: https://pmc.ncbi.nlm.nih.gov/articles/PMC6858271/
+7. Kang KC, Lee HS, Lee JH. Cervical Radiculopathy Focus on Characteristics and Differential Diagnosis. Asian Spine J. 2020;14(6):921-930. Available from: https://pmc.ncbi.nlm.nih.gov/articles/PMC7788378/
+8. Soltani ZR, Sajadi S, Tavana B. A comparison of magnetic resonance imaging with electrodiagnostic findings in the evaluation of clinical radiculopathy: a cross-sectional study. Eur Spine J. 2014;23(4):916-921. Available from: https://pmc.ncbi.nlm.nih.gov/articles/PMC3960424/
+9. Radiopaedia. Lumbar disc disease. Available from: https://radiopaedia.org/articles/lumbar-disc-disease
+
 ## Related Articles
 
 - [Myelopathy Imaging Correlation](myelopathy.md)

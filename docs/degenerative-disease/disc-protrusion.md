@@ -30,6 +30,16 @@ A disc protrusion is a type of herniation in which the base of the displaced dis
 - Clinical significance depends on location and degree of neural compression
 - Best characterized on axial T2 MRI
 
+## References
+
+1. Fardon DF, Williams AL, Dohring EJ, Murtagh FR, Gabriel Rothman SL, Sze GK. Lumbar disc nomenclature: version 2.0: Recommendations of the combined task forces of the North American Spine Society, the American Society of Spine Radiology and the American Society of Neuroradiology. *Spine J.* 2014;14(11):2525–2545. https://pubmed.ncbi.nlm.nih.gov/24768732/
+2. Gaillard F, et al. Disc protrusion. *Radiopaedia.org.* https://radiopaedia.org/articles/disc-protrusion
+3. Smithuis R, van Loon J. Lumbar Disc Nomenclature 2.0. *The Radiology Assistant.* https://radiologyassistant.nl/neuroradiology/spine/lumbar-disc-nomenclature-2-0
+4. Bowen BC, Pattany PM. Spine nomenclature. *Radsource MRI Web Clinic.* https://radsource.us/spine-nomenclature/
+5. Brinjikji W, Luetmer PH, Comstock B, et al. Systematic Literature Review of Imaging Features of Spinal Degeneration in Asymptomatic Populations. *AJNR Am J Neuroradiol.* 2015;36(4):811–816. https://pmc.ncbi.nlm.nih.gov/articles/PMC4464797/
+6. Brinjikji W, Diehn FE, Jarvik JG, et al. MRI Findings of Disc Degeneration are More Prevalent in Adults with Low Back Pain than in Asymptomatic Controls: A Systematic Review and Meta-Analysis. *AJNR Am J Neuroradiol.* 2015;36(12):2394–2399. https://pubmed.ncbi.nlm.nih.gov/26359154/
+7. Suthar P, Patel R, Mehta C, Patel N. MRI Evaluation of Lumbar Disc Degenerative Disease. *J Clin Diagn Res.* 2015;9(4):TC04–TC09. https://pmc.ncbi.nlm.nih.gov/articles/PMC4437133/
+
 ## Related Articles
 
 - [Disc Bulge vs Herniation](disc-bulge-vs-herniation.md)

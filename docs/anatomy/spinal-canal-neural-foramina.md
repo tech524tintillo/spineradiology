@@ -84,6 +84,15 @@ Each neural foramen is bounded by:
 - CT is best for bony canal measurements; MRI is best for evaluating soft tissue stenosis and neural compression
 - Sagittal T1 MRI is the key sequence for foraminal stenosis evaluation
 
+## References
+
+1. Lee S, Lee JW, Yeom JS, et al. A practical MRI grading system for lumbar foraminal stenosis. *AJR Am J Roentgenol*. 2010;194(4):1095-1098. doi:10.2214/AJR.09.2772. [PubMed](https://pubmed.ncbi.nlm.nih.gov/20308517/)
+2. Seo J, Lee JW. Magnetic Resonance Imaging Grading Systems for Central Canal and Neural Foraminal Stenoses of the Lumbar and Cervical Spines With a Focus on the Lee Grading System. *Korean J Radiol*. 2023;24(3):224-234. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36788771/)
+3. Peabody T, Black AC, Das JM. Anatomy, Back, Vertebral Canal. In: *StatPearls*. Treasure Island (FL): StatPearls Publishing; updated November 16, 2023. [NCBI Bookshelf](https://www.ncbi.nlm.nih.gov/books/NBK557587/)
+4. Ulbrich EJ, Schraner C, Boesch C, et al. Normative MR cervical spinal canal dimensions. *Radiology*. 2014;271(1):172-182. doi:10.1148/radiol.13120370. [PubMed](https://pubmed.ncbi.nlm.nih.gov/24475792/)
+5. Sioutas G, Kapetanakis S. Clinical anatomy and clinical significance of the cervical intervertebral foramen: a review. *Folia Morphol (Warsz)*. 2016;75(2):143-148. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26542962/)
+6. Demondion X, Lefebvre G, Fisch O, Vandenbussche L, Cepparo J, Balbi V. Radiographic anatomy of the intervertebral cervical and lumbar foramina (vessels and variants). *Diagn Interv Imaging*. 2012;93(9):690-697. [PubMed](https://pubmed.ncbi.nlm.nih.gov/22883939/)
+
 ## Related Articles
 
 - [Vertebral Column Overview](vertebral-column-overview.md)

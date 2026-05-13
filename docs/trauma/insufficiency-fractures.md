@@ -63,6 +63,15 @@ Key features:
 - Always evaluate for underlying causes (osteoporosis, malignancy, metabolic disease)
 - Treatment is primarily conservative with management of the underlying bone disease
 
+## References
+
+1. Lyders EM, Whitlow CT, Baker MD, Morris PP. Imaging and treatment of sacral insufficiency fractures. *AJNR Am J Neuroradiol*. 2010;31(2):201-210. doi:10.3174/ajnr.A1666. [PMC7964142](https://pmc.ncbi.nlm.nih.gov/articles/PMC7964142/)
+2. Fujii M, Abe K, Hayashi K, et al. Honda sign and variants in patients suspected of having a sacral insufficiency fracture. *Clin Nucl Med*. 2005;30(3):165-169. [PubMed 15722819](https://pubmed.ncbi.nlm.nih.gov/15722819/)
+3. Blake SP, Connors AM. Sacral insufficiency fracture. *Br J Radiol*. 2004;77(922):891-896. doi:10.1259/bjr/81974373. [PubMed 15483007](https://pubmed.ncbi.nlm.nih.gov/15483007/)
+4. Grangier C, Garcia J, Howarth NR, May M, Rossier P. Role of MRI in the diagnosis of insufficiency fractures of the sacrum and acetabular roof. *Skeletal Radiol*. 1997;26(9):517-524. doi:10.1007/s002560050278. [PubMed 9342810](https://pubmed.ncbi.nlm.nih.gov/9342810/)
+5. Oh D, Huh SJ. Insufficiency fracture after radiation therapy. *Radiat Oncol J*. 2014;32(4):213-220. doi:10.3857/roj.2014.32.4.213. [PMC4282995](https://pmc.ncbi.nlm.nih.gov/articles/PMC4282995/)
+6. Uezono H, Tsujino K, Moriki K, et al. Pelvic insufficiency fracture after definitive radiotherapy for uterine cervical cancer: retrospective analysis of risk factors. *J Radiat Res*. 2013;54(6):1102-1109. [PMC3823778](https://pmc.ncbi.nlm.nih.gov/articles/PMC3823778/)
+
 ## Related Articles
 
 - [Sacral Fractures](sacral-fractures.md)

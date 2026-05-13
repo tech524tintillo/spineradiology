@@ -56,6 +56,17 @@ A spinal epidural abscess (SEA) is a collection of purulent material in the epid
 - Associated spondylodiscitis is present in 50–80%
 - Neurological outcome depends on preoperative deficit severity and time to decompression
 
+## References
+
+1. Darouiche RO. Spinal epidural abscess. *N Engl J Med.* 2006;355(19):2012-2020. <https://pubmed.ncbi.nlm.nih.gov/17093252/>
+2. Hall WA, Munakomi S, Mesfin FB. Spinal Epidural Abscess. In: *StatPearls.* Treasure Island (FL): StatPearls Publishing; updated 2025 Nov 8. <https://www.ncbi.nlm.nih.gov/books/NBK441890/>
+3. Expert Panel on Neurological Imaging, Ortiz AO, Levitt A, Shah LM, et al. ACR Appropriateness Criteria® Suspected Spine Infection. *J Am Coll Radiol.* 2021;18(11S):S488-S501. <https://pubmed.ncbi.nlm.nih.gov/34794603/>
+4. Numaguchi Y, Rigamonti D, Rothman MI, Sato S, Mihara F, Sadato N. Spinal epidural abscess: evaluation with gadolinium-enhanced MR imaging. *RadioGraphics.* 1993;13(3):545-559. <https://pubmed.ncbi.nlm.nih.gov/8316663/>
+5. Eastwood JD, Vollmer RT, Provenzale JM. Diffusion-weighted imaging in a patient with vertebral and epidural abscesses. *AJNR Am J Neuroradiol.* 2002;23(3):496-498. <https://pubmed.ncbi.nlm.nih.gov/11901028/>
+6. Dumont RA, Keen NN, Bloomer CW, et al. Clinical Utility of Diffusion-Weighted Imaging in Spinal Infections. *Clin Neuroradiol.* 2019;29(3):515-522. <https://pubmed.ncbi.nlm.nih.gov/29582111/>
+7. Sharfman ZT, Gelfand Y, Shah P, et al. Spinal Epidural Abscess: A Review of Presentation, Management, and Medicolegal Implications. *Asian Spine J.* 2020;14(5):742-759. <https://pmc.ncbi.nlm.nih.gov/articles/PMC7595828/>
+8. Spinal epidural abscess. *Radiopaedia.org.* <https://radiopaedia.org/articles/spinal-epidural-abscess>
+
 ## Related Articles
 
 - [Pyogenic Spondylodiscitis](pyogenic-spondylodiscitis.md)

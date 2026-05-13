@@ -40,6 +40,15 @@ A spinal cavernous malformation (cavernoma) is a low-flow vascular lesion compos
 - Presents with recurrent hemorrhage or progressive myelopathy
 - Surgical excision for symptomatic or accessible lesions
 
+## References
+
+1. Spinal cord cavernous malformation. *Radiopaedia.org.* https://radiopaedia.org/articles/spinal-cord-cavernous-malformation
+2. Caton MT, Karsonovich T, Shenoy VS. Cerebral Cavernous Malformations. In: *StatPearls.* Treasure Island (FL): StatPearls Publishing; updated 2025 Jan 21. https://www.ncbi.nlm.nih.gov/books/NBK538144/
+3. Panda A, Diehn FE, Kim DK, et al. Spinal Cord Cavernous Malformations: MRI Commonly Shows Adjacent Intramedullary Hemorrhage. *J Neuroimaging.* 2020;30(5):690-696. https://pubmed.ncbi.nlm.nih.gov/32462668/
+4. Mabray MC, Starcevich J, Hallstrom J, et al. High Prevalence of Spinal Cord Cavernous Malformations in the Familial Cerebral Cavernous Malformations Type 1 Cohort. *AJNR Am J Neuroradiol.* 2020;41(6):1126-1130. https://pubmed.ncbi.nlm.nih.gov/32467184/
+5. Rios-Zermeno J, Ghaith AK, Navarro-Garcia de Llano JP, et al. Surgical versus conservative management of spinal cord cavernous malformations: a systematic review and comparative meta-analysis. *J Neurosurg Spine.* 2025;42(4):509-519. https://pubmed.ncbi.nlm.nih.gov/39889295/
+6. Ohnishi YI, Nakajima N, Takenaka T, et al. Conservative and Surgical Management of Spinal Cord Cavernous Malformations. *World Neurosurg X.* 2020;5:100066. https://pubmed.ncbi.nlm.nih.gov/31891154/
+
 ## Related Articles
 
 - [Hematomyelia](hematomyelia.md)

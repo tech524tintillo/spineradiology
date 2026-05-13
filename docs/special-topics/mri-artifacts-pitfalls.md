@@ -38,6 +38,14 @@ Spine MRI is susceptible to several artifacts that can mimic pathology or obscur
 - Chemical shift at endplates can mimic fracture or Modic changes
 - CSF flow artifact is covered separately
 
+## References
+
+1. Taber KH, Herrick RC, Weathers SW, Kumar AJ, Schomer DF, Hayman LA. Pitfalls and artifacts encountered in clinical MR imaging of the spine. RadioGraphics. 1998;18(6):1499-1521.
+2. Noda C, Ambale Venkatesh B, Wagner JD, Kato Y, Ortman JM, Lima JAC. Primer on commonly occurring MRI artifacts and how to overcome them. RadioGraphics. 2022;42(3):E102-E103.
+3. Olsen RV, Munk PL, Lee MJ, Janzen DL, MacKay AL, Xiang QS, Masri B. Metal artifact reduction sequence: early clinical applications. RadioGraphics. 2000;20(3):699-712.
+4. Krupa K, Bekiesińska-Figatowska M. Artifacts in magnetic resonance imaging. Pol J Radiol. 2015;80:93-106.
+5. MRI artifacts. Radiopaedia.org. Available from: https://radiopaedia.org/articles/mri-artifacts-1
+
 ## Related Articles
 
 - [CSF Flow Artifacts](csf-flow-artifacts.md)

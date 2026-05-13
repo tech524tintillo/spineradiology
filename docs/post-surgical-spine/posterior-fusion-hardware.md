@@ -46,6 +46,15 @@ Posterior spinal fusion is the most common instrumented spinal surgery. Pedicle 
 - Medial pedicle breach is more clinically significant than lateral
 - Always assess fusion status — hardware alone does not indicate successful fusion
 
+## References
+
+1. Wuertzer SD, Pohl EC, Stevens EA, Geer CP. Spinal Fusion: Role of Perioperative Radiography. RadioGraphics. 2023;43(4):e220061. doi:10.1148/rg.220061.
+2. Ghodasara N, Yi PH, Clark K, Fishman EK, Farshad M, Fritz J. Postoperative Spinal CT: What the Radiologist Needs to Know. RadioGraphics. 2019;39(6):1840-1861. doi:10.1148/rg.2019190050.
+3. Rutherford EE, Tarplett LJ, Davies EM, Harley JM, King LJ. Lumbar spine fusion and stabilization: hardware, techniques, and imaging appearances. RadioGraphics. 2007;27(6):1737-1749. doi:10.1148/rg.276065205.
+4. Ha AS, Petscavage-Thomas JM. Imaging of current spinal hardware: lumbar spine. AJR Am J Roentgenol. 2014;203(3):573-581. doi:10.2214/AJR.13.12217.
+5. Wu X, Shi J, Wu J, Cheng Y, Peng K, Chen J, Jiang H. Pedicle screw loosening: the value of radiological imagings and the identification of risk factors assessed by extraction torque during screw removal surgery. J Orthop Surg Res. 2019;14(1):6. doi:10.1186/s13018-018-1046-0.
+6. Gertzbein and Robbins classification of pedicle screw position. Radiopaedia.org. https://radiopaedia.org/articles/gertzbein-and-robbins-classification-of-pedicle-screw-position. Accessed May 13, 2026.
+
 ## Related Articles
 
 - [Hardware Failure](hardware-failure.md)

@@ -32,6 +32,14 @@ The dermal sinus tract provides a direct conduit for bacteria from the skin surf
 - Recurrent meningitis in a child should prompt evaluation for a dermal sinus
 - Surgical excision of the tract is indicated to prevent recurrent infection
 
+## References
+
+1. Gaillard F, et al. Dorsal dermal sinus. Radiopaedia.org. Available at: https://radiopaedia.org/articles/dorsal-dermal-sinus
+2. Lee SM, Cheon JE, Choi YH, Kim IO, Kim WS, Cho HH, Lee JY, Wang KC. Limited Dorsal Myeloschisis and Congenital Dermal Sinus: Comparison of Clinical and MR Imaging Features. AJNR Am J Neuroradiol. 2017;38(1):176–182. PMID: 27765739. PMCID: PMC7963655.
+3. Barkovich AJ, Edwards MS, Cogen PH. MR evaluation of spinal dermal sinus tracts in children. AJNR Am J Neuroradiol. 1991;12(1):123–129. PMID: 1903240.
+4. Lane J, Dias M, Iantosca M, Zacharia T, Tubbs RS, Rizk E. Dermal Sinus Tract of Lumbosacral Spine in Children: Patterns on Magnetic Resonance Imaging and Scoring System. Cureus. 2017;9(12):e1906. doi:10.7759/cureus.1906. PMID: 30944782. PMCID: PMC6438690.
+5. Singh I, Rohilla S, Kumar P, Sharma S. Spinal dorsal dermal sinus tract: An experience of 21 cases. Surg Neurol Int. 2015;6(Suppl 17):S429–S434. PMID: 26539316. PMCID: PMC4604646.
+
 ## Related Articles
 
 - [Spinal Dysraphism Overview](spinal-dysraphism.md)

@@ -40,6 +40,16 @@ A hemivertebra is a congenital anomaly of vertebral formation in which only one 
 - Contralateral bar + hemivertebra is the worst combination for progressive deformity
 - Posterior hemivertebra causing kyphosis is more dangerous than lateral (scoliosis)
 
+## References
+
+1. Johal J, Loukas M, Fisahn C, Chapman JR, Oskouian RJ, Tubbs RS. Hemivertebrae: a comprehensive review of embryology, imaging, classification, and management. Childs Nerv Syst. 2016;32(11):2105-2109. doi:10.1007/s00381-016-3195-y. PMID: 27449768.
+2. McMaster MJ, Ohtsuka K. The natural history of congenital scoliosis. A study of two hundred and fifty-one patients. J Bone Joint Surg Am. 1982;64(8):1128-1147. PMID: 7130226.
+3. Belmont PJ Jr, Kuklo TR, Taylor KF, Freedman BA, Prahinski JR, Kruse RW. Intraspinal anomalies associated with isolated congenital hemivertebra: the role of routine magnetic resonance imaging. J Bone Joint Surg Am. 2004;86(8):1704-1710. PMID: 15292418.
+4. Aboughalia H, Noda S, Chapman T, Revzin MV, Deutsch GH, Browd SR, Katz DS, Moshiri M. Multimodality Imaging Evaluation of Fetal Spine Anomalies with Postnatal Correlation. RadioGraphics. 2021;41(7):2176-2192. doi:10.1148/rg.2021210066. PMID: 34723699.
+5. Rong T, Jiao Y, Huang Y, Feng E, Sun H, Zhao J, Shen J. Morphological analysis of isolated hemivertebra: radiographic manifestations related to the severity of congenital scoliosis. BMC Musculoskelet Disord. 2024;25(1):112. doi:10.1186/s12891-024-07193-8. PMID: 38317143; PMCID: PMC10840169.
+6. Solomon BD, Baker LA, Bear KA, et al. An approach to the identification of anomalies and etiologies in neonates with identified or suspected VACTERL (vertebral defects, anal atresia, tracheo-esophageal fistula with esophageal atresia, cardiac defects, renal and limb anomalies) association. J Pediatr. 2014;164(3):451-457.e1. doi:10.1016/j.jpeds.2013.10.086. PMID: 24332453; PMCID: PMC3943871.
+7. Hemivertebra. Radiopaedia.org. https://radiopaedia.org/articles/hemivertebra. Accessed May 13, 2026.
+
 ## Related Articles
 
 - [Butterfly Vertebra](butterfly-vertebra.md)

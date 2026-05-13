@@ -53,6 +53,18 @@ Similar structure but adapted for the lumbar spine:
 - Report cord signal changes explicitly — T2 hyperintensity = myelopathy until proven otherwise
 - Include all levels, even if normal — "no stenosis at L1-2" is clinically useful information
 
+## References
+
+1. Fardon DF, Williams AL, Dohring EJ, Murtagh FR, Gabriel Rothman SL, Sze GK. Lumbar disc nomenclature: version 2.0: Recommendations of the combined task forces of the North American Spine Society, the American Society of Spine Radiology and the American Society of Neuroradiology. Spine J. 2014;14(11):2525-45. doi:10.1016/j.spinee.2014.04.022. PMID: 24768732. Available from: https://pubmed.ncbi.nlm.nih.gov/24768732/
+
+2. Pfirrmann CW, Metzdorf A, Zanetti M, Hodler J, Boos N. Magnetic resonance classification of lumbar intervertebral disc degeneration. Spine (Phila Pa 1976). 2001;26(17):1873-8. doi:10.1097/00007632-200109010-00011. PMID: 11568697. Available from: https://pubmed.ncbi.nlm.nih.gov/11568697/
+
+3. Nobel JM, van Geel K, Robben SGF. Structured reporting in radiology: a systematic review to explore its potential. Eur Radiol. 2022;32(4):2837-2854. doi:10.1007/s00330-021-08327-5. PMID: 34652520. Available from: https://pubmed.ncbi.nlm.nih.gov/34652520/
+
+4. Caglayan L, Ugurlu T, Bolog N, Yoon D, Nour Y, Péporté A, Andreisek G, Brendle C. Structured vs. unstructured MRI reporting for lumbar spine degenerative conditions: a comparative evaluation using a custom radiology template. Skeletal Radiol. 2026;55(1):81-95. doi:10.1007/s00256-025-04981-8. PMID: 40751740. Available from: https://pubmed.ncbi.nlm.nih.gov/40751740/
+
+5. European Society of Radiology (ESR). ESR paper on structured reporting in radiology. Insights Imaging. 2018;9(1):1-7. doi:10.1007/s13244-017-0588-8. PMID: 29460129. Available from: https://pubmed.ncbi.nlm.nih.gov/29460129/
+
 ## Related Articles
 
 - [Structured Reporting — Spine CT](structured-reporting-ct.md)

@@ -42,6 +42,14 @@ Myxopapillary ependymoma is a slow-growing, WHO grade II variant of ependymoma t
 - Can disseminate via CSF despite low-grade histology — whole-spine staging MRI is essential
 - En bloc resection reduces recurrence risk compared to piecemeal removal
 
+## References
+
+1. Gaillard F, Murphy A, et al. Myxopapillary ependymoma. Radiopaedia.org. Available from: https://radiopaedia.org/articles/myxopapillary-ependymoma-1
+2. Limaiem F, Das JM. Myxopapillary Ependymoma. In: StatPearls. Treasure Island (FL): StatPearls Publishing; 2023. Available from: https://www.ncbi.nlm.nih.gov/books/NBK559172/
+3. Kresbach C, Neyazi S, Schüller U. Updates in the classification of ependymal neoplasms: the 2021 WHO Classification and beyond. Brain Pathol. 2022;32(4):e13068.
+4. Wippold FJ 2nd, Smirniotopoulos JG, Moran CJ, Suojanen JN, Vollmer DG. MR imaging of myxopapillary ependymoma: findings and value to determine extent of tumor and its relation to intraspinal structures. AJR Am J Roentgenol. 1995;165(5):1263-7.
+5. Soto CJ, Novick SD, Poojita ANL, Khan S, Khan MW, Holder SS. Spinal myxopapillary ependymoma: a rare case and review of management strategies. Cureus. 2023;15(5):e39381.
+
 ## Related Articles
 
 - [Ependymoma](ependymoma.md)

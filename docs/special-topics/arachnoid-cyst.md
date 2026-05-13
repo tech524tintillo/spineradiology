@@ -36,6 +36,15 @@ Spinal arachnoid cysts are CSF-filled cysts within or adjacent to the thecal sac
 - Intradural cysts are usually dorsal to the cord
 - Surgical fenestration or excision for symptomatic cysts
 
+## References
+
+1. Nabors MW, Pait TG, Byrd EB, Karim NO, Davis DO, Kobrine AI, Rizzoli HV. Updated assessment and current classification of spinal meningeal cysts. J Neurosurg. 1988;68(3):366-77. doi:10.3171/jns.1988.68.3.0366. PMID:3343608.
+2. Liu JK, Cole CD, Kan P, Schmidt MH. Spinal extradural arachnoid cysts: clinical, radiological, and surgical features. Neurosurg Focus. 2007;22(2):E6. doi:10.3171/foc.2007.22.2.6. PMID:17608349.
+3. Ahmed AK, Anisetti B, Huynh T, Agarwal A, Gupta V, Desai A, Singh R, Vibhute P. Clinical and imaging features of spinal extradural arachnoid cysts: a retrospective study of 50 cases. Neuroradiology. 2022;64(12):2409-2416. doi:10.1007/s00234-022-03042-4. PMID:35970946.
+4. Kalsi P, Hejrati N, Charalampidis A, Wu PH, Schneider M, Wilson JRF, Gao AF, Massicotte EM, Fehlings MG. Spinal arachnoid cysts: A case series & systematic review of the literature. Brain Spine. 2022;2:100904. doi:10.1016/j.bas.2022.100904. PMCID:PMC9560677.
+5. Spinal arachnoid cyst. Radiopaedia.org. Available from: https://radiopaedia.org/articles/spinal-arachnoid-cyst
+6. Classification of spinal meningeal cysts. Radiopaedia.org. Available from: https://radiopaedia.org/articles/classification-of-spinal-meningeal-cysts-1
+
 ## Related Articles
 
 - [Tarlov Cysts](tarlov-cysts.md)

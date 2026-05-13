@@ -59,6 +59,16 @@ The degenerative cascade involves three overlapping phases (Kirkaldy-Willis mode
 - Disc degeneration is extremely prevalent in asymptomatic individuals — imaging must correlate with clinical findings
 - The degenerative cascade progresses from dysfunction through instability to restabilization
 
+## References
+
+1. Pfirrmann CW, Metzdorf A, Zanetti M, Hodler J, Boos N. Magnetic resonance classification of lumbar intervertebral disc degeneration. *Spine (Phila Pa 1976)*. 2001;26(17):1873-1878. [https://pubmed.ncbi.nlm.nih.gov/11568697/](https://pubmed.ncbi.nlm.nih.gov/11568697/)
+2. Modic MT, Ross JS. Lumbar degenerative disk disease. *Radiology*. 2007;245(1):43-61. [https://pubs.rsna.org/doi/abs/10.1148/radiol.2451051706](https://pubs.rsna.org/doi/abs/10.1148/radiol.2451051706)
+3. Brinjikji W, Luetmer PH, Comstock B, et al. Systematic literature review of imaging features of spinal degeneration in asymptomatic populations. *AJNR Am J Neuroradiol*. 2015;36(4):811-816. [https://pubmed.ncbi.nlm.nih.gov/25430861/](https://pubmed.ncbi.nlm.nih.gov/25430861/)
+4. Brinjikji W, Diehn FE, Jarvik JG, et al. MRI findings of disc degeneration are more prevalent in adults with low back pain than in asymptomatic controls: a systematic review and meta-analysis. *AJNR Am J Neuroradiol*. 2015;36(12):2394-2399. [https://pubmed.ncbi.nlm.nih.gov/26359154/](https://pubmed.ncbi.nlm.nih.gov/26359154/)
+5. Kushchayev SV, Glushko T, Jarraya M, et al. ABCs of the degenerative spine. *Insights Imaging*. 2018;9(2):253-274. [https://pubmed.ncbi.nlm.nih.gov/29569215/](https://pubmed.ncbi.nlm.nih.gov/29569215/)
+6. Scarcia L, Pileggi M, Camilli A, et al. Degenerative disc disease of the spine: from anatomy to pathophysiology and radiological appearance, with morphological and functional considerations. *J Pers Med*. 2022;12(11):1810. [https://pmc.ncbi.nlm.nih.gov/articles/PMC9698646/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9698646/)
+7. Degenerated disc. Radiopaedia.org. [https://radiopaedia.org/articles/degenerated-disc-1](https://radiopaedia.org/articles/degenerated-disc-1)
+
 ## Related Articles
 
 - [Intervertebral Disc](../anatomy/intervertebral-disc.md)

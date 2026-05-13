@@ -40,6 +40,15 @@ Osteoporotic compression fractures are the most common fragility fractures, occu
 - Always consider malignancy in the differential
 - Kümmel disease (vacuum cleft) indicates non-union with avascular necrosis
 
+## References
+
+1. Genant HK, Wu CY, van Kuijk C, Nevitt MC. Vertebral fracture assessment using a semiquantitative technique. *J Bone Miner Res.* 1993;8(9):1137-1148. https://pubmed.ncbi.nlm.nih.gov/8237484/
+2. Donnally CJ III, Margetis K, Varacallo MA. Vertebral Compression Fractures. In: *StatPearls.* Treasure Island (FL): StatPearls Publishing; updated 2025 May 4. https://www.ncbi.nlm.nih.gov/books/NBK448171/
+3. Mauch JT, Carr CM, Cloft H, Diehn FE. Review of the Imaging Features of Benign Osteoporotic and Malignant Vertebral Compression Fractures. *AJNR Am J Neuroradiol.* 2018;39(9):1584-1592. https://pubmed.ncbi.nlm.nih.gov/29348133/
+4. Chandra RV, Maingard J, Asadi H, et al. Vertebroplasty and Kyphoplasty for Osteoporotic Vertebral Fractures: What Are the Latest Data? *AJNR Am J Neuroradiol.* 2018;39(5):798-806. https://pubmed.ncbi.nlm.nih.gov/29170272/
+5. Khan MA, Jennings JW, Baker JC, et al. ACR Appropriateness Criteria® Management of Vertebral Compression Fractures: 2022 Update. *J Am Coll Radiol.* 2023;20(5S):S102-S124. https://pubmed.ncbi.nlm.nih.gov/37236738/
+6. Osteoporotic spinal compression fracture. *Radiopaedia.org.* https://radiopaedia.org/articles/osteoporotic-spinal-compression-fracture
+
 ## Related Articles
 
 - [Osteoporosis Spine Imaging](osteoporosis.md)

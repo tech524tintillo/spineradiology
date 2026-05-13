@@ -47,6 +47,16 @@ Multiple spinal schwannomas should raise concern for **schwannomatosis** or **ne
 - Can be separated from the parent nerve at surgery (unlike neurofibroma)
 - Multiple schwannomas suggest NF2 or schwannomatosis
 
+## References
+
+1. Koeller KK, Shih RY. Intradural extramedullary spinal neoplasms: radiologic-pathologic correlation. RadioGraphics. 2019;39(2):468-490. doi:10.1148/rg.2019180200.
+2. Davis DD, Kane SM. Neurilemmoma. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2023. Available from: https://www.ncbi.nlm.nih.gov/books/NBK560827/
+3. Lee JH, Kim HS, Yoon YC, Cha MJ, Lee SH, Kim ES. Differentiating between spinal schwannomas and meningiomas using MRI: a focus on cystic change. PLoS One. 2020;15(5):e0233623. doi:10.1371/journal.pone.0233623.
+4. Takashima H, Takebayashi T, Yoshimoto M, Onodera M, Terashima Y, Iesato N, et al. Differentiating spinal intradural-extramedullary schwannoma from meningioma using MRI T2 weighted images. Br J Radiol. 2018;91(1092):20180262. doi:10.1259/bjr.20180262.
+5. Koontz NA, Wiens AL, Agarwal A, Hingtgen CM, Emerson RE, Mosier KM. Schwannomatosis: the overlooked neurofibromatosis? AJR Am J Roentgenol. 2013;200(6):W646-W653. doi:10.2214/AJR.12.8577.
+6. Evans DG. NF2-related schwannomatosis. In: Adam MP, Feldman J, Mirzaa GM, et al., editors. GeneReviews [Internet]. Seattle (WA): University of Washington, Seattle; 1998 [updated 2023 Apr 20]. Available from: https://www.ncbi.nlm.nih.gov/books/NBK1201/
+7. Gaillard F, et al. Spinal schwannoma. Radiopaedia.org. Available from: https://radiopaedia.org/articles/spinal-schwannoma
+
 ## Related Articles
 
 - [Meningioma](meningioma.md)

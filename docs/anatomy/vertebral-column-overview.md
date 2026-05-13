@@ -95,6 +95,14 @@ MRI is the gold standard for evaluating soft tissue structures of the spine:
 - Radiographic alignment is assessed using three smooth contour lines on the lateral view
 - MRI is the preferred modality for soft tissue and spinal cord evaluation
 
+## References
+
+1. DeSai C, Reddy V, Agarwal A. Anatomy, Back, Vertebral Column. StatPearls. NCBI Bookshelf. <https://www.ncbi.nlm.nih.gov/books/NBK525969/>
+2. DeSai C, Jozsa F, Agarwal A. Neuroanatomy, Spine. StatPearls. NCBI Bookshelf. <https://www.ncbi.nlm.nih.gov/books/NBK526133/>
+3. Jones J, et al. Vertebral column. Radiopaedia.org. <https://radiopaedia.org/articles/vertebral-column>
+4. TeachMeAnatomy. The Vertebral Column — Structure, Regions & Function. <https://teachmeanatomy.info/back/bones/vertebral-column/>
+5. Kenhub. Vertebral column: Anatomy, vertebrae, joints & ligaments. <https://www.kenhub.com/en/library/anatomy/the-vertebral-column-spine>
+
 ## Related Articles
 
 - [Cervical Vertebrae (C1-C7)](cervical-vertebrae.md)

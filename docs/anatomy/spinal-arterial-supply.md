@@ -75,6 +75,15 @@ The longitudinal arteries cannot sustain the entire cord alone and are reinforce
 - CTA and MRA can identify the artery of Adamkiewicz preoperatively
 - Spinal angiography is the gold standard for vascular mapping
 
+## References
+
+1. Lindeire S, Hauser JM. Anatomy, Back, Artery of Adamkiewicz. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2025. Available from: https://www.ncbi.nlm.nih.gov/books/NBK532971/
+2. Hasan S, Arain A. Neuroanatomy, Spinal Cord Arteries. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2023. Available from: https://www.ncbi.nlm.nih.gov/books/NBK539889/
+3. Munakomi S, Launico MV. Anatomy, Anterior Spinal Artery. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2026. Available from: https://www.ncbi.nlm.nih.gov/books/NBK532963/
+4. Sandoval JI, De Jesus O. Anterior Spinal Artery Syndrome. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2024. Available from: https://www.ncbi.nlm.nih.gov/books/NBK560731/
+5. Taterra D, Skinningsrud B, Pękala PA, Hsieh WC, Cirocchi R, Walocha JA, Tubbs RS, Tomaszewski KA, Henry BM. Artery of Adamkiewicz: a meta-analysis of anatomical characteristics. Neuroradiology. 2019;61(8):869-880. Available from: https://pubmed.ncbi.nlm.nih.gov/31030251/
+6. Kalogeropoulos P, Tsouknidas I, Tasis N, Papoutsis K, Athanasopoulos A, Livanos K, Piagkou M, Troupis T, Filippou DK. The Artery of Adamkiewicz: Anatomy and Considerations in Spine Surgery - A Review of the Literature. J Long Term Eff Med Implants. 2022;32(2):81-86. Available from: https://pubmed.ncbi.nlm.nih.gov/35695630/
+
 ## Related Articles
 
 - [Vertebral Artery](vertebral-artery.md)

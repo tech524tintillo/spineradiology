@@ -39,6 +39,15 @@ Schmorl nodes are herniations of disc material (nucleus pulposus) through the ca
 - Chronic nodes have a sclerotic rim and are typically incidental
 - Multiple Schmorl nodes in an adolescent suggest Scheuermann disease
 
+## References
+
+1. Resnick D, Niwayama G. Intravertebral disk herniations: cartilaginous (Schmorl's) nodes. *Radiology*. 1978;126(1):57-65. [https://pubmed.ncbi.nlm.nih.gov/339268/](https://pubmed.ncbi.nlm.nih.gov/339268/)
+2. Grivé E, Rovira A, Capellades J, Rivas A, Pedraza S. Radiologic findings in two cases of acute Schmörl's nodes. *AJNR Am J Neuroradiol*. 1999;20(9):1717-1721. [https://pmc.ncbi.nlm.nih.gov/articles/PMC7056208/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7056208/)
+3. Walters G, Coumas JM, Akins CM, Ragland RL. Magnetic resonance imaging of acute symptomatic Schmorl's node formation. *Pediatr Emerg Care*. 1991;7(5):294-296. [https://pubmed.ncbi.nlm.nih.gov/1754491/](https://pubmed.ncbi.nlm.nih.gov/1754491/)
+4. Hershkovich O, Koch JEJ, Grevitt MP. Schmorl node — a cause of acute thoracic pain: a case report and pathophysiological mechanism. *Int J Spine Surg*. 2020;14(3):441-444. [https://pmc.ncbi.nlm.nih.gov/articles/PMC7343260/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7343260/)
+5. Nogueira-Barbosa MH, Crema MD, Herrero CFPS, Pasqualini W, Defino HLA. The several faces of Schmorl's node: pictorial essay. *Coluna/Columna*. 2015;14(4):320-323. [https://www.scielo.br/j/coluna/a/X44kCXQ6PXrQQmVkS7r7pLD/?lang=en](https://www.scielo.br/j/coluna/a/X44kCXQ6PXrQQmVkS7r7pLD/?lang=en)
+6. Gaillard F, et al. Schmorl nodes. *Radiopaedia.org*. [https://radiopaedia.org/articles/schmorl-nodes-3](https://radiopaedia.org/articles/schmorl-nodes-3)
+
 ## Related Articles
 
 - [Intervertebral Disc](../anatomy/intervertebral-disc.md)

@@ -38,6 +38,16 @@ Cauda equina syndrome (CES) is compression of the cauda equina nerve roots (belo
 - Bladder dysfunction is the most clinically significant finding
 - MRI shows complete effacement of the cauda equina by the compressing lesion
 
+## References
+
+1. Rider LS, Marra EM. Cauda Equina and Conus Medullaris Syndromes. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; updated 2023 Aug 7. Available from: https://www.ncbi.nlm.nih.gov/books/NBK537200/
+2. Gardner A, Gardner E, Morley T. Cauda equina syndrome. Radiopaedia.org. Available from: https://radiopaedia.org/articles/cauda-equina-syndrome
+3. McNamee J, Flynn P, O'Leary S, Love M, Kelly B. Imaging in cauda equina syndrome — a pictorial review. Ulster Med J. 2013;82(2):100-108. Available from: https://pmc.ncbi.nlm.nih.gov/articles/PMC3756868/
+4. Qureshi A, Sell P. Cauda equina syndrome treated by surgical decompression: the influence of timing on surgical outcome. Eur Spine J. 2007;16(12):2143-2151. Available from: https://pubmed.ncbi.nlm.nih.gov/17828560/
+5. Heyes G, Jones M, Verzin E, McLorinan G, Darwish N, Eames N. Influence of timing of surgery on Cauda equina syndrome: outcomes at a national spinal centre. J Orthop. 2018;15(1):210-215. Available from: https://pmc.ncbi.nlm.nih.gov/articles/PMC5895895/
+6. Long B, Koyfman A, Gottlieb M. Evaluation and management of cauda equina syndrome in the emergency department. Am J Emerg Med. 2020;38(1):143-148. Available from: https://pubmed.ncbi.nlm.nih.gov/31471075/
+7. Expert Panel on Neurological Imaging; Hutchins TA, Peckham M, Shah LM, et al. ACR Appropriateness Criteria® Low Back Pain: 2021 Update. J Am Coll Radiol. 2021;18(11S):S361-S379. Available from: https://pubmed.ncbi.nlm.nih.gov/34794594/
+
 ## Related Articles
 
 - [Radiculopathy Imaging Correlation](radiculopathy.md)

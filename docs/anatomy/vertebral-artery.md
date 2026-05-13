@@ -66,6 +66,15 @@ The vertebral artery is divided into four segments:
 - MRI with fat-saturated T1 shows the mural hematoma of dissection as a crescentic bright signal
 - Vertebral artery dissection is an important cause of posterior circulation stroke in young adults
 
+## References
+
+1. Piccinin MA, Munakomi S. Neuroanatomy, Vertebrobasilar System. StatPearls. NCBI Bookshelf. <https://www.ncbi.nlm.nih.gov/sites/books/NBK540995/>
+2. Gailloud P. The segmentation of the vertebral artery: an ambiguous anatomical concept. Interv Neuroradiol. 2022;28(6):765-772. <https://pmc.ncbi.nlm.nih.gov/articles/PMC9706265/>
+3. Bajzer CT. Vertebral artery. In: Guide to Peripheral and Cerebrovascular Intervention. NCBI Bookshelf. <https://www.ncbi.nlm.nih.gov/books/NBK27430/>
+4. Ergun O, Gunes Tatar I, Birgi E, Hekimoglu B. Evaluation of vertebral artery dominance, hypoplasia and variations in the origin: angiographic study in 254 patients. Folia Morphol (Warsz). 2016;75(1):33-37. <https://pubmed.ncbi.nlm.nih.gov/26365867/>
+5. Radiopaedia — Vertebral artery hypoplasia. <https://radiopaedia.org/articles/vertebral-artery-hypoplasia>
+6. Radiopaedia — Vertebral artery. <https://radiopaedia.org/articles/vertebral-artery>
+
 ## Related Articles
 
 - [Cervical Vertebrae (C1-C7)](cervical-vertebrae.md)

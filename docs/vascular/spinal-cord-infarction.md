@@ -45,6 +45,15 @@ Spinal cord infarction results from interruption of the arterial blood supply to
 - Anterior spinal artery territory (anterior 2/3 of cord) is most commonly affected
 - Prognosis is variable — some recovery possible but often significant residual deficits
 
+## References
+
+1. Hanna Al-Shaikh R, Czervionke L, Eidelman B, Dredla BK. Spinal Cord Infarction. In: *StatPearls.* Treasure Island (FL): StatPearls Publishing; updated 2023 Aug 14. <https://www.ncbi.nlm.nih.gov/books/NBK545185/>
+2. Acute spinal cord ischaemia syndrome. *Radiopaedia.org.* <https://radiopaedia.org/articles/acute-spinal-cord-ischaemia-syndrome>
+3. Vargas MI, Gariani J, Sztajzel R, et al. Spinal Cord Ischemia: Practical Imaging Tips, Pearls, and Pitfalls. *AJNR Am J Neuroradiol.* 2015;36(5):825-830. <https://pmc.ncbi.nlm.nih.gov/articles/PMC7990611/>
+4. Masson C, Pruvo JP, Meder JF, et al. Spinal cord infarction: clinical and magnetic resonance imaging findings and short term outcome. *J Neurol Neurosurg Psychiatry.* 2004;75(10):1431-1435. <https://pubmed.ncbi.nlm.nih.gov/15377691/>
+5. Thurnher MM, Bammer R. Diffusion-weighted MR imaging (DWI) in spinal cord ischemia. *Neuroradiology.* 2006;48(11):795-801. <https://pubmed.ncbi.nlm.nih.gov/16977443/>
+6. Expert Panel on Neurological Imaging; Agarwal V, Shah LM, Parsons MS, et al. ACR Appropriateness Criteria® Myelopathy: 2021 Update. *J Am Coll Radiol.* 2021;18(5S):S73-S82. <https://pubmed.ncbi.nlm.nih.gov/33958120/>
+
 ## Related Articles
 
 - [Anterior Spinal Artery Syndrome](anterior-spinal-artery-syndrome.md)

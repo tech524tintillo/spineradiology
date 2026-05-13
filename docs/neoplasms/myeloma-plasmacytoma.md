@@ -46,6 +46,15 @@ A solitary plasmacytoma appears as a single expansile lytic lesion, most commonl
 - Solitary plasmacytoma may progress to systemic myeloma in 50–70% of cases
 - Punched-out lytic lesions without sclerotic margins are characteristic on CT
 
+## References
+
+1. Rajkumar SV, Dimopoulos MA, Palumbo A, et al. International Myeloma Working Group updated criteria for the diagnosis of multiple myeloma. Lancet Oncol. 2014;15(12):e538–e548. doi:10.1016/S1470-2045(14)70442-5. PMID: 25439696.
+2. Wu F, Bernard S, Fayad LM, et al. Updates and Ongoing Challenges in Imaging of Multiple Myeloma: AJR Expert Panel Narrative Review. AJR Am J Roentgenol. 2021;217(4):775–785. doi:10.2214/AJR.21.25878. PMID: 33978464.
+3. Dutoit JC, Verstraete KL. MRI in multiple myeloma: a pictorial review of diagnostic and post-treatment findings. Insights Imaging. 2016;7(4):553–569. doi:10.1007/s13244-016-0492-7. PMID: 27164915.
+4. Hameed M, Sandhu A, Soneji N, et al. Pictorial review of whole body MRI in myeloma: emphasis on diffusion-weighted imaging. Br J Radiol. 2020;93(1115):20200312. doi:10.1259/bjr.20200312.
+5. Albagoush SA, Shumway C, Azevedo AM. Multiple Myeloma. In: StatPearls. Treasure Island (FL): StatPearls Publishing; updated 2023 Jan 30. Available from: https://www.ncbi.nlm.nih.gov/books/NBK534764/.
+6. Gaillard F, et al. Solitary bone plasmacytoma. Radiopaedia.org. Available from: https://radiopaedia.org/articles/solitary-bone-plasmacytoma-1.
+
 ## Related Articles
 
 - [Vertebral Body Metastases](vertebral-metastases.md)

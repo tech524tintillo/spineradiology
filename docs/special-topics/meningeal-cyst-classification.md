@@ -34,6 +34,13 @@ The Nabors classification organizes spinal meningeal cysts into three types base
 - Classification guides surgical approach and management
 - All types follow CSF signal on MRI
 
+## References
+
+1. Nabors MW, Pait TG, Byrd EB, Karim NO, Davis DO, Kobrine AI, Rizzoli HV. Updated assessment and current classification of spinal meningeal cysts. J Neurosurg. 1988;68(3):366-77. Available from: https://pubmed.ncbi.nlm.nih.gov/3343608/
+2. Classification of spinal meningeal cysts. Radiopaedia.org. Available from: https://radiopaedia.org/articles/classification-of-spinal-meningeal-cysts-1
+3. Kim IS, Hong JT, Son BC, Lee SW. Noncommunicating spinal extradural meningeal cyst in thoracolumbar spine. J Korean Neurosurg Soc. 2010;48(6):534-7. Available from: https://pmc.ncbi.nlm.nih.gov/articles/PMC3053550/
+4. Lim Y, Selbi W. Tarlov cyst. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2023. Available from: https://www.ncbi.nlm.nih.gov/books/NBK582154/
+
 ## Related Articles
 
 - [Tarlov Cysts](tarlov-cysts.md)

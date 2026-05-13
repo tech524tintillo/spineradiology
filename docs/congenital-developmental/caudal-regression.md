@@ -28,6 +28,14 @@ Caudal regression syndrome (sacral agenesis) is a spectrum of congenital anomali
 - Severity ranges from partial sacral agenesis to complete lumbosacral absence
 - Radiography/CT evaluates bony anomalies; MRI evaluates the cord and associated soft tissue anomalies
 
+## References
+
+1. Krishnan V, Jaganathan S, Jayappa S, Glasier C, Choudhary A, Ramakrishnaiah R, Murphy J. Clinical and radiological evaluation of caudal regression syndrome. Pediatr Radiol. 2024;54(9):1451-1461. doi:10.1007/s00247-024-05945-1. PMID: 38750326.
+2. Boruah DK, Dhingani DD, Achar S, Prakash A, Augustine A, Sanyal S, Gogoi M, Mahanta K. Magnetic resonance imaging analysis of caudal regression syndrome and concomitant anomalies in pediatric patients. J Clin Imaging Sci. 2016;6:36. doi:10.4103/2156-7514.190892. PMID: 27833778.
+3. Purbasari U, Nazar H, Miraj F, Aprilia D, Widiani W, Suprihatin M, Eureka AN. Caudal regression syndrome from radiology and clinical perspective: a case series and a proposed new integrated diagnostic algorithm. Radiol Case Rep. 2023;18(7):2478-2486. doi:10.1016/j.radcr.2023.04.015. PMID: 37235076.
+4. Abrahams E, Robinson M, Pak A. Caudal regression syndrome and interventional pain techniques. Interv Pain Med. 2022;2(1):100173. doi:10.1016/j.inpm.2022.100173. PMID: 39239600.
+5. Caudal regression syndrome. Radiopaedia.org. Available at: https://radiopaedia.org/articles/caudal-regression-syndrome. Accessed May 2026.
+
 ## Related Articles
 
 - [Tethered Cord Syndrome](tethered-cord.md)

@@ -79,6 +79,20 @@ CT is valuable for:
 - The thoracolumbar junction (T11–L1) is a biomechanical transition zone vulnerable to fractures
 - Normal thoracic kyphosis is 20°–45°
 
+## References
+
+1. Waxenbaum JA, Reddy V, Margetis K. Anatomy, Back, Thoracic Vertebrae. StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2026. PMID: 29083651. https://www.ncbi.nlm.nih.gov/books/NBK459153/
+
+2. Beyer B, Biteau D, Snoeck O, Dugailly PM, Bastir M, Feipel V. Morphometric analysis of the costal facet of the thoracic vertebrae. Anat Sci Int. 2020;95(4):457-465. PMID: 32335803. https://pubmed.ncbi.nlm.nih.gov/32335803/
+
+3. Saker E, Graham RA, Nicholas R, D'Antoni AV, Loukas M, Oskouian RJ, Tubbs RS. Ligaments of the Costovertebral Joints including Biomechanics, Innervations, and Clinical Applications: A Comprehensive Review with Application to Approaches to the Thoracic Spine. Cureus. 2016;8(11):e874. PMID: 27994992. https://pmc.ncbi.nlm.nih.gov/articles/PMC5154401/
+
+4. Duprey S, Subit D, Guillemot H, Kent RW. Biomechanical properties of the costovertebral joint. Med Eng Phys. 2010;32(2):222-227. PMID: 20036178. https://pubmed.ncbi.nlm.nih.gov/20036178/
+
+5. Fon GT, Pitt MJ, Thies AC Jr. Thoracic kyphosis: range in normal subjects. AJR Am J Roentgenol. 1980;134(5):979-983. PMID: 6768276. https://pubmed.ncbi.nlm.nih.gov/6768276/
+
+6. Fradet L, Petit Y, Wagnac E, Aubin CE, Arnoux PJ. Biomechanics of thoracolumbar junction vertebral fractures from various kinematic conditions. Med Biol Eng Comput. 2014;52(1):87-94. PMID: 24165806. https://pubmed.ncbi.nlm.nih.gov/24165806/
+
 ## Related Articles
 
 - [Vertebral Column Overview](vertebral-column-overview.md)

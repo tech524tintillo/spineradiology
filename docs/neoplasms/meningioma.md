@@ -66,6 +66,16 @@ Meningioma is a benign tumor arising from arachnoid cap cells of the meninges. S
 - T2 signal is isointense to cord (unlike T2-bright schwannomas)
 - Surgical excision is usually curative
 
+## References
+
+1. Dang DD, Mugge LA, Awan OK, Gong AD, Fanous AA. Spinal meningiomas: a comprehensive review and update on advancements in molecular characterization, diagnostics, surgical approach and technology, and alternative therapies. Cancers (Basel). 2024;16(7):1426. Available from: https://pmc.ncbi.nlm.nih.gov/articles/PMC11011121/
+2. Koeller KK, Shih RY. Intradural extramedullary spinal neoplasms: radiologic-pathologic correlation. RadioGraphics. 2019;39(2):468-90. Available from: https://pubmed.ncbi.nlm.nih.gov/30844353/
+3. Zhang LH, Yuan HS. Imaging appearances and pathologic characteristics of spinal epidural meningioma. AJNR Am J Neuroradiol. 2018;39(1):199-204. Available from: https://pubmed.ncbi.nlm.nih.gov/29051204/
+4. Alorainy IA. Dural tail sign in spinal meningiomas. Eur J Radiol. 2006;60(3):387-91. Available from: https://pubmed.ncbi.nlm.nih.gov/16876365/
+5. El-Hajj VG, Pettersson-Segerlind J, Fletcher-Sandersjöö A, Edström E, Elmi-Terander A. Current knowledge on spinal meningiomas epidemiology, tumor characteristics and non-surgical treatment options: a systematic review and pooled analysis (Part 1). Cancers (Basel). 2022;14(24):6251. Available from: https://pmc.ncbi.nlm.nih.gov/articles/PMC9776907/
+6. Alruwaili AA, De Jesus O. Meningioma. In: StatPearls. Treasure Island (FL): StatPearls Publishing; 2024. Available from: https://www.ncbi.nlm.nih.gov/books/NBK560538/
+7. Spinal meningioma. Radiopaedia.org. Available from: https://radiopaedia.org/articles/spinal-meningioma
+
 ## Related Articles
 
 - [Schwannoma](schwannoma.md)

@@ -52,6 +52,16 @@ An additional common diagnostic dilemma — see the [Vertebral Osteomyelitis](ve
 - CT-guided biopsy should be sent for BOTH culture and pathology
 - Clinical context (fever/ESR/CRP for infection; weight loss/known malignancy for tumor) is essential
 
+## References
+
+1. Hong SH, Choi JY, Lee JW, Kim NR, Choi JA, Kang HS. MR imaging assessment of the spine: infection or an imitation? *RadioGraphics.* 2009;29(2):599–612. https://pubmed.ncbi.nlm.nih.gov/19325068/
+2. An HS, Vaccaro AR, Dolinskas CA, Cotler JM, Balderston RA, Bauerle WB. Differentiation between spinal tumors and infections with magnetic resonance imaging. *Spine (Phila Pa 1976).* 1991;16(8 Suppl):S334–S338. https://pubmed.ncbi.nlm.nih.gov/1785083/
+3. Patel KB, Poplawski MM, Pawha PS, Naidich TP, Tanenbaum LN. Diffusion-weighted MRI "claw sign" improves differentiation of infectious from degenerative Modic type 1 signal changes of the spine. *AJNR Am J Neuroradiol.* 2014;35(8):1647–1652. https://www.ajnr.org/content/35/8/1647
+4. Yueniwati Y, Widhiasi DE. Role of magnetic resonance imaging in differentiating spondylitis from vertebral metastasis. *Asian Spine J.* 2015;9(5):776–782. https://pmc.ncbi.nlm.nih.gov/articles/PMC4591451/
+5. Crombé A, Fadli D, Clinca R, et al. Imaging of spondylodiscitis: a comprehensive updated review—multimodality imaging findings, differential diagnosis, and specific microorganisms detection. *Microorganisms.* 2024;12(5):893. https://pmc.ncbi.nlm.nih.gov/articles/PMC11123694/
+6. Ortiz AO, Levitt A, Shah LM, et al. ACR Appropriateness Criteria® Suspected Spine Infection. *J Am Coll Radiol.* 2021;18(11S):S488–S501. https://pubmed.ncbi.nlm.nih.gov/34794603/
+7. Spondylodiscitis. *Radiopaedia.org.* https://radiopaedia.org/articles/spondylodiscitis
+
 ## Related Articles
 
 - [Pyogenic Spondylodiscitis](pyogenic-spondylodiscitis.md)

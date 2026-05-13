@@ -28,6 +28,15 @@ Spina bifida occulta is the mildest form of spinal dysraphism, consisting of inc
 - No treatment or follow-up needed for isolated findings
 - MRI only if cutaneous markers or neurological symptoms are present
 
+## References
+
+1. Trapp B, Freddi TAL, Hans MOM, et al. A practical approach to diagnosis of spinal dysraphism. RadioGraphics. 2021;41(2):559–575. doi:10.1148/rg.2021200103. Available from: https://pubmed.ncbi.nlm.nih.gov/33449837/
+2. Kumar J, Afsal M, Garg A. Imaging spectrum of spinal dysraphism on magnetic resonance: a pictorial review. World J Radiol. 2017;9(4):178–190. doi:10.4329/wjr.v9.i4.178. Available from: https://pmc.ncbi.nlm.nih.gov/articles/PMC5415887/
+3. Sarin YK. Cutaneous stigmata of occult spinal dysraphism. J Neonatal Surg. 2013;2(1):15. Available from: https://pmc.ncbi.nlm.nih.gov/articles/PMC4420352/
+4. Li W, Xiong Z, Dong C, et al. Distribution and imaging characteristics of spina bifida occulta in young people with low back pain: a retrospective cross-sectional study. J Orthop Surg Res. 2021;16:151. doi:10.1186/s13018-021-02285-w. Available from: https://pmc.ncbi.nlm.nih.gov/articles/PMC7898417/
+5. Karsonovich T, Munakomi S. Spina bifida. In: StatPearls. Treasure Island (FL): StatPearls Publishing. Available from: https://www.ncbi.nlm.nih.gov/books/NBK559265/
+6. Gaillard F, et al. Spina bifida occulta. Radiopaedia.org. Available from: https://radiopaedia.org/articles/spina-bifida-occulta
+
 ## Related Articles
 
 - [Spinal Dysraphism Overview](spinal-dysraphism.md)

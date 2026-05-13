@@ -52,6 +52,16 @@ Facet arthropathy (facet joint osteoarthritis) is the degenerative deterioration
 - Diagnosis of facet-mediated pain requires clinical correlation and often diagnostic blocks
 - Synovial cysts from degenerated facets can cause radiculopathy
 
+## References
+
+1. Pathria M, Sartoris DJ, Resnick D. Osteoarthritis of the facet joints: accuracy of oblique radiographic assessment. *Radiology*. 1987;164(1):227-230. doi:10.1148/radiology.164.1.3588910. https://pubmed.ncbi.nlm.nih.gov/3588910/
+2. Weishaupt D, Zanetti M, Boos N, Hodler J. MR imaging and CT in osteoarthritis of the lumbar facet joints. *Skeletal Radiology*. 1999;28(4):215-219. https://pubmed.ncbi.nlm.nih.gov/10384992/
+3. Pathria grading system of lumbar facet joint degeneration. Radiopaedia.org. https://radiopaedia.org/articles/pathria-grading-system-of-lumbar-facet-joint-degeneration
+4. Weishaupt grading system of lumbar facet joint degeneration. Radiopaedia.org. https://radiopaedia.org/articles/weishaupt-grading-system-of-lumbar-facet-joint-degeneration
+5. Lattig F, Fekete TF, Grob D, Kleinstück FS, Jeszenszky D, Mannion AF. Lumbar facet joint effusion in MRI: a sign of instability in degenerative spondylolisthesis? *European Spine Journal*. 2012;21(2):276-281. https://pmc.ncbi.nlm.nih.gov/articles/PMC3265597/
+6. Acosta Julbe JI, Gottreich JR, Ermann J, et al. Reporting of facet joint inflammation in lumbar spine MRI studies in patients with low back pain. *Spine (Phila Pa 1976)*. 2024. https://pmc.ncbi.nlm.nih.gov/articles/PMC11042993/
+7. Zhou X, Liu Y, Zhou S, et al. The correlation between radiographic and pathologic grading of lumbar facet joint degeneration. *BMC Medical Imaging*. 2016;16:27. https://pmc.ncbi.nlm.nih.gov/articles/PMC4812623/
+
 ## Related Articles
 
 - [Facet Joints](../anatomy/facet-joints.md)

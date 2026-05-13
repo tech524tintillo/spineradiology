@@ -58,6 +58,16 @@ CT myelography combines intrathecal contrast injection with CT scanning to evalu
 - The most common complication is post-lumbar puncture headache
 - CT myelography can provide dynamic evaluation (upright, flexion-extension) not possible with standard MRI
 
+## References
+
+1. Pontes ICM, Edelmuth DGL, Takahara S, Kihara Filho EN, Lucato LT, Helito PVP, Kranz PG. CT Myelography: How to Do It. RadioGraphics. 2024;44(1):e230088.
+2. Patel DM, Weinberg BD, Hoch MJ. CT Myelography: Clinical Indications and Imaging Findings. RadioGraphics. 2020;40(2):470-484.
+3. Mamlouk MD, Ochi RP, Jun P, Shen PY. Decubitus CT Myelography for CSF-Venous Fistulas: A Procedural Approach. AJNR Am J Neuroradiol. 2021;42(1):32-36.
+4. Pomerantz SR. Myelography: modern technique and indications. Handb Clin Neurol. 2016;135:193-208.
+5. Rodriguez D, Branstetter BF 4th, Agarwal V, Palfey S, Ching KC, Bump GM, Hughes MA. JOURNAL CLUB: Incidence of Complications Following Fluoroscopically Guided Lumbar Punctures and Myelograms. AJR Am J Roentgenol. 2016;206(1):20-25.
+6. Plewa MC, Hall WA, McAllister RK. Postdural Puncture Headache. In: StatPearls. Treasure Island (FL): StatPearls Publishing; 2025.
+7. CT myelography. *Radiopaedia.org.* <https://radiopaedia.org/articles/ct-myelography>
+
 ## Related Articles
 
 - [CT of the Spine](ct-spine.md)

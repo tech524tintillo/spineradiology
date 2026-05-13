@@ -64,6 +64,14 @@ Sacral fractures are notoriously difficult to detect on plain radiographs due to
 - MRI and STIR sequences are essential for detecting occult insufficiency fractures
 - Treatment depends on fracture stability, neurological status, and associated pelvic injuries
 
+## References
+
+1. Rizkalla JM, Lines T, Nimmons S. Classifications in Brief: The Denis Classification of Sacral Fractures. *Clin Orthop Relat Res*. 2019;477(9):2178–2181. [https://pmc.ncbi.nlm.nih.gov/articles/PMC7000068/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7000068/)
+2. Dreizin D, Smith EB. CT of Sacral Fractures: Classification Systems and Management. *RadioGraphics*. 2022;42(7):1975–1993. doi:10.1148/rg.220075. [https://pubs.rsna.org/doi/full/10.1148/rg.220075](https://pubs.rsna.org/doi/full/10.1148/rg.220075)
+3. Yi C, Hak DJ. Traumatic spinopelvic dissociation or U-shaped sacral fracture: a review of the literature. *Injury*. 2012;43(4):402–408. [https://pubmed.ncbi.nlm.nih.gov/21236426/](https://pubmed.ncbi.nlm.nih.gov/21236426/)
+4. Lyders EM, Whitlow CT, Baker MD, Morris PP. Imaging and Treatment of Sacral Insufficiency Fractures. *AJNR Am J Neuroradiol*. 2010;31(2):201–210. [https://pmc.ncbi.nlm.nih.gov/articles/PMC7964142/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7964142/)
+5. Classification of sacral fractures. Radiopaedia.org. [https://radiopaedia.org/articles/classification-of-sacral-fractures](https://radiopaedia.org/articles/classification-of-sacral-fractures)
+
 ## Related Articles
 
 - [Coccygeal Fracture](coccygeal-fracture.md)

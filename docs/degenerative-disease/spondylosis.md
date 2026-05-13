@@ -53,6 +53,16 @@ These changes are interrelated — disc height loss increases facet loading, acc
 - Clinical significance depends on the presence of neural compression or symptomatic instability
 - CT is best for evaluating bony changes; MRI for soft tissue compression
 
+## References
+
+1. Kushchayev SV, Glushko T, Jarraya M, et al. ABCs of the Degenerative Spine. *Insights Imaging*. 2018;9(2):253-274. doi:10.1007/s13244-017-0584-z. PMID: 29569215.
+2. Teresi LM, Lufkin RB, Reicher MA, et al. Asymptomatic degenerative disk disease and spondylosis of the cervical spine: MR imaging. *Radiology*. 1987;164(1):83-88. PMID: 3588931.
+3. Middleton K, Fish DE. Lumbar spondylosis: clinical presentation and treatment approaches. *Curr Rev Musculoskelet Med*. 2009;2(2):94-104. doi:10.1007/s12178-009-9051-x. PMC2697338.
+4. Margetis K, Tadi P. Cervical Spondylosis. In: *StatPearls* [Internet]. Treasure Island (FL): StatPearls Publishing; 2025. NBK551557.
+5. Margetis K, Dowling TJ. Cervical Degenerative Disc Disease. In: *StatPearls* [Internet]. Treasure Island (FL): StatPearls Publishing; 2025. NBK560772.
+6. Ofiram E, Garvey TA, Schwender JD, et al. Cervical degenerative index: a new quantitative radiographic scoring system for cervical spondylosis with interobserver and intraobserver reliability testing. *J Orthop Traumatol*. 2009;10(1):21-26. PMC2657349.
+7. Spondylosis. Radiopaedia.org. https://radiopaedia.org/articles/spondylosis (accessed 2026).
+
 ## Related Articles
 
 - [Degenerative Disc Disease](degenerative-disc-disease.md)

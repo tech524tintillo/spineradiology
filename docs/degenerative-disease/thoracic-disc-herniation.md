@@ -43,6 +43,15 @@ Thoracic disc herniation is the displacement of disc material beyond the normal 
 - Calcified herniations are more common in the thoracic spine — CT helps confirm
 - Cord signal change on MRI indicates myelopathy and warrants close follow-up or surgery
 
+## References
+
+1. Cornips EMJ, Janssen MLF, Beuls EAM. Thoracic disc herniation and acute myelopathy: clinical presentation, neuroimaging findings, surgical considerations, and outcome. *J Neurosurg Spine*. 2011;14(4):520-528. PMID: 21314281.
+2. Haleem S, Adlan A, Azzopardi C, Botchu R. Calcified Thoracic Disc – A descriptive classification with clinical and management implications. *J Craniovertebr Junction Spine*. 2024;15(2). PMC11216641.
+3. Yuan L, Chen Z, Liu Z, Li W, Sun C, Liu X. Clinical and radiographic features of adult calcified thoracic disc herniation: a retrospective analysis of 31 cases. *Eur Spine J*. 2023;32(7):2387-2395. PMID: 37222802.
+4. Diehn FE, Maus TP, Morris JM, et al. Uncommon Manifestations of Intervertebral Disk Pathologic Conditions. *RadioGraphics*. 2016;36(3):801-823. PMID: 27082664.
+5. Yue B, Chen B, Zou YW, et al. Thoracic intervertebral disc calcification and herniation in adults: a report of two cases. *Eur Spine J*. 2016;25(Suppl 1):118-122. PMID: 26329651.
+6. Radiopaedia. Thoracic disc herniation. https://radiopaedia.org/articles/thoracic-disc-herniation
+
 ## Related Articles
 
 - [Lumbar Disc Herniation](lumbar-disc-herniation.md)

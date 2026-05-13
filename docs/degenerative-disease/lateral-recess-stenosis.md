@@ -46,6 +46,15 @@ The lateral recess (also called the subarticular zone or Lee zone) is bounded by
 - Can cause radiculopathy even when the central canal is not significantly stenotic
 - CT is best for bony measurements; MRI for nerve root assessment
 
+## References
+
+1. Lee CK, Rauschning W, Glenn W. Lateral lumbar spinal canal stenosis: classification, pathologic anatomy and surgical decompression. *Spine (Phila Pa 1976)*. 1988;13(3):313-320. PMID: 3388117. [https://pubmed.ncbi.nlm.nih.gov/3388117/](https://pubmed.ncbi.nlm.nih.gov/3388117/)
+2. Steurer J, Roner S, Gnannt R, Hodler J; LumbSten Research Collaboration. Quantitative radiologic criteria for the diagnosis of lumbar spinal stenosis: a systematic literature review. *BMC Musculoskelet Disord*. 2011;12:175. PMID: 21798008. [https://pmc.ncbi.nlm.nih.gov/articles/PMC3161920/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3161920/)
+3. Splettstößer A, Khan MF, Zimmermann B, et al. Correlation of lumbar lateral recess stenosis in magnetic resonance imaging and clinical symptoms. *World J Radiol*. 2017;9(5):223-229. PMID: 28634513. [https://pmc.ncbi.nlm.nih.gov/articles/PMC5441455/](https://pmc.ncbi.nlm.nih.gov/articles/PMC5441455/)
+4. Kuittinen P, Sipola P, Aalto TJ, et al. Correlation of lateral stenosis in MRI with symptoms, walking capacity and EMG findings in patients with surgically confirmed lateral lumbar spinal canal stenosis. *BMC Musculoskelet Disord*. 2014;15:247. [https://pmc.ncbi.nlm.nih.gov/articles/PMC4112604/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4112604/)
+5. Subarticular zone stenosis. Radiopaedia.org. [https://radiopaedia.org/articles/subarticular-zone-stenosis](https://radiopaedia.org/articles/subarticular-zone-stenosis)
+6. Lateral Recess Stenosis. Radiology Key. [https://radiologykey.com/lateral-recess-stenosis/](https://radiologykey.com/lateral-recess-stenosis/)
+
 ## Related Articles
 
 - [Spinal Stenosis](spinal-stenosis.md)

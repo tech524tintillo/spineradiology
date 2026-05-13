@@ -31,6 +31,14 @@ After lumbar discectomy, patients may develop recurrent radiculopathy. The key i
 - This distinction guides surgical decision-making — recurrent disc may benefit from reoperation; scar typically does not
 - Both can coexist at the same level
 
+## References
+
+1. Hueftle MG, Modic MT, Ross JS, et al. Lumbar spine: postoperative MR imaging with Gd-DTPA. Radiology. 1988;167(3):817-824. Available from: https://pubmed.ncbi.nlm.nih.gov/2966418/
+2. Ross JS, Masaryk TJ, Schrader M, Gentili A, Bohlman H, Modic MT. MR imaging of the postoperative lumbar spine: assessment with gadopentetate dimeglumine. AJR Am J Roentgenol. 1990;155(4):867-872. Available from: https://pubmed.ncbi.nlm.nih.gov/2119123/
+3. Bundschuh CV, Stein L, Slusser JH, Schinco FP, Ladaga LE, Dillon JD. Distinguishing between scar and recurrent herniated disk in postoperative patients: value of contrast-enhanced CT and MR imaging. AJNR Am J Neuroradiol. 1990;11(5):949-958. Available from: https://pubmed.ncbi.nlm.nih.gov/2121000/
+4. Abel F, Tan ET, Chazen JL, Lebl DR, Sneag DB. MRI after lumbar spine decompression and fusion surgery: technical considerations, expected findings, and complications. Radiology. 2023;308(1):e222732. Available from: https://pubs.rsna.org/doi/full/10.1148/radiol.222732
+5. Gaillard F, et al. Spinal surgery (complications). Radiopaedia.org. Available from: https://radiopaedia.org/articles/complications-of-spinal-surgery
+
 ## Related Articles
 
 - [Failed Back Surgery Syndrome](fbss.md)

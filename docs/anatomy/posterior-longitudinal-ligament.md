@@ -63,6 +63,15 @@ The posterior longitudinal ligament (PLL) is a narrow fibrous band that runs alo
 - OPLL is most common in the cervical spine and in East Asian populations
 - CT is best for characterizing OPLL morphology; MRI is best for evaluating cord compression
 
+## References
+
+1. Aryal V, Black AC, Jimenez A. Anatomy, Back, Posterior Longitudinal Ligament. In: StatPearls. Treasure Island (FL): StatPearls Publishing; 2023. PMID: 32809526. Available from: https://www.ncbi.nlm.nih.gov/books/NBK560691/
+2. Salaud C, Ploteau S, Hamel O, Armstrong O, Hamel A. Morphometric study of the posterior longitudinal ligament at the lumbar spine. Surg Radiol Anat. 2018;40(5):563-569. PMID: 29288395. https://pubmed.ncbi.nlm.nih.gov/29288395/
+3. Choi BW, Song KJ, Chang H. Ossification of the posterior longitudinal ligament: a review of literature. Asian Spine J. 2011;5(4):267-276. PMID: 22164324. https://pubmed.ncbi.nlm.nih.gov/22164324/
+4. Inamasu J, Guiot BH, Sachs DC. Ossification of the posterior longitudinal ligament: an update on its biology, epidemiology, and natural history. Neurosurgery. 2006;58(6):1027-1039. PMID: 16723881. https://pubmed.ncbi.nlm.nih.gov/16723881/
+5. Abiola R, Rubery P, Mesfin A. Ossification of the Posterior Longitudinal Ligament: Etiology, Diagnosis, and Outcomes of Nonoperative and Operative Management. Global Spine J. 2016;6(2):195-204. PMID: 26933622. https://pubmed.ncbi.nlm.nih.gov/26933622/
+6. Kawaguchi Y, Matsumoto M, Iwasaki M, et al. New classification system for ossification of the posterior longitudinal ligament using CT images. J Orthop Sci. 2014;19(4):530-536. PMID: 24817494. https://pubmed.ncbi.nlm.nih.gov/24817494/
+
 ## Related Articles
 
 - [Spinal Ligaments](spinal-ligaments.md)

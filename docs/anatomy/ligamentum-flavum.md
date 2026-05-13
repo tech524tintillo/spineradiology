@@ -63,6 +63,17 @@ The ligamentum flavum (Latin: "yellow ligament") is a paired elastic ligament th
 - MRI shows hypertrophy as thickened low-signal bands compressing the thecal sac posteriorly
 - Often coexists with facet arthropathy and disc bulging in degenerative stenosis
 
+## References
+
+1. Altinkaya N, Yildirim T, Demir S, Alkan O, Sarica FB. Factors associated with the thickness of the ligamentum flavum: is ligamentum flavum thickening due to hypertrophy or buckling? Spine (Phila Pa 1976). 2011;36(16):E1093–7.
+2. Kolte VS, Khambatta S, Ambiye MV. Thickness of the ligamentum flavum: correlation with age and its asymmetry—a magnetic resonance imaging study. Asian Spine J. 2015;9(2):245–253.
+3. Chelladurai A, Balasubramaniam S, Anbazhagan SP, Gnanasihamani S, Ramaswami S. Dorsal spinal ligamentum flavum thickening: a magnetic resonance imaging study. Asian Spine J. 2018;12(1):47–51.
+4. Fang N, Wang Z, Jiang J, Yang A, Mao T, Wang Z, Chen Q. Nonsurgical therapy for lumbar spinal stenosis caused by ligamentum flavum hypertrophy: a review. Medicine (Baltimore). 2024;103(27):e38782.
+5. Hirabayashi S. Ossification of the ligamentum flavum. Spine Surg Relat Res. 2017;1(4):158–163.
+6. Sairyo K, Biyani A, Goel V, et al. Pathomechanism of ligamentum flavum hypertrophy: a multidisciplinary investigation based on clinical, biomechanical, histologic, and biologic assessments. Spine (Phila Pa 1976). 2005;30(23):2649–2656.
+7. Ligamentum flavum hypertrophy. Radiopaedia.org. Available from: https://radiopaedia.org/articles/ligamentum-flavum-hypertrophy
+8. Ossification of the ligamentum flavum. Radiopaedia.org. Available from: https://radiopaedia.org/articles/ossification-of-the-ligamentum-flavum
+
 ## Related Articles
 
 - [Spinal Ligaments](spinal-ligaments.md)

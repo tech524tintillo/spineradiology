@@ -56,6 +56,16 @@ MRI is the study of choice for diagnosing spinal epidural hematoma:
 - Emergent surgical decompression within 12–24 hours is associated with better outcomes
 - CT may show the hematoma but is less sensitive than MRI
 
+## References
+
+1. Pierce JL, Donahue JH, Nacey NC, et al. Spinal Hematomas: What a Radiologist Needs to Know. *RadioGraphics*. 2018;38(5):1516-1535. doi:10.1148/rg.2018180099. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30207937/)
+2. Moriarty HK, Cearbhaill RO, Moriarty PD, Stanley E, Lawler LP, Kavanagh EC. MR imaging of spinal haematoma: a pictorial review. *British Journal of Radiology*. 2019;92(1095):20180532. doi:10.1259/bjr.20180532. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC6541191/)
+3. Figueroa J, DeVine JG. Spontaneous spinal epidural hematoma: literature review. *Journal of Spine Surgery*. 2017;3(1):58-63. doi:10.21037/jss.2017.02.04. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC5386890/)
+4. Braun P, Kazmi K, Nogués-Meléndez P, Mas-Estellés F, Aparici-Robles F. MRI findings in spinal subdural and epidural hematomas. *European Journal of Radiology*. 2007;64(1):119-125. doi:10.1016/j.ejrad.2007.02.014. [PubMed](https://pubmed.ncbi.nlm.nih.gov/17353109/)
+5. Dziedzic T, Kunert P, Krych P, Marchel A. Management and neurological outcome of spontaneous spinal epidural hematoma. *Journal of Clinical Neuroscience*. 2015;22(4):726-729. doi:10.1016/j.jocn.2014.11.010. [PubMed](https://pubmed.ncbi.nlm.nih.gov/25677879/)
+6. Fedor M, Kim ES, Ding K, Muizelaar JP, Kim KD. Spontaneous Spinal Epidural Hematoma: A Retrospective Study on Prognostic Factors and Review of the Literature. *Korean Journal of Spine*. 2011;8(4):272-282. doi:10.14245/kjs.2011.8.4.272. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC4461739/)
+7. Spinal epidural hematoma. Radiopaedia.org. https://radiopaedia.org/articles/spinal-epidural-hematoma-2
+
 ## Related Articles
 
 - [Spinal Cord Injury Imaging](spinal-cord-injury.md)

@@ -77,6 +77,15 @@ These muscles lie deep to the erector spinae and span between transverse and spi
 - Psoas pathology (abscess, hemorrhage, tumor) is an important finding on spinal imaging
 - Paraspinal muscle assessment should be part of routine spinal MRI interpretation
 
+## References
+
+1. Bogduk N, Wilson AS, Tynan W. The human lumbar dorsal rami. J Anat. 1982;134(Pt 2):383-397. Available from: https://pmc.ncbi.nlm.nih.gov/articles/PMC1167925/
+2. Kjaer P, Bendix T, Sorensen JS, Korsholm L, Leboeuf-Yde C. Are MRI-defined fat infiltrations in the multifidus muscles associated with low back pain? BMC Med. 2007;5:2. Available from: https://pubmed.ncbi.nlm.nih.gov/17254322/
+3. Woodham M, Woodham A, Skeate JG, Freeman M. Long-term lumbar multifidus muscle atrophy changes documented with magnetic resonance imaging: a case series. J Radiol Case Rep. 2014;8(5):27-34. Available from: https://pubmed.ncbi.nlm.nih.gov/25426227/
+4. Faur C, Patrascu JM, Haragus H, Anglitoiu B. Correlation between multifidus fatty atrophy and lumbar disc degeneration in low back pain. BMC Musculoskelet Disord. 2019;20(1):414. Available from: https://pubmed.ncbi.nlm.nih.gov/31488112/
+5. Mandelli F, Nüesch C, Zhang Y, Halbeisen F, Schären S, Mündermann A, Netzer C. Assessing fatty infiltration of paraspinal muscles in patients with lumbar spinal stenosis: Goutallier classification and quantitative MRI measurements. Front Neurol. 2021;12:656487. Available from: https://pmc.ncbi.nlm.nih.gov/articles/PMC8446197/
+6. Corazzelli G, Meglio V, Corvino S, Leonetti S, Ricciardi F, D'Elia A, Pizzuti V, Santilli M, Innocenzi G. The Goutallier classification system: how does paravertebral adipose degeneration change in patients with symptomatic lumbar spinal stenosis? Spine (Phila Pa 1976). 2024;49(12):E174-E182. Available from: https://pubmed.ncbi.nlm.nih.gov/38258887/
+
 ## Related Articles
 
 - [Lumbar Vertebrae (L1-L5)](lumbar-vertebrae.md)

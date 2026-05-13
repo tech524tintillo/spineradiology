@@ -39,6 +39,15 @@ Anterior spinal artery syndrome is the clinical manifestation of infarction in t
 - Thoracolumbar watershed zone is most vulnerable
 - Distinguish from transverse myelitis by the anterior distribution
 
+## References
+
+1. Sandoval JI, De Jesus O. Anterior Spinal Artery Syndrome. In: *StatPearls.* Treasure Island (FL): StatPearls Publishing; updated 2024 Jun 7. <https://www.ncbi.nlm.nih.gov/books/NBK560731/>
+2. Vargas MI, Gariani J, Sztajzel R, et al. Spinal cord ischemia: practical imaging tips, pearls, and pitfalls. *AJNR Am J Neuroradiol.* 2015;36(5):825-830. <https://pubmed.ncbi.nlm.nih.gov/25324492/>
+3. Yuh WT, Marsh EE 3rd, Wang AK, et al. MR imaging of spinal cord and vertebral body infarction. *AJNR Am J Neuroradiol.* 1992;13(1):145-154. <https://pubmed.ncbi.nlm.nih.gov/1595432/>
+4. Yadav N, Pendharkar H, Kulkarni GB. Spinal cord infarction: clinical and radiological features. *J Stroke Cerebrovasc Dis.* 2018;27(10):2810-2821. <https://pubmed.ncbi.nlm.nih.gov/30093205/>
+5. Masson C, Pruvo JP, Meder JF, et al. Spinal cord infarction: clinical and magnetic resonance imaging findings and short-term outcome. *J Neurol Neurosurg Psychiatry.* 2004;75(10):1431-1435. <https://pmc.ncbi.nlm.nih.gov/articles/PMC1738740/>
+6. Expert Panel on Neurological Imaging; Agarwal V, et al. ACR Appropriateness Criteria® Myelopathy: 2021 Update. *J Am Coll Radiol.* 2021;18(5S):S73-S82. <https://pubmed.ncbi.nlm.nih.gov/33958120/>
+
 ## Related Articles
 
 - [Spinal Cord Infarction](spinal-cord-infarction.md)

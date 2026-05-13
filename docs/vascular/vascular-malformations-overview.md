@@ -45,6 +45,22 @@ Low-flow lesion within the cord parenchyma, not visible on angiography.
 - Early diagnosis is critical — venous congestion myelopathy from dAVF is reversible if treated early
 - Classification is based on angioarchitecture: dural AVF, intramedullary AVM, perimedullary AVF, cavernous malformation
 
+## References
+
+1. Spetzler RF, Detwiler PW, Riina HA, Porter RW. Modified classification of spinal cord vascular lesions. *J Neurosurg.* 2002;96(2 Suppl):145-156. <https://pubmed.ncbi.nlm.nih.gov/12450276/>
+
+2. Kim LJ, Spetzler RF. Classification and surgical management of spinal arteriovenous lesions: arteriovenous fistulae and arteriovenous malformations. *Neurosurgery.* 2006;59(5 Suppl 3):S195-201; discussion S3-13. <https://pubmed.ncbi.nlm.nih.gov/17053603/>
+
+3. McCarty J, Chung C, Samant R, et al. Vascular pathologic conditions in and around the spinal cord. *RadioGraphics.* 2024;44(9):e240055. <https://pubmed.ncbi.nlm.nih.gov/39207926/>
+
+4. Kona MP, Buch K, Singh J, Rohatgi S. Spinal vascular shunts: a patterned approach. *AJNR Am J Neuroradiol.* 2021;42(12):2110-2118. <https://pubmed.ncbi.nlm.nih.gov/34649916/>
+
+5. Alkhaibary A, Alharbi A, Alnefaie N, et al. Spinal dural arteriovenous fistula: a comprehensive review of the history, classification systems, management, and prognosis. *Chin Neurosurg J.* 2024;10:2. <https://pmc.ncbi.nlm.nih.gov/articles/PMC10775532/>
+
+6. Eddleman CS, Jeong H, Cashen TA, et al. Advanced noninvasive imaging of spinal vascular malformations. *Neurosurg Focus.* 2009;26(1):E9. <https://pmc.ncbi.nlm.nih.gov/articles/PMC2843400/>
+
+7. Spinal vascular malformations. *Radiopaedia.org.* <https://radiopaedia.org/articles/spinal-vascular-malformations>
+
 ## Related Articles
 
 - [Spinal Dural AVF](dural-avf.md)

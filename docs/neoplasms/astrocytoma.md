@@ -44,6 +44,15 @@ Spinal cord astrocytoma is the second most common intramedullary spinal cord tum
 - Complete resection is usually not possible due to infiltrative nature
 - Distinguish from ependymoma by margins, enhancement pattern, and hemosiderin cap
 
+## References
+
+1. Shih RY, Koeller KK. Intramedullary Masses of the Spinal Cord: Radiologic-Pathologic Correlation. RadioGraphics. 2020;40(4):1125-1145. doi:10.1148/rg.2020190196.
+2. Smith AB, Soderlund KA, Rushing EJ, Smirniotopoulos JG. Radiologic-pathologic correlation of pediatric and adolescent spinal neoplasms: Part 1, Intramedullary spinal neoplasms. AJR Am J Roentgenol. 2012;198(1):34-43. doi:10.2214/AJR.10.7311.
+3. Seo HS, Kim JH, Lee DH, Lee YH, Suh SI, Kim SY, Na DG. Nonenhancing intramedullary astrocytomas and other MR imaging features: a retrospective study and systematic review. AJNR Am J Neuroradiol. 2010;31(3):498-503. doi:10.3174/ajnr.A1864.
+4. Ogunlade J, Wiginton JG 4th, Elia C, Odell T, Rao SC. Primary Spinal Astrocytomas: A Literature Review. Cureus. 2019;11(7):e5247. doi:10.7759/cureus.5247.
+5. Azad TD, Pendharkar AV, Pan J, Huang Y, Li A, Esparza R, et al. Surgical outcomes of pediatric spinal cord astrocytomas: systematic review and meta-analysis. J Neurosurg Pediatr. 2018;22(4):404-410. doi:10.3171/2018.4.PEDS17587.
+6. Gaillard F, et al. Spinal astrocytoma. Radiopaedia.org. https://radiopaedia.org/articles/spinal-astrocytoma. Accessed May 13, 2026.
+
 ## Related Articles
 
 - [Ependymoma](ependymoma.md)

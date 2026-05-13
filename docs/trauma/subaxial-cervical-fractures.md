@@ -59,6 +59,22 @@ The **SLIC (Subaxial Cervical Spine Injury Classification)** and **AO Spine Suba
 - CT characterizes bony injury; MRI evaluates the DLC, spinal cord, and discs
 - SLIC scoring guides management decisions
 
+## References
+
+1. Vaccaro AR, Koerner JD, Radcliff KE, et al. AOSpine subaxial cervical spine injury classification system. *Eur Spine J*. 2016;25(7):2173-2184. [https://pubmed.ncbi.nlm.nih.gov/25716661/](https://pubmed.ncbi.nlm.nih.gov/25716661/)
+
+2. Spitnale MJ, Grabowski G. Classification in Brief: Subaxial Cervical Spine Injury Classification and Severity Score System. *Clin Orthop Relat Res*. 2020;478(10):2390-2398. [https://pmc.ncbi.nlm.nih.gov/articles/PMC7491911/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7491911/)
+
+3. Schroeder GD, Canseco JA, Patel PD, et al. Establishing the Injury Severity of Subaxial Cervical Spine Trauma: Validating the Hierarchical Nature of the AO Spine Subaxial Cervical Spine Injury Classification System. *Spine (Phila Pa 1976)*. 2021;46(10):649-657. [https://pubmed.ncbi.nlm.nih.gov/33337687/](https://pubmed.ncbi.nlm.nih.gov/33337687/)
+
+4. Mubark I, Abouelela A, Hassan M, Genena A, Ashwood N. Sub-Axial Cervical Facet Dislocation: A Review of Current Concepts. *Cureus*. 2021;13(1):e12581. [https://pmc.ncbi.nlm.nih.gov/articles/PMC7870112/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7870112/)
+
+5. DiPompeo CM, Das JM. Subaxial Cervical Spine Fractures. In: *StatPearls*. StatPearls Publishing; 2023. [https://www.ncbi.nlm.nih.gov/books/NBK546617/](https://www.ncbi.nlm.nih.gov/books/NBK546617/)
+
+6. Flanders A, Smithuis R. Cervical injury. *The Radiology Assistant*. Published November 24, 2008. [https://radiologyassistant.nl/neuroradiology/spine/cervical-injury](https://radiologyassistant.nl/neuroradiology/spine/cervical-injury)
+
+7. Gaillard F, et al. Flexion teardrop fracture. *Radiopaedia*. [https://radiopaedia.org/articles/flexion-teardrop-fracture-1](https://radiopaedia.org/articles/flexion-teardrop-fracture-1)
+
 ## Related Articles
 
 - [Facet Dislocations](facet-dislocations.md)

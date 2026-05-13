@@ -44,6 +44,22 @@ The arterial blood from the fistula drains retrogradely into the perimedullary v
 - Spinal angiography confirms the diagnosis and guides treatment
 - Early treatment prevents irreversible cord damage
 
+## References
+
+1. Krings T, Geibprasert S. Spinal dural arteriovenous fistulas. *AJNR Am J Neuroradiol.* 2009;30(4):639-648. https://pmc.ncbi.nlm.nih.gov/articles/PMC7051782/
+
+2. Jeng Y, Chen DY, Hsu HL, Huang YL, Chen CJ, Tseng YC. Spinal dural arteriovenous fistula: imaging features and its mimics. *Korean J Radiol.* 2015;16(5):1119-1131. https://pmc.ncbi.nlm.nih.gov/articles/PMC4559784/
+
+3. Maimon S, Luckman Y, Strauss I. Spinal dural arteriovenous fistula: a review. *Adv Tech Stand Neurosurg.* 2016;43:111-137. https://pubmed.ncbi.nlm.nih.gov/26508408/
+
+4. Kelley M, April D, Bagert B, Milburn J, Steven A. Spinal dural arteriovenous fistula: the missing-piece sign. *Ochsner J.* 2022;22(1):10-14. https://pmc.ncbi.nlm.nih.gov/articles/PMC8929228/
+
+5. Zyck S, De Jesus O, Gould GC. Dural arteriovenous fistula. In: *StatPearls.* Treasure Island (FL): StatPearls Publishing; updated 2023 Aug 23. https://www.ncbi.nlm.nih.gov/books/NBK532274/
+
+6. Expert Panel on Neurological Imaging; Agarwal V, Shah LM, Parsons MS, et al. ACR Appropriateness Criteria® myelopathy: 2021 update. *J Am Coll Radiol.* 2021;18(5S):S73-S82. https://pubmed.ncbi.nlm.nih.gov/33958120/
+
+7. Spinal dural arteriovenous fistula. *Radiopaedia.org.* https://radiopaedia.org/articles/spinal-dural-arteriovenous-fistula
+
 ## Related Articles
 
 - [Venous Congestion Myelopathy](venous-congestion-myelopathy.md)

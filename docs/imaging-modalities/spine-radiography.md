@@ -77,6 +77,15 @@ Disruption of any of these lines suggests fracture, dislocation, or malalignment
 - The cervicothoracic junction must be adequately visualized on lateral films
 - CT has largely replaced radiography for acute trauma, but plain films remain valuable for screening, follow-up, and deformity assessment
 
+## References
+
+1. Skalski MR, Matcuk GR Jr, Gibbs WN. The Art of Interpreting Cervical Spine Radiographs. RadioGraphics. 2019;39(3):820-821. doi:10.1148/rg.2019180148. Available from: https://pubmed.ncbi.nlm.nih.gov/31059402/
+2. Perry JR, Stern EJ, Mann FA, Baxter AB. Lateral radiography of the cervical spine in the trauma patient: looking beyond the spine. AJR Am J Roentgenol. 2001;176(2):381-386. doi:10.2214/ajr.176.2.1760381. Available from: https://pubmed.ncbi.nlm.nih.gov/11159078/
+3. Malfair D, Flemming AK, Dvorak MF, Munk PL, Vertinsky AT, Heran MK, Graeb DA. Radiographic evaluation of scoliosis: review. AJR Am J Roentgenol. 2010;194(3 Suppl):S8-S22. doi:10.2214/AJR.07.7145. Available from: https://pubmed.ncbi.nlm.nih.gov/20173177/
+4. Expert Panel on Neurological Imaging; Hassankhani A, et al. ACR Appropriateness Criteria® Acute Spinal Trauma: 2024 Update. J Am Coll Radiol. 2025;22(5S):S48-S66. doi:10.1016/j.jacr.2025.02.013. Available from: https://pubmed.ncbi.nlm.nih.gov/40409895/
+5. Ruiz Santiago F, Láinez Ramos-Bossini AJ, Wáng YXJ, López Zúñiga D. The role of radiography in the study of spinal disorders. Quant Imaging Med Surg. 2020;10(12):2322-2355. doi:10.21037/qims-20-1014. Available from: https://pmc.ncbi.nlm.nih.gov/articles/PMC7596402/
+6. Spine radiography. Radiopaedia.org. Available from: https://radiopaedia.org/articles/spine-radiography-paediatric
+
 ## Related Articles
 
 - [Flexion-Extension Radiographs](flexion-extension-radiographs.md)

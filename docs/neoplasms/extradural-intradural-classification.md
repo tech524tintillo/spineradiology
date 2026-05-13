@@ -71,6 +71,16 @@ Tumors arising within the substance of the spinal cord itself.
 - The CSF cap sign distinguishes extramedullary from intramedullary lesions
 - MRI with contrast is the definitive imaging study for compartment localization
 
+## References
+
+1. Koeller KK, Shih RY. Intradural extramedullary spinal neoplasms: radiologic-pathologic correlation. RadioGraphics. 2019;39(2):468-490. Available from: https://pubmed.ncbi.nlm.nih.gov/30844353/
+2. Shih RY, Koeller KK. Intramedullary masses of the spinal cord: radiologic-pathologic correlation. RadioGraphics. 2020;40(4):1125-1145. Available from: https://pubmed.ncbi.nlm.nih.gov/32530746/
+3. Abul-Kasim K, Thurnher MM, McKeever P, Sundgren PC. Intradural spinal tumors: current classification and MRI features. Neuroradiology. 2008;50(4):301-314. Available from: https://pubmed.ncbi.nlm.nih.gov/18084751/
+4. Arnautovic K, Arnautovic A. Extramedullary intradural spinal tumors: a review of modern diagnostic and treatment options and a report of a series. Bosn J Basic Med Sci. 2009;9(Suppl 1):S40-S45. Available from: https://pmc.ncbi.nlm.nih.gov/articles/PMC5655171/
+5. Khanna AJ, Shindle MK, Wasserman BA, Gokaslan ZL, Gonzales RA, Buchowski JM, et al. Use of magnetic resonance imaging in differentiating compartmental location of spinal tumors. Am J Orthop (Belle Mead NJ). 2005;34(10):472-476. Available from: https://pubmed.ncbi.nlm.nih.gov/16304794/
+6. Sąsiadek M, Romanowski C, Jacków-Nowicka J. Imaging of intramedullary tumours of the spinal cord. Pol J Radiol. 2024;89:e531-e540. Available from: https://pmc.ncbi.nlm.nih.gov/articles/PMC11705043/
+7. Gaillard F, et al. Intradural extramedullary spinal tumours. Radiopaedia.org. Available from: https://radiopaedia.org/articles/intradural-extramedullary-spinal-tumours-1
+
 ## Related Articles
 
 - [Spine Tumors Overview](spine-tumors-overview.md)

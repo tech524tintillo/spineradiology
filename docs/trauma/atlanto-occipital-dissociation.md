@@ -62,6 +62,16 @@ AOD is inherently unstable and almost always requires surgical stabilization wit
 - Treatment is surgical (occipitocervical fusion) — traction is contraindicated
 - Historically uniformly fatal, but improved prehospital care has increased survival
 
+## References
+
+1. Dahdaleh NS, Khanna R, Menezes AH, et al. The Application of the Revised Condyle–C1 Interval Method to Diagnose Traumatic Atlanto-occipital Dissociation in Adults. *Global Spine Journal*. 2016;6(6):529-534. <https://pmc.ncbi.nlm.nih.gov/articles/PMC4993610/>
+2. Kasliwal MK, Fontes RB, Traynelis VC. Occipitocervical dissociation—incidence, evaluation, and treatment. *Current Reviews in Musculoskeletal Medicine*. 2016;9(3):247-254. <https://pmc.ncbi.nlm.nih.gov/articles/PMC4958379/>
+3. Tang A, Tobert D, Kakarmath S, Harris M, Khurana B. Radiological and clinical features of traumatic atlanto-occipital dislocation. *Emergency Radiology*. 2021;28(4):705-712. <https://pubmed.ncbi.nlm.nih.gov/33538940/>
+4. Hall GC, Kinsman MJ, Nazar RG, et al. Atlanto-occipital dislocation. *World Journal of Orthopedics*. 2015;6(2):236-243. <https://pmc.ncbi.nlm.nih.gov/articles/PMC4363805/>
+5. Kim YJ, Yoo CJ, Park CW, et al. Traumatic Atlanto-occipital Dislocation (AOD). *Korean Journal of Spine*. 2012;9(2):85-91. <https://www.e-neurospine.org/journal/view.php?number=76>
+6. Radiopaedia — Traynelis classification of atlanto-occipital dislocations. <https://radiopaedia.org/articles/traynelis-classification-of-atlanto-occipital-dislocations>
+7. Radiopaedia — Atlanto-occipital dissociation injuries. <https://radiopaedia.org/articles/atlanto-occipital-dissociation-injuries>
+
 ## Related Articles
 
 - [Occipital Condyle Fracture](occipital-condyle-fracture.md)

@@ -48,6 +48,16 @@ Several measurements assess cranial settling:
 - ADI may paradoxically appear normal — do not rely on ADI alone
 - Occipitocervical fusion is the definitive treatment
 
+## References
+
+1. Donnally CJ III, Munakomi S, Varacallo MA. Basilar Invagination. In: *StatPearls.* Treasure Island (FL): StatPearls Publishing; updated 2023 Aug 13. <https://www.ncbi.nlm.nih.gov/books/NBK448153/>
+2. Cranial settling - rheumatoid arthritis. *Radiopaedia.org.* <https://radiopaedia.org/cases/cranial-settling-rheumatoid-arthritis>
+3. Riew KD, Hilibrand AS, Palumbo MA, Sethi N, Bohlman HH. Diagnosing basilar invagination in the rheumatoid patient: the reliability of radiographic criteria. *J Bone Joint Surg Am.* 2001;83(2):194-200. <https://pubmed.ncbi.nlm.nih.gov/11216680/>
+4. Kawaida H, Sakou T, Morizono Y. Vertical settling in rheumatoid arthritis: diagnostic value of the Ranawat and Redlund-Johnell methods. *Clin Orthop Relat Res.* 1989;(239):128-135. <https://pubmed.ncbi.nlm.nih.gov/2912612/>
+5. Mańczak M, Gasik R. Cervical spine instability in the course of rheumatoid arthritis — imaging methods. *Reumatologia.* 2017;55(4):201-207. <https://pmc.ncbi.nlm.nih.gov/articles/PMC5647537/>
+6. Ellatif M, Sharif B, Baxter D, Saifuddin A. Update on imaging of the cervical spine in rheumatoid arthritis. *Skeletal Radiol.* 2022;51(8):1535-1551. <https://pubmed.ncbi.nlm.nih.gov/35146552/>
+7. Joaquim AF, Ghizoni E, Tedeschi H, Appenzeller S, Riew KD. Radiological evaluation of cervical spine involvement in rheumatoid arthritis. *Neurosurg Focus.* 2015;38(4):E4. <https://pubmed.ncbi.nlm.nih.gov/25828498/>
+
 ## Related Articles
 
 - [Atlantoaxial Subluxation in RA](atlantoaxial-subluxation-ra.md)

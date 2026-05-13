@@ -39,6 +39,15 @@ An aneurysmal bone cyst (ABC) is an expansile, blood-filled, benign cystic bone 
 - Posterior elements are more commonly involved than the vertebral body
 - Recurrence rate of 10–30% after curettage
 
+## References
+
+1. Restrepo R, Zahrah D, Pelaez L, Temple HT, Murakami JW. Update on aneurysmal bone cyst: pathophysiology, histology, imaging and treatment. Pediatr Radiol. 2022;52(9):1601–1614. Available from: https://pubmed.ncbi.nlm.nih.gov/35941207/
+2. Zileli M, Isik HS, Ogut FE, Is M, Cagli S, Calli C. Aneurysmal bone cysts of the spine. Eur Spine J. 2013;22(3):593–601. Available from: https://pmc.ncbi.nlm.nih.gov/articles/PMC3585636/
+3. Nasri E, Reith JD. Aneurysmal bone cyst: a review. J Pathol Transl Med. 2023;57(2):81–87. Available from: https://www.jpatholtm.org/journal/view.php?number=17061
+4. Mahnken AH, Nolte-Ernsting CCA, Wildberger JE, et al. Aneurysmal bone cyst: value of MR imaging and conventional radiography. Eur Radiol. 2003;13(5):1118–1124. Available from: https://pubmed.ncbi.nlm.nih.gov/12695836/
+5. Stevens KJ, Stevens JA. Aneurysmal Bone Cysts. In: StatPearls. Treasure Island (FL): StatPearls Publishing; 2023. Available from: https://www.ncbi.nlm.nih.gov/books/NBK546654/
+6. Aneurysmal bone cyst. Radiopaedia.org. Available from: https://radiopaedia.org/articles/aneurysmal-bone-cyst
+
 ## Related Articles
 
 - [Giant Cell Tumor](giant-cell-tumor.md)

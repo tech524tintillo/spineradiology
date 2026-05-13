@@ -59,6 +59,15 @@ Skin findings that should prompt imaging for occult spinal dysraphism:
 - MRI is the modality of choice for postnatal evaluation
 - Conus position, filum terminale thickness, and associated anomalies are the key MRI findings
 
+## References
+
+1. Tortori-Donati P, Rossi A, Cama A. Spinal dysraphism: a review of neuroradiological features with embryological correlations and proposal for a new classification. Neuroradiology. 2000;42(7):471-491. doi:10.1007/s002340000325. [PubMed](https://pubmed.ncbi.nlm.nih.gov/10952179/)
+2. Rufener SL, Ibrahim M, Raybaud CA, Parmar HA. Congenital spine and spinal cord malformations--pictorial review. AJR Am J Roentgenol. 2010;194(3 Suppl):S26-S37. doi:10.2214/AJR.07.7141. [PubMed](https://pubmed.ncbi.nlm.nih.gov/20173174/)
+3. Trapp B, de Andrade Lourenção Freddi T, de Oliveira Morais Hans M, et al. A Practical Approach to Diagnosis of Spinal Dysraphism. RadioGraphics. 2021;41(2):559-575. doi:10.1148/rg.2021200103. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33449837/)
+4. Chellathurai A, Kathirvelu G, Mukkada PJ, Rajendran K, Ramani R. Spinal Dysraphisms: A New Anatomical-Clinicoradiological Classification. Indian J Radiol Imaging. 2022;31(4):809-829. doi:10.1055/s-0041-1741100. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC8817824/)
+5. Karsonovich T, Munakomi S. Spina Bifida. In: StatPearls. Treasure Island (FL): StatPearls Publishing; 2025. [NCBI Bookshelf](https://www.ncbi.nlm.nih.gov/books/NBK559265/)
+6. Spinal dysraphism. Radiopaedia.org. [Radiopaedia](https://radiopaedia.org/articles/spinal-dysraphism-3)
+
 ## Related Articles
 
 - [Myelomeningocele](myelomeningocele.md)

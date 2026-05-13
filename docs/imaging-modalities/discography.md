@@ -71,6 +71,18 @@ A disc is considered the pain source when:
 - Many surgeons now rely on MRI and clinical correlation rather than discography for surgical planning
 - When used, strict criteria (concordant pain ≥6/10 with negative control level) improve specificity
 
+## References
+
+1. Gruver C, Guthmiller KB. Provocative Discography. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; updated 2023 May 23. Available from: https://www.ncbi.nlm.nih.gov/books/NBK470389/
+2. Stretanski MF, Vu L. Fluoroscopy Discography Assessment, Protocols, and Interpretation. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; updated 2023 Jul 10. Available from: https://www.ncbi.nlm.nih.gov/books/NBK572119/
+3. Modified Dallas discographic classification of intervertebral disc radial tears. Radiopaedia.org. Available from: https://radiopaedia.org/articles/modified-dallas-discographic-classification-of-intervertebral-disc-radial-tears
+4. Sachs BL, Vanharanta H, Spivey MA, Guyer RD, Videman T, Rashbaum RF, et al. Dallas discogram description. A new classification of CT/discography in low-back disorders. Spine (Phila Pa 1976). 1987;12(3):287-94.
+5. Guyer RD, Ohnmeiss DD. Lumbar discography. Position statement from the North American Spine Society Diagnostic and Therapeutic Committee. Spine (Phila Pa 1976). 1995;20(18):2048-59.
+6. Carragee EJ, Tanner CM, Khurana S, Hayward C, Welsh J, Date E, et al. The rates of false-positive lumbar discography in select patients without low back symptoms. Spine (Phila Pa 1976). 2000;25(11):1373-80.
+7. Carragee EJ, Don AS, Hurwitz EL, Cuellar JM, Carrino JA, Herzog R. 2009 ISSLS Prize Winner: Does discography cause accelerated progression of degeneration changes in the lumbar disc: a ten-year matched cohort study. Spine (Phila Pa 1976). 2009;34(21):2338-45.
+8. Manchikanti L, Benyamin RM, Singh V, Falco FJ, Hameed H, Derby R, et al. An update of the systematic appraisal of the accuracy and utility of lumbar discography in chronic low back pain. Pain Physician. 2013;16(2 Suppl):SE55-95.
+9. Bartynski WS, Rothfus WE, Kurs-Lasky M. Postdiskogram CT features of lidocaine-sensitive and lidocaine-insensitive severely painful disks at provocation lumbar diskography. AJNR Am J Neuroradiol. 2008;29(8):1455-60.
+
 ## Related Articles
 
 - [Intervertebral Disc](../anatomy/intervertebral-disc.md)

@@ -80,6 +80,22 @@ CT is definitive for characterizing the fracture:
 - CT characterizes the fracture; MRI assesses the C2–C3 disc and spinal cord
 - CT angiography should be considered to evaluate the vertebral arteries
 
+## References
+
+1. LeFever D, Odoemene M, Munakomi S. Hangman's Fractures. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2026. Available from: [https://www.ncbi.nlm.nih.gov/books/NBK519496/](https://www.ncbi.nlm.nih.gov/books/NBK519496/)
+
+2. Schleicher P, Scholz M, Pingel A, Kandziora F. Traumatic Spondylolisthesis of the Axis Vertebra in Adults. Global Spine J. 2015;5(4):346-357. [https://journals.sagepub.com/doi/10.1055/s-0035-1550343](https://journals.sagepub.com/doi/10.1055/s-0035-1550343)
+
+3. Li XF, Dai LY, Lu H, Chen XD. A systematic review of the management of hangman's fractures. Eur Spine J. 2006;15(3):257-269. [https://pmc.ncbi.nlm.nih.gov/articles/PMC3489291/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3489291/)
+
+4. Al-Mahfoudh R, Beagrie C, Woolley E, et al. Management of Typical and Atypical Hangman's Fractures. Global Spine J. 2016;6(3):248-256. [https://pmc.ncbi.nlm.nih.gov/articles/PMC4836940/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4836940/)
+
+5. Li G, Zhong D, Wang Q. A novel classification for atypical Hangman fractures and its application: A retrospective observational study. Medicine (Baltimore). 2017;96(28):e7492. [https://pmc.ncbi.nlm.nih.gov/articles/PMC5515766/](https://pmc.ncbi.nlm.nih.gov/articles/PMC5515766/)
+
+6. Levine and Edwards classification of hangman (C2) fractures. Radiopaedia.org. [https://radiopaedia.org/articles/levine-and-edwards-classification-of-hangman-c2-fractures](https://radiopaedia.org/articles/levine-and-edwards-classification-of-hangman-c2-fractures)
+
+7. Traumatic Spondylolisthesis of Axis (Hangman's Fracture). Orthobullets. [https://www.orthobullets.com/spine/2017/traumatic-spondylolisthesis-of-axis-hangmans-fracture](https://www.orthobullets.com/spine/2017/traumatic-spondylolisthesis-of-axis-hangmans-fracture)
+
 ## Related Articles
 
 - [Odontoid Fractures](odontoid-fractures.md)

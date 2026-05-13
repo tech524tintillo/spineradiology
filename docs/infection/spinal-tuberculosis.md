@@ -62,6 +62,15 @@ Spinal tuberculosis (Pott disease) is infection of the spine by Mycobacterium tu
 - Skip lesions (7–10%) are a recognized feature — image the entire spine
 - RIPE chemotherapy is the primary treatment
 
+## References
+
+1. Tobin EH, Rausch-Phung EA. Tuberculous Spondylitis (Pott Disease). In: *StatPearls.* Treasure Island (FL): StatPearls Publishing; updated 2026 Feb 15. <https://www.ncbi.nlm.nih.gov/books/NBK538331/>
+2. Tuberculous spondylitis. *Radiopaedia.org.* <https://radiopaedia.org/articles/tuberculous-spondylitis-2>
+3. Jain AK. Tuberculosis of the spine: a fresh look at an old disease. *J Bone Joint Surg Br.* 2010;92(7):905-913. <https://pubmed.ncbi.nlm.nih.gov/20595106/>
+4. Burrill J, Williams CJ, Bain G, Conder G, Hine AL, Misra RR. Tuberculosis: a radiologic review. *RadioGraphics.* 2007;27(5):1255-1273. <https://pubmed.ncbi.nlm.nih.gov/17848689/>
+5. Kubihal V, Sharma R, Krishna Kumar RG, Chandrashekhara SH, Garg R. Imaging update in spinal tuberculosis. *J Clin Orthop Trauma.* 2021;25:101742. <https://pmc.ncbi.nlm.nih.gov/articles/PMC8671643/>
+6. Expert Panel on Neurological Imaging; Ortiz AO, Levitt A, Shah LM, Parsons MS, Agarwal V, et al. ACR Appropriateness Criteria® Suspected Spine Infection. *J Am Coll Radiol.* 2021;18(11S):S488-S501. <https://pubmed.ncbi.nlm.nih.gov/34794603/>
+
 ## Related Articles
 
 - [Pyogenic Spondylodiscitis](pyogenic-spondylodiscitis.md)

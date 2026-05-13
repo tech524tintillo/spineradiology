@@ -45,6 +45,15 @@ Isthmic spondylolisthesis is anterior translation of a vertebra due to a defect 
 - Chronic sclerotic defects are unlikely to heal — managed conservatively or with fusion if unstable
 - The Scottie dog "broken neck" on oblique radiographs is the classic finding
 
+## References
+
+1. Gaillard F, et al. Wiltse classification of spondylolisthesis. Radiopaedia.org. https://radiopaedia.org/articles/wiltse-classification-of-spondylolisthesis
+2. Gaillard F, et al. Spondylolysis. Radiopaedia.org. https://radiopaedia.org/articles/spondylolysis
+3. Koslosky E, Gendelberg D. Classification in Brief: The Meyerding Classification System of Spondylolisthesis. Clin Orthop Relat Res. 2020;478(5):1125-1130. https://pmc.ncbi.nlm.nih.gov/articles/PMC7170696/
+4. Margetis K, Gillis CC. Spondylolisthesis. StatPearls. NCBI Bookshelf. https://www.ncbi.nlm.nih.gov/books/NBK430767/
+5. Syrmou E, Tsitsopoulos PP, Marinopoulos D, et al. Spondylolysis: a review and reappraisal. Hippokratia. 2010;14(1):17-21. https://pmc.ncbi.nlm.nih.gov/articles/PMC2843565/
+6. Expósito Jiménez D, Álvarez de Sierra Garcia B. Magnetic resonance imaging (MRI) vs. computed tomography (CT) in the diagnosis and classification of spondylolysis and spondylolisthesis—a narrative review. Quant Imaging Med Surg. 2024;14(11):7891-7907. https://pmc.ncbi.nlm.nih.gov/articles/PMC11558484/
+
 ## Related Articles
 
 - [Spondylolisthesis](spondylolisthesis.md)

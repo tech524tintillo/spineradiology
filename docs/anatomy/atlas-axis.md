@@ -99,6 +99,18 @@ MRI is essential for evaluating ligamentous integrity and spinal cord compressio
 - The C1–C2 complex provides ~50% of cervical rotation
 - CT is the primary modality for fracture evaluation; MRI for ligament and cord assessment
 
+## References
+
+1. Karwacki GM, Schneider JF. Normal ossification patterns of atlas and axis: a CT study. AJNR Am J Neuroradiol. 2012;33(10):1882-7. doi:10.3174/ajnr.A3105.
+2. Smoker WR. Craniovertebral junction: normal anatomy, craniometry, and congenital anomalies. Radiographics. 1994;14(2):255-77. doi:10.1148/radiographics.14.2.8190952.
+3. Riascos R, Bonfante E, Cotes C, Guirguis M, Hakimelahi R, West C. Imaging of atlanto-occipital and atlantoaxial traumatic injuries: what the radiologist needs to know. Radiographics. 2015;35(7):2121-34. doi:10.1148/rg.2015150035.
+4. Lustrin ES, Karakas SP, Ortiz AO, Cinnamon J, Castillo M, Vaheesan K, et al. Pediatric cervical spine: normal anatomy, variants, and trauma. Radiographics. 2003;23(3):539-60. doi:10.1148/rg.233025121.
+5. Morimoto LR, Kase DT, Esmanhotto PG, Maciel MA, Augusto ACL, Catricala PF, et al. Imaging assessment of nontraumatic pathologic conditions at the craniovertebral junction: a comprehensive review. Radiographics. 2024;44(5):e230137. doi:10.1148/rg.230137.
+6. Waxenbaum JA, Reddy V, Margetis K. Anatomy, back, cervical vertebrae. In: StatPearls. Treasure Island (FL): StatPearls Publishing; 2026.
+7. Forbes Kaprive J, Das JM. Anatomy, head and neck: atlantoaxial joint. In: StatPearls. Treasure Island (FL): StatPearls Publishing; 2023.
+8. Gaillard F, Jones J, et al. Atlas (C1). Radiopaedia.org. Available from: https://radiopaedia.org/articles/atlas-c1
+9. Gaillard F, Jones J, et al. Axis (C2). Radiopaedia.org. Available from: https://radiopaedia.org/articles/axis-c2
+
 ## Related Articles
 
 - [Cervical Vertebrae (C1-C7)](cervical-vertebrae.md)

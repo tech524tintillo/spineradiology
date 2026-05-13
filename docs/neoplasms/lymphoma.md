@@ -35,6 +35,16 @@ Lymphoma is one of the causes of an "ivory vertebra" — a uniformly sclerotic v
 - PET/CT is the standard staging modality
 - Primary spinal lymphoma is rare; secondary involvement is more common
 
+## References
+
+1. Mascalchi M, Torselli P, Falaschi F, Dal Pozzo G. MRI of spinal epidural lymphoma. Neuroradiology. 1995;37(4):303-7. PMID: 7666966.
+2. Boukobza M, Mazel C, Touboul E. Primary vertebral and spinal epidural non-Hodgkin's lymphoma with spinal cord compression. Neuroradiology. 1996;38(4):333-7. PMID: 8738091.
+3. Li MH, Holtås S, Larsson EM. MR imaging of spinal lymphoma. Acta Radiol. 1992;33(4):338-42. PMID: 1633044.
+4. Cugati G, Singh M, Pande A, Ramamurthi R, Balasubramanyam M, Sethi SK, et al. Primary spinal epidural lymphomas. J Craniovertebr Junction Spine. 2011;2(1):3-11. PMID: 22013369.
+5. Heyning FH, Kroon HM, Hogendoorn PC, Taminiau AH, van der Woude HJ. MR imaging characteristics in primary lymphoma of bone with emphasis on non-aggressive appearance. Skeletal Radiol. 2007;36(10):937-44. PMID: 17558503.
+6. Lim CY, Ong KO. Imaging of musculoskeletal lymphoma. Cancer Imaging. 2013;13(4):448-57. PMID: 24334414.
+7. Lymphoma of the spinal cord. Radiopaedia.org. Available from: https://radiopaedia.org/articles/lymphoma-of-the-spinal-cord
+
 ## Related Articles
 
 - [Multiple Myeloma / Plasmacytoma](myeloma-plasmacytoma.md)

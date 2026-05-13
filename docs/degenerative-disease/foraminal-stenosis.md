@@ -56,6 +56,15 @@ The neural foramen is bounded by:
 - Multiple causes: disc loss, osteophytes, facet hypertrophy, spondylolisthesis
 - In the cervical spine, uncovertebral osteophytes are a major foraminal contributor
 
+## References
+
+1. Lee S, Lee JW, Yeom JS, et al. A practical MRI grading system for lumbar foraminal stenosis. *AJR Am J Roentgenol*. 2010;194(4):1095-1098. [https://www.ajronline.org/doi/10.2214/AJR.09.2772](https://www.ajronline.org/doi/10.2214/AJR.09.2772)
+2. Seo J, Lee JW. Magnetic Resonance Imaging Grading Systems for Central Canal and Neural Foraminal Stenoses of the Lumbar and Cervical Spines With a Focus on the Lee Grading System. *Korean J Radiol*. 2023;24(3):224-234. [https://pmc.ncbi.nlm.nih.gov/articles/PMC9971835/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9971835/)
+3. Park HJ, Kim SS, Lee SY, et al. A practical MRI grading system for cervical foraminal stenosis based on oblique sagittal images. *Br J Radiol*. 2013;86(1025):20120515. [https://pubmed.ncbi.nlm.nih.gov/23410800/](https://pubmed.ncbi.nlm.nih.gov/23410800/)
+4. Park HJ, Kim SS, Han CH, et al. The clinical correlation of a new practical MRI method for grading cervical neural foraminal stenosis based on oblique sagittal images. *AJR Am J Roentgenol*. 2014;203(2):412-417. [https://pubmed.ncbi.nlm.nih.gov/25055278/](https://pubmed.ncbi.nlm.nih.gov/25055278/)
+5. Sartoretti E, Wyss M, Alfieri A, et al. Introduction and reproducibility of an updated practical grading system for lumbar foraminal stenosis based on high-resolution MR imaging. *Sci Rep*. 2021;11(1):12000. [https://www.nature.com/articles/s41598-021-91462-2](https://www.nature.com/articles/s41598-021-91462-2)
+6. Radiopaedia. Neural exit foraminal stenosis. [https://radiopaedia.org/articles/neural-exit-foraminal-stenosis](https://radiopaedia.org/articles/neural-exit-foraminal-stenosis)
+
 ## Related Articles
 
 - [Spinal Stenosis](spinal-stenosis.md)

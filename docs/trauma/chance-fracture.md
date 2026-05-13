@@ -58,6 +58,16 @@ A combination of osseous and ligamentous disruption — the most common pattern 
 - The thoracolumbar junction is the most common location
 - MRI is essential for assessing ligamentous versus bony disruption
 
+## References
+
+1. Koay J, Davis DD, Hogg JP. Chance Fractures. StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2023. <https://www.ncbi.nlm.nih.gov/books/NBK536926/>
+2. Tyroch AH, McGuire EL, McLean SF, et al. The association between Chance fractures and intra-abdominal injuries revisited: a multicenter review. Am Surg. 2005;71(5):434-438. <https://pubmed.ncbi.nlm.nih.gov/15986977/>
+3. Reid AB, Letts RM, Black GB. Pediatric Chance fractures: association with intra-abdominal injuries and seatbelt use. J Trauma. 1990;30(4):384-391. <https://pubmed.ncbi.nlm.nih.gov/2325168/>
+4. Mulpuri K, Reilly CW, Perdios A, Tredwell SJ, Blair GK. The spectrum of abdominal injuries associated with chance fractures in pediatric patients. Eur J Pediatr Surg. 2007;17(5):322-327. <https://pubmed.ncbi.nlm.nih.gov/17968788/>
+5. Huecker MR, Stretanski MF. Seat Belt Injury. StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2025. <https://www.ncbi.nlm.nih.gov/books/NBK470262/>
+6. Flanders A. Thoracolumbar injury. The Radiology Assistant. 2009. <https://radiologyassistant.nl/neuroradiology/spine/thoracolumbar-injury>
+7. Chance fracture. Radiopaedia. <https://radiopaedia.org/articles/chance-fracture?lang=us>
+
 ## Related Articles
 
 - [Thoracolumbar Burst Fracture](burst-fracture.md)

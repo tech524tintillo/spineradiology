@@ -55,6 +55,16 @@ Childhood discitis is an infection of the intervertebral disc that occurs primar
 - S. aureus and Kingella kingae are the most common organisms
 - Prognosis is excellent with antibiotic treatment
 
+## References
+
+1. Principi N, Esposito S. Infectious discitis and spondylodiscitis in children. *Int J Mol Sci.* 2016;17(4):539. <https://pmc.ncbi.nlm.nih.gov/articles/PMC4848995/>
+2. Alghamdi A. Discitis in children. *Neurosciences (Riyadh).* 2016;21(3):283-285. <https://pmc.ncbi.nlm.nih.gov/articles/PMC5107302/>
+3. Samara E, Lutz N, Zambelli PY. Kingella kingae spinal infections in children. *Children (Basel).* 2022;9(5):705. <https://pmc.ncbi.nlm.nih.gov/articles/PMC9139591/>
+4. Adebiyi EO, Ayoade F. Kingella Kingae. In: *StatPearls.* Treasure Island (FL): StatPearls Publishing; updated 2023 Jul 4. <https://www.ncbi.nlm.nih.gov/books/NBK547690/>
+5. Expert Panel on Neurological Imaging, Ortiz AO, Levitt A, et al. ACR Appropriateness Criteria® Suspected Spine Infection. *J Am Coll Radiol.* 2021;18(11S):S488-S501. <https://pubmed.ncbi.nlm.nih.gov/34794603/>
+6. Expert Panel on Pediatric Imaging, Dahmoush H, Gaddam DS, et al. ACR Appropriateness Criteria® Back Pain-Child: 2024 Update. *J Am Coll Radiol.* 2025;22(5S):S79-S107. <https://pubmed.ncbi.nlm.nih.gov/40409897/>
+7. Spondylodiscitis. *Radiopaedia.org.* <https://radiopaedia.org/articles/spondylodiscitis>
+
 ## Related Articles
 
 - [Pyogenic Spondylodiscitis](pyogenic-spondylodiscitis.md)

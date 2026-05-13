@@ -56,6 +56,15 @@ MESCC is a time-sensitive emergency:
 - Multifocal epidural disease is present in ~30% of cases
 - Surgery followed by radiation provides better outcomes than radiation alone for selected patients
 
+## References
+
+1. Bilsky MH, Laufer I, Fourney DR, Groff M, Schmidt MH, Varga PP, et al. Reliability analysis of the epidural spinal cord compression scale. J Neurosurg Spine. 2010;13(3):324-8. doi:10.3171/2010.3.SPINE09459. PMID: 20809724.
+2. Bai J, Grant K, Hussien A, Kawakyu-O'Connor D. Imaging of metastatic epidural spinal cord compression. Front Radiol. 2022;2:962797. doi:10.3389/fradi.2022.962797. PMID: 37492671.
+3. Lo SS, Ryu S, Chang EL, Galanopoulos N, Jones J, Kim EY, et al. ACR Appropriateness Criteria® Metastatic Epidural Spinal Cord Compression and Recurrent Spinal Metastasis. J Palliat Med. 2015;18(7):573-84. doi:10.1089/jpm.2015.28999.sml. PMID: 25974663.
+4. Agarwal V, Shah LM, Parsons MS, Boulter DJ, Cassidy RC, Hutchins TA, et al. ACR Appropriateness Criteria® Myelopathy: 2021 Update. J Am Coll Radiol. 2021;18(5S):S73-S82. doi:10.1016/j.jacr.2021.01.020. PMID: 33958120.
+5. Hamilton P, Lawrence P, Eisenring CV. Metastatic epidural spinal cord compression. J Surg Case Rep. 2020;2020(8):rjaa217. doi:10.1093/jscr/rjaa217. PMID: 32855794.
+6. Epidural spinal cord compression scale. Radiopaedia. Available from: https://radiopaedia.org/articles/epidural-spinal-cord-compression-scale
+
 ## Related Articles
 
 - [Vertebral Body Metastases](vertebral-metastases.md)

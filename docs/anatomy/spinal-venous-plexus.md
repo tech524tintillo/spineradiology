@@ -66,6 +66,14 @@ Oscar Batson described this valveless venous network in 1940, noting that increa
 - Dilated epidural veins can mimic disc herniation on MRI — post-contrast imaging helps differentiate
 - Basivertebral veins drain marrow through the posterior vertebral body
 
+## References
+
+1. Nathoo N, Caris EC, Wiener JA, Mendel E. History of the vertebral venous plexus and the significant contributions of Breschet and Batson. *Neurosurgery*. 2011;69(5):1007-1014. PMID: 21654535. [https://pubmed.ncbi.nlm.nih.gov/21654535/](https://pubmed.ncbi.nlm.nih.gov/21654535/)
+2. Brook RC, Tung K, Oeppen R. Batson's plexus and retrograde venous spread of malignancy — a pictorial review. *Cancer Imaging*. 2014;14(Suppl 1):P40. PMCID: PMC4242660. [https://pmc.ncbi.nlm.nih.gov/articles/PMC4242660/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4242660/)
+3. Geldof AA. Models for cancer skeletal metastasis: a reappraisal of Batson's plexus. *Anticancer Res*. 1997;17(3A):1535-1539. PMID: 9179192. [https://pubmed.ncbi.nlm.nih.gov/9179192/](https://pubmed.ncbi.nlm.nih.gov/9179192/)
+4. Nishijima Y, Uchida K, Koiso K, Nemoto R. Clinical significance of the vertebral vein in prostate cancer metastasis. *Adv Exp Med Biol*. 1992;324:93-100. PMID: 1492629. [https://pubmed.ncbi.nlm.nih.gov/1492629/](https://pubmed.ncbi.nlm.nih.gov/1492629/)
+5. Radiopaedia. Vertebral venous plexus. [https://radiopaedia.org/articles/vertebral-venous-plexus-1](https://radiopaedia.org/articles/vertebral-venous-plexus-1)
+
 ## Related Articles
 
 - [Spinal Arterial Supply](spinal-arterial-supply.md)

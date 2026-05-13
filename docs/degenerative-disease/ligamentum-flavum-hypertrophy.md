@@ -44,6 +44,14 @@ Ligamentum flavum hypertrophy is the pathologic thickening of the ligamentum fla
 - Has a dynamic component — worsens in extension, underestimated on supine MRI
 - Calcification/ossification is most common in the thoracic spine
 
+## References
+
+1. Yabe Y, Hagiwara Y, Tsuchiya M, Onoda Y, Yoshida S, Onoki T, Ishikawa K, Kurosawa D, Murakami E. Factors Associated with Thickening of the Ligamentum Flavum on Magnetic Resonance Imaging in Patients with Lumbar Spinal Canal Stenosis. Spine (Phila Pa 1976). 2022;47(14):1036-1041. PMID: 35125456. https://pubmed.ncbi.nlm.nih.gov/35125456/
+2. Sun C, Wang Z, Tian JW, Wang YH. Ligamentum flavum hypertrophy significantly contributes to the severity of neurogenic intermittent claudication in patients with lumbar spinal canal stenosis. PMC. https://pmc.ncbi.nlm.nih.gov/articles/PMC10980470/
+3. Cheung PWH, Cheung JPY, Luk KDK. The paradoxical relationship between ligamentum flavum hypertrophy and developmental lumbar spinal stenosis. Scoliosis and Spinal Disorders. 2016. https://pmc.ncbi.nlm.nih.gov/articles/PMC5011336/
+4. Sun Y, Zhang W, Qiu Y, et al. An in vivo model of ligamentum flavum hypertrophy from early-stage inflammation to fibrosis. PMC. https://pmc.ncbi.nlm.nih.gov/articles/PMC10540830/
+5. Gaillard F, et al. Ligamentum flavum hypertrophy. Radiopaedia. https://radiopaedia.org/articles/ligamentum-flavum-hypertrophy
+
 ## Related Articles
 
 - [Ligamentum Flavum](../anatomy/ligamentum-flavum.md)

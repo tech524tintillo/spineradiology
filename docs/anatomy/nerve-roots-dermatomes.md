@@ -96,6 +96,15 @@ MRI is the primary modality for evaluating nerve root compression:
 - Posterolateral lumbar disc herniations compress the traversing root; far lateral herniations compress the exiting root
 - S2–S4 roots control bladder and bowel — compression is a surgical emergency
 
+## References
+
+1. Lee MWL, McPhee RW, Stringer MD. An evidence-based approach to human dermatomes. Clin Anat. 2008;21(5):363-73.
+2. Greenberg SA. The history of dermatome mapping. Arch Neurol. 2003;60(1):126-31.
+3. Downs MB, Laporte C. Conflicting dermatome maps: educational and clinical implications. J Orthop Sports Phys Ther. 2011;41(6):427-34.
+4. Whitman PA, Launico MV, Adigun OO. Anatomy, Skin, Dermatomes. In: StatPearls. Treasure Island (FL): StatPearls Publishing; 2023.
+5. Kaiser JT, Lugo-Pico JG. Neuroanatomy, Spinal Nerves. In: StatPearls. Treasure Island (FL): StatPearls Publishing; 2023.
+6. Al Qaraghli MI, De Jesus O. Lumbar Disc Herniation. In: StatPearls. Treasure Island (FL): StatPearls Publishing; 2023.
+
 ## Related Articles
 
 - [Spinal Cord](spinal-cord.md)

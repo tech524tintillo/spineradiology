@@ -82,6 +82,16 @@ MRI pulse sequences are specific combinations of radiofrequency pulses and magne
 - Sequence selection should be tailored to the clinical question
 - Sagittal T2 is the single most important screening sequence for spine MRI
 
+## References
+
+1. Bitar R, Leung G, Perng R, et al. MR pulse sequences: what every radiologist wants to know but is afraid to ask. RadioGraphics. 2006;26(2):513-37. https://pubmed.ncbi.nlm.nih.gov/16549614/
+2. Jo S, Sammet S, Thomas S, Stacy GS. Musculoskeletal MRI pulse sequences: a review for residents and fellows. RadioGraphics. 2019;39(7):2038-2039. https://pubmed.ncbi.nlm.nih.gov/31697620/
+3. Ross JS. Newer sequences for spinal MR imaging: smorgasbord or succotash of acronyms? AJNR Am J Neuroradiol. 1999;20(3):361-373. https://pmc.ncbi.nlm.nih.gov/articles/PMC7056070/
+4. Del Grande F, Santini F, Herzka DA, et al. Fat-suppression techniques for 3-T MR imaging of the musculoskeletal system. RadioGraphics. 2014;34(1):217-233. https://pmc.ncbi.nlm.nih.gov/articles/PMC4359893/
+5. Shah LM, Hanrahan CJ. MRI of spinal bone marrow: part 1, techniques and normal age-related appearances. AJR Am J Roentgenol. 2011;197(6):1298-1308. https://pubmed.ncbi.nlm.nih.gov/22109283/
+6. Radiopaedia. MRI sequences (overview). https://radiopaedia.org/articles/mri-sequences-overview
+7. Radiopaedia. Fat suppressed imaging. https://radiopaedia.org/articles/fat-suppressed-imaging
+
 ## Related Articles
 
 - [MRI of the Spine](mri-spine.md)

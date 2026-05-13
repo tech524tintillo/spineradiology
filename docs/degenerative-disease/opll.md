@@ -56,6 +56,14 @@ Ossification of the posterior longitudinal ligament (OPLL) is a condition in whi
 - MRI is essential for evaluating cord compression and signal change
 - Surgery is complex — approach depends on OPLL morphology and extent
 
+## References
+
+1. Abiola R, Rubery P, Mesfin A. Ossification of the Posterior Longitudinal Ligament: Etiology, Diagnosis, and Outcomes of Nonoperative and Operative Management. *Global Spine Journal*. 2016;6(2):195-204. https://pmc.ncbi.nlm.nih.gov/articles/PMC4771496/
+2. Tetreault L, Nakashima H, Kato S, et al. A Systematic Review of Classification Systems for Cervical Ossification of the Posterior Longitudinal Ligament. *Global Spine Journal*. 2019;9(1):85-103. https://journals.sagepub.com/doi/10.1177/2192568217720421
+3. Ashman C. Ossification of the Posterior Longitudinal Ligament: Bone in a Bad Place. *Radsource MRI Web Clinic*. August 2019. https://radsource.us/ossification-posterior-longitudinal-ligament-bone-bad-place/
+4. Singh H, Khanna V, Sivasankar R, Mothukuri R. Ossification of Posterior Longitudinal Ligament. *Medical Journal Armed Forces India*. 2004;60(3):284-286. https://pmc.ncbi.nlm.nih.gov/articles/PMC4923222/
+5. Gaillard F, Bell D, et al. Ossification of the posterior longitudinal ligament. *Radiopaedia.org*. https://radiopaedia.org/articles/ossification-of-the-posterior-longitudinal-ligament
+
 ## Related Articles
 
 - [Posterior Longitudinal Ligament](../anatomy/posterior-longitudinal-ligament.md)

@@ -37,6 +37,16 @@ Klippel-Feil syndrome (KFS) is a congenital condition characterized by failure o
 - Associated with Sprengel deformity, renal anomalies, and hearing loss
 - MRI evaluates the cord and adjacent level degeneration
 
+## References
+
+1. Menger RP, Rayi A, Notarianni C. Klippel Feil Syndrome. In: StatPearls. Treasure Island (FL): StatPearls Publishing; updated 2024 May 11. Available from: https://www.ncbi.nlm.nih.gov/books/NBK493157/
+2. Samartzis DD, Herman J, Lubicky JP, Shen FH. Classification of congenitally fused cervical patterns in Klippel-Feil patients: epidemiology and role in the development of cervical spine-related symptoms. Spine (Phila Pa 1976). 2006;31(21):E798-804. PMID: 17023841.
+3. Tracy MR, Dormans JP, Kusumi K. Klippel-Feil syndrome: clinical features and current understanding of etiology. Clin Orthop Relat Res. 2004;(424):183-90. PMID: 15241163.
+4. Nouri A, Patel K, Evans H, et al. Demographics, presentation and symptoms of patients with Klippel-Feil syndrome: analysis of a global patient-reported registry. Eur Spine J. 2019;28(10):2257-2265. PMID: 31363914.
+5. Ulmer JL, Elster AD, Ginsberg LE, Williams DW 3rd. Klippel-Feil syndrome: CT and MR of acquired and congenital abnormalities of cervical spine and cord. J Comput Assist Tomogr. 1993;17(2):215-24. PMID: 8454748.
+6. Frikha R. Klippel-Feil syndrome: a review of the literature. Clin Dysmorphol. 2020;29(1):35-37. PMID: 31577545.
+7. Klippel-Feil syndrome. Radiopaedia. Available from: https://radiopaedia.org/articles/klippel-feil-syndrome-3
+
 ## Related Articles
 
 - [Block Vertebra](block-vertebra.md)

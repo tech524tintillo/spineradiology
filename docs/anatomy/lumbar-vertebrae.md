@@ -81,6 +81,16 @@ MRI is the primary modality for lumbar spine evaluation:
 - Posterolateral disc herniations affect the traversing (next-level) nerve root
 - MRI is the primary imaging modality; T2 signal loss in discs indicates degeneration
 
+## References
+
+1. Waxenbaum JA, Reddy V, Williams C, Futterman B. Anatomy, Back, Lumbar Vertebrae. In: StatPearls. Treasure Island (FL): StatPearls Publishing; 2026. Available from: https://www.ncbi.nlm.nih.gov/books/NBK459278/
+2. Pereira Duarte M, Camino Willhuber GO. Pars Interarticularis Injury. In: StatPearls. Treasure Island (FL): StatPearls Publishing; 2026. Available from: https://www.ncbi.nlm.nih.gov/books/NBK545191/
+3. Steurer J, Roner S, Gnannt R, Hodler J. Quantitative radiologic criteria for the diagnosis of lumbar spinal stenosis: a systematic literature review. BMC Musculoskelet Disord. 2011;12:175. Available from: https://pmc.ncbi.nlm.nih.gov/articles/PMC3161920/
+4. Bartynski WS, Lin L. Lumbar root compression in the lateral recess: MR imaging, conventional myelography, and CT myelography comparison with surgical confirmation. AJNR Am J Neuroradiol. 2003;24(3):348-360. Available from: https://pubmed.ncbi.nlm.nih.gov/12637281/
+5. Standaert CJ, Herring SA. Spondylolysis: a critical review. Br J Sports Med. 2000;34(6):415-422. Available from: https://pubmed.ncbi.nlm.nih.gov/11131228/
+6. Leone A, Cianfoni A, Cerase A, Magarelli N, Bonomo L. Lumbar spondylolysis: a review. Skeletal Radiol. 2011;40(6):683-700. Available from: https://pubmed.ncbi.nlm.nih.gov/20440613/
+7. Radiopaedia.org. Spondylolysis. Available from: https://radiopaedia.org/articles/spondylolysis
+
 ## Related Articles
 
 - [Vertebral Column Overview](vertebral-column-overview.md)

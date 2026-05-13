@@ -42,6 +42,20 @@ Baastrup disease (also called "kissing spines") is a condition in which adjacent
 - An often-overlooked cause of midline, extension-provoked low back pain
 - Interspinous injection can be diagnostic and therapeutic
 
+## References
+
+1. Filippiadis DK, Mazioti A, Argentos S, et al. Baastrup's disease (kissing spines syndrome): a pictorial review. *Insights Imaging*. 2015;6(1):123-128. doi:10.1007/s13244-014-0376-7. [PMC4330238](https://pmc.ncbi.nlm.nih.gov/articles/PMC4330238/)
+
+2. Hatgis J, Granville M, Jacobson RE. Baastrup's Disease, Interspinal Bursitis, and Dorsal Epidural Cysts: Radiologic Evaluation and Impact on Treatment Options. *Cureus*. 2017;9(7):e1449. doi:10.7759/cureus.1449. [PMC5590705](https://pmc.ncbi.nlm.nih.gov/articles/PMC5590705/)
+
+3. Maes R, Morrison WB, Parker L, Schweitzer ME, Carrino JA. Lumbar interspinous bursitis (Baastrup disease) in a symptomatic population: prevalence on magnetic resonance imaging. *Spine (Phila Pa 1976)*. 2008;33(7):E211-E215. [PubMed 18379391](https://pubmed.ncbi.nlm.nih.gov/18379391/)
+
+4. Sağtaş E, Kurnaz B, Alver KH, Ufuk F. Baastrup's disease prevalence across various age groups and its association with degenerative changes: insights from STIR sequence in MRI. *Eur Spine J*. 2024;33(7):2763-2769. doi:10.1007/s00586-024-08280-z. [PubMed 38687395](https://pubmed.ncbi.nlm.nih.gov/38687395/)
+
+5. Carroll JF. Baastrup's Disease. *Radsource MRI Web Clinic*. December 2017. [radsource.us/baastrups_disease](https://radsource.us/baastrups_disease/)
+
+6. Baastrup disease. *Radiopaedia*. [radiopaedia.org/articles/baastrup-disease-1](https://radiopaedia.org/articles/baastrup-disease-1)
+
 ## Related Articles
 
 - [Spondylosis](spondylosis.md)

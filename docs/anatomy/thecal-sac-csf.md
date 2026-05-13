@@ -66,6 +66,15 @@ MRI is the primary modality for evaluating the thecal sac and CSF spaces:
 - CSF is dark on T1 and bright on T2 — T2 provides a natural "myelographic effect"
 - Thecal sac cross-sectional area <100 mm² indicates severe lumbar stenosis
 
+## References
+
+1. Schizas C, Theumann N, Burn A, et al. Qualitative grading of severity of lumbar spinal stenosis based on the morphology of the dural sac on magnetic resonance images. *Spine (Phila Pa 1976)*. 2010;35(21):1919-1924. PMID: 20671589.
+2. Lurie JD, Tosteson AN, Tosteson TD, et al. Reliability of readings of magnetic resonance imaging features of lumbar spinal stenosis. *Spine (Phila Pa 1976)*. 2008;33(14):1605-1610. PMID: 18552677.
+3. Khasawneh AH, Garling RJ, Harris CA. Cerebrospinal fluid circulation: What do we know and how do we know it? *Brain Circ*. 2018;4(1):14-18. PMID: 30276331.
+4. Margetis K, Baker S. Physiology, Cerebral Spinal Fluid. In: *StatPearls* [Internet]. Treasure Island (FL): StatPearls Publishing; 2025. Available from: https://www.ncbi.nlm.nih.gov/books/NBK519007/
+5. Margetis K, Weisbrod LJ, Launico MV. Neuroanatomy, Cerebrospinal Fluid. In: *StatPearls* [Internet]. Treasure Island (FL): StatPearls Publishing; 2025. Available from: https://www.ncbi.nlm.nih.gov/books/NBK470578/
+6. Phongkitkarun S, Jaovisidha S, Dhanachai M. Determination of the thecal sac ending using magnetic resonance imaging: clinical applications in craniospinal irradiation. *J Med Assoc Thai*. 2004;87(11):1368-1373. PMID: 15825715.
+
 ## Related Articles
 
 - [Spinal Cord](spinal-cord.md)

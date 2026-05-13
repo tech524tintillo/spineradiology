@@ -42,6 +42,22 @@ Spinal arteriovenous malformations (AVMs) are true vascular malformations with a
 - Spinal angiography is essential for treatment planning
 - Treatment options include embolization, surgery, or both
 
+## References
+
+1. Kona MP, Buch K, Singh J, Rohatgi S. Spinal Vascular Shunts: A Patterned Approach. *AJNR Am J Neuroradiol.* 2021;42(12):2110-2118. <https://pmc.ncbi.nlm.nih.gov/articles/PMC8805746/>
+
+2. McCarty J, Chung C, Samant R, et al. Vascular Pathologic Conditions in and around the Spinal Cord. *RadioGraphics.* 2024;44(9):e240055. <https://pubmed.ncbi.nlm.nih.gov/39207926/>
+
+3. Spetzler RF, Detwiler PW, Riina HA, Porter RW. Modified classification of spinal cord vascular lesions. *J Neurosurg.* 2002;96(2 Suppl):145-156. <https://pubmed.ncbi.nlm.nih.gov/12450276/>
+
+4. Abecassis IJ, Osbun JW, Kim LJ. Classification and pathophysiology of spinal vascular malformations. *Handb Clin Neurol.* 2017;143:135-143. <https://pubmed.ncbi.nlm.nih.gov/28552135/>
+
+5. Takai K. Spinal Arteriovenous Shunts: Angioarchitecture and Historical Changes in Classification. *Neurol Med Chir (Tokyo).* 2017;57(7):356-365. <https://pmc.ncbi.nlm.nih.gov/articles/PMC5566708/>
+
+6. Karsonovich T, Davidson CL, Sampath R. Arteriovenous Malformations of the Central Nervous System. In: *StatPearls.* Treasure Island (FL): StatPearls Publishing; updated 2024 Mar 4. <https://www.ncbi.nlm.nih.gov/books/NBK531479/>
+
+7. Spinal arteriovenous malformations. *Radiopaedia.org.* <https://radiopaedia.org/articles/spinal-arteriovenous-malformations>
+
 ## Related Articles
 
 - [Spinal Dural AVF](dural-avf.md)

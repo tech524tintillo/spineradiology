@@ -49,6 +49,16 @@ However, fungal infections may show:
 - CT-guided biopsy with fungal cultures is essential for diagnosis
 - Prolonged antifungal therapy is required
 
+## References
+
+1. Cevolani L, Facchini G, Pasini S, Bianchi G. Fungal spondylodiscitis: imaging findings and brief review of the literature. *BMJ Case Rep.* 2021;14(9):e242515. <https://pmc.ncbi.nlm.nih.gov/articles/PMC8420698/>
+2. Simeone FJ, Husseini JS, Yeh KJ, Lozano-Calderon S, Nelson SB, Chang CY. MRI and clinical features of acute fungal discitis/osteomyelitis. *Eur Radiol.* 2020;30(4):2253-2260. <https://pubmed.ncbi.nlm.nih.gov/31900707/>
+3. Lee SW, Lee SH, Chung HW, Kim MJ, Seo MJ, Shin MJ. Candida spondylitis: comparison of MRI findings with bacterial and tuberculous causes. *AJR Am J Roentgenol.* 2013;201(4):872-877. <https://pubmed.ncbi.nlm.nih.gov/24059378/>
+4. Crete RN, Gallmann W, Karis JP, Ross J. Spinal coccidioidomycosis: MR imaging findings in 41 patients. *AJNR Am J Neuroradiol.* 2018;39(11):2148-2153. <https://pmc.ncbi.nlm.nih.gov/articles/PMC7655371/>
+5. Ortiz AO, Levitt A, Shah LM, Parsons MS, et al; Expert Panel on Neurological Imaging. ACR Appropriateness Criteria® Suspected Spine Infection. *J Am Coll Radiol.* 2021;18(11S):S488-S501. <https://pubmed.ncbi.nlm.nih.gov/34794603/>
+6. Hall WA, Graeber A, Cecava ND. Vertebral osteomyelitis. In: *StatPearls.* Treasure Island (FL): StatPearls Publishing; updated 2024 Nov 25. <https://www.ncbi.nlm.nih.gov/books/NBK532256/>
+7. Spondylodiscitis. *Radiopaedia.org.* <https://radiopaedia.org/articles/spondylodiscitis>
+
 ## Related Articles
 
 - [Pyogenic Spondylodiscitis](pyogenic-spondylodiscitis.md)

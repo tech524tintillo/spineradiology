@@ -30,6 +30,16 @@ Sarcoidosis is a systemic granulomatous disease of unknown etiology that rarely 
 - Diagnosis requires clinical correlation with systemic sarcoidosis findings
 - Biopsy showing non-caseating granulomas is definitive
 
+## References
+
+1. Smith JK, Matheus MG, Castillo M. Imaging manifestations of neurosarcoidosis. *AJR Am J Roentgenol.* 2004;182(2):289-95. <https://pubmed.ncbi.nlm.nih.gov/14736648/>
+2. Shah R, Roberson GH, Curé JK. Correlation of MR imaging findings and clinical manifestations in neurosarcoidosis. *AJNR Am J Neuroradiol.* 2009;30(5):953-61. <https://pubmed.ncbi.nlm.nih.gov/19193748/>
+3. Zalewski NL, Krecke KN, Weinshenker BG, et al. Central canal enhancement and the trident sign in spinal cord sarcoidosis. *Neurology.* 2016;87(7):743-4. <https://pubmed.ncbi.nlm.nih.gov/27527540/>
+4. Murphy OC, Salazar-Camelo A, Jimenez JA, et al. Clinical and MRI phenotypes of sarcoidosis-associated myelopathy. *Neurol Neuroimmunol Neuroinflamm.* 2020;7(4):e722. <https://pubmed.ncbi.nlm.nih.gov/32269072/>
+5. Poyanli A, Poyanli O, Sencer S, et al. Vertebral sarcoidosis: imaging findings. *Eur Radiol.* 2000;10(1):92-94. <https://pubmed.ncbi.nlm.nih.gov/10663722/>
+6. Pirau L, Lui F. Neurosarcoidosis. In: *StatPearls.* Treasure Island (FL): StatPearls Publishing; updated 2023 Jul 3. <https://www.ncbi.nlm.nih.gov/books/NBK534768/>
+7. Neurosarcoidosis. *Radiopaedia.org.* <https://radiopaedia.org/articles/neurosarcoidosis>
+
 ## Related Articles
 
 - [Transverse Myelitis](transverse-myelitis.md)

@@ -34,6 +34,15 @@
 - Small epidural fluid collections are common early post-op
 - Post-contrast MRI is essential to distinguish scar from recurrent disc
 
+## References
+
+1. Ross JS, Obuchowski N, Zepp R. The postoperative lumbar spine: evaluation of epidural scar over a 1-year period. AJNR Am J Neuroradiol. 1998;19(1):183-186.
+2. Abel F, Tan ET, Chazen JL, Lebl DR, Sneag DB. MRI after Lumbar Spine Decompression and Fusion Surgery: Technical Considerations, Expected Findings, and Complications. Radiology. 2023;308(1):e222732.
+3. Passavanti Z, Leschka S, Wildermuth S, Forster T, Dietrich TJ. Differentiating epidural fibrosis from disc herniation on contrast-enhanced and unenhanced MRI in the postoperative lumbar spine. Skeletal Radiol. 2020;49(11):1819-1827.
+4. Hayashi D, Roemer FW, Mian A, Gharaibeh M, Müller B, Guermazi A. Imaging features of postoperative complications after spinal surgery and instrumentation. AJR Am J Roentgenol. 2012;199(1):W123-W129.
+5. Girão MMV, Miyahara LK, Dwan VSY, Baptista E, Taneja AK, Gotfryd A, Castro AAE. Imaging features of the postoperative spine: a guide to basic understanding of spine surgical procedures. Insights Imaging. 2023;14(1):103.
+6. Corona-Cedillo R, Saavedra-Navarrete MT, Espinoza-Garcia JJ, Mendoza-Aguilar AN, Ternovoy SK, Roldan-Valadez E. Imaging Assessment of the Postoperative Spine: An Updated Pictorial Review of Selected Complications. Biomed Res Int. 2021;2021:9940001.
+
 ## Related Articles
 
 - [Post-Surgical Imaging Approach](imaging-approach.md)

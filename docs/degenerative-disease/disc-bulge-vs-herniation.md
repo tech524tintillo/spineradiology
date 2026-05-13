@@ -62,6 +62,16 @@ The distinction between disc bulge and disc herniation is defined by the extent 
 - Standardized nomenclature from NASS/ASSR/ASNR should be used in reports
 - Disc bulges are common with aging and usually asymptomatic
 
+## References
+
+1. Fardon DF, Williams AL, Dohring EJ, Murtagh FR, Gabriel Rothman SL, Sze GK. Lumbar disc nomenclature: version 2.0: Recommendations of the combined task forces of the North American Spine Society, the American Society of Spine Radiology and the American Society of Neuroradiology. *Spine J.* 2014;14(11):2525-45. doi:10.1016/j.spinee.2014.04.022. PMID: 24768732. [https://pubmed.ncbi.nlm.nih.gov/24768732/](https://pubmed.ncbi.nlm.nih.gov/24768732/)
+2. Fardon DF, Milette PC. Nomenclature and classification of lumbar disc pathology. Recommendations of the Combined Task Forces of the North American Spine Society, American Society of Spine Radiology, and American Society of Neuroradiology. *Spine (Phila Pa 1976).* 2001;26(5):E93-E113. doi:10.1097/00007632-200103010-00006. PMID: 11242399. [https://pubmed.ncbi.nlm.nih.gov/11242399/](https://pubmed.ncbi.nlm.nih.gov/11242399/)
+3. Williams AL, Murtagh FR, Rothman SLG, Sze GK. Lumbar Disc Nomenclature: Version 2.0. *AJNR Am J Neuroradiol.* 2014;35(11):2029. PMC7965177. [https://pmc.ncbi.nlm.nih.gov/articles/PMC7965177/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7965177/)
+4. Smithuis R. Lumbar Disc Nomenclature 2.0. The Radiology Assistant. Published 2017-01-05. [https://radiologyassistant.nl/neuroradiology/spine/lumbar-disc-nomenclature-2-0](https://radiologyassistant.nl/neuroradiology/spine/lumbar-disc-nomenclature-2-0)
+5. Smithuis R. Lumbar Disc Herniation (and other causes of nerve compression). The Radiology Assistant. Published 2014-12-14. [https://radiologyassistant.nl/neuroradiology/spine/lumbar-disc-herniation](https://radiologyassistant.nl/neuroradiology/spine/lumbar-disc-herniation)
+6. Disc bulge. Radiopaedia. [https://radiopaedia.org/articles/disc-bulge](https://radiopaedia.org/articles/disc-bulge)
+7. Konieczny MR, Reinhardt J, Prost M, Schleich C, Krauspe R. Signal Intensity of Lumbar Disc Herniations: Correlation With Age of Herniation for Extrusion, Protrusion, and Sequestration. *Int J Spine Surg.* 2020. PMC7043841. [https://pmc.ncbi.nlm.nih.gov/articles/PMC7043841/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7043841/)
+
 ## Related Articles
 
 - [Disc Protrusion](disc-protrusion.md)

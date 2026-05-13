@@ -72,6 +72,24 @@ For suspected infection or complex regional pain syndrome, a three-phase study i
 - Three-phase bone scan adds specificity for infection (positive all three phases)
 - SPECT is superior to planar imaging for evaluating the spine
 
+## References
+
+1. Gaillard F, et al. Bone scintigraphy. Radiopaedia.org. Available from: https://radiopaedia.org/articles/bone-scintigraphy-1
+
+2. Adams C, Jensen J, Leslie SW. Bone Scan. In: StatPearls. Treasure Island (FL): StatPearls Publishing; 2026. Available from: https://www.ncbi.nlm.nih.gov/books/NBK531486/
+
+3. Van den Wyngaert T, Strobel K, Kampen WU, et al. The EANM practice guidelines for bone scintigraphy. Eur J Nucl Med Mol Imaging. 2016;43(9):1723–1738. doi:10.1007/s00259-016-3415-4
+
+4. Love C, Din AS, Tomas MB, Kalapparambath TP, Palestro CJ. Radionuclide bone imaging: an illustrative review. RadioGraphics. 2003;23(2):341–358. doi:10.1148/rg.232025103
+
+5. Trout AT, Sharp SE, Anton CG, Gelfand MJ, Mehlman CT. Spondylolysis and beyond: value of SPECT/CT in evaluation of low back pain in children and young adults. RadioGraphics. 2015;35(3):819–834. doi:10.1148/rg.2015140092
+
+6. Matesan M, Behnia F, Bermo M, Vesselle H. SPECT/CT bone scintigraphy to evaluate low back pain in young athletes: common and uncommon etiologies. J Orthop Surg Res. 2016;11(1):76. doi:10.1186/s13018-016-0402-1
+
+7. Bellah RD, Summerville DA, Treves ST, Micheli LJ. Low-back pain in adolescent athletes: detection of stress injury to the pars interarticularis with SPECT. Radiology. 1991;180(2):509–512. PMID: 1829845
+
+8. Lo SS, Lutz ST, Chang EL, et al; Expert Panel on Radiation Oncology-Bone Metastases. ACR Appropriateness Criteria® spinal bone metastases. J Palliat Med. 2013;16(1):9–19. doi:10.1089/jpm.2012.0376
+
 ## Related Articles
 
 - [PET/CT of the Spine](pet-ct-spine.md)

@@ -66,6 +66,16 @@ Transitional vertebrae at the lumbosacral junction are common variants (prevalen
 - L5–S1 is the most common level for disc herniation, with relatively more far lateral herniations
 - CT is best for pars defects and LSTV characterization; MRI for disc and neural pathology
 
+## References
+
+1. Konin GP, Walz DM. Lumbosacral transitional vertebrae: classification, imaging findings, and clinical relevance. AJNR Am J Neuroradiol. 2010;31(10):1778-1786.
+2. Jancuska JM, Spivak JM, Bendo JA. A review of symptomatic lumbosacral transitional vertebrae: Bertolotti's syndrome. Int J Spine Surg. 2015;9:42.
+3. Leone A, Cianfoni A, Cerase A, Magarelli N, Bonomo L. Lumbar spondylolysis: a review. Skeletal Radiol. 2011;40(6):683-700.
+4. Le Huec JC, Aunoble S, Philippe L, Nicolas P. Pelvic parameters: origin and significance. Eur Spine J. 2011;20(Suppl 5):564-571.
+5. Celestre PC, Dimar JR 2nd, Glassman SD. Spinopelvic parameters: lumbar lordosis, pelvic incidence, pelvic tilt, and sacral slope: what does a spine surgeon need to know to plan a lumbar deformity correction? Neurosurg Clin N Am. 2018;29(3):323-329.
+6. Castellvi classification of lumbosacral transitional vertebrae. Radiopaedia.org. https://radiopaedia.org/articles/castellvi-classification-of-lumbosacral-transitional-vertebrae
+7. Spondylolysis. Radiopaedia.org. https://radiopaedia.org/articles/spondylolysis
+
 ## Related Articles
 
 - [Lumbar Vertebrae (L1-L5)](lumbar-vertebrae.md)

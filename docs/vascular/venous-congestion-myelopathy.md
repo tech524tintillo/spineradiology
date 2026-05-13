@@ -31,6 +31,16 @@ Venous congestion myelopathy (Foix-Alajouanine syndrome in its most severe form)
 - Spinal angiography confirms the underlying vascular malformation
 - Foix-Alajouanine syndrome is the severe, end-stage manifestation with cord necrosis
 
+## References
+
+1. Krings T, Geibprasert S. Spinal dural arteriovenous fistulas. *AJNR Am J Neuroradiol.* 2009;30(4):639-648. <https://www.ajnr.org/content/30/4/639>
+2. Hurst RW, Grossman RI. Peripheral spinal cord hypointensity on T2-weighted MR images: a reliable imaging sign of venous hypertensive myelopathy. *AJNR Am J Neuroradiol.* 2000;21(4):781-786. <https://pubmed.ncbi.nlm.nih.gov/10782797/>
+3. Jeng Y, Chen DYT, Hsu HL, Huang YL, Chen CJ, Tseng YC. Spinal dural arteriovenous fistula: imaging features and its mimics. *Korean J Radiol.* 2015;16(5):1119-1131. <https://pmc.ncbi.nlm.nih.gov/articles/PMC4559784/>
+4. Sadighi N, Tajmalzai A, Salahshour F. Spinal arteriovenous malformations causing Foix-Alajouanine syndrome, a case report and review of the literature. *Radiol Case Rep.* 2021;16(8):2187-2191. <https://pmc.ncbi.nlm.nih.gov/articles/PMC8213980/>
+5. Spinal dural arteriovenous fistula. *Radiopaedia.org.* <https://radiopaedia.org/articles/spinal-dural-arteriovenous-fistula>
+6. Foix-Alajouanine syndrome. *Radiopaedia.org.* <https://radiopaedia.org/articles/foix-alajouanine-syndrome>
+7. Expert Panel on Neurological Imaging; Agarwal V, Shah LM, Parsons MS, et al. ACR Appropriateness Criteria® Myelopathy: 2021 Update. *J Am Coll Radiol.* 2021;18(5S):S73-S82. <https://www.jacr.org/article/S1546-1440(21)00116-2/fulltext>
+
 ## Related Articles
 
 - [Spinal Dural AVF](dural-avf.md)

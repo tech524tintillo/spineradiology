@@ -33,6 +33,16 @@ Osteoporosis is the most common metabolic bone disease, characterized by decreas
 - MRI with STIR differentiates acute from chronic fractures and benign from malignant
 - Fish vertebrae indicate diffuse bone weakening
 
+## References
+
+1. Yu JS, Krishna NG, Fox MG, et al. ACR Appropriateness Criteria® Osteoporosis and Bone Mineral Density: 2022 Update. *J Am Coll Radiol.* 2022;19(11S):S417-S432. https://pubmed.ncbi.nlm.nih.gov/36436967/
+2. Porter JL, Varacallo MA. Osteoporosis. In: *StatPearls.* Treasure Island (FL): StatPearls Publishing; updated 2023 Aug 4. https://www.ncbi.nlm.nih.gov/books/NBK441901/
+3. Lenchik L, Weaver AA, Ward RJ, Boone JM, Boutin RD. Opportunistic Screening for Osteoporosis Using Computed Tomography: State of the Art and Argument for Paradigm Shift. *Curr Rheumatol Rep.* 2018;20(12):74. https://pmc.ncbi.nlm.nih.gov/articles/PMC7092507/
+4. Jang S, Graffy PM, Ziemlewicz TJ, Lee SJ, Summers RM, Pickhardt PJ. Opportunistic Osteoporosis Screening at Routine Abdominal and Thoracic CT: Normative L1 Trabecular Attenuation Values in More than 20 000 Adults. *Radiology.* 2019;291(2):360-367. https://pubmed.ncbi.nlm.nih.gov/30912719/
+5. Grigoryan M, Guermazi A, Roemer FW, Delmas PD, Genant HK. Recognizing and reporting osteoporotic vertebral fractures. *Eur Spine J.* 2003;12(Suppl 2):S104-S112. https://pmc.ncbi.nlm.nih.gov/articles/PMC3591834/
+6. Shuhart CR, Yeap SS, Anderson PA, et al. Executive Summary of the 2019 ISCD Position Development Conference on Monitoring Treatment, DXA Cross-calibration and Least Significant Change, Spinal Cord Injury, Peri-prosthetic and Orthopedic Bone Health, Transgender Medicine, and Pediatrics. *J Clin Densitom.* 2019;22(4):453-471. https://pubmed.ncbi.nlm.nih.gov/31400968/
+7. Osteoporosis. *Radiopaedia.org.* https://radiopaedia.org/articles/osteoporosis-3
+
 ## Related Articles
 
 - [Osteoporotic Compression Fractures](osteoporotic-compression-fractures.md)

@@ -41,6 +41,15 @@ A facet synovial cyst (juxtafacet cyst) is a fluid-filled or gelatinous cyst tha
 - Strongly associated with segmental instability and spondylolisthesis
 - High recurrence rate after aspiration alone — fusion may be needed if instability is present
 
+## References
+
+1. Gaillard F, et al. Spinal synovial cyst. Radiopaedia.org. <https://radiopaedia.org/articles/spinal-synovial-cyst-1>
+2. Apostolaki E, Davies AM, Evans N, Cassar-Pullicino VN. MR imaging of lumbar facet joint synovial cysts. *European Radiology*. 2000;10(4):615-623. <https://pubmed.ncbi.nlm.nih.gov/10795544/>
+3. Abd El-Kader HE. Juxtafacet spinal synovial cysts. *Asian Spine Journal*. 2016;10(1):46-51. <https://pmc.ncbi.nlm.nih.gov/articles/PMC4764539/>
+4. Khan AM, Girardi F. Spinal lumbar synovial cysts. Diagnosis and management challenge. *European Spine Journal*. 2006;15(8):1176-1182. <https://pmc.ncbi.nlm.nih.gov/articles/PMC3233964/>
+5. El Shazly AA, Khattab MF. Surgical excision of a juxtafacet cyst in the lumbar spine: a report of thirteen cases with long-term follow up. *Asian Journal of Neurosurgery*. 2011;6(2):78-82. <https://pmc.ncbi.nlm.nih.gov/articles/PMC3277074/>
+6. Awh MH. Lumbar synovial cyst. MRI Web Clinic. Radsource. February 2006. <https://radsource.us/lumbar-synovial-cyst/>
+
 ## Related Articles
 
 - [Facet Arthropathy](facet-arthropathy.md)

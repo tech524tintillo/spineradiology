@@ -75,6 +75,16 @@ CT is the primary modality for evaluating:
 - The sacroiliac joints are a key site for inflammatory sacroiliitis
 - The coccyx is highly variable in morphology and commonly injured by direct trauma
 
+## References
+
+1. Sattar MH, Guthrie ST. Anatomy, Back, Sacral Vertebrae. [Updated 2023 Jul 30]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2026. Available from: https://www.ncbi.nlm.nih.gov/books/NBK551653/
+2. Nastoulis E, Karakasi MV, Pavlidis P, Thomaidis V, Fiska A. Anatomy and clinical significance of sacral variations: a systematic review. Folia Morphol (Warsz). 2019;78(4):651-667. PMID: 30949993.
+3. Woon JTK, Perumal V, Maigne JY, Stringer MD. CT morphology and morphometry of the normal adult coccyx. Eur Spine J. 2013;22(4):863-870. doi:10.1007/s00586-012-2595-2. PMID: 23192732; PMCID: PMC3631051.
+4. Skalski MR, Matcuk GR, Patel DB, Tomasian A, White EA, Gross JS. Imaging Coccygeal Trauma and Coccydynia. Radiographics. 2020;40(4):1090-1106. doi:10.1148/rg.2020190132. PMID: 32609598.
+5. Poilliot AJ, Zwirner J, Doyle T, Hammer N. A Systematic Review of the Normal Sacroiliac Joint Anatomy and Adjacent Tissues for Pain Physicians. Pain Physician. 2019;22(4):E247-E274. PMID: 31337164.
+6. Al-Mnayyis A, Obeidat S, Badr A, Jouryyeh B, Azzam S, Al Bibi H, et al. Radiological Insights into Sacroiliitis: A Narrative Review. Clin Pract. 2024;14(1):106-121. doi:10.3390/clinpract14010009. PMID: 38248433; PMCID: PMC10801489.
+7. Fujii M, Abe K, Hayashi K, Kosuda S, Yano F, Watanabe S, et al. Honda sign and variants in patients suspected of having a sacral insufficiency fracture. Clin Nucl Med. 2005;30(3):165-169. PMID: 15722819.
+
 ## Related Articles
 
 - [Vertebral Column Overview](vertebral-column-overview.md)

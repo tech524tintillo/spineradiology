@@ -59,6 +59,16 @@ This distinction is equally important and frequently arises in the same clinical
 - Distinguishing benign from malignant compression fractures requires attention to pedicle involvement, posterior body contour, and marrow signal pattern
 - Comparison with prior imaging, when available, is invaluable for determining fracture age
 
+## References
+
+1. Mauch JT, Carr CM, Cloft H, Diehn FE. Review of the imaging features of benign osteoporotic and malignant vertebral compression fractures. AJNR Am J Neuroradiol. 2018;39(9):1584-1592. PMID: 29348133.
+2. Jung HS, Jee WH, McCauley TR, Ha KY, Choi KH. Discrimination of metastatic from acute osteoporotic compression spinal fractures with MR imaging. RadioGraphics. 2003;23(1):179-187. PMID: 12533652.
+3. Baur A, Stäbler A, Arbogast S, Duerr HR, Bartl R, Reiser M. Acute osteoporotic and neoplastic vertebral compression fractures: fluid sign at MR imaging. Radiology. 2002;225(3):730-735. PMID: 12461253.
+4. Baker LL, Goodman SB, Perkash I, Lane B, Enzmann DR. Benign versus pathologic compression fractures of vertebral bodies: assessment with conventional spin-echo, chemical-shift, and STIR MR imaging. Radiology. 1990;174(2):495-502. PMID: 2296658.
+5. Maldague BE, Noel HM, Malghem JJ. The intravertebral vacuum cleft: a sign of ischemic vertebral collapse. Radiology. 1978;129(1):23-29. PMID: 693884.
+6. Romeo V, Ugga L, Stanzione A, Cocozza S, Cuocolo R, Brunetti A. Differential diagnosis of benign and malignant vertebral compression fractures using conventional and advanced MRI techniques. BJR Open. 2019;1(1):20180033. PMID: 33178924.
+7. Radiopaedia. Kümmell disease. Available at: https://radiopaedia.org/articles/kummell-disease-1
+
 ## Related Articles
 
 - [Thoracolumbar Compression Fracture](compression-fracture.md)

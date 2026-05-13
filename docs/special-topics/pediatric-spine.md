@@ -36,6 +36,16 @@ The pediatric spine differs from the adult spine in several important ways that 
 - Neonatal spinal ultrasound can screen for dysraphism
 - Many pediatric spine conditions (SCIWORA, discitis, atlantoaxial rotatory fixation) are unique to children
 
+## References
+
+1. Lustrin ES, Karakas SP, Ortiz AO, Cinnamon J, Castillo M, Vaheesan K, et al. Pediatric cervical spine: normal anatomy, variants, and trauma. Radiographics. 2003;23(3):539-60.
+2. McAllister AS, Nagaraj U, Radhakrishnan R. Emergent imaging of pediatric cervical spine trauma. Radiographics. 2019;39(4):1126-1142.
+3. Adib O, Berthier E, Loisel D, Aubé C. Pediatric cervical spine in emergency: radiographic features of normal anatomy, variants and pitfalls. Skeletal Radiol. 2016;45(12):1607-1617.
+4. Expert Panel on Pediatric Imaging; Dahmoush H, Gaddam DS, Ho ML, Bauer DF, Bosemani T, et al. ACR Appropriateness Criteria® Back Pain-Child: 2024 Update. J Am Coll Radiol. 2025;22(5S):S79-S107.
+5. Szwedowski D, Walecki J. Spinal cord injury without radiographic abnormality (SCIWORA) — clinical and radiological aspects. Pol J Radiol. 2014;79:461-464.
+6. Mandadi AR, Koutsogiannis P, Das JM, Waseem M. Pediatric spine trauma. StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; updated 2024 Mar 10. Available from: https://www.ncbi.nlm.nih.gov/books/NBK442027/
+7. Pseudosubluxation of the cervical spine. Radiopaedia.org. Available from: https://radiopaedia.org/articles/pseudosubluxation-of-the-cervical-spine
+
 ## Related Articles
 
 - [Discitis in Children](../infection/discitis-children.md)

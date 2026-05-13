@@ -84,6 +84,17 @@ The craniocervical junction (CCJ), also called the craniovertebral junction (CVJ
 - CT is the primary modality for fracture evaluation; MRI is essential for ligamentous assessment
 - Open-mouth and lateral radiographs remain important screening views
 
+## References
+
+1. Fiester P, Rao D, Soule E, Orallo P, Rahmathulla G. Anatomic, functional, and radiographic review of the ligaments of the craniocervical junction. J Craniovertebr Junction Spine. 2021;12(1):4-9.
+2. Morimoto LR, Kase DT, Esmanhotto PG, et al. Imaging Assessment of Nontraumatic Pathologic Conditions at the Craniovertebral Junction: A Comprehensive Review. RadioGraphics. 2024;44(5):e230137.
+3. Riascos R, Bonfante E, Cotes C, Guirguis M, Hakimelahi R, West C. Imaging of Atlanto-Occipital and Atlantoaxial Traumatic Injuries: What the Radiologist Needs to Know. RadioGraphics. 2015;35(7):2121-2134.
+4. Rojas CA, Bertozzi JC, Martinez CR, Whitlow J. Reassessment of the craniocervical junction: normal values on CT. AJNR Am J Neuroradiol. 2007;28(9):1819-1823.
+5. Offiah CE, Day E. The craniocervical junction: embryology, anatomy, biomechanics and imaging in blunt trauma. Insights Imaging. 2017;8(1):29-47.
+6. Smoker WRK, Khanna G. Imaging the craniocervical junction. Childs Nerv Syst. 2008;24(10):1123-1145.
+7. Lacy J, Bajaj J, Gillis CC. Atlantoaxial Instability. In: StatPearls. Treasure Island (FL): StatPearls Publishing; 2023.
+8. Gaillard F, et al. Craniocervical junction. Radiopaedia.org. https://radiopaedia.org/articles/craniocervical-junction. Accessed May 13, 2026.
+
 ## Related Articles
 
 - [Atlas (C1) and Axis (C2)](atlas-axis.md)

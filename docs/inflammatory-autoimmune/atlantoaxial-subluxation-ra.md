@@ -55,6 +55,16 @@ Rotational subluxation of C1 on C2, causing fixed torticollis.
 - MRI shows pannus around the odontoid and evaluates cord compression
 - Surgical fusion is indicated for progressive instability or myelopathy
 
+## References
+
+1. Lacy J, Bajaj J, Gillis CC. Atlantoaxial Instability. In: *StatPearls.* Treasure Island (FL): StatPearls Publishing; updated 2023 Jun 12. <https://www.ncbi.nlm.nih.gov/books/NBK519563/>
+2. Morimoto LR, Kase DT, Esmanhotto PG, et al. Imaging Assessment of Nontraumatic Pathologic Conditions at the Craniovertebral Junction: A Comprehensive Review. *RadioGraphics.* 2024;44(5):e230137. <https://pubs.rsna.org/doi/full/10.1148/rg.230137>
+3. Siempis T, Tsakiris C, Anastasia Z, Alexiou GA, Voulgaris S, Argyropoulou MI. Radiological assessment and surgical management of cervical spine involvement in patients with rheumatoid arthritis. *Rheumatol Int.* 2022;43(2):195–208. <https://pmc.ncbi.nlm.nih.gov/articles/PMC9898347/>
+4. Joaquim AF, Ghizoni E, Tedeschi H, Appenzeller S, Riew KD. Radiological evaluation of cervical spine involvement in rheumatoid arthritis. *Neurosurg Focus.* 2015;38(4):E4. <https://pubmed.ncbi.nlm.nih.gov/25828498/>
+5. Jurik AG. Imaging the spine in arthritis—a pictorial review. *Insights Imaging.* 2011;2(2):177–191. <https://pmc.ncbi.nlm.nih.gov/articles/PMC3259357/>
+6. Gillick JL, Wainwright J, Das K. Rheumatoid Arthritis and the Cervical Spine: A Review on the Role of Surgery. *Int J Rheumatol.* 2015;2015:252456. <https://pmc.ncbi.nlm.nih.gov/articles/PMC4553335/>
+7. Atlantoaxial subluxation - rheumatoid arthritis. *Radiopaedia.org.* <https://radiopaedia.org/cases/atlantoaxial-subluxation-rheumatoid-arthritis-1>
+
 ## Related Articles
 
 - [Rheumatoid Arthritis — Cervical Spine](rheumatoid-arthritis-cervical.md)

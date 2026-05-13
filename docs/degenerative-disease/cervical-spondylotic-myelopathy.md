@@ -51,6 +51,16 @@ Cord compression occurs through a combination of:
 - Generally considered a surgical condition — the natural history is progressive decline
 - Both static (osteophytes) and dynamic (flexion-extension) compression contribute
 
+## References
+
+1. Nouri A, Tetreault L, Singh A, Karadimas SK, Fehlings MG. Degenerative Cervical Myelopathy: Epidemiology, Genetics, and Pathogenesis. *Spine (Phila Pa 1976)*. 2015;40(12):E675-93. doi:10.1097/BRS.0000000000000913. [PubMed](https://pubmed.ncbi.nlm.nih.gov/25839387/)
+2. Fehlings MG, Tetreault LA, Riew KD, Middleton JW, Wang JC. A Clinical Practice Guideline for the Management of Degenerative Cervical Myelopathy: Introduction, Rationale, and Scope. *Global Spine J*. 2017;7(3 Suppl):21S-27S. [PMC5684844](https://pmc.ncbi.nlm.nih.gov/articles/PMC5684844/)
+3. Fehlings MG, Tetreault LA, Riew KD, et al. A Clinical Practice Guideline for the Management of Patients With Degenerative Cervical Myelopathy: Recommendations for Patients With Mild, Moderate, and Severe Disease and Nonmyelopathic Patients With Evidence of Cord Compression. *Global Spine J*. 2017;7(3 Suppl):70S-83S. [PMC5684840](https://pmc.ncbi.nlm.nih.gov/articles/PMC5684840/)
+4. Tetreault L, Kopjar B, Nouri A, et al. The modified Japanese Orthopaedic Association scale: establishing criteria for mild, moderate and severe impairment in patients with degenerative cervical myelopathy. *Eur Spine J*. 2017;26(1):78-84. [PubMed](https://pubmed.ncbi.nlm.nih.gov/27342612/)
+5. Scalia G, Costanzo R, Brunasso L, et al. Correlation between "Snake-Eyes" Sign and Role of Surgery with a Focus on Postoperative Outcome: A Systematic Review. *Brain Sci*. 2023;13(2):301. [PMC9954568](https://pmc.ncbi.nlm.nih.gov/articles/PMC9954568/)
+6. Zhang Z, Wang H. Is the "snake-eye" MRI sign correlated to anterior spinal artery occlusion on CT angiography in cervical spondylotic myelopathy and amyotrophy? *Eur Spine J*. 2014;23(7):1541-7. [PubMed](https://pubmed.ncbi.nlm.nih.gov/24823850/)
+7. Gaillard F, et al. Cervical spondylotic myelopathy. Radiopaedia.org. [https://radiopaedia.org/articles/cervical-spondylotic-myelopathy](https://radiopaedia.org/articles/cervical-spondylotic-myelopathy)
+
 ## Related Articles
 
 - [Cervical Spinal Stenosis](cervical-spinal-stenosis.md)

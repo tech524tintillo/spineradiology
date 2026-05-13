@@ -31,6 +31,16 @@ Reactive arthritis (formerly Reiter syndrome) is a seronegative spondyloarthropa
 - HLA-B27 positive in 60–80%
 - Spinal involvement is less common and less severe than in AS
 
+## References
+
+1. Cheeti A, Chakraborty RK, Ramphul K. Reactive Arthritis. In: *StatPearls.* Treasure Island (FL): StatPearls Publishing; updated 2023 Jan 2. <https://www.ncbi.nlm.nih.gov/books/NBK499831/>
+2. Reactive arthritis. *Radiopaedia.org.* <https://radiopaedia.org/articles/reactive-arthritis>
+3. Chang EY, Chen KC, Huang BK, Kavanaugh A. Adult Inflammatory Arthritides: What the Radiologist Should Know. *RadioGraphics.* 2016;36(6):1849-1870. <https://pubmed.ncbi.nlm.nih.gov/27726745/>
+4. Giraudo C, Astorri D, Reijnierse M. Reactive arthritis: a comprehensive journey through diagnostic findings. *Skeletal Radiol.* 2025;54(11):2443-2455. <https://pubmed.ncbi.nlm.nih.gov/40473988/>
+5. Jubber A, Moorthy A. Reactive arthritis: a clinical review. *J R Coll Physicians Edinb.* 2021;51(3):288-297. <https://pubmed.ncbi.nlm.nih.gov/34528623/>
+6. Klecker RJ, Weissman BN. Imaging features of psoriatic arthritis and Reiter's syndrome. *Semin Musculoskelet Radiol.* 2003;7(2):115-126. <https://pubmed.ncbi.nlm.nih.gov/12920649/>
+7. Expert Panel on Musculoskeletal Imaging, et al. ACR Appropriateness Criteria® Inflammatory Back Pain: Known or Suspected Axial Spondyloarthritis: 2021 Update. *J Am Coll Radiol.* 2021;18(11S):S340-S360. <https://pubmed.ncbi.nlm.nih.gov/34794593/>
+
 ## Related Articles
 
 - [Ankylosing Spondylitis](ankylosing-spondylitis.md)

@@ -47,6 +47,15 @@ Modic changes are MRI signal alterations in the vertebral body marrow adjacent t
 - Type 1 must be distinguished from infection — endplate integrity and disc signal are key differentiators
 - Sagittal T1 and T2 MRI are essential for classification
 
+## References
+
+1. Modic MT, Steinberg PM, Ross JS, Masaryk TJ, Carter JR. Degenerative disk disease: assessment of changes in vertebral body marrow with MR imaging. *Radiology*. 1988;166(1 Pt 1):193-199. doi:10.1148/radiology.166.1.3336678. PMID: 3336678.
+2. Zhang YH, Zhao CQ, Jiang LS, Chen XD, Dai LY. Modic changes: a systematic review of the literature. *European Spine Journal*. 2008;17(10):1289-1299. doi:10.1007/s00586-008-0758-y.
+3. Viswanathan VK, Shetty AP, Rajasekaran S. Modic changes - An evidence-based, narrative review on its patho-physiology, clinical significance and role in chronic low back pain. *Journal of Clinical Orthopaedics and Trauma*. 2020;11(5):761-769. doi:10.1016/j.jcot.2020.06.025.
+4. Hopayian K, Raslan E, Soliman S. The association of modic changes and chronic low back pain: A systematic review. *Journal of Orthopaedics*. 2022;35:99-106. doi:10.1016/j.jor.2022.11.003.
+5. Viroslav A. Vertebral Endplate Changes. *Radsource MRI Web Clinic*. May 2016. Available at: https://radsource.us/vertebral-endplate-changes/
+6. Modic type endplate changes. *Radiopaedia*. Available at: https://radiopaedia.org/articles/modic-type-endplate-changes
+
 ## Related Articles
 
 - [Degenerative Disc Disease](degenerative-disc-disease.md)

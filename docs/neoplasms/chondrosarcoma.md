@@ -36,6 +36,15 @@ Chondrosarcoma is a malignant cartilage-forming tumor that rarely affects the sp
 - Resistant to chemotherapy and radiation — surgery is the primary treatment
 - Distinguish from chordoma (midline, no chondroid matrix) and osteosarcoma (osteoid matrix)
 
+## References
+
+1. Katonis P, Alpantaki K, Michail K, Lianoudakis S, Christoforakis Z, Tzanakakis G, Karantanas A. Spinal chondrosarcoma: a review. Sarcoma. 2011;2011:378957. doi:10.1155/2011/378957. Available from: https://pubmed.ncbi.nlm.nih.gov/21437176/
+2. Lloret I, Server A, Bjerkehagen B. Primary spinal chondrosarcoma: radiologic findings with pathologic correlation. Acta Radiol. 2006;47(1):77-84. Available from: https://pubmed.ncbi.nlm.nih.gov/16498937/
+3. Douis H, Saifuddin A. The imaging of cartilaginous bone tumours. II. Chondrosarcoma. Skeletal Radiol. 2013;42(5):611-626. doi:10.1007/s00256-012-1521-3. Available from: https://pubmed.ncbi.nlm.nih.gov/23053201/
+4. Ollivier L, Vanel D, Leclère J. Imaging of chondrosarcomas. Cancer Imaging. 2003;4(1):36-38. Available from: https://pmc.ncbi.nlm.nih.gov/articles/PMC1434527/
+5. Nisson PL, Berger GK, James WS, Hurlbert RJ. Surgical Techniques and Associated Outcomes of Primary Chondrosarcoma of the Spine. World Neurosurg. 2018;119:e32-e45. doi:10.1016/j.wneu.2018.06.189. Available from: https://pubmed.ncbi.nlm.nih.gov/30026140/
+6. Chondrosarcoma. Radiopaedia.org. Available from: https://radiopaedia.org/articles/chondrosarcoma
+
 ## Related Articles
 
 - [Osteosarcoma / Ewing Sarcoma](osteosarcoma-ewing.md)

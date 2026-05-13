@@ -76,6 +76,15 @@ Spine clearance in obtunded patients remains controversial. Options include CT a
 - A systematic approach (alignment, bone, cartilage/disc, soft tissue) ensures comprehensive evaluation
 - Special attention is required for pediatric patients, elderly patients with ankylosing spondylitis or osteoporosis, and obtunded patients
 
+## References
+
+1. Hassankhani A, Freeman CW, Banks J, et al; Expert Panel on Neurological Imaging. ACR Appropriateness Criteria® Acute Spinal Trauma: 2024 Update. *J Am Coll Radiol*. 2025;22(5S):S48-S66. doi:10.1016/j.jacr.2025.02.013. PMID: 40409895. <https://pubmed.ncbi.nlm.nih.gov/40409895/>
+2. Beckmann NM, West OC, Nunez D Jr, et al; Expert Panel on Neurological Imaging and Musculoskeletal Imaging. ACR Appropriateness Criteria® Suspected Spine Trauma. *J Am Coll Radiol*. 2019;16(5S):S264-S285. doi:10.1016/j.jacr.2019.02.002. PMID: 31054754. <https://pubmed.ncbi.nlm.nih.gov/31054754/>
+3. Stiell IG, Clement CM, McKnight RD, et al. The Canadian C-spine rule versus the NEXUS low-risk criteria in patients with trauma. *N Engl J Med*. 2003;349(26):2510-2518. doi:10.1056/NEJMoa031375. PMID: 14695411. <https://pubmed.ncbi.nlm.nih.gov/14695411/>
+4. Vazirizadeh-mahabadi M, Yarahmadi M. Canadian C-spine Rule versus NEXUS in Screening of Clinically Important Traumatic Cervical Spine Injuries; a systematic review and meta-analysis. *Arch Acad Emerg Med*. 2023;11(1):e5. doi:10.22037/aaem.v11i1.1833. PMCID: PMC9807951. <https://pmc.ncbi.nlm.nih.gov/articles/PMC9807951/>
+5. Dreizin D, Letzing M, Sliker CW, et al. Multidetector CT of blunt cervical spine trauma in adults. *RadioGraphics*. 2014;34(7):1842-1865. doi:10.1148/rg.347130094. PMID: 25384284. <https://pubmed.ncbi.nlm.nih.gov/25384284/>
+6. Utz M, Khan S, O'Connor D, Meyers S. MDCT and MRI evaluation of cervical spine trauma. *Insights Imaging*. 2014;5(1):67-75. doi:10.1007/s13244-013-0304-2. PMID: 24338595. <https://pmc.ncbi.nlm.nih.gov/articles/PMC3948906/>
+
 ## Related Articles
 
 - [NEXUS and Canadian C-Spine Rules](nexus-canadian-rules.md)

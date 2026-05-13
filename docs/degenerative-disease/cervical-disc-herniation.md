@@ -45,6 +45,15 @@ Cervical disc herniation is the focal displacement of disc material beyond the n
 - Combined disc-osteophyte complexes are common in older patients
 - Myelopathy (cord T2 signal change) may indicate need for surgical decompression
 
+## References
+
+1. Fardon DF, Williams AL, Dohring EJ, Murtagh FR, Gabriel Rothman SL, Sze GK. Lumbar disc nomenclature: version 2.0: Recommendations of the combined task forces of the North American Spine Society, the American Society of Spine Radiology and the American Society of Neuroradiology. *Spine J*. 2014;14(11):2525-2545. doi:10.1016/j.spinee.2014.04.022. PMID: 24768732. https://pubmed.ncbi.nlm.nih.gov/24768732/
+2. Iyer S, Kim HJ. Cervical radiculopathy. *Curr Rev Musculoskelet Med*. 2016;9(3):272-280. https://pmc.ncbi.nlm.nih.gov/articles/PMC4958381/
+3. Wang S, Zhao T, Han D, et al. Classification of cervical disc herniation myelopathy or radiculopathy: a magnetic resonance imaging-based analysis. *Quant Imaging Med Surg*. 2023;13(8):4984-4994. https://pmc.ncbi.nlm.nih.gov/articles/PMC10423346/
+4. Yi JS, Cha JG, Han JK, Kim HJ. Imaging of Herniated Discs of the Cervical Spine: Inter-Modality Differences between 64-Slice Multidetector CT and 1.5-T MRI. *Korean J Radiol*. 2015;16(4):881-888. doi:10.3348/kjr.2015.16.4.881. https://pmc.ncbi.nlm.nih.gov/articles/PMC4499554/
+5. Kushchayev SV, Glushko T, Jarraya M, et al. ABCs of the degenerative spine. *Insights Imaging*. 2018;9(2):253-274. doi:10.1007/s13244-017-0584-z. PMID: 29569215. https://pubmed.ncbi.nlm.nih.gov/29569215/
+6. Disc extrusion. Radiopaedia.org. https://radiopaedia.org/articles/disc-extrusion
+
 ## Related Articles
 
 - [Cervical Spondylotic Myelopathy](cervical-spondylotic-myelopathy.md)

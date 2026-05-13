@@ -86,6 +86,16 @@ Burst fractures exist on a spectrum of stability:
 - Stable burst fractures may be treated conservatively; unstable fractures require surgery
 - AO Spine classification: A3 (incomplete burst) and A4 (complete burst)
 
+## References
+
+1. Zhang A, Chauvin BJ. Denis Classification. StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; last updated 2023. <https://www.ncbi.nlm.nih.gov/books/NBK544310/>
+2. Aebi M. Classification of thoracolumbar fractures and dislocations. Eur Spine J. 2010;19(Suppl 1):S2–S7. <https://pmc.ncbi.nlm.nih.gov/articles/PMC2899723/>
+3. Lee JY, Vaccaro AR, Lim MR, et al. Thoracolumbar injury classification and severity score: a new paradigm for the treatment of thoracolumbar spine trauma. J Orthop Sci. 2005;10(6):671–675. <https://pmc.ncbi.nlm.nih.gov/articles/PMC2779435/>
+4. Jiménez-Almonte JH, King JD, Luo TD, Cassidy RC, Aneja A. Classifications in Brief: Thoracolumbar Injury Classification and Injury Severity Score System. Clin Orthop Relat Res. 2018;476(6):1352–1358. <https://pmc.ncbi.nlm.nih.gov/articles/PMC6263590/>
+5. Kweh BTS, Tee JW, Dandurand C, Vaccaro AR, et al. The AO Spine Thoracolumbar Injury Classification System and Treatment Algorithm in Decision Making for Thoracolumbar Burst Fractures Without Neurologic Deficit. Global Spine J. 2024. <https://pmc.ncbi.nlm.nih.gov/articles/PMC10867534/>
+6. Muijs SPJ, Foppen W, Smithuis F, Smithuis R. AO Spine Classification of Thoracolumbar Fractures. The Radiology Assistant. 2024. <https://radiologyassistant.nl/musculoskeletal/spine/ao-classification>
+7. AO Spine classification of thoracolumbar injuries. Radiopaedia. <https://radiopaedia.org/articles/ao-spine-classification-of-thoracolumbar-injuries-1>
+
 ## Related Articles
 
 - [Thoracolumbar Compression Fracture](compression-fracture.md)

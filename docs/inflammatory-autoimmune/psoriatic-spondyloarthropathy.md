@@ -31,6 +31,15 @@ Psoriatic spondyloarthropathy is spinal involvement in psoriatic arthritis, occu
 - Occurs in 20–40% of psoriatic arthritis patients
 - HLA-B27 positive in approximately 50% (vs ~90% in AS)
 
+## References
+
+1. Taylor W, Gladman D, Helliwell P, Marchesoni A, Mease P, Mielants H; CASPAR Study Group. Classification criteria for psoriatic arthritis: development of new criteria from a large international study. *Arthritis Rheum.* 2006;54(8):2665-2673. <https://pubmed.ncbi.nlm.nih.gov/16871531/>
+2. Deeb M, Maher L. Psoriatic Arthritis. In: *StatPearls.* Treasure Island (FL): StatPearls Publishing; updated 2026 Apr 19. <https://www.ncbi.nlm.nih.gov/books/NBK547710/>
+3. Psoriatic arthritis. *Radiopaedia.org.* <https://radiopaedia.org/articles/psoriatic-arthritis>
+4. Sudoł-Szopińska I, Matuszewska G, Kwiatkowska B, Pracoń G. Diagnostic imaging of psoriatic arthritis. Part I: etiopathogenesis, classifications and radiographic features. *J Ultrason.* 2016;16(64):65-77. <https://pmc.ncbi.nlm.nih.gov/articles/PMC4834372/>
+5. Pascu LS, Sârbu N, Brădeanu AV, et al. MRI Findings in Axial Psoriatic Spondylarthritis. *Diagnostics (Basel).* 2023;13(7):1342. <https://pmc.ncbi.nlm.nih.gov/articles/PMC10093281/>
+6. Expert Panel on Musculoskeletal Imaging; Czuczman GJ, Mandell JC, Wessell DE, et al. ACR Appropriateness Criteria® Inflammatory Back Pain: Known or Suspected Axial Spondyloarthritis: 2021 Update. *J Am Coll Radiol.* 2021;18(11S):S340-S360. <https://pubmed.ncbi.nlm.nih.gov/34794593/>
+
 ## Related Articles
 
 - [Ankylosing Spondylitis](ankylosing-spondylitis.md)

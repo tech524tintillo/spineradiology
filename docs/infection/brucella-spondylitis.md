@@ -43,6 +43,16 @@ Brucella spondylitis is spinal infection caused by Brucella species (B. melitens
 - Clinical context and serology are essential for diagnosis
 - Prolonged combination antibiotic therapy is the standard treatment
 
+## References
+
+1. Brucella spondylodiscitis. *Radiopaedia.org.* <https://radiopaedia.org/cases/brucella-spondylodiscitis>
+2. Hayoun MA, Muco E, Shorman M. Brucellosis. In: *StatPearls.* Treasure Island (FL): StatPearls Publishing; updated 2023 Apr 29. <https://www.ncbi.nlm.nih.gov/books/NBK441831/>
+3. Al-Shahed MS, Sharif HS, Haddad MC, Aabed MY, Sammak BM, Mutairi MA. Imaging features of musculoskeletal brucellosis. *RadioGraphics.* 1994;14(2):333-48. <https://pubmed.ncbi.nlm.nih.gov/8190957/>
+4. Sharif HS, Aideyan OA, Clark DC, Madkour MM, Aabed MY, Mattsson TA, et al. Brucellar and tuberculous spondylitis: comparative imaging features. *Radiology.* 1989;171(2):419-25. <https://pubmed.ncbi.nlm.nih.gov/2704806/>
+5. Chelli Bouaziz M, Ladeb MF, Chakroun M, Chaabane S. Spinal brucellosis: a review. *Skeletal Radiol.* 2008;37(9):785-90. <https://pubmed.ncbi.nlm.nih.gov/17962938/>
+6. Gou L, Yang Y, Li J, et al. MRI findings and classification of brucella spondylitis: a China multicenter study. *Eur J Med Res.* 2024;29(1):469. <https://pmc.ncbi.nlm.nih.gov/articles/PMC11438224/>
+7. Expert Panel on Neurological Imaging; Ortiz AO, Levitt A, Shah LM, Parsons MS, et al. ACR Appropriateness Criteria® Suspected Spine Infection. *J Am Coll Radiol.* 2021;18(11S):S488-S501. <https://pubmed.ncbi.nlm.nih.gov/34794603/>
+
 ## Related Articles
 
 - [Pyogenic Spondylodiscitis](pyogenic-spondylodiscitis.md)

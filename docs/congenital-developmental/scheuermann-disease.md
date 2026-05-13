@@ -47,6 +47,15 @@ A variant involving the thoracolumbar junction or lumbar spine, characterized by
 - Lateral radiograph is the primary diagnostic study
 - MRI for neurological symptoms or surgical planning
 
+## References
+
+1. Mansfield JT, Bennett M. Scheuermann Disease. In: StatPearls. Treasure Island (FL): StatPearls Publishing; 2023. Available from: https://www.ncbi.nlm.nih.gov/books/NBK499966/
+2. Scheuermann disease. Radiopaedia.org. Available from: https://radiopaedia.org/articles/scheuermann-disease-2
+3. O'Donnell JM, Wu W, Youn A, Mann A, Swarup I. Scheuermann Kyphosis: Current Concepts and Management. Curr Rev Musculoskelet Med. 2023;16(11):521–530. doi:10.1007/s12178-023-09861-z. Available from: https://pmc.ncbi.nlm.nih.gov/articles/PMC10587050/
+4. Gokce E, Beyhan M. Radiological imaging findings of Scheuermann disease. World J Radiol. 2016;8(11):895–901. doi:10.4329/wjr.v8.i11.895. Available from: https://pmc.ncbi.nlm.nih.gov/articles/PMC5120249/
+5. Bezalel T, Carmeli E, Kalichman L. Scheuermann's Disease: Radiographic Pathomorphology and Association with Clinical Features. Asian Spine J. 2018;13(1):86–95. doi:10.31616/asj.2018.0025. Available from: https://pmc.ncbi.nlm.nih.gov/articles/PMC6365786/
+6. Viroslav A. Scheuermann's Disease. Radsource MRI Web Clinic. April 2018. Available from: https://radsource.us/scheuermannsdisease/
+
 ## Related Articles
 
 - [Schmorl Nodes](../degenerative-disease/schmorl-nodes.md)

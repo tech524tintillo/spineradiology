@@ -41,6 +41,15 @@ Myelopathy is dysfunction of the spinal cord itself, as opposed to radiculopathy
 - Cervical spondylotic myelopathy is the most common cause
 - Urgent decompression is indicated for compressive myelopathy to prevent irreversible damage
 
+## References
+
+1. Agarwal V, Shah LM, Parsons MS, et al; Expert Panel on Neurological Imaging. ACR Appropriateness Criteria® Myelopathy: 2021 Update. J Am Coll Radiol. 2021;18(5S):S73-S82. doi:10.1016/j.jacr.2021.01.020. https://pubmed.ncbi.nlm.nih.gov/33958120/
+2. Lee MJ, Aronberg R, Manganaro MS, Ibrahim M, Parmar HA. Diagnostic Approach to Intrinsic Abnormality of Spinal Cord Signal Intensity. RadioGraphics. 2019;39(6):1824-1839. doi:10.1148/rg.2019190021. https://pubmed.ncbi.nlm.nih.gov/31589577/
+3. Laur O, Nandu H, Titelbaum DS, Nunez DB, Khurana B. Nontraumatic Spinal Cord Compression: MRI Primer for Emergency Department Radiologists. RadioGraphics. 2019;39(6):1862-1880. doi:10.1148/rg.2019190024. https://pubmed.ncbi.nlm.nih.gov/31589584/
+4. Sarbu N, Lolli V, Smirniotopoulos JG. Magnetic resonance imaging in myelopathy: a pictorial review. Clin Imaging. 2019;57:56-68. doi:10.1016/j.clinimag.2019.05.002. https://pubmed.ncbi.nlm.nih.gov/31129392/
+5. Margetis K, Donnally CJ III. Cervical Myelopathy. In: StatPearls. Treasure Island (FL): StatPearls Publishing; 2024. https://www.ncbi.nlm.nih.gov/books/NBK482312/
+6. Gaillard F, et al. Cervical spondylotic myelopathy. Radiopaedia.org. https://radiopaedia.org/articles/cervical-spondylotic-myelopathy
+
 ## Related Articles
 
 - [Radiculopathy Imaging Correlation](radiculopathy.md)

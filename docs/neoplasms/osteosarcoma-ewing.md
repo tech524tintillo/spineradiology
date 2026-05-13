@@ -51,6 +51,15 @@ Ewing sarcoma is the second most common primary bone malignancy in children and 
 - Both are aggressive, destructive tumors requiring biopsy for definitive diagnosis
 - MRI evaluates epidural extension and cord compression; CT characterizes matrix and cortical destruction
 
+## References
+
+1. Ilaslan H, Sundaram M, Unni KK, Shives TC. Primary vertebral osteosarcoma: imaging findings. Radiology. 2004;230(3):697-702.
+2. Ilaslan H, Sundaram M, Unni KK, Dekutoski MB. Primary Ewing's sarcoma of the vertebral column. Skeletal Radiol. 2004;33(9):506-513.
+3. Katonis P, Datsis G, Karantanas A, et al. Spinal osteosarcoma. Clin Med Insights Oncol. 2013;7:199-208.
+4. Green R, Saifuddin A, Cannon S. Pictorial review: imaging of primary osteosarcoma of the spine. Clin Radiol. 1996;51(5):325-329.
+5. Gaillard F, et al. Osteosarcoma. Radiopaedia.org. Available from: https://radiopaedia.org/articles/osteosarcoma
+6. Gaillard F, et al. Ewing sarcoma. Radiopaedia.org. Available from: https://radiopaedia.org/articles/ewing-sarcoma
+
 ## Related Articles
 
 - [Chondrosarcoma](chondrosarcoma.md)

@@ -88,6 +88,15 @@ Image-guided spine procedures encompass a range of diagnostic and therapeutic in
 - CT-guided biopsy is essential for tissue diagnosis of unknown vertebral lesions
 - Non-particulate steroids should be used for transforaminal injections above L3 to minimize vascular risk
 
+## References
+
+1. Patel K, Chopra P, Martinez S, Upadhyayula S. Epidural Steroid Injections. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2024. Available from: https://www.ncbi.nlm.nih.gov/books/NBK470189/
+2. Helm S II, Harmon PC, Noe C, Calodney AK, Abd-Elsayed A, Knezevic NN, Racz GB. Transforaminal Epidural Steroid Injections: A Systematic Review and Meta-Analysis of Efficacy and Safety. Pain Physician. 2021;24(S1):S209-S232. Available from: https://pubmed.ncbi.nlm.nih.gov/33492919/
+3. Cohen SP, Bhaskar A, Bhatia A, et al. Consensus practice guidelines on interventions for lumbar facet joint pain from a multispecialty, international working group. Reg Anesth Pain Med. 2020;45(6):424-467. Available from: https://pmc.ncbi.nlm.nih.gov/articles/PMC7362874/
+4. Chandra RV, Maingard J, Asadi H, Slater LA, Mazwi TL, Marcia S, Barr J, Hirsch JA. Vertebroplasty and Kyphoplasty for Osteoporotic Vertebral Fractures: What Are the Latest Data? AJNR Am J Neuroradiol. 2018;39(5):798-806. Available from: https://pubmed.ncbi.nlm.nih.gov/29170272/
+5. Wiesner EL, Hillen TJ, Long J, Jennings JW. Percutaneous CT-Guided Biopsies of the Cervical Spine: Technique, Histopathologic and Microbiologic Yield, and Safety at a Single Academic Institution. AJNR Am J Neuroradiol. 2018;39(5):981-985. Available from: https://pmc.ncbi.nlm.nih.gov/articles/PMC7410669/
+6. Transforaminal epidural steroid injection. Radiopaedia.org. Available from: https://radiopaedia.org/articles/transforaminal-epidural-steroid-injection
+
 ## Related Articles
 
 - [CT of the Spine](ct-spine.md)

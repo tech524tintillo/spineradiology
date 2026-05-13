@@ -30,6 +30,14 @@ A butterfly vertebra is a congenital vertebral anomaly resulting from failure of
 - Anterior notching on lateral view can mimic fracture — AP view is diagnostic
 - Most common in the thoracic and lumbar spine
 
+## References
+
+1. Gaillard F, et al. Butterfly vertebra. Radiopaedia.org. Available at: https://radiopaedia.org/articles/butterfly-vertebra. Accessed May 13, 2026.
+2. Katsuura Y, Kim HJ. Butterfly vertebrae: a systematic review of the literature and analysis. Global Spine J. 2019;9(6):666-679. doi:10.1177/2192568218801016. Available at: https://pmc.ncbi.nlm.nih.gov/articles/PMC6693069/
+3. Ozaras N, Gumussu K, Demir SE, Rezvani A. Differential diagnosis of multiple vertebral compression: butterfly vertebrae. J Phys Ther Sci. 2015;27(11):3601-3603. Available at: https://pmc.ncbi.nlm.nih.gov/articles/PMC4681953/
+4. Boulet C, Schiettecatte A, De Mey J, De Maeseneer M. Case report: imaging findings in a "butterfly" vertebra. Acta Neurol Belg. 2011;111(4):344-348. Available at: https://pubmed.ncbi.nlm.nih.gov/22368979/
+5. D'Amico A, Perillo T, Cuocolo R, Ugga L, Di Dato F, Caranci F, Iorio R. Neuroradiological findings in Alagille syndrome. Br J Radiol. 2022;95(1129):20201241. doi:10.1259/bjr.20201241. Available at: https://pubmed.ncbi.nlm.nih.gov/34609904/
+
 ## Related Articles
 
 - [Hemivertebra](hemivertebra.md)

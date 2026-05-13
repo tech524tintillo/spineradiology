@@ -81,6 +81,15 @@ Magnetic resonance imaging (MRI) of the spine is the gold standard for evaluatin
 - MRI is complementary to CT — CT for bone, MRI for soft tissue
 - Always check for MRI contraindications before scanning
 
+## References
+
+1. Gaillard F, et al. Lumbar spine protocol (MRI). Radiopaedia.org. Available at: https://radiopaedia.org/articles/lumbar-spine-protocol-mri
+2. Eisenmenger LB, Peret A, Roberts GS, et al. Focused Abbreviated Survey MRI Protocols for Brain and Spine Imaging. RadioGraphics. 2023;43(6):e220147. doi:10.1148/rg.220147. Available at: https://pubmed.ncbi.nlm.nih.gov/37167089/
+3. Mazurek MH, Abruzzo AR, King AH, et al. Implementation of a Survey Spine MR Imaging Protocol for Cord Compression in the Emergency Department: Experience at a Level 1 Trauma Center. AJNR Am J Neuroradiol. 2024;45(9):1378-1384. Available at: https://pubmed.ncbi.nlm.nih.gov/38702066/
+4. Mathieu J, Talbott JF. Magnetic Resonance Imaging for Spine Emergencies. Magn Reson Imaging Clin N Am. 2022;30(3):383-407. Available at: https://pmc.ncbi.nlm.nih.gov/articles/PMC9926664/
+5. Shapiro M. Imaging of the spine at 3 Tesla. Neuroimaging Clin N Am. 2012;22(2):315-341. Available at: https://pubmed.ncbi.nlm.nih.gov/22548935/
+6. Patel ND, Broderick DF, Burns J, et al. ACR Appropriateness Criteria Low Back Pain. J Am Coll Radiol. 2016;13(9):1069-1078. Available at: https://pubmed.ncbi.nlm.nih.gov/27496288/
+
 ## Related Articles
 
 - [MRI Pulse Sequences](mri-pulse-sequences.md)

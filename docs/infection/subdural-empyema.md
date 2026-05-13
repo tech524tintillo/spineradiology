@@ -41,6 +41,16 @@ Spinal subdural empyema is a rare collection of pus between the dura mater and t
 - More closely applied to the cord than epidural abscess
 - Urgent surgical drainage is usually required
 
+## References
+
+1. Hall WA, De Jesus O. Subdural Empyema. In: *StatPearls.* Treasure Island (FL): StatPearls Publishing; updated 2024 Oct 6. <https://www.ncbi.nlm.nih.gov/books/NBK557829/>
+2. Subdural empyema. *Radiopaedia.org.* <https://radiopaedia.org/articles/subdural-empyema>
+3. Levy ML, Wieder BH, Schneider J, Zee CS, Weiss MH. Subdural empyema of the cervical spine: clinicopathological correlates and magnetic resonance imaging. Report of three cases. *J Neurosurg.* 1993;79(6):929-935. <https://pubmed.ncbi.nlm.nih.gov/7902429/>
+4. Sandler AL, Thompson D, Goodrich JT, et al. Infections of the spinal subdural space in children: a series of 11 contemporary cases and review of all published reports. A multinational collaborative effort. *Childs Nerv Syst.* 2013;29(1):105-117. <https://pubmed.ncbi.nlm.nih.gov/23053357/>
+5. Thiruvengadam S, Khoo B, Saha S. Spinal subdural empyema in an immunocompetent patient: illustrative case. *J Neurosurg Case Lessons.* 2024;8(16):CASE24464. <https://pubmed.ncbi.nlm.nih.gov/39401455/>
+6. Ramos AD, Rolston JD, Gauger GE, Larson PS. Spinal subdural abscess following laminectomy for symptomatic stenosis: a report of 2 cases and review of the literature. *Am J Case Rep.* 2016;17:476-483. <https://pmc.ncbi.nlm.nih.gov/articles/PMC4944552/>
+7. Expert Panel on Neurological Imaging, Ortiz AO, Levitt A, Shah LM, et al. ACR Appropriateness Criteria® Suspected Spine Infection. *J Am Coll Radiol.* 2021;18(11S):S488-S501. <https://pubmed.ncbi.nlm.nih.gov/34794603/>
+
 ## Related Articles
 
 - [Epidural Abscess](epidural-abscess.md)
