@@ -77,6 +77,8 @@ extra:
 
 extra_css:
   - assets/css/custom.css
+  - assets/css/emily.css
+  - assets/css/nav-pager.css
 
 copyright: "&copy; 2025 SpineRadiology.com — For educational purposes only. Not a substitute for clinical judgment."
 

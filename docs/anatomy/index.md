@@ -1,3 +1,24 @@
+---
+sr_category: true
+sr_section: "01"
+sr_sub: "Comprehensive coverage of spinal anatomy relevant to radiology — vertebral structure, spinal cord, ligaments, vasculature, and normal alignment."
+sr_region: "Whole spine"
+sr_level: "Foundations"
+sr_articles: "16"
+sr_about: "Begin with the vertebral column, then drill into each region. Every article follows a consistent format — anatomy, imaging findings across modalities, and clinical correlation."
+sr_regions:
+  - ["Cervical", "C1 – C7"]
+  - ["Thoracic", "T1 – T12"]
+  - ["Lumbar", "L1 – L5"]
+  - ["Sacrum / Coccyx", "S1 – S5"]
+sr_glance:
+  - ["Articles", "16"]
+  - ["Annotated images", "180+"]
+  - ["Imaging modalities", "5"]
+  - ["Reading time", "~3h"]
+sr_reviewed: "February 25, 2026"
+---
+
 # Spine Anatomy
 
 Comprehensive coverage of spinal anatomy relevant to radiology, including vertebral structure, spinal cord, ligaments, vasculature, and normal alignment.

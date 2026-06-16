@@ -1,60 +1,34 @@
-.md-header__button.md-logo { display: none; }
-/* Spine Radiology — Header styling */
+/* ============================================================
+   Reset MkDocs Material chrome/layout so Emily's emily.css
+   (her exact v2 design) runs the article + category pages.
+   Her template = the design. This only gets Material out of the way.
+   ============================================================ */
 
-/* Header background */
-.md-header { background: #0c1829 !important; }
-.md-tabs { background: #101e33 !important; }
-.md-footer { background: #0c1829 !important; }
+/* hide all Material chrome */
+.md-header, .md-tabs, .md-footer, .md-top, .md-sidebar,
+.md-search, .md-skip, .md-dialog, .md-content__button{ display:none !important; }
 
-/* Import landing page font */
-@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600&display=swap');
-
-/* Style the site title to match landing page */
-.md-header__topic .md-ellipsis {
-  font-family: 'Cormorant Garamond', serif !important;
-  font-size: 1.2rem !important;
-  font-weight: 600 !important;
-  letter-spacing: 0.3px;
+/* neutralise Material's content containers (full-width pass-through) */
+.md-container, .md-main, .md-main__inner, .md-content, .md-content__inner, .md-grid{
+  display:block !important; max-width:none !important; width:auto !important;
+  margin:0 !important; padding:0 !important; background:none !important;
+  box-shadow:none !important; border:none !important;
 }
+.md-content__inner::before{ display:none !important; }
 
-/* Make the logo icon smaller and more subtle */
-.md-header__button.md-logo svg {
-  width: 18px;
-  height: 18px;
-  opacity: 0.6;
-}
+/* the hidden markdown source that feeds the category entry-builder */
+.sr-src{ display:none !important; }
 
-/* Tables */
-.md-typeset table:not([class]) th {
-  background-color: #0c1829;
-  color: #fff;
-  font-weight: 600;
-}
+/* article body: drop the duplicate title + permalink anchors + git-date block
+   (the head already shows the title; Emily's body styling does the rest) */
+.article-body > h1{ display:none !important; }
+.article-body .headerlink{ display:none !important; }
+.article-body .md-source-file, .md-source-file{ display:none !important; }
 
-/* Images */
-.md-typeset img { border-radius: 6px; }
+/* her v2 subnav was built for 7 tabs; the real site has 12 categories.
+   let each tab size to its own text and wrap cleanly instead of breaking mid-word */
+.subnav{ flex-wrap:wrap !important; justify-content:center !important; }
+.subnav a{ flex:0 1 auto !important; white-space:nowrap !important; border-right:0 !important; padding:.55rem .9rem !important; }
 
-/* Footer */
-.md-copyright { font-size: 0.7rem; opacity: 0.7; }
-
-/* Fix transparent images on dark theme */
-.md-typeset img {
-  background: white;
-  padding: 8px;
-  border-radius: 6px;
-}
-
-/* Centered figures with captions */
-.md-typeset figure {
-  text-align: center;
-  margin: 1.5rem auto;
-}
-.md-typeset figcaption {
-  font-size: 0.8rem;
-  color: #aaa;
-  font-style: italic;
-  margin-top: 0.5rem;
-  max-width: 600px;
-  margin-left: auto;
-  margin-right: auto;
-}
+/* darker page backdrop — matches the nav-options showcase (#04141d) */
+html, body{ background-color:#04141d !important; }
