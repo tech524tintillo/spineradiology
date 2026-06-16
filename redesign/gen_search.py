@@ -70,6 +70,7 @@ STYLE = '''<style>
 .sr-search-btn svg{width:15px;height:15px;color:#5fb6cc}
 .sr-search-btn kbd{font-family:inherit;font-size:.68rem;padding:.1rem .35rem;border:1px solid rgba(143,212,224,.3);border-radius:4px;color:#8fd4e0;background:rgba(143,212,224,.08)}
 @media(max-width:880px){.sr-search-btn{top:14px;right:14px;padding:.4rem}.sr-search-btn span,.sr-search-btn kbd{display:none}}
+.sr-search-modal[hidden]{display:none}
 .sr-search-modal{position:fixed;inset:0;z-index:120;display:flex;align-items:flex-start;justify-content:center}
 .sr-search-backdrop{position:absolute;inset:0;background:rgba(2,10,16,.72);backdrop-filter:blur(3px);animation:srsFade .2s ease}
 .sr-search-panel{position:relative;margin-top:11vh;width:min(620px,92vw);max-height:72vh;display:flex;flex-direction:column;
@@ -162,19 +163,26 @@ def pages():
             if os.path.isdir(os.path.join(OUT, cat, slug)) and os.path.exists(p):
                 yield p
 
-injected = 0
+injected = metaed = 0
 for p in pages():
     h = open(p, encoding="utf-8").read()
-    if "sr-search-btn" in h:
-        continue
-    h2 = re.sub(r'(<a href="/" class="sr-brand">.*?</a>)', r'\1\n' + TRIGGER, h, count=1, flags=re.S)
-    if "</body></html>" in h2:
-        h2 = h2.replace("</body></html>", MODAL + "\n" + STYLE + "\n" + SCRIPT + "\n</body></html>")
-    else:
-        h2 = h2.replace("</body>", MODAL + "\n" + STYLE + "\n" + SCRIPT + "\n</body>", 1)
-    if h2 != h:
-        open(p, "w", encoding="utf-8").write(h2)
+    orig = h
+    # per-page <meta description> from the head subtitle (the standalone pages had none -> SEO gap)
+    if '<meta name="description"' not in h:
+        m = re.search(r'<p class="head__sub">(.*?)</p>', h, re.S)
+        d = text(m.group(1)).replace('"', "'")[:185] if m else ""
+        if d:
+            h = h.replace("</title>", '</title>\n<meta name="description" content="' + d + '">', 1)
+            metaed += 1
+    # search UI
+    if "sr-search-btn" not in h:
+        h = re.sub(r'(<a href="/" class="sr-brand">.*?</a>)', r'\1\n' + TRIGGER, h, count=1, flags=re.S)
+        ins = MODAL + "\n" + STYLE + "\n" + SCRIPT
+        h = h.replace("</body></html>", ins + "\n</body></html>") if "</body></html>" in h \
+            else h.replace("</body>", ins + "\n</body>", 1)
         injected += 1
+    if h != orig:
+        open(p, "w", encoding="utf-8").write(h)
 
 print(f"search-index.json: {N} articles")
-print(f"search UI injected into {injected} pages")
+print(f"search UI injected: {injected} pages | meta descriptions added: {metaed}")
