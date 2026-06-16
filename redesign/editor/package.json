@@ -1,0 +1,12 @@
+{
+  "name": "spineradiology-editor",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Hidden /admin content editor for SpineRadiology — offline demo + Cloudflare Pages Functions (prototype, not deployed).",
+  "scripts": {
+    "demo": "node server/demo-server.js",
+    "demo:dryrun": "node server/demo-server.js --dryrun",
+    "clean:branches": "node server/clean-demo-branches.js"
+  },
+  "engines": { "node": ">=18" }
+}

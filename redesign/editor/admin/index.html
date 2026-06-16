@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="robots" content="noindex, nofollow" />
+<title>SpineRadiology · Editor</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%23061a26'/%3E%3Cpath d='M16 7l7 9-7 9-7-9z' fill='none' stroke='%235fb6cc' stroke-width='2'/%3E%3C/svg%3E" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Manrope:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="./assets/editor.css" />
+</head>
+<body>
+<div id="app" class="app" hidden>
+
+  <!-- ░░ Top bar ░░ -->
+  <header class="topbar">
+    <div class="brand">
+      <span class="brand__mark" aria-hidden="true">◇</span>
+      <span class="brand__name">SpineRadiology</span>
+      <span class="brand__sub">Content Editor</span>
+    </div>
+    <div class="topbar__spacer"></div>
+    <span id="modeBadge" class="badge badge--demo" title="Environment">DEMO</span>
+    <span id="userChip" class="userchip" hidden></span>
+    <button id="logoutBtn" class="btn btn--ghost btn--sm" hidden>Sign out</button>
+  </header>
+
+  <div class="layout">
+
+    <!-- ░░ Sidebar: file tree ░░ -->
+    <aside class="sidebar" id="sidebar">
+      <div class="sidebar__search">
+        <input id="filter" type="search" placeholder="Filter articles…" autocomplete="off" spellcheck="false" />
+        <kbd class="kbd">⌘K</kbd>
+      </div>
+      <div class="sidebar__meta">
+        <span id="fileCount" class="muted">—</span>
+        <button id="refreshBtn" class="btn btn--ghost btn--xs" title="Reload list">↻</button>
+      </div>
+      <nav id="tree" class="tree" aria-label="Articles"></nav>
+    </aside>
+
+    <!-- ░░ Editor pane ░░ -->
+    <main class="editor" id="editorPane">
+      <!-- Empty state -->
+      <section id="emptyState" class="empty">
+        <div class="empty__art" aria-hidden="true">◇</div>
+        <h1 class="empty__title">Pick an article to edit</h1>
+        <p class="empty__sub">Choose a Markdown source on the left. Edits commit to a
+          <strong>new branch</strong> and open a <strong>pull request</strong> — the live
+          site and the 220 published pages are never touched directly.</p>
+        <ul class="empty__hints">
+          <li><kbd class="kbd">⌘K</kbd> filter articles</li>
+          <li><kbd class="kbd">⌘S</kbd> save &amp; open PR</li>
+          <li><kbd class="kbd">⌘P</kbd> toggle preview</li>
+        </ul>
+      </section>
+
+      <!-- Doc editor -->
+      <section id="docView" class="doc" hidden>
+        <div class="doc__head">
+          <div class="doc__crumbs">
+            <span id="crumbCat" class="crumb crumb--cat">—</span>
+            <span class="crumb__sep">/</span>
+            <span id="crumbSlug" class="crumb crumb--slug">—</span>
+          </div>
+          <div class="doc__path"><code id="docPath">—</code></div>
+          <div class="doc__actions">
+            <span id="dirtyDot" class="dirty" hidden title="Unsaved changes">●</span>
+            <button id="previewToggle" class="btn btn--ghost btn--sm" aria-pressed="true">Preview</button>
+            <button id="revertBtn" class="btn btn--ghost btn--sm" disabled>Revert</button>
+            <button id="saveBtn" class="btn btn--primary btn--sm" disabled>Save &amp; open PR</button>
+          </div>
+        </div>
+
+        <div class="doc__panes" id="panes">
+          <div class="pane pane--edit">
+            <div class="pane__label">Markdown source</div>
+            <textarea id="md" class="md" spellcheck="false" autocomplete="off"
+              wrap="off" placeholder="# Title…"></textarea>
+          </div>
+          <div class="pane pane--preview" id="previewPane">
+            <div class="pane__label">Rendered preview <span class="muted">(approximate)</span></div>
+            <article id="preview" class="preview article-body"></article>
+          </div>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <!-- ░░ Toast ░░ -->
+  <div id="toast" class="toast" hidden></div>
+</div>
+
+<!-- ░░ Login gate (demo / Access) ░░ -->
+<div id="gate" class="gate" hidden>
+  <div class="gate__card">
+    <div class="gate__mark" aria-hidden="true">◇</div>
+    <h1 class="gate__title">SpineRadiology Editor</h1>
+    <p class="gate__sub" id="gateSub">Restricted area. Sign in to edit article content.</p>
+
+    <!-- DEMO sign-in -->
+    <form id="demoForm" class="gate__form">
+      <label class="field">
+        <span class="field__label">Email</span>
+        <input id="demoEmail" type="email" value="editor@spineradiology.com" autocomplete="username" />
+      </label>
+      <label class="field">
+        <span class="field__label">One-time code <span class="muted">(demo: any 6 digits)</span></span>
+        <input id="demoOtp" inputmode="numeric" maxlength="6" placeholder="123456" autocomplete="one-time-code" />
+      </label>
+      <button class="btn btn--primary btn--block" type="submit">Sign in</button>
+      <p class="gate__note">Demo mode simulates Cloudflare Access email OTP. No real email is sent.</p>
+    </form>
+  </div>
+  <div class="gate__foot">Local prototype · not for production data</div>
+</div>
+
+<!-- ░░ Confirm modal ░░ -->
+<div id="modal" class="modal" hidden>
+  <div class="modal__backdrop" data-close></div>
+  <div class="modal__card" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+    <h2 id="modalTitle" class="modal__title">Save &amp; open pull request</h2>
+    <div class="modal__body">
+      <p>This will commit your edits to a new branch and open a PR for review.
+         Nothing merges automatically.</p>
+      <label class="field">
+        <span class="field__label">Change summary (commit message)</span>
+        <input id="commitMsg" type="text" placeholder="Edit cervical-vertebrae: clarify facet orientation" />
+      </label>
+      <div class="modal__plan">
+        <div class="planrow"><span class="planrow__k">File</span><code id="planPath">—</code></div>
+        <div class="planrow"><span class="planrow__k">Branch</span><code id="planBranch">—</code></div>
+        <div class="planrow"><span class="planrow__k">Base</span><code id="planBase">—</code></div>
+        <div class="planrow"><span class="planrow__k">Action</span><span id="planAction">commit + open PR</span></div>
+      </div>
+    </div>
+    <div class="modal__actions">
+      <button class="btn btn--ghost" data-close>Cancel</button>
+      <button id="confirmSave" class="btn btn--primary">Commit &amp; open PR</button>
+    </div>
+  </div>
+</div>
+
+<script src="./assets/marked.min.js"></script>
+<script src="./assets/editor.js"></script>
+</body>
+</html>
