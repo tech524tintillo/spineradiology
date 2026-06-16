@@ -21,6 +21,10 @@ CATEGORIES = [
     {"src": "metabolic-systemic.html",  "cat": "metabolic-systemic",  "active": "Metabolic"},
     {"src": "post-surgical-spine.html", "cat": "post-surgical-spine", "active": "Post-Surgical"},
     {"src": "special-topics.html",      "cat": "special-topics",      "active": "Special Topics"},
+    {"src": "infection.html",           "cat": "infection",           "active": "Infection"},
+    {"src": "inflammatory-autoimmune.html", "cat": "inflammatory-autoimmune", "active": "Inflammatory"},
+    {"src": "congenital-developmental.html","cat": "congenital-developmental","active": "Congenital"},
+    {"src": "vascular.html",            "cat": "vascular",            "active": "Vascular"},
 ]
 
 CATS = [
