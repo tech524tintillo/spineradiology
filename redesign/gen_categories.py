@@ -69,21 +69,50 @@ p&&p.addEventListener('click',function(){s.classList.remove('is-pg2');});
 nx&&nx.addEventListener('click',function(){s.classList.add('is-pg2');});})();
 </script>"""
 
+# optional explicit overrides for slugs the heuristic can't resolve unambiguously: ("cat","emily")->built
+SLUG_OVERRIDES = {}
+
+class AmbiguousSlug(SystemExit):
+    pass
+
 def real_slug(cat, slug, built):
+    """Map an Emily entry slug to the real built dir slug. Deterministic + self-checking:
+    iterate `built` in sorted order so any tie is reproducible, and FAIL LOUDLY on an ambiguous
+    (non-unique best-score) correction instead of silently picking whichever os.listdir() yielded.
+    Resolve ambiguity via SLUG_OVERRIDES or by adding the correct entry to Emily's source."""
     if slug in built:
         return slug
-    st = set(slug.split("-"))
-    # built slug whose tokens are all contained in Emily's slug -> most specific (most tokens)
-    subset = [b for b in built if set(b.split("-")) <= st]
+    if (cat, slug) in SLUG_OVERRIDES:
+        return SLUG_OVERRIDES[(cat, slug)]
+    bsorted = sorted(built)                          # deterministic tie order
+    stset = set(slug.split("-"))
+    # (1) built slug whose tokens are all contained in Emily's slug -> most specific (most tokens).
+    #     Emily's slugs are intentionally more verbose than the built dir (she writes
+    #     'vacuum-disc-phenomenon' for the real 'vacuum-disc'), so the subset branch legitimately
+    #     strips her extra descriptive tokens. We DON'T force the chosen slug to keep her longest
+    #     token (that wrongly rejects the real corrections); we only guard against a NON-UNIQUE
+    #     best, which is the actual order/tie-dependent defect.
+    subset = [b for b in bsorted if set(b.split("-")) <= stset]
     if subset:
-        return max(subset, key=lambda b: len(b.split("-")))
-    # else the built slug sharing the most tokens (need >=2 to avoid coincidental single-word hits)
-    best, score = None, 1
-    for b in built:
-        ov = len(set(b.split("-")) & st)
-        if ov > score:
-            best, score = b, ov
-    return best
+        best_n = max(len(b.split("-")) for b in subset)
+        winners = [b for b in subset if len(b.split("-")) == best_n]
+        if len(winners) > 1:
+            raise AmbiguousSlug(
+                f"CORRECTION-AMBIGUOUS (subset, {best_n} tokens) for {cat}/{slug}: candidates "
+                f"{winners}; add SLUG_OVERRIDES[('{cat}','{slug}')] or fix Emily's source.")
+        return winners[0]
+    # (2) else the built slug sharing the most tokens (need >=2 to avoid coincidental single-word hits)
+    scored = sorted(((len(set(b.split("-")) & stset), b) for b in bsorted),
+                    key=lambda x: (-x[0], x[1]))
+    best_score = scored[0][0] if scored else 0
+    if best_score <= 1:
+        return None
+    top = [b for s, b in scored if s == best_score]
+    if len(top) > 1:
+        raise AmbiguousSlug(
+            f"CORRECTION-AMBIGUOUS (overlap={best_score}) for {cat}/{slug}: candidates {top}; "
+            f"add a SLUG_OVERRIDES[('{cat}','{slug}')] entry or fix Emily's source.")
+    return top[0]
 
 for C in CATEGORIES:
     src = os.path.join(TD, C["src"])
@@ -105,15 +134,25 @@ for C in CATEGORIES:
     h = h.replace("article-template-v2.html", "/anatomy/")
     h = h.replace("https://spineradiology.com/", "/")
     # 4. entry hrefs -> /<cat>/<real-slug>/  (auto-correct mismatches)
-    fixed, bad = [], []
+    fixed, bad, resolved = [], [], {}
     def repl(m):
         slug = m.group(1)
         rs = real_slug(cat, slug, built)
         if rs is None:
             bad.append(slug); return m.group(0)
         if rs != slug: fixed.append(f"{slug} -> {rs}")
+        resolved.setdefault(rs, []).append(slug)   # detect many-to-one collapse
         return f'<a class="entry" href="/{cat}/{rs}/"'
     h = re.sub(r'<a class="entry" href="([a-z0-9-]+)\.html"', repl, h)
+
+    # post-build assertions: no two Emily entries collapsed onto one built slug (would drop an
+    # article), and every emitted /<cat>/<slug>/ href maps to a real built dir.
+    collapsed = {rs: ss for rs, ss in resolved.items() if len(ss) > 1}
+    if collapsed:
+        raise SystemExit(f"[{cat}] MANY-TO-ONE slug collapse (an article would be dropped): {collapsed}")
+    for rs in resolved:
+        if not os.path.isdir(os.path.join(OUT, cat, rs)):
+            raise SystemExit(f"[{cat}] emitted href /{cat}/{rs}/ has no built directory")
 
     out = os.path.join(OUT, cat, "index.html")
     open(out, "w", encoding="utf-8").write(h)

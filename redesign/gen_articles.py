@@ -90,8 +90,19 @@ def article_list(cat):
         em = re.findall(rf'<a class="entry" href="/{cat}/([a-z0-9-]+)/"><span class="entry__num">\d+</span>'
                         r'<div class="entry__main"><h3>(.*?)</h3><p>(.*?)</p>', h, re.S)
         if em:
+            # sanity: every category-page entry should be parsed. If the count diverges from the raw
+            # number of class="entry" anchors, the markup drifted and we'd silently lose ordering.
+            n_anchors = len(re.findall(r'class="entry"', h))
+            if len(em) != n_anchors:
+                print(f"   WARNING [{cat}]: parsed {len(em)}/{n_anchors} entry anchors — category-page "
+                      f"markup may have drifted from the article_list() regex; numbering at risk.")
             out = [(s, t.strip(), d.strip()) for (s, t, d) in em]
             return _append_orphans(cat, out)
+        # index exists but the entry regex matched nothing -> the markup changed under us. Falling
+        # back to mkdocs.yml gives DIFFERENT numbering/subtitles than the category page shows.
+        if 'class="entry"' in h:
+            print(f"   WARNING [{cat}]: category index has entries but article_list() regex matched 0 — "
+                  f"falling back to mkdocs.yml nav order (numbering/subtitles may diverge from the page).")
     # fall back to mkdocs.yml nav order
     out = []
     for line in MKDOCS:
@@ -104,11 +115,19 @@ def article_list(cat):
     return _append_orphans(cat, out)
 
 def _append_orphans(cat, listed):
-    """Append any built article not in the category list, so every article gets a consistent number."""
+    """Append any built article not in the category list, so every article gets a consistent number.
+    An orphan gets a sequential ARTICLE NN crest + prev/next chaining here, but the category index
+    (gen_categories.py) is generated from Emily's source and will NOT list it -> a number/nav entry
+    with no counterpart on the index. Print it loudly so the divergence is visible: the orphan should
+    be added to Emily's category source (or removed) rather than silently carried."""
     have = {s for s, _, _ in listed}
+    orphans = []
     for s in sorted(os.listdir(os.path.join(OUT, cat))):
         if os.path.isdir(os.path.join(OUT, cat, s)) and s not in have:
             listed.append((s, None, None))   # title=None -> use the built head title
+            orphans.append(s)
+    if orphans:
+        print(f"   ORPHANS APPENDED ({cat}, not on Emily's category page): {orphans}")
     return listed
 
 def get_body(cat, slug):
@@ -118,7 +137,14 @@ def get_body(cat, slug):
         return open(cpath, encoding="utf-8").read()
     h = open(os.path.join(OUT, cat, slug, "index.html"), encoding="utf-8").read()
     if "height:1267px" in h:
-        raise SystemExit(f"no pristine body cache for {cat}/{slug} and live file is already generated")
+        # The live file is already the redesign (its starfield cap marks it), so we can't cache it
+        # as a pristine MkDocs body. Recovery: lay down pristine bodies with a clean mkdocs build
+        # BEFORE the overlay is applied, then re-run this generator.
+        raise SystemExit(
+            f"no pristine body cache for {cat}/{slug} and live file is already generated.\n"
+            f"  Recovery: run `python3 -m mkdocs build` to lay down pristine bodies, then re-run\n"
+            f"  this generator BEFORE applying the overlay (build.sh/restore.sh).\n"
+            f"  Expected cache at {cpath}")
     m = re.search(r'<article class="article-body">(.*?)</article>', h, re.S)
     body = m.group(1) if m else ""
     body = re.sub(r'<aside[^>]*>(?:(?!</aside>).)*?(?:git-revision|md-source-file)(?:(?!</aside>).)*?</aside>', '', body, flags=re.S)
