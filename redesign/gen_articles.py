@@ -25,9 +25,8 @@ TAB = {
     "vascular": "Vascular", "metabolic-systemic": "Metabolic",
     "post-surgical-spine": "Post-Surgical", "special-topics": "Special Topics",
 }
-# build these now (the 3 done ones are omitted; add them back to regenerate)
-BUILD = ["trauma", "neoplasms", "infection", "inflammatory-autoimmune", "congenital-developmental",
-         "vascular", "metabolic-systemic", "post-surgical-spine", "special-topics"]
+# categories whose Emily category file now exists -> renumber articles to match her category order
+BUILD = ["trauma", "neoplasms", "metabolic-systemic", "post-surgical-spine", "special-topics"]
 
 CATS = [
     ("Home", "/", "1"), ("Anatomy", "/anatomy/", "1"), ("Imaging", "/imaging-modalities/", "1"),
@@ -91,7 +90,8 @@ def article_list(cat):
         em = re.findall(rf'<a class="entry" href="/{cat}/([a-z0-9-]+)/"><span class="entry__num">\d+</span>'
                         r'<div class="entry__main"><h3>(.*?)</h3><p>(.*?)</p>', h, re.S)
         if em:
-            return [(s, t.strip(), d.strip()) for (s, t, d) in em]
+            out = [(s, t.strip(), d.strip()) for (s, t, d) in em]
+            return _append_orphans(cat, out)
     # fall back to mkdocs.yml nav order
     out = []
     for line in MKDOCS:
@@ -101,7 +101,15 @@ def article_list(cat):
             if slug == "index":
                 continue
             out.append((slug, (m.group(1) or slug).strip(), None))
-    return out
+    return _append_orphans(cat, out)
+
+def _append_orphans(cat, listed):
+    """Append any built article not in the category list, so every article gets a consistent number."""
+    have = {s for s, _, _ in listed}
+    for s in sorted(os.listdir(os.path.join(OUT, cat))):
+        if os.path.isdir(os.path.join(OUT, cat, s)) and s not in have:
+            listed.append((s, None, None))   # title=None -> use the built head title
+    return listed
 
 def get_body(cat, slug):
     cdir = os.path.join(CACHE_ROOT, cat); os.makedirs(cdir, exist_ok=True)
@@ -143,8 +151,9 @@ for cat in BUILD:
     for i, (slug, title, desc) in enumerate(items):
         body = get_body(cat, slug)
         ti, date = built_meta(cat, slug)
-        arts.append({"slug": slug, "num": i + 1, "title": title,
-                     "desc": desc or lead_sentence(body), "title_inner": ti or title,
+        plain = title or re.sub(r'<[^>]+>', '', ti or slug).strip()   # orphans -> built head title
+        arts.append({"slug": slug, "num": i + 1, "title": plain,
+                     "desc": desc or lead_sentence(body), "title_inner": ti or plain,
                      "date": date, "body": body})
     n = len(arts)
     T = make_template(active)

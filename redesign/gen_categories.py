@@ -16,6 +16,11 @@ OUT  = os.path.join(ROOT, "site")
 CATEGORIES = [
     {"src": "imaging-modalities.html",  "cat": "imaging-modalities",  "active": "Imaging"},
     {"src": "degenerative-disease.html","cat": "degenerative-disease","active": "Degenerative"},
+    {"src": "trauma.html",              "cat": "trauma",              "active": "Trauma"},
+    {"src": "neoplasms.html",           "cat": "neoplasms",           "active": "Neoplasms"},
+    {"src": "metabolic-systemic.html",  "cat": "metabolic-systemic",  "active": "Metabolic"},
+    {"src": "post-surgical-spine.html", "cat": "post-surgical-spine", "active": "Post-Surgical"},
+    {"src": "special-topics.html",      "cat": "special-topics",      "active": "Special Topics"},
 ]
 
 CATS = [
@@ -63,11 +68,18 @@ nx&&nx.addEventListener('click',function(){s.classList.add('is-pg2');});})();
 def real_slug(cat, slug, built):
     if slug in built:
         return slug
-    # auto-correct Emily's name to the actual built article dir (longest prefix overlap)
-    cands = [b for b in built if slug.startswith(b) or b.startswith(slug)]
-    if cands:
-        return max(cands, key=len)
-    return None
+    st = set(slug.split("-"))
+    # built slug whose tokens are all contained in Emily's slug -> most specific (most tokens)
+    subset = [b for b in built if set(b.split("-")) <= st]
+    if subset:
+        return max(subset, key=lambda b: len(b.split("-")))
+    # else the built slug sharing the most tokens (need >=2 to avoid coincidental single-word hits)
+    best, score = None, 1
+    for b in built:
+        ov = len(set(b.split("-")) & st)
+        if ov > score:
+            best, score = b, ov
+    return best
 
 for C in CATEGORIES:
     src = os.path.join(TD, C["src"])
