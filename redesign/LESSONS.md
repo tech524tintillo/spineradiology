@@ -41,7 +41,27 @@ keep it that way.
 The user reviews category-by-category and wants the literal file + the one change asked, nothing more.
 Verify in the browser before sending. State the real cause once; don't litigate it.
 
-## Status (2026-06-16)
-Done in Emily's design: **anatomy** (25 articles), **imaging-modalities** (15), **degenerative-disease** (31).
-Blocked: the other 9 categories' CATEGORY pages need Emily's filled files (she's provided 3 of 12).
-Their ARTICLES can be generated now from the MkDocs build (article template is generic/approved).
+## 6. Build / deploy / restore — the redesign is a post-`mkdocs build` overlay
+`site/` is gitignored and a `mkdocs build` reverts it to Material. So the redesign is captured two ways:
+- **Source:** Emily's templates → `redesign/templates/` (in git), pristine article bodies →
+  `redesign/bodies/<cat>/` (in git), generators `gen_categories.py` + `gen_articles.py` + `gen_search.py`.
+- **Frozen overlay:** `redesign/snapshots/redesign-overlay.tar.gz` (234 files: 12 category pages +
+  220 articles + landing + `search-index.json`) — the exact approved output.
+
+Scripts (in `redesign/`):
+- `build.sh`  → `mkdocs build` then `restore.sh`  = one-command deployable `site/`. **This is the
+  "just make it a mkdocs build" answer.** Run it after any clobber.
+- `restore.sh` → extracts the overlay onto `site/` (instant restore after a `mkdocs build` wipe).
+- `snapshot.sh` → re-creates the overlay from the current `site/` (run after regenerating/editing pages).
+
+**Search** (Material's was dropped by the standalone pages): restored as a custom on-theme command
+palette (top-right button + `⌘K`/`/`), full-text over all 220 articles via `site/search-index.json`,
+with match highlighting + context snippets. Built/injected by `gen_search.py` (idempotent).
+TODO before a from-scratch source rebuild: wire anatomy's category into `gen_categories.py`
+(currently its page comes from `redesign/her-cat.html`) and set `gen_articles.py` BUILD to all 12 +
+`os.makedirs`. Until then, `build.sh`/`restore.sh` (overlay) is the reliable path.
+
+## Status (2026-06-16) — REDESIGN COMPLETE
+All **12/12 category pages + 220/220 articles** in Emily's design; **search restored**; 0 number
+mismatches, 0 broken links. Backed up via the overlay snapshot + scripts above. NOT yet done: real
+deploy (preview→prod), pre-deploy audit, and `spine-regions` (PARKED for real RamSoft MRI).

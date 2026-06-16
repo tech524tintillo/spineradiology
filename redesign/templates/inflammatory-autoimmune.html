@@ -1,0 +1,946 @@
+<!DOCTYPE html><html lang="en"><head>
+
+
+
+
+
+
+
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Inflammatory / Autoimmune — Spine Radiology</title>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,wght@0,400;0,500;0,600;1,400;1,500&amp;family=Manrope:wght@300;400;500;600;700&amp;display=swap" rel="stylesheet">
+
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+/* ===== Home palette (matches Spine Radiology - Redesign.html) ===== */
+:root {
+  --c-deep:     #061a26;
+  --c-deep-2:   #0a2838;
+  --c-deep-3:   #103a52;
+  --c-deep-4:   #1a516e;
+  --c-cyan:     #5fb6cc;
+  --c-cyan-soft:#8fd4e0;
+  --c-crimson:  #5fb6cc;
+  --c-crimson-soft:#8fd4e0;
+  --c-ink:      #e7eef7;
+  --c-ink-dim:  #b8c5d6;
+  --c-ink-faint:#7d8ca4;
+  --c-line:     rgba(231,238,247,0.18);
+  --c-line-soft:rgba(231,238,247,0.10);
+  --font-serif: 'Source Serif 4', Georgia, serif;
+  --font-sans:  'Manrope', system-ui, sans-serif;
+}
+
+html, body {
+  background:
+    radial-gradient(ellipse 80% 40% at 50% 0%, rgba(95,182,204,0.06) 0%, transparent 60%),
+    radial-gradient(ellipse 60% 40% at 50% 100%, rgba(95,182,204,0.05) 0%, transparent 60%),
+    var(--c-deep);
+  color: var(--c-ink);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  min-height: 100%;
+}
+a { color: inherit; text-decoration: none; }
+
+/* ===== Page frame (shiny gradient borders + glow, home-page vibe) ===== */
+.page {
+  max-width: 1100px;
+  margin: 2.5rem auto;
+  background: var(--c-deep-2);
+  position: relative;
+  border-radius: 4px;
+  /* Stronger layered glow — outer border feels lit */
+  box-shadow:
+    0 0 0 1px rgba(231,238,247,0.2),
+    0 0 22px -1px rgba(143,212,224,0.5),
+    0 0 55px -6px rgba(143,212,224,0.32),
+    0 0 90px -10px rgba(143,212,224,0.3),
+    0 40px 90px -30px rgba(0,0,0,0.7);
+  padding: 1.5px;
+  /* Brighter outer border — cyan-dominant with crimson flanks */
+  background-image:
+    linear-gradient(var(--c-deep-2), var(--c-deep-2)),
+    linear-gradient(135deg,
+      rgba(143,212,224,0.55) 0%,
+      rgba(143,212,224,0.7) 22%,
+      rgba(143,212,224,1)   50%,
+      rgba(143,212,224,0.7) 78%,
+      rgba(143,212,224,0.55) 100%
+    );
+  background-origin: border-box;
+  background-clip: padding-box, border-box;
+  border: 2px solid transparent;
+  background-size: 100% 100%, 250% 250%;
+  animation: borderShimmer calc(var(--motion, 1) * 10s) ease-in-out infinite;
+}
+@keyframes borderShimmer {
+  0%,100% { background-position: 0 0, 0% 50%; }
+  50%     { background-position: 0 0, 100% 50%; }
+}
+
+/* Inner offset — white-cream highlight, softer than the outer */
+.page::before {
+  content: "";
+  position: absolute;
+  inset: 8px;
+  border-radius: 2px;
+  pointer-events: none;
+  padding: 1px;
+  background:
+    linear-gradient(135deg,
+      rgba(231,238,247,0)    0%,
+      rgba(231,238,247,0.55) 22%,
+      rgba(255,255,255,0.85) 50%,
+      rgba(231,238,247,0.55) 78%,
+      rgba(231,238,247,0)    100%
+    );
+  filter: drop-shadow(0 0 4px rgba(231,238,247,0.35));
+  -webkit-mask:
+    linear-gradient(#000 0 0) content-box,
+    linear-gradient(#000 0 0);
+  -webkit-mask-composite: xor;
+          mask-composite: exclude;
+}
+
+/* Sparkles drifting over the page — same family as the home page */
+.page::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  border-radius: 4px;
+  background-image:
+    /* Big white star highlights */
+    radial-gradient(3px 3px at 6% 10%,  rgba(255,255,255,1),    transparent 60%),
+    radial-gradient(2.5px 2.5px at 22% 30%, rgba(255,255,255,1), transparent 60%),
+    radial-gradient(3px 3px at 48% 14%, rgba(255,255,255,1),    transparent 60%),
+    radial-gradient(2.5px 2.5px at 72% 8%, rgba(255,255,255,1), transparent 60%),
+    radial-gradient(3px 3px at 88% 28%, rgba(255,255,255,1),    transparent 60%),
+    radial-gradient(2.5px 2.5px at 14% 56%, rgba(255,255,255,1), transparent 60%),
+    radial-gradient(3px 3px at 38% 78%, rgba(255,255,255,1),    transparent 60%),
+    radial-gradient(2.5px 2.5px at 60% 86%, rgba(255,255,255,1), transparent 60%),
+    radial-gradient(3px 3px at 84% 72%, rgba(255,255,255,1),    transparent 60%),
+    /* Crimson / pink stars */
+    radial-gradient(2.5px 2.5px at 12% 22%, rgba(143,212,224,1),  transparent 60%),
+    radial-gradient(2px 2px at 30% 64%,    rgba(143,212,224,0.95),transparent 60%),
+    radial-gradient(3px 3px at 56% 36%,    rgba(143,212,224,1),   transparent 60%),
+    radial-gradient(2px 2px at 78% 56%,    rgba(143,212,224,0.95),transparent 60%),
+    radial-gradient(2.5px 2.5px at 92% 50%, rgba(143,212,224,1),  transparent 60%),
+    /* Cyan stars */
+    radial-gradient(2.5px 2.5px at 8% 38%,  rgba(143,212,224,1), transparent 60%),
+    radial-gradient(2px 2px at 34% 46%,     rgba(143,212,224,0.95),transparent 60%),
+    radial-gradient(3px 3px at 50% 58%,     rgba(143,212,224,1), transparent 60%),
+    radial-gradient(2px 2px at 68% 18%,     rgba(143,212,224,0.95),transparent 60%),
+    radial-gradient(2.5px 2.5px at 86% 92%, rgba(143,212,224,1), transparent 60%),
+    /* Warm amber accents for variety */
+    radial-gradient(2px 2px at 40% 32%,    rgba(255,210,140,0.95),transparent 60%),
+    radial-gradient(1.8px 1.8px at 74% 80%,rgba(255,210,140,0.9), transparent 60%),
+    radial-gradient(2px 2px at 20% 68%,    rgba(255,210,140,0.85),transparent 60%),
+    /* Tiny pin-pricks for density */
+    radial-gradient(1px 1px at 18% 86%, rgba(255,255,255,0.95), transparent 60%),
+    radial-gradient(1px 1px at 42% 4%,  rgba(255,255,255,0.95), transparent 60%),
+    radial-gradient(1px 1px at 62% 70%, rgba(255,255,255,0.95), transparent 60%),
+    radial-gradient(1px 1px at 80% 40%, rgba(255,255,255,0.95), transparent 60%),
+    radial-gradient(1px 1px at 26% 12%, rgba(143,212,224,0.9),  transparent 60%),
+    radial-gradient(1px 1px at 54% 90%, rgba(143,212,224,0.9), transparent 60%),
+    radial-gradient(1px 1px at 96% 60%, rgba(255,210,140,0.9), transparent 60%),
+    radial-gradient(1px 1px at 4% 76%,  rgba(143,212,224,0.85), transparent 60%);
+  filter: drop-shadow(0 0 4px rgba(255,255,255,0.8)) drop-shadow(0 0 9px rgba(143,212,224,0.3));
+  animation: pageSparkle 5s ease-in-out infinite;
+  /* Keep them out of the content area — only show near the edges */
+  -webkit-mask:
+    linear-gradient(#000, #000) padding-box,
+    radial-gradient(ellipse 65% 65% at 50% 50%, transparent 42%, #000 75%);
+  -webkit-mask-composite: source-in;
+          mask-composite: intersect;
+  opacity: 1;
+}
+@keyframes pageSparkle {
+  0%, 100% { opacity: 0.78; }
+  50%      { opacity: 1; }
+}
+
+/* ===== HEADER ===== */
+.head {
+  padding: 3.8rem 4rem 2.5rem;
+  border-bottom: 1.5px solid var(--c-ink);
+  text-align: center;
+  position: relative;
+}
+.head__crest {
+  font-size: 0.7rem;
+  letter-spacing: 0.35em;
+  text-transform: uppercase;
+  color: #5fb6cc;
+  font-weight: 600;
+  margin-bottom: 1.2rem;
+  display: flex; align-items: center; justify-content: center;
+  gap: 1.2rem;
+}
+.head__crest::before, .head__crest::after {
+  content: "";
+  width: 60px; height: 1px;
+  background: #5fb6cc;
+}
+.head__brand {
+  font-family: var(--font-serif);
+  font-weight: 500;
+  font-style: italic;
+  font-size: 1rem;
+  color: var(--c-ink-dim);
+  margin-bottom: 0.6rem;
+}
+.head__title {
+  font-family: var(--font-serif);
+  font-weight: 400;
+  font-size: 4.5rem;
+  line-height: 1;
+  letter-spacing: -0.02em;
+  color: var(--c-ink);
+  margin-bottom: 0.8rem;
+}
+.head__title em { font-style: italic; color: var(--c-crimson-soft); }
+.head__rule {
+  width: 80px; height: 1px;
+  background: var(--c-ink);
+  margin: 1rem auto 1.2rem;
+}
+.head__sub {
+  font-size: 0.95rem;
+  line-height: 1.55;
+  max-width: 980px;
+  margin: 0 auto;
+  color: var(--c-ink-dim);
+  text-wrap: balance;
+  text-align: center;
+}
+.head__meta {
+  display: flex;
+  justify-content: center;
+  gap: 2.5rem;
+  margin-top: 1.8rem;
+  font-size: 0.7rem;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--c-ink-faint);
+}
+.head__meta span { display: inline-flex; align-items: center; gap: 0.5rem; }
+.head__meta b {
+  color: var(--c-ink);
+  font-weight: 500;
+  font-family: var(--font-serif);
+  font-style: italic;
+  font-size: 0.95rem;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+/* ===== SUBNAV ===== */
+.subnav {
+  display: flex;
+  border-bottom: 1.5px solid var(--c-ink);
+  background: var(--c-deep);
+}
+.subnav a {
+  flex: 1;
+  text-align: center;
+  padding: 1rem 0.5rem;
+  font-size: 0.7rem;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  font-weight: 600;
+  color: var(--c-ink-faint);
+  border-right: 1px solid var(--c-line);
+  transition: 0.2s;
+}
+.subnav a:last-child { border-right: 0; }
+.subnav a:hover { background: var(--c-deep-3); color: var(--c-ink); }
+.subnav a.is-active { background: var(--c-crimson); color: var(--c-ink); }
+
+/* ===== MAIN ===== */
+main {
+  display: grid;
+  grid-template-columns: 280px 1fr;
+  border-bottom: 1.5px solid var(--c-ink);
+}
+
+/* ===== LEFT — meta sidebar ===== */
+.aside {
+  padding: 2.5rem 2.2rem;
+  border-right: 1.5px solid var(--c-ink);
+  background: var(--c-deep);
+}
+.aside__block { margin-bottom: 2rem; }
+.aside__block:last-child { margin-bottom: 0; }
+.aside__label {
+  font-size: 0.66rem;
+  letter-spacing: 0.24em;
+  text-transform: uppercase;
+  color: var(--c-crimson-soft);
+  font-weight: 700;
+  margin-bottom: 0.8rem;
+  padding-bottom: 0.55rem;
+  border-bottom: 1px solid var(--c-line);
+}
+.aside__text {
+  font-size: 0.86rem;
+  line-height: 1.65;
+  color: var(--c-ink-dim);
+}
+.aside__list { list-style: none; padding: 0; }
+.aside__list li {
+  font-size: 0.8rem;
+  padding: 0.45rem 0;
+  color: var(--c-ink-dim);
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 0.8rem;
+  border-bottom: 1px dotted var(--c-line);
+}
+.aside__list li:last-child { border-bottom: 0; }
+.aside__list li span:last-child {
+  font-family: var(--font-serif);
+  font-style: italic;
+  color: var(--c-cyan-soft);
+  font-size: 0.85rem;
+}
+
+/* ===== RIGHT — article list ===== */
+.list {
+  padding: 2.5rem 3rem;
+}
+.list__heading {
+  font-family: var(--font-serif);
+  font-weight: 400;
+  font-size: 2rem;
+  letter-spacing: -0.01em;
+  margin-bottom: 0.4rem;
+  display: flex;
+  align-items: baseline;
+  gap: 1rem;
+  color: var(--c-ink);
+}
+.list__heading em { font-style: italic; color: var(--c-crimson-soft); }
+.list__heading::after {
+  content: "";
+  flex: 1;
+  height: 1px;
+  background: var(--c-ink);
+}
+.list__intro {
+  font-size: 0.86rem;
+  color: var(--c-ink-dim);
+  margin-bottom: 1.8rem;
+  line-height: 1.6;
+}
+
+.entries { list-style: none; padding: 0; }
+.entry {
+  display: grid;
+  grid-template-columns: 42px 1fr auto;
+  align-items: baseline;
+  gap: 1.4rem;
+  padding: 1rem 0.6rem 1rem 0;
+  border-bottom: 1px solid var(--c-line);
+  transition: 0.25s;
+  border-left: 2px solid transparent;
+  padding-left: 0.6rem;
+  margin-left: -0.6rem;
+}
+.entry:hover {
+  border-left-color: var(--c-crimson);
+  background: rgba(95,182,204,0.04);
+}
+.entry:hover .entry__main h3 { color: var(--c-crimson-soft); }
+.entry:hover .entry__arrow { transform: translateX(5px); color: var(--c-cyan-soft); }
+
+.entry__num {
+  font-family: var(--font-serif);
+  font-style: italic;
+  font-weight: 500;
+  font-size: 1.5rem;
+  color: var(--c-crimson-soft);
+  line-height: 1;
+}
+.entry__main h3 {
+  font-family: var(--font-serif);
+  font-weight: 500;
+  font-size: 1.2rem;
+  letter-spacing: -0.01em;
+  color: var(--c-ink);
+  margin-bottom: 0.25rem;
+  transition: 0.2s;
+}
+.entry__main p {
+  font-size: 0.82rem;
+  color: var(--c-ink-faint);
+  line-height: 1.5;
+}
+.entry__arrow {
+  font-family: var(--font-serif);
+  font-style: italic;
+  font-size: 1.3rem;
+  color: #5fb6cc;
+  transition: 0.25s;
+}
+
+/* ===== FOOT ===== */
+.foot {
+  padding: 1.8rem 4rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 0.7rem;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--c-ink-faint);
+}
+.foot__sig {
+  font-family: var(--font-serif);
+  font-style: italic;
+  font-size: 1.05rem;
+  letter-spacing: 0;
+  text-transform: none;
+  color: var(--c-ink);
+}
+
+/* ===== RESPONSIVE ===== */
+@media (max-width: 880px) {
+  .page { margin: 1rem; }
+  .head { padding: 2.5rem 1.5rem 2rem; }
+  .head__title { font-size: 2.8rem; }
+  .head__meta { flex-direction: column; gap: 0.8rem; }
+  .subnav { flex-wrap: wrap; }
+  .subnav a { flex: 1 0 33%; border-bottom: 1px solid var(--c-line); }
+  main { grid-template-columns: 1fr; }
+  .aside { border-right: 0; border-bottom: 1.5px solid var(--c-ink); padding: 2rem 1.5rem; }
+  .list { padding: 2rem 1.5rem; }
+  .entry { grid-template-columns: 32px 1fr auto; gap: 0.9rem; }
+  .foot { padding: 1.4rem 1.5rem; flex-direction: column; gap: 0.6rem; text-align: center; }
+}
+
+/* =================================================================
+   TWEAKS — three expressive controls that re-shape the whole feel
+   ================================================================= */
+
+/* ---------- MOOD ---------- */
+/* “Editorial” — cream paper, sepia ink, no sparkles, like a printed page */
+body[data-mood="editorial"] {
+  --c-deep:     #efe7d4;
+  --c-deep-2:   #fbf4e3;
+  --c-deep-3:   #f0e5cc;
+  --c-deep-4:   #e2d4b3;
+  --c-cyan:     #4f7a82;
+  --c-cyan-soft: #6f9aa2;
+  --c-crimson:  #8a3a2a;
+  --c-crimson-soft:#b54a30;
+  --c-ink:      #1d1c18;
+  --c-ink-dim:  #3d3a32;
+  --c-ink-faint:#7a7361;
+  --c-line:     rgba(29,28,24,0.14);
+  --c-line-soft:rgba(29,28,24,0.08);
+  color: var(--c-ink);
+}
+body[data-mood="editorial"] .head__crest { color: var(--c-crimson); }
+body[data-mood="editorial"] .head__crest::before,
+body[data-mood="editorial"] .head__crest::after { background: var(--c-crimson); }
+body[data-mood="editorial"] .head__crest span { color: var(--c-crimson) !important; }
+body[data-mood="editorial"] .head__rule { background: var(--c-ink) !important; }
+body[data-mood="editorial"] .entry__arrow { color: var(--c-crimson); }
+body[data-mood="editorial"] .page {
+  background-image:
+    linear-gradient(var(--c-deep-2), var(--c-deep-2)),
+    linear-gradient(135deg, var(--c-ink), var(--c-ink)) !important;
+  box-shadow: 0 30px 60px -20px rgba(0,0,0,0.18) !important;
+  animation: none !important;
+}
+body[data-mood="editorial"] .page::before {
+  background: var(--c-ink) !important;
+  filter: none !important;
+  opacity: 0.45;
+}
+body[data-mood="editorial"] .page::after { display: none !important; }
+body[data-mood="editorial"] .subnav a.is-active { background: var(--c-crimson); color: var(--c-deep-2); }
+body[data-mood="editorial"] .entry:hover { background: rgba(138,58,42,0.06); border-left-color: var(--c-crimson); }
+body[data-mood="editorial"] .entry:hover .entry__main h3 { color: var(--c-crimson); }
+
+/* “Midnight” — deeper void + intense neon halos */
+body[data-mood="midnight"] {
+  --c-deep:   #02060b;
+  --c-deep-2: #060e15;
+  --c-deep-3: #0d1a26;
+  --c-deep-4: #143046;
+}
+body[data-mood="midnight"] .page {
+  box-shadow:
+    0 0 0 1px rgba(143,212,224,0.35),
+    0 0 35px -1px rgba(143,212,224,0.85),
+    0 0 95px -8px rgba(143,212,224,0.55),
+    0 0 140px -10px rgba(143,212,224,0.5),
+    0 60px 120px -30px rgba(0,0,0,0.95) !important;
+}
+body[data-mood="midnight"] .page::after {
+  opacity: 1 !important;
+  filter:
+    drop-shadow(0 0 5px rgba(255,255,255,1))
+    drop-shadow(0 0 12px rgba(143,212,224,0.55))
+    drop-shadow(0 0 10px rgba(143,212,224,0.5)) !important;
+}
+
+/* ---------- FRAME ---------- */
+/* “Hairline” — one clean line, no glow, no sparkles */
+body[data-frame="hairline"] .page {
+  padding: 0 !important;
+  border: 1px solid var(--c-ink) !important;
+  background-image: none !important;
+  background-color: var(--c-deep-2);
+  animation: none !important;
+  box-shadow: 0 20px 40px -10px rgba(0,0,0,0.5) !important;
+}
+body[data-frame="hairline"] .page::before,
+body[data-frame="hairline"] .page::after { display: none !important; }
+
+/* “Halo” — borderless, floats in a wide ambient aura */
+body[data-frame="halo"] .page {
+  padding: 0 !important;
+  border: 0 !important;
+  background-image: none !important;
+  background-color: var(--c-deep-2);
+  animation: none !important;
+  border-radius: 14px;
+  box-shadow:
+    0 0 0 1px rgba(143,212,224,0.08),
+    0 0 65px 0   rgba(143,212,224,0.42),
+    0 0 130px 12px rgba(143,212,224,0.32),
+    0 0 190px 20px rgba(143,212,224,0.16) !important;
+}
+body[data-frame="halo"] .page::before { display: none !important; }
+body[data-frame="halo"] .page::after { opacity: 0.4; }
+body[data-frame="halo"] .head,
+body[data-frame="halo"] main,
+body[data-frame="halo"] .subnav { border-color: var(--c-line) !important; }
+
+/* ---------- RHYTHM ---------- */
+/* “Grid” — two-up bordered cards */
+body[data-rhythm="grid"] .entries {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.85rem;
+}
+body[data-rhythm="grid"] .entry {
+  display: grid;
+  grid-template-columns: 42px 1fr;
+  grid-template-rows: auto 1fr auto;
+  gap: 0.4rem 1rem;
+  padding: 1.1rem 1.1rem 1rem !important;
+  margin: 0 !important;
+  border: 1px solid var(--c-line) !important;
+  border-left-width: 2px !important;
+  border-radius: 10px;
+  background: rgba(231,238,247,0.02);
+  align-items: start;
+}
+body[data-rhythm="grid"] .entry:hover {
+  transform: translateY(-2px);
+  background: rgba(95,182,204,0.05);
+}
+body[data-rhythm="grid"] .entry__num { grid-row: 1 / 4; align-self: start; }
+body[data-rhythm="grid"] .entry__main { grid-column: 2 / 3; }
+body[data-rhythm="grid"] .entry__arrow { grid-column: 2 / 3; justify-self: end; }
+
+/* “Ribbon” — dense one-line entries, scannable index */
+body[data-rhythm="ribbon"] .entry {
+  padding: 0.5rem 0.5rem !important;
+  grid-template-columns: 32px 1fr auto !important;
+  gap: 0.9rem !important;
+  align-items: baseline;
+}
+body[data-rhythm="ribbon"] .entry__num { font-size: 1.05rem; }
+body[data-rhythm="ribbon"] .entry__main {
+  display: flex;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 0 0.7rem;
+}
+body[data-rhythm="ribbon"] .entry__main h3 {
+  font-size: 0.95rem;
+  margin-bottom: 0;
+  display: inline;
+}
+body[data-rhythm="ribbon"] .entry__main h3::after {
+  content: "·";
+  margin-left: 0.6rem;
+  color: var(--c-ink-faint);
+}
+body[data-rhythm="ribbon"] .entry__main p {
+  font-size: 0.78rem;
+  display: inline;
+  color: var(--c-ink-faint);
+}
+body[data-rhythm="ribbon"] .entry__arrow { font-size: 1.1rem; }
+
+/* ---------- TWEAKS PANEL ---------- */
+.tweaks {
+  position: fixed;
+  bottom: 1.5rem;
+  right: 1.5rem;
+  width: 248px;
+  background: #061a26;
+  border: 1px solid rgba(231,238,247,0.22);
+  border-radius: 10px;
+  color: #e7eef7;
+  font-family: 'Manrope', system-ui, sans-serif;
+  font-size: 0.78rem;
+  box-shadow:
+    0 0 0 1px rgba(143,212,224,0.15),
+    0 0 30px -4px rgba(143,212,224,0.25),
+    0 20px 50px -10px rgba(0,0,0,0.7);
+  z-index: 9999;
+  overflow: hidden;
+  opacity: 0;
+  transform: translateY(6px);
+  pointer-events: none;
+  transition: opacity 0.18s, transform 0.18s;
+}
+.tweaks[data-open="1"] { opacity: 1; transform: none; pointer-events: auto; }
+.tweaks__header {
+  display: flex; align-items: center; justify-content: space-between;
+  padding: 0.65rem 0.9rem;
+  border-bottom: 1px solid rgba(231,238,247,0.12);
+  font-size: 0.7rem;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: #5fb6cc;
+}
+.tweaks__close {
+  background: none; border: 0; color: #e7eef7;
+  font-size: 1.05rem; line-height: 1;
+  cursor: pointer; padding: 0;
+  width: 20px; height: 20px;
+}
+.tweaks__close:hover { color: #8fd4e0; }
+.tweaks__body { padding: 0.9rem; display: flex; flex-direction: column; gap: 0.95rem; }
+.tweaks__group { display: flex; flex-direction: column; gap: 0.4rem; }
+.tweaks__label {
+  font-size: 0.6rem;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: #8a9bb3;
+  font-weight: 600;
+}
+.tweaks__seg {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 2px;
+  background: rgba(231,238,247,0.05);
+  border: 1px solid rgba(231,238,247,0.1);
+  border-radius: 6px;
+  padding: 2px;
+}
+.tweaks__seg button {
+  background: none; border: 0;
+  color: #b8c5d6;
+  font-family: inherit; font-size: 0.7rem; font-weight: 500;
+  padding: 0.42rem 0.3rem;
+  cursor: pointer;
+  border-radius: 4px;
+  transition: 0.15s;
+  text-align: center;
+}
+.tweaks__seg button:hover { color: #e7eef7; background: rgba(231,238,247,0.05); }
+.tweaks__seg button.is-on {
+  background: #5fb6cc;
+  color: #061a26;
+  font-weight: 700;
+}
+
+
+/* ===== PROGRESSIVE DISCLOSURE ===== */
+.entries.is-collapsed > li:nth-child(n+6) { display: none; }
+.entries > li { animation: entryFadeIn 0.35s ease both; }
+@keyframes entryFadeIn {
+  from { opacity: 0; transform: translateY(4px); }
+  to   { opacity: 1; transform: none; }
+}
+.entries.is-collapsed > li { animation: none; }
+.show-more {
+  margin-top: 1.4rem;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.9rem;
+}
+.show-more__btn {
+  font-family: var(--font-sans);
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  color: var(--c-ink);
+  background: rgba(143,212,224,0.06);
+  border: 1px solid rgba(143,212,224,0.25);
+  padding: 0.6rem 1.1rem;
+  border-radius: 999px;
+  cursor: pointer;
+  transition: 0.2s;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+.show-more__btn:hover {
+  border-color: rgba(143,212,224,0.5);
+  background: rgba(143,212,224,0.08);
+  color: #5fb6cc;
+}
+.show-more__btn .show-more__arrow {
+  font-family: var(--font-serif);
+  font-style: italic;
+  font-size: 0.95rem;
+  display: inline-block;
+  transition: transform 0.25s;
+}
+.show-more__btn[aria-expanded="true"] .show-more__arrow { transform: rotate(180deg); }
+.show-more__hint {
+  font-family: var(--font-serif);
+  font-style: italic;
+  font-size: 0.85rem;
+  color: var(--c-ink-faint);
+}
+
+</style>
+<style>/*sr-orbs*/ .sr-orbs{position:fixed;inset:0;z-index:0;pointer-events:none;overflow:hidden}.sr-orbs i{position:absolute;border-radius:50%;filter:blur(80px);opacity:.4;animation:srOrb 19s ease-in-out infinite}.sr-orbs i:nth-child(1){width:380px;height:380px;left:3%;top:10%;background:#5fb6cc}.sr-orbs i:nth-child(2){width:320px;height:320px;left:64%;top:5%;background:#e6b34a;animation-delay:2s;animation-duration:23s}.sr-orbs i:nth-child(3){width:360px;height:360px;left:80%;top:55%;background:#5fb6cc;animation-delay:1s;animation-duration:21s}.sr-orbs i:nth-child(4){width:300px;height:300px;left:1%;top:64%;background:#c97f9b;animation-delay:3s;animation-duration:25s}.sr-orbs i:nth-child(5){width:240px;height:240px;left:44%;top:80%;background:#8fd4e0;animation-delay:1.5s;animation-duration:20s}@keyframes srOrb{0%,100%{transform:translate(0,0) scale(1);opacity:.34}50%{transform:translate(46px,-34px) scale(1.18);opacity:.5}}.page{background:rgba(10,40,56,0.82)!important;backdrop-filter:blur(3px)}@media(prefers-reduced-motion:reduce){.sr-orbs i{animation:none}}</style>
+<style>/*sr-brand*/ .sr-brand{position:absolute;top:18px;left:24px;z-index:20;display:flex;align-items:center;gap:.6rem;text-decoration:none;font-family:'Source Serif 4',Georgia,serif;font-size:1.3rem;font-weight:500;line-height:1;color:#e8f1f7;transition:.2s}.sr-brand:hover{opacity:.8}.sr-brand svg{width:20px;height:25px;color:#5fb6cc;flex-shrink:0}.sr-brand b{color:#89ccd9;font-weight:500}@media(max-width:880px){.sr-brand{top:14px;left:16px;font-size:1.1rem}}</style>
+</head>
+<body style="">
+<div class="sr-orbs" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i></div>
+
+<div class="page">
+  <a href="Spine Radiology - Redesign.html" class="sr-brand"><svg viewBox="0 0 24 30" fill="none"><path d="M12 2c3 0 4 2 4 3s-1 2-4 2-4-1-4-2 1-3 4-3Z" stroke="currentColor" stroke-width="1.4"/><path d="M12 9c3 0 4 2 4 3.5s-1 2.5-4 2.5-4-1-4-2.5S9 9 12 9Z" stroke="currentColor" stroke-width="1.4"/><path d="M12 16c3 0 4.2 2.2 4.2 4s-1.2 3-4.2 3-4.2-1.2-4.2-3 1.2-4 4.2-4Z" stroke="currentColor" stroke-width="1.4"/></svg><span>Spine <b>Radiology</b></span></a>
+
+  <!-- HEADER -->
+  <header class="head">
+    <div class="head__crest"><span>SECTION 07</span></div>
+    <div class="head__brand">Spine Radiology · Educational Reference</div>
+    <h1 class="head__title">Inflammatory <em>&amp;</em> Autoimmune</h1>
+    <div class="head__rule" style="background-color: rgb(95, 182, 203)"></div>
+    <p class="head__sub">Inflammatory and autoimmune conditions of the spine encompass a diverse group of disorders that can affect the vertebral bodies, facet joints, sacroiliac joints, intervertebral discs, spinal cord, and surrounding soft tissues. The seronegative spondyloarthropathies (ankylosing spondylitis, psoriatic arthritis, reactive arthritis) are the most common, characterized by enthesitis, sacroiliitis, and progressive spinal fusion. Rheumatoid arthritis preferentially targets the cervical spine, particularly the atlantoaxial junction. Demyelinating and granulomatous diseases can involve the spinal cord itself.</p>
+    <div class="head__meta">
+      <span>Articles · <b>12</b></span>
+      <span>Categories · <b>3</b></span>
+      <span>Level · <b>Systemic</b></span>
+    </div>
+  </header>
+
+  <!-- SUBNAV -->
+  <nav class="subnav">
+    <a href="Spine Radiology - Redesign.html">Home</a>
+    <a href="category-template-v2.html">Anatomy</a>
+    <a href="https://spineradiology.com/degenerative-disease/">Degenerative</a>
+    <a href="https://spineradiology.com/trauma/">Trauma</a>
+    <a href="neoplasms.html">Neoplasms</a>
+    <a href="infection.html">Infection</a>
+    <a href="https://spineradiology.com/imaging-modalities/">Imaging</a>
+  </nav>
+
+  <!-- BODY -->
+  <main>
+
+    <aside class="aside">
+      <div class="aside__block">
+        <div class="aside__label">About this section</div>
+        <p class="aside__text">Inflammatory spine reads by pattern — enthesitis and sacroiliitis for spondyloarthropathy, atlantoaxial erosion for RA, and intramedullary T2 hyperintensity for cord-centric demyelination and granulomatous disease.</p>
+      </div>
+      <div class="aside__block">
+        <div class="aside__label">Pattern by entity</div>
+        <ul class="aside__list">
+          <li><span>Spondyloarthropathy</span><span>Bamboo, Romanus</span></li>
+          <li><span>Rheumatoid</span><span>Cervical / AAS</span></li>
+          <li><span>Cord-centric</span><span>TM · MS</span></li>
+          <li><span>Granulomatous</span><span>Sarcoid, SAPHO</span></li>
+        </ul>
+      </div>
+      <div class="aside__block">
+        <div class="aside__label">At a glance</div>
+        <ul class="aside__list">
+          <li><span>Articles</span><span>12</span></li>
+          <li><span>Subsections</span><span>3</span></li>
+          <li><span>First-line modality</span><span>MRI ± Gd</span></li>
+          <li><span>Reading time</span><span>~2h</span></li>
+        </ul>
+      </div>
+      <div class="aside__block">
+        <div class="aside__label">Last reviewed</div>
+        <p class="aside__text">March 27, 2026</p>
+      </div>
+    </aside>
+
+    <section class="list">
+      <h2 class="list__heading">Articles in this <em>section</em></h2>
+      <p class="list__intro">Twelve articles spanning seronegative spondyloarthropathies, rheumatoid arthritis of the cervical spine, and other inflammatory disease of the column and cord.</p>
+
+      <ol class="entries is-collapsed" id="inflammatory-entries">
+        <li><a class="entry" href="ankylosing-spondylitis.html"><span class="entry__num">01</span><div class="entry__main"><h3>Ankylosing Spondylitis</h3><p>Sacroiliitis, syndesmophytes, ankylosis</p></div><span class="entry__arrow">→</span></a></li>
+        <li><a class="entry" href="bamboo-spine.html"><span class="entry__num">02</span><div class="entry__main"><h3>Bamboo Spine</h3><p>End-stage spondylitis appearance</p></div><span class="entry__arrow">→</span></a></li>
+        <li><a class="entry" href="romanus-andersson-lesions.html"><span class="entry__num">03</span><div class="entry__main"><h3>Romanus and Andersson Lesions</h3><p>Corner edema and discitis-like change</p></div><span class="entry__arrow">→</span></a></li>
+        <li><a class="entry" href="psoriatic-spondyloarthropathy.html"><span class="entry__num">04</span><div class="entry__main"><h3>Psoriatic Spondyloarthropathy</h3><p>Asymmetric, paramarginal syndesmophytes</p></div><span class="entry__arrow">→</span></a></li>
+        <li><a class="entry" href="reactive-arthritis.html"><span class="entry__num">05</span><div class="entry__main"><h3>Reactive Arthritis</h3><p>Post-infectious spondyloarthropathy</p></div><span class="entry__arrow">→</span></a></li>
+        <li><a class="entry" href="rheumatoid-arthritis-cervical.html"><span class="entry__num">06</span><div class="entry__main"><h3>Rheumatoid Arthritis — Cervical Spine</h3><p>Cervical predilection, erosive disease</p></div><span class="entry__arrow">→</span></a></li>
+        <li><a class="entry" href="atlantoaxial-subluxation-ra.html"><span class="entry__num">07</span><div class="entry__main"><h3>Atlantoaxial Subluxation in RA</h3><p>Transverse ligament pannus</p></div><span class="entry__arrow">→</span></a></li>
+        <li><a class="entry" href="cranial-settling-ra.html"><span class="entry__num">08</span><div class="entry__main"><h3>Cranial Settling in RA</h3><p>Vertical migration of the dens</p></div><span class="entry__arrow">→</span></a></li>
+        <li><a class="entry" href="sapho-syndrome.html"><span class="entry__num">09</span><div class="entry__main"><h3>SAPHO Syndrome</h3><p>Synovitis-acne-pustulosis-hyperostosis</p></div><span class="entry__arrow">→</span></a></li>
+        <li><a class="entry" href="sarcoidosis.html"><span class="entry__num">10</span><div class="entry__main"><h3>Sarcoidosis of the Spine</h3><p>Cord and meningeal granulomas</p></div><span class="entry__arrow">→</span></a></li>
+        <li><a class="entry" href="transverse-myelitis.html"><span class="entry__num">11</span><div class="entry__main"><h3>Transverse Myelitis</h3><p>Long-segment cord T2 hyperintensity</p></div><span class="entry__arrow">→</span></a></li>
+        <li><a class="entry" href="multiple-sclerosis-spine.html"><span class="entry__num">12</span><div class="entry__main"><h3>Multiple Sclerosis — Spinal Cord</h3><p>Short-segment, dorsolateral, peripheral</p></div><span class="entry__arrow">→</span></a></li>
+      </ol>
+      <div class="show-more">
+        <button class="show-more__btn" aria-expanded="false" aria-controls="inflammatory-entries">
+          Show all 12 articles
+          <span class="show-more__arrow">↓</span>
+        </button>
+        <span class="show-more__hint">Showing 5 of 12 · seronegative spondyloarthropathies</span>
+      </div>
+      </section>
+
+  </main>
+
+  <!-- FOOT -->
+  <footer class="foot">
+    <span>Spine Radiology · Inflammatory · 2026</span>
+    <span class="foot__sig">Expert Radiology</span>
+    <span>For educational purposes only</span>
+  </footer>
+
+</div>
+
+
+
+<!-- =================================================================
+     TWEAKS PANEL — Mood / Frame / Rhythm
+     ================================================================= -->
+<div class="tweaks" id="tweaks" aria-hidden="true">
+  <div class="tweaks__header">
+    <span>Tweaks</span>
+    <button class="tweaks__close" aria-label="Close">×</button>
+  </div>
+  <div class="tweaks__body">
+    <div class="tweaks__group">
+      <div class="tweaks__label">Mood</div>
+      <div class="tweaks__seg" data-key="mood">
+        <button data-val="clinical">Clinical</button>
+        <button data-val="editorial">Editorial</button>
+        <button data-val="midnight">Midnight</button>
+      </div>
+    </div>
+    <div class="tweaks__group">
+      <div class="tweaks__label">Frame</div>
+      <div class="tweaks__seg" data-key="frame">
+        <button data-val="ornate">Ornate</button>
+        <button data-val="hairline">Hairline</button>
+        <button data-val="halo">Halo</button>
+      </div>
+    </div>
+    <div class="tweaks__group">
+      <div class="tweaks__label">Rhythm</div>
+      <div class="tweaks__seg" data-key="rhythm">
+        <button data-val="index">Index</button>
+        <button data-val="grid">Grid</button>
+        <button data-val="ribbon">Ribbon</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+(() => {
+  const DEFAULTS = /*EDITMODE-BEGIN*/{
+    "mood": "clinical",
+    "frame": "ornate",
+    "rhythm": "index"
+  }/*EDITMODE-END*/;
+  const state = Object.assign({}, DEFAULTS);
+
+  const apply = () => {
+    document.body.dataset.mood   = state.mood;
+    document.body.dataset.frame  = state.frame;
+    document.body.dataset.rhythm = state.rhythm;
+  };
+  apply();
+
+  const panel = document.getElementById('tweaks');
+  const reflect = () => {
+    panel.querySelectorAll('.tweaks__seg').forEach(seg => {
+      const k = seg.dataset.key;
+      seg.querySelectorAll('button').forEach(b => {
+        b.classList.toggle('is-on', b.dataset.val === state[k]);
+      });
+    });
+  };
+  reflect();
+
+  panel.addEventListener('click', e => {
+    const btn = e.target.closest('.tweaks__seg button');
+    if (btn) {
+      const k = btn.parentElement.dataset.key;
+      state[k] = btn.dataset.val;
+      apply();
+      reflect();
+      window.parent.postMessage({ type: '__edit_mode_set_keys', edits: { [k]: state[k] } }, '*');
+      return;
+    }
+    if (e.target.classList.contains('tweaks__close')) {
+      panel.setAttribute('data-open', '0');
+      window.parent.postMessage({ type: '__edit_mode_dismissed' }, '*');
+    }
+  });
+
+  // Register the host protocol listener BEFORE announcing availability
+  window.addEventListener('message', e => {
+    const d = e.data || {};
+    if (d.type === '__activate_edit_mode')   panel.setAttribute('data-open', '1');
+    if (d.type === '__deactivate_edit_mode') panel.setAttribute('data-open', '0');
+  });
+  window.parent.postMessage({ type: '__edit_mode_available' }, '*');
+})();
+</script>
+
+
+
+
+<script>
+(() => {
+  const list = document.getElementById('inflammatory-entries');
+  const btn = document.querySelector('.show-more__btn');
+  const hint = document.querySelector('.show-more__hint');
+  if (!list || !btn) return;
+  btn.addEventListener('click', () => {
+    const expanded = btn.getAttribute('aria-expanded') === 'true';
+    if (expanded) {
+      list.classList.add('is-collapsed');
+      btn.setAttribute('aria-expanded', 'false');
+      btn.firstChild.nodeValue = 'Show all 12 articles\n          ';
+      hint.textContent = 'Showing 5 of 12 · seronegative spondyloarthropathies';
+    } else {
+      list.classList.remove('is-collapsed');
+      btn.setAttribute('aria-expanded', 'true');
+      btn.firstChild.nodeValue = 'Show fewer\n          ';
+      hint.textContent = 'Showing all 12 articles';
+    }
+  });
+})();
+</script>
+</body></html>
+<style id="__om-edit-overrides">
+:is(h1,h2,h3,h4,h5,h6,p,li,dt,dd,blockquote,figcaption,label,span,a,em,strong,small,td,th,caption) >p:nth-child(1) { color: rgb(10, 40, 56) !important }
+:is(h1,h2,h3,h4,h5,h6,p,li,dt,dd,blockquote,figcaption,label,span,a,em,strong,small,td,th,caption) >p:nth-child(1) { color: rgb(190, 193, 198) !important }
+:is(h1,h2,h3,h4,h5,h6,p,li,dt,dd,blockquote,figcaption,label,span,a,em,strong,small,td,th,caption) >p:nth-child(1) { background-color: rgb(10, 40, 55) !important }
+:is(h1,h2,h3,h4,h5,h6,p,li,dt,dd,blockquote,figcaption,label,span,a,em,strong,small,td,th,caption) >p:nth-child(2) { background-color: rgb(10, 40, 55) !important }
+p >:is(h1,h2,h3,h4,h5,h6,p,li,dt,dd,blockquote,figcaption,label,span,a,em,strong,small,td,th,caption) { background-color: rgb(11, 41, 56) !important }
+</style>

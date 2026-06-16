@@ -1,0 +1,737 @@
+<!DOCTYPE html><html lang="en"><head>
+
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Vertebral Column Overview — Spine Radiology</title>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,wght@0,400;0,500;0,600;1,400;1,500&amp;family=Manrope:wght@300;400;500;600;700&amp;display=swap" rel="stylesheet">
+
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+/* ===== Home palette ===== */
+:root {
+  --c-deep:     #061a26;
+  --c-deep-2:   #0a2838;
+  --c-deep-3:   #103a52;
+  --c-deep-4:   #1a516e;
+  --c-cyan:     #5fb6cc;
+  --c-cyan-soft:#8fd4e0;
+  --c-crimson:  #5fb6cc;
+  --c-crimson-soft:#8fd4e0;
+  --c-ink:      #e7eef7;
+  --c-ink-dim:  #b8c5d6;
+  --c-ink-faint:#7d8ca4;
+  --c-line:     rgba(231,238,247,0.18);
+  --c-line-soft:rgba(231,238,247,0.10);
+  --font-serif: 'Source Serif 4', Georgia, serif;
+  --font-sans:  'Manrope', system-ui, sans-serif;
+}
+
+html, body {
+  background:
+    radial-gradient(ellipse 80% 40% at 50% 0%, rgba(95,182,204,0.06) 0%, transparent 60%),
+    radial-gradient(ellipse 60% 40% at 50% 100%, rgba(95,182,204,0.05) 0%, transparent 60%),
+    var(--c-deep);
+  color: var(--c-ink);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  min-height: 100%;
+}
+a { color: inherit; text-decoration: none; }
+
+/* ===== Page frame (same as category template) ===== */
+.page {
+  max-width: 1100px;
+  margin: 2.5rem auto;
+  background: var(--c-deep-2);
+  position: relative;
+  border-radius: 4px;
+  box-shadow:
+    0 0 0 1px rgba(231,238,247,0.2),
+    0 0 22px -1px rgba(143,212,224,0.5),
+    0 0 55px -6px rgba(143,212,224,0.32),
+    0 0 90px -10px rgba(143,212,224,0.3),
+    0 40px 90px -30px rgba(0,0,0,0.7);
+  padding: 1.5px;
+  background-image:
+    linear-gradient(var(--c-deep-2), var(--c-deep-2)),
+    linear-gradient(135deg,
+      rgba(143,212,224,0.55) 0%,
+      rgba(143,212,224,0.7) 22%,
+      rgba(143,212,224,1)   50%,
+      rgba(143,212,224,0.7) 78%,
+      rgba(143,212,224,0.55) 100%
+    );
+  background-origin: border-box;
+  background-clip: padding-box, border-box;
+  border: 2px solid transparent;
+  background-size: 100% 100%, 250% 250%;
+  animation: borderShimmer 10s ease-in-out infinite;
+}
+@keyframes borderShimmer {
+  0%,100% { background-position: 0 0, 0% 50%; }
+  50%     { background-position: 0 0, 100% 50%; }
+}
+.page::before {
+  content: "";
+  position: absolute;
+  inset: 8px;
+  border-radius: 2px;
+  pointer-events: none;
+  padding: 1px;
+  background:
+    linear-gradient(135deg,
+      rgba(231,238,247,0)    0%,
+      rgba(231,238,247,0.55) 22%,
+      rgba(255,255,255,0.85) 50%,
+      rgba(231,238,247,0.55) 78%,
+      rgba(231,238,247,0)    100%
+    );
+  filter: drop-shadow(0 0 4px rgba(231,238,247,0.35));
+  -webkit-mask:
+    linear-gradient(#000 0 0) content-box,
+    linear-gradient(#000 0 0);
+  -webkit-mask-composite: xor;
+          mask-composite: exclude;
+}
+.page::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  border-radius: 4px;
+  background-image:
+    radial-gradient(3px 3px at 6% 10%,  rgba(255,255,255,1),    transparent 60%),
+    radial-gradient(2.5px 2.5px at 22% 30%, rgba(255,255,255,1), transparent 60%),
+    radial-gradient(3px 3px at 48% 14%, rgba(255,255,255,1),    transparent 60%),
+    radial-gradient(2.5px 2.5px at 72% 8%, rgba(255,255,255,1), transparent 60%),
+    radial-gradient(3px 3px at 88% 28%, rgba(255,255,255,1),    transparent 60%),
+    radial-gradient(2.5px 2.5px at 14% 56%, rgba(255,255,255,1), transparent 60%),
+    radial-gradient(3px 3px at 38% 78%, rgba(255,255,255,1),    transparent 60%),
+    radial-gradient(2.5px 2.5px at 60% 86%, rgba(255,255,255,1), transparent 60%),
+    radial-gradient(3px 3px at 84% 72%, rgba(255,255,255,1),    transparent 60%),
+    radial-gradient(2.5px 2.5px at 12% 22%, rgba(143,212,224,1),  transparent 60%),
+    radial-gradient(2px 2px at 30% 64%,    rgba(143,212,224,0.95),transparent 60%),
+    radial-gradient(3px 3px at 56% 36%,    rgba(143,212,224,1),   transparent 60%),
+    radial-gradient(2px 2px at 78% 56%,    rgba(143,212,224,0.95),transparent 60%),
+    radial-gradient(2.5px 2.5px at 92% 50%, rgba(143,212,224,1),  transparent 60%),
+    radial-gradient(2.5px 2.5px at 8% 38%,  rgba(143,212,224,1), transparent 60%),
+    radial-gradient(2px 2px at 34% 46%,     rgba(143,212,224,0.95),transparent 60%),
+    radial-gradient(3px 3px at 50% 58%,     rgba(143,212,224,1), transparent 60%),
+    radial-gradient(2px 2px at 68% 18%,     rgba(143,212,224,0.95),transparent 60%),
+    radial-gradient(2.5px 2.5px at 86% 92%, rgba(143,212,224,1), transparent 60%),
+    radial-gradient(2px 2px at 40% 32%,    rgba(255,210,140,0.95),transparent 60%),
+    radial-gradient(1.8px 1.8px at 74% 80%,rgba(255,210,140,0.9), transparent 60%),
+    radial-gradient(2px 2px at 20% 68%,    rgba(255,210,140,0.85),transparent 60%),
+    radial-gradient(1px 1px at 18% 86%, rgba(255,255,255,0.95), transparent 60%),
+    radial-gradient(1px 1px at 42% 4%,  rgba(255,255,255,0.95), transparent 60%),
+    radial-gradient(1px 1px at 62% 70%, rgba(255,255,255,0.95), transparent 60%),
+    radial-gradient(1px 1px at 80% 40%, rgba(255,255,255,0.95), transparent 60%),
+    radial-gradient(1px 1px at 26% 12%, rgba(143,212,224,0.9),   transparent 60%),
+    radial-gradient(1px 1px at 54% 90%, rgba(143,212,224,0.9),  transparent 60%),
+    radial-gradient(1px 1px at 96% 60%, rgba(255,210,140,0.9),  transparent 60%),
+    radial-gradient(1px 1px at 4% 76%,  rgba(143,212,224,0.85),  transparent 60%);
+  filter: drop-shadow(0 0 4px rgba(255,255,255,0.8)) drop-shadow(0 0 9px rgba(143,212,224,0.3));
+  animation: pageSparkle 5s ease-in-out infinite;
+  -webkit-mask:
+    linear-gradient(#000, #000) padding-box,
+    radial-gradient(ellipse 65% 65% at 50% 50%, transparent 42%, #000 75%);
+  -webkit-mask-composite: source-in;
+          mask-composite: intersect;
+  opacity: 1;
+}
+@keyframes pageSparkle {
+  0%, 100% { opacity: 0.78; }
+  50%      { opacity: 1; }
+}
+
+/* ===== HEADER ===== */
+.head {
+  padding: 3.8rem 4rem 2.5rem;
+  border-bottom: 1.5px solid var(--c-ink);
+  text-align: center;
+  position: relative;
+}
+.head__crest {
+  font-size: 0.7rem;
+  letter-spacing: 0.35em;
+  text-transform: uppercase;
+  color: #5fb6cc;
+  font-weight: 600;
+  margin-bottom: 1.2rem;
+  display: flex; align-items: center; justify-content: center;
+  gap: 1.2rem;
+}
+.head__crest::before, .head__crest::after {
+  content: "";
+  width: 60px; height: 1px;
+  background: #5fb6cc;
+}
+.head__brand {
+  font-family: var(--font-serif);
+  font-weight: 500;
+  font-style: italic;
+  font-size: 1rem;
+  color: var(--c-ink-dim);
+  margin-bottom: 0.6rem;
+}
+.head__title {
+  font-family: var(--font-serif);
+  font-weight: 400;
+  font-size: 4rem;
+  line-height: 1.02;
+  letter-spacing: -0.02em;
+  color: var(--c-ink);
+  margin-bottom: 0.8rem;
+  text-wrap: balance;
+}
+.head__title em { font-style: italic; color: var(--c-crimson-soft); }
+.head__rule {
+  width: 80px; height: 1px;
+  background: var(--c-ink);
+  margin: 1rem auto 1.2rem;
+}
+.head__sub {
+  font-size: 0.95rem;
+  line-height: 1.65;
+  max-width: 580px;
+  margin: 0 auto;
+  color: var(--c-ink-dim);
+}
+.head__meta {
+  display: flex;
+  justify-content: center;
+  gap: 2.5rem;
+  margin-top: 1.8rem;
+  font-size: 0.7rem;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--c-ink-faint);
+}
+.head__meta span { display: inline-flex; align-items: center; gap: 0.5rem; }
+.head__meta b {
+  color: var(--c-ink);
+  font-weight: 500;
+  font-family: var(--font-serif);
+  font-style: italic;
+  font-size: 0.95rem;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+/* ===== SUBNAV ===== */
+.subnav {
+  display: flex;
+  border-bottom: 1.5px solid var(--c-ink);
+  background: var(--c-deep);
+}
+.subnav a {
+  flex: 1;
+  text-align: center;
+  padding: 1rem 0.5rem;
+  font-size: 0.7rem;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  font-weight: 600;
+  color: var(--c-ink-faint);
+  border-right: 1px solid var(--c-line);
+  transition: 0.2s;
+}
+.subnav a:last-child { border-right: 0; }
+.subnav a:hover { background: var(--c-deep-3); color: var(--c-ink); }
+.subnav a.is-active { background: var(--c-crimson); color: var(--c-ink); }
+
+/* ===== ARTICLE BODY ===== */
+.article-body {
+  padding: 3rem 4.5rem 3.5rem;
+  max-width: 820px;
+  margin: 0 auto;
+  border-bottom: 1.5px solid var(--c-ink);
+  position: relative;
+  z-index: 1;
+}
+
+/* Hide the markdown headerlink ¶ anchors */
+.article-body .headerlink { display: none; }
+
+/* Typography */
+.article-body h1 {
+  font-family: var(--font-serif);
+  font-weight: 400;
+  font-size: 2.2rem;
+  line-height: 1.1;
+  letter-spacing: -0.018em;
+  color: var(--c-ink);
+  margin-bottom: 2rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid var(--c-line);
+  display: none; /* article title duplicates the hero — hide it */
+}
+.article-body h2 {
+  font-family: var(--font-serif);
+  font-weight: 500;
+  font-style: italic;
+  font-size: 1.7rem;
+  letter-spacing: -0.01em;
+  color: var(--c-cyan-soft);
+  margin: 2.5rem 0 1rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--c-line);
+}
+.article-body h2:first-of-type { margin-top: 0.6rem; padding-top: 0; border-top: 0; }
+.article-body h3 {
+  font-family: var(--font-serif);
+  font-weight: 500;
+  font-size: 1.18rem;
+  letter-spacing: -0.005em;
+  color: var(--c-ink);
+  margin: 1.8rem 0 0.7rem;
+}
+.article-body h3::before {
+  content: "";
+  display: inline-block;
+  width: 22px;
+  height: 1px;
+  background: var(--c-crimson-soft);
+  vertical-align: middle;
+  margin-right: 0.7rem;
+  margin-bottom: 4px;
+}
+.article-body p {
+  font-size: 0.98rem;
+  line-height: 1.75;
+  color: var(--c-ink-dim);
+  margin-bottom: 1rem;
+  text-wrap: pretty;
+}
+.article-body strong { color: var(--c-ink); font-weight: 600; }
+.article-body em { font-style: italic; }
+
+/* Lists */
+.article-body ul {
+  list-style: none;
+  margin: 0.5rem 0 1.4rem;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.55rem;
+}
+.article-body ul li {
+  position: relative;
+  padding-left: 1.4rem;
+  font-size: 0.95rem;
+  line-height: 1.65;
+  color: var(--c-ink-dim);
+}
+.article-body ul li::before {
+  content: "";
+  position: absolute;
+  left: 0.1rem;
+  top: 0.65rem;
+  width: 8px;
+  height: 1px;
+  background: var(--c-cyan);
+}
+
+/* Inline links inside body */
+.article-body a {
+  color: var(--c-cyan-soft);
+  border-bottom: 1px solid rgba(143,212,224,0.4);
+  transition: 0.2s;
+}
+.article-body a:hover {
+  color: var(--c-crimson-soft);
+  border-bottom-color: var(--c-crimson-soft);
+}
+
+/* Figures */
+.article-body figure {
+  margin: 1.8rem 0;
+  text-align: center;
+  padding: 1.5rem;
+  background: rgba(231,238,247,0.03);
+  border: 1px solid var(--c-line);
+  border-radius: 10px;
+}
+.article-body figure img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 6px;
+  filter: brightness(0.95);
+}
+.article-body figcaption {
+  font-size: 0.82rem;
+  color: var(--c-ink-faint);
+  font-style: italic;
+  margin-top: 0.9rem;
+  line-height: 1.5;
+  font-family: var(--font-serif);
+}
+
+/* Tables */
+.article-body table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.6rem 0;
+  font-size: 0.9rem;
+  background: rgba(231,238,247,0.02);
+  border-radius: 10px;
+  overflow: hidden;
+  border: 1px solid var(--c-line);
+}
+.article-body thead {
+  background: var(--c-deep);
+}
+.article-body th {
+  text-align: left;
+  padding: 0.85rem 1.1rem;
+  font-size: 0.7rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--c-cyan);
+  font-weight: 700;
+  border-bottom: 1px solid var(--c-line);
+}
+.article-body td {
+  padding: 0.85rem 1.1rem;
+  border-bottom: 1px solid var(--c-line-soft);
+  color: var(--c-ink-dim);
+  line-height: 1.5;
+}
+.article-body tr:last-child td { border-bottom: 0; }
+.article-body td strong { color: var(--c-ink); }
+
+/* Admonitions (Tip / Note) */
+.article-body .admonition {
+  margin: 1.6rem 0;
+  padding: 1.2rem 1.4rem 1rem;
+  border-radius: 10px;
+  border-left: 3px solid var(--c-cyan);
+  background:
+    linear-gradient(90deg, rgba(95,182,204,0.08), rgba(95,182,204,0.02) 70%, transparent),
+    rgba(231,238,247,0.02);
+  position: relative;
+}
+.article-body .admonition.tip {
+  border-left-color: var(--c-crimson-soft);
+  background:
+    linear-gradient(90deg, rgba(143,212,224,0.08), rgba(143,212,224,0.02) 70%, transparent),
+    rgba(231,238,247,0.02);
+}
+.article-body .admonition-title {
+  font-size: 0.66rem;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--c-cyan);
+  font-weight: 700;
+  margin-bottom: 0.6rem;
+}
+.article-body .admonition.tip .admonition-title { color: var(--c-crimson-soft); }
+.article-body .admonition p {
+  margin-bottom: 0.5rem;
+  font-size: 0.93rem;
+  line-height: 1.65;
+  color: var(--c-ink-dim);
+}
+.article-body .admonition p:last-child { margin-bottom: 0; }
+
+/* Hide the trailing MkDocs source-file footer aside */
+.article-body .md-source-file { display: none; }
+
+/* Related Articles section — turn the last <ul> after "Related Articles" into a chip grid */
+.article-body h2#related-articles + ul {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 0.6rem;
+  margin-top: 1rem;
+}
+.article-body h2#related-articles + ul li {
+  padding: 0;
+}
+.article-body h2#related-articles + ul li::before { display: none; }
+.article-body h2#related-articles + ul li a {
+  display: block;
+  padding: 0.8rem 1rem;
+  border: 1px solid var(--c-line);
+  border-radius: 8px;
+  font-family: var(--font-serif);
+  font-weight: 500;
+  font-size: 0.95rem;
+  color: var(--c-ink);
+  border-bottom: 1px solid var(--c-line);
+  transition: 0.2s;
+}
+.article-body h2#related-articles + ul li a:hover {
+  border-color: var(--c-cyan);
+  color: var(--c-cyan-soft);
+  background: rgba(95,182,204,0.05);
+  transform: translateY(-1px);
+}
+
+/* ===== Article navigation footer ===== */
+.article-nav {
+  max-width: 820px;
+  margin: 0 auto;
+  padding: 2rem 4.5rem 2.5rem;
+  display: flex;
+  justify-content: space-between;
+  gap: 1.5rem;
+  border-bottom: 1.5px solid var(--c-ink);
+}
+.article-nav a {
+  flex: 1;
+  padding: 1.1rem 1.3rem;
+  background: rgba(231,238,247,0.02);
+  border: 1px solid var(--c-line);
+  border-radius: 10px;
+  transition: 0.25s;
+  max-width: 50%;
+}
+.article-nav a:hover {
+  border-color: var(--c-crimson);
+  background: rgba(95,182,204,0.05);
+}
+.article-nav a span {
+  display: block;
+  font-size: 0.65rem;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--c-ink-faint);
+  margin-bottom: 0.35rem;
+  font-weight: 600;
+}
+.article-nav a b {
+  font-family: var(--font-serif);
+  font-weight: 500;
+  font-size: 1.05rem;
+  letter-spacing: -0.005em;
+  color: var(--c-ink);
+}
+.article-nav .next { text-align: right; }
+.article-nav .next b::after { content: " →"; color: var(--c-cyan); }
+.article-nav .prev b::before { content: "← "; color: var(--c-cyan); }
+
+/* ===== FOOT ===== */
+.foot {
+  padding: 1.8rem 4rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 0.7rem;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--c-ink-faint);
+}
+.foot__sig {
+  font-family: var(--font-serif);
+  font-style: italic;
+  font-size: 1.05rem;
+  letter-spacing: 0;
+  text-transform: none;
+  color: var(--c-ink);
+}
+
+/* ===== Responsive ===== */
+@media (max-width: 880px) {
+  .page { margin: 1rem; }
+  .head { padding: 2.5rem 1.5rem 2rem; }
+  .head__title { font-size: 2.4rem; }
+  .head__meta { flex-direction: column; gap: 0.8rem; }
+  .subnav { flex-wrap: wrap; }
+  .subnav a { flex: 1 0 33%; border-bottom: 1px solid var(--c-line); }
+  .article-body, .article-nav { padding-left: 1.5rem; padding-right: 1.5rem; }
+  .article-nav { flex-direction: column; }
+  .article-nav a { max-width: 100%; }
+  .foot { padding: 1.4rem 1.5rem; flex-direction: column; gap: 0.6rem; text-align: center; }
+}
+</style>
+<style>/*sr-orbs*/ .sr-orbs{position:fixed;inset:0;z-index:0;pointer-events:none;overflow:hidden}.sr-orbs i{position:absolute;border-radius:50%;filter:blur(80px);opacity:.4;animation:srOrb 19s ease-in-out infinite}.sr-orbs i:nth-child(1){width:380px;height:380px;left:3%;top:10%;background:#5fb6cc}.sr-orbs i:nth-child(2){width:320px;height:320px;left:64%;top:5%;background:#e6b34a;animation-delay:2s;animation-duration:23s}.sr-orbs i:nth-child(3){width:360px;height:360px;left:80%;top:55%;background:#5fb6cc;animation-delay:1s;animation-duration:21s}.sr-orbs i:nth-child(4){width:300px;height:300px;left:1%;top:64%;background:#c97f9b;animation-delay:3s;animation-duration:25s}.sr-orbs i:nth-child(5){width:240px;height:240px;left:44%;top:80%;background:#8fd4e0;animation-delay:1.5s;animation-duration:20s}@keyframes srOrb{0%,100%{transform:translate(0,0) scale(1);opacity:.34}50%{transform:translate(46px,-34px) scale(1.18);opacity:.5}}.page{background:rgba(10,40,56,0.82)!important;backdrop-filter:blur(3px)}@media(prefers-reduced-motion:reduce){.sr-orbs i{animation:none}}</style>
+<style>/*sr-brand*/ .sr-brand{position:absolute;top:18px;left:24px;z-index:20;display:flex;align-items:center;gap:.6rem;text-decoration:none;font-family:'Source Serif 4',Georgia,serif;font-size:1.3rem;font-weight:500;line-height:1;color:#e8f1f7;transition:.2s}.sr-brand:hover{opacity:.8}.sr-brand svg{width:20px;height:25px;color:#5fb6cc;flex-shrink:0}.sr-brand b{color:#89ccd9;font-weight:500}@media(max-width:880px){.sr-brand{top:14px;left:16px;font-size:1.1rem}}</style>
+</head>
+<body style="">
+<div class="sr-orbs" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i></div>
+
+<div class="page">
+  <a href="Spine Radiology - Redesign.html" class="sr-brand"><svg viewBox="0 0 24 30" fill="none"><path d="M12 2c3 0 4 2 4 3s-1 2-4 2-4-1-4-2 1-3 4-3Z" stroke="currentColor" stroke-width="1.4"/><path d="M12 9c3 0 4 2 4 3.5s-1 2.5-4 2.5-4-1-4-2.5S9 9 12 9Z" stroke="currentColor" stroke-width="1.4"/><path d="M12 16c3 0 4.2 2.2 4.2 4s-1.2 3-4.2 3-4.2-1.2-4.2-3 1.2-4 4.2-4Z" stroke="currentColor" stroke-width="1.4"/></svg><span>Spine <b>Radiology</b></span></a>
+
+  <!-- HEADER -->
+  <header class="head">
+    <div class="head__crest"><span style=""><span style="color: rgb(143, 212, 224);">ARTICLE 01</span></span></div>
+    <div class="head__brand">Spine Radiology · Anatomy</div>
+    <h1 class="head__title">Vertebral Column <em>Overview</em></h1>
+    <div class="head__rule"></div>
+    <p class="head__sub">The central bony structure of the axial skeleton — 33 vertebrae across five regions that support the trunk, protect the spinal cord, and anchor the rib cage.</p>
+    <div class="head__meta">
+      <span>Section · <b>Anatomy</b></span>
+      <span>Updated · <b>March 19, 2026</b></span>
+      <span>Read · <b>~6 min</b></span>
+    </div>
+  </header>
+
+  <!-- SUBNAV -->
+  <nav class="subnav">
+    <a href="Spine Radiology - Redesign.html">Home</a>
+    <a href="category-template-v2.html" class="is-active">Anatomy</a>
+    <a href="https://spineradiology.com/degenerative-disease/">Degenerative</a>
+    <a href="https://spineradiology.com/trauma/">Trauma</a>
+    <a href="https://spineradiology.com/neoplasms/">Neoplasms</a>
+    <a href="https://spineradiology.com/infection/">Infection</a>
+    <a href="https://spineradiology.com/imaging-modalities/">Imaging</a>
+  </nav>
+
+  <!-- ARTICLE -->
+  <article class="article-body">
+
+    <h2 id="definition">Definition</h2>
+    <p>The vertebral column (spine) is the central bony structure of the axial skeleton, consisting of <strong>33 vertebrae</strong> in total — 7 cervical, 12 thoracic, 5 lumbar, 5 fused sacral, and 4 fused coccygeal segments. It serves as the primary structural support for the trunk, protects the spinal cord and nerve roots, and provides attachment points for the ribs and muscles of the trunk.</p>
+
+    <figure>
+      <img alt="Vertebral column regions" src="https://spineradiology.com/assets/images/anatomy/vertebral-column.png" width="300">
+      <figcaption>The vertebral column, showing cervical, thoracic, lumbar, sacral, and coccygeal regions with their curvatures.</figcaption>
+    </figure>
+
+    <h2 id="vertebral-regions">Vertebral Regions</h2>
+    <p>The vertebral column is divided into five distinct regions, each with characteristic structural and functional properties:</p>
+    <table>
+      <thead>
+        <tr>
+          <th>Region</th>
+          <th>Vertebrae</th>
+          <th>Curvature</th>
+          <th>Motion</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td><strong>Cervical</strong></td><td>C1–C7</td><td>Lordosis</td><td>Greatest mobility, especially rotation and flexion/extension</td></tr>
+        <tr><td><strong>Thoracic</strong></td><td>T1–T12</td><td>Kyphosis</td><td>Limited by rib cage articulation</td></tr>
+        <tr><td><strong>Lumbar</strong></td><td>L1–L5</td><td>Lordosis</td><td>Primarily flexion/extension, limited rotation</td></tr>
+        <tr><td><strong>Sacral</strong></td><td>S1–S5 (fused)</td><td>Kyphosis</td><td>No motion (fused)</td></tr>
+        <tr><td><strong>Coccygeal</strong></td><td>Co1–Co4 (fused)</td><td>—</td><td>Minimal</td></tr>
+      </tbody>
+    </table>
+
+    <h2 id="general-vertebral-anatomy">General Vertebral Anatomy</h2>
+    <p>A typical vertebra consists of two main parts:</p>
+    <p><strong>Anterior element — Vertebral body:</strong></p>
+    <ul>
+      <li>Weight-bearing structure that increases in size from cervical to lumbar</li>
+      <li>Composed of trabecular (cancellous) bone surrounded by a cortical shell</li>
+      <li>Superior and inferior surfaces are the vertebral endplates, covered by hyaline cartilage</li>
+    </ul>
+    <p><strong>Posterior elements — Vertebral arch:</strong></p>
+    <ul>
+      <li><strong>Pedicles</strong> — paired bony projections connecting the body to the posterior elements</li>
+      <li><strong>Laminae</strong> — paired flat plates connecting the pedicles to the spinous process</li>
+      <li><strong>Spinous process</strong> — midline posterior projection for muscle and ligament attachment</li>
+      <li><strong>Transverse processes</strong> — paired lateral projections for muscle and ligament attachment</li>
+      <li><strong>Superior and inferior articular processes</strong> — form the facet (zygapophyseal) joints</li>
+      <li><strong>Vertebral foramen</strong> — the central canal formed by the body and arch, housing the spinal cord</li>
+    </ul>
+
+    <div class="admonition tip">
+      <p class="admonition-title">Clinical Pearl</p>
+      <p>The vertebral canal is widest in the cervical and lumbar regions, corresponding to the cervical and lumbar enlargements of the spinal cord. Stenosis is most clinically significant at these levels due to the density of neural structures.</p>
+    </div>
+
+    <h2 id="spinal-curvatures">Spinal Curvatures</h2>
+    <p>The adult vertebral column exhibits four physiologic curves when viewed in the sagittal plane:</p>
+    <ul>
+      <li><strong>Cervical lordosis</strong> — develops as infants begin to hold their heads up</li>
+      <li><strong>Thoracic kyphosis</strong> — a primary curvature present from fetal development</li>
+      <li><strong>Lumbar lordosis</strong> — develops when children begin to walk</li>
+      <li><strong>Sacral kyphosis</strong> — a primary curvature, fixed due to sacral fusion</li>
+    </ul>
+    <p>These curvatures provide a spring-like mechanism that absorbs axial loads during standing, walking, and impact. Loss or exaggeration of normal curvatures is often associated with pathology.</p>
+
+    <h2 id="imaging-findings">Imaging Findings</h2>
+
+    <h3 id="radiography-x-ray">Radiography (X-ray)</h3>
+    <p>Standard radiographic evaluation of the spine includes:</p>
+    <ul>
+      <li><strong>AP view</strong> — assesses vertebral body alignment, pedicle spacing, disc space heights, and scoliosis</li>
+      <li><strong>Lateral view</strong> — evaluates curvatures, vertebral body heights, disc spaces, and alignment</li>
+      <li><strong>Flexion/extension views</strong> — dynamic evaluation of segmental stability</li>
+    </ul>
+
+    <div class="admonition note">
+      <p class="admonition-title">Key Radiographic Landmarks</p>
+      <p>On the lateral view, three smooth contour lines should be assessed: the <strong>anterior vertebral body line</strong>, the <strong>posterior vertebral body line</strong>, and the <strong>spinolaminar line</strong>. Disruption of any of these lines suggests malalignment or injury.</p>
+    </div>
+
+    <h3 id="ct">CT</h3>
+    <p>CT provides excellent osseous detail and is preferred for evaluating:</p>
+    <ul>
+      <li>Fractures, particularly complex or occult fractures</li>
+      <li>Bony canal dimensions and foraminal stenosis</li>
+      <li>Post-surgical hardware positioning</li>
+      <li>Osseous lesions</li>
+    </ul>
+
+    <h3 id="mri">MRI</h3>
+    <p>MRI is the gold standard for evaluating soft tissue structures of the spine:</p>
+    <table>
+      <thead>
+        <tr>
+          <th>Sequence</th>
+          <th>Vertebral Body Signal</th>
+          <th>Key Utility</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td><strong>T1-weighted</strong></td><td>Intermediate to bright (fatty marrow)</td><td>Marrow evaluation, anatomy</td></tr>
+        <tr><td><strong>T2-weighted</strong></td><td>Intermediate</td><td>Disc evaluation, fluid detection</td></tr>
+        <tr><td><strong>STIR</strong></td><td>Suppressed marrow fat</td><td>Edema, inflammation, infiltrative disease</td></tr>
+        <tr><td><strong>Post-contrast T1</strong></td><td>Enhancement pattern varies</td><td>Infection, tumor, post-surgical evaluation</td></tr>
+      </tbody>
+    </table>
+
+    <h2 id="key-points">Key Points</h2>
+    <ul>
+      <li>The vertebral column consists of 33 vertebrae organized into 5 regions</li>
+      <li>Normal sagittal curvatures include cervical and lumbar lordosis and thoracic and sacral kyphosis</li>
+      <li>Each vertebra has an anterior body for weight-bearing and a posterior arch protecting the spinal cord</li>
+      <li>Radiographic alignment is assessed using three smooth contour lines on the lateral view</li>
+      <li>MRI is the preferred modality for soft tissue and spinal cord evaluation</li>
+    </ul>
+
+    <h2 id="related-articles">Related Articles</h2>
+    <ul>
+      <li><a href="https://spineradiology.com/anatomy/cervical-vertebrae/">Cervical Vertebrae (C1–C7)</a></li>
+      <li><a href="https://spineradiology.com/anatomy/thoracic-vertebrae/">Thoracic Vertebrae (T1–T12)</a></li>
+      <li><a href="https://spineradiology.com/anatomy/lumbar-vertebrae/">Lumbar Vertebrae (L1–L5)</a></li>
+      <li><a href="https://spineradiology.com/anatomy/sacrum-coccyx/">Sacrum and Coccyx</a></li>
+      <li><a href="https://spineradiology.com/anatomy/intervertebral-disc/">Intervertebral Disc</a></li>
+      <li><a href="https://spineradiology.com/anatomy/spinal-cord/">Spinal Cord</a></li>
+      <li><a href="https://spineradiology.com/anatomy/spinal-curvatures-alignment/">Normal Spinal Curvatures and Alignment</a></li>
+    </ul>
+
+  </article>
+
+  <!-- PREV / NEXT -->
+  <nav class="article-nav">
+    <a class="prev" href="category-template-v2.html">
+      <span>Section</span>
+      <b>Anatomy</b>
+    </a>
+    <a class="next" href="https://spineradiology.com/anatomy/cervical-vertebrae/">
+      <span>Next article</span>
+      <b>Cervical Vertebrae (C1–C7)</b>
+    </a>
+  </nav>
+
+  <!-- FOOT -->
+  <footer class="foot">
+    <span>Spine Radiology · Article · 2026</span>
+    <span class="foot__sig">Expert Radiology</span>
+    <span>For educational purposes only</span>
+  </footer>
+
+</div>
+
+
+
+</body></html>
