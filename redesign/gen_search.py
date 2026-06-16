@@ -174,6 +174,14 @@ for p in pages():
         if d:
             h = h.replace("</title>", '</title>\n<meta name="description" content="' + d + '">', 1)
             metaed += 1
+    # a11y: main landmark + accessible chevrons (Lighthouse nits)
+    if 'role="main"' not in h:
+        h = h.replace('<article class="article-body">', '<article class="article-body" role="main">', 1)
+        h = h.replace('<section class="list">', '<section class="list" role="main">', 1)
+    h = h.replace('aria-label="Previous">&#8249;</button>',
+                  'aria-label="Previous"><span aria-hidden="true">&#8249;</span></button>')
+    h = h.replace('aria-label="More">&#8250;</button>',
+                  'aria-label="More"><span aria-hidden="true">&#8250;</span></button>')
     # search UI
     if "sr-search-btn" not in h:
         h = re.sub(r'(<a href="/" class="sr-brand">.*?</a>)', r'\1\n' + TRIGGER, h, count=1, flags=re.S)
