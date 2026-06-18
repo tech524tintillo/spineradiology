@@ -128,6 +128,10 @@
       .then(function (d) {
         state.files = d.files || [];
         $("#fileCount").textContent = state.files.length + " articles";
+        // Collapse every category by default; the user expands on click.
+        Object.keys(byCategory()).forEach(function (cat) {
+          if (state.collapsed[cat] === undefined) state.collapsed[cat] = true;
+        });
         renderTree("");
       })
       .catch(function () { $("#tree").innerHTML = '<div class="tree__empty">Could not load files.</div>'; });
