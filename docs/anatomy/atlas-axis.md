@@ -120,3 +120,5 @@ MRI is essential for evaluating ligamentous integrity and spinal cord compressio
 - [Hangman Fracture](../trauma/hangman-fracture.md)
 - [Atlantoaxial Subluxation in RA](../inflammatory-autoimmune/atlantoaxial-subluxation-ra.md)
 - [Spinal Ligaments](spinal-ligaments.md)
+
+<!-- editor smoke test 2026-06-18 -->
