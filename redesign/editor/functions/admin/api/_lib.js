@@ -29,11 +29,31 @@ export function json(data, status = 200, extraHeaders = {}) {
   });
 }
 
-/* The user is identified by Cloudflare Access. If the header is
-   absent (e.g. Access misconfigured) we refuse, rather than
-   silently allowing edits. */
+/* The user is identified by Cloudflare Access. Prefer the plaintext
+   Cf-Access-Authenticated-User-Email header; if Access doesn't forward
+   it (varies for Pages), fall back to the email claim inside the signed
+   Cf-Access-Jwt-Assertion, which Access ALWAYS forwards. Reading the
+   claim unverified is safe here because Cloudflare strips any
+   client-supplied Cf-Access-* header at the edge — only Access can set
+   it — the same trust model the plaintext header already relied on. */
 export function accessUser(request) {
-  return request.headers.get("Cf-Access-Authenticated-User-Email") || null;
+  const direct = request.headers.get("Cf-Access-Authenticated-User-Email");
+  if (direct) return direct;
+  const jwt = request.headers.get("Cf-Access-Jwt-Assertion");
+  if (jwt) {
+    try {
+      const claims = JSON.parse(b64urlDecode(jwt.split(".")[1] || ""));
+      if (claims && claims.email) return claims.email;
+    } catch { /* fall through */ }
+  }
+  return null;
+}
+
+function b64urlDecode(s) {
+  s = s.replace(/-/g, "+").replace(/_/g, "/");
+  while (s.length % 4) s += "=";
+  const bin = typeof atob === "function" ? atob(s) : Buffer.from(s, "base64").toString("binary");
+  try { return decodeURIComponent(escape(bin)); } catch { return bin; }
 }
 
 /* Validate that an edit path is inside the docs tree and is a .md
