@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Spine Regions — Interactive Anatomy · Spine Radiology</title>
+<link rel="icon" type="image/png" href="assets/images/favicon.png">
+<meta name="description" content="Interactive spine anatomy by region — cervical, thoracic, lumbar, and sacral. Vertebrae, curvature, and key structures alongside a sagittal MRI.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Outfit:wght@300;400;500;600&display=swap" rel="stylesheet">
+<style>
+*,*::before,*::after{margin:0;padding:0;box-sizing:border-box}
+:root{
+  --deep:#061a26;--navy:#0a2838;--slate:#103a52;
+  --blue:#5fb6cc;--blue-light:#8fd4e0;
+  --text:#c8d4e6;--text-dim:#7186a6;--text-bright:#eef3fb;
+  --border:rgba(143,212,224,.1);--border-2:rgba(143,212,224,.2);
+  --r-cervical:#7ad0e0;--r-thoracic:#5fb6cc;--r-lumbar:#e6b34a;--r-sacral:#c97f9b;
+}
+html{scroll-behavior:smooth}
+body{font-family:'Outfit',sans-serif;background:var(--deep);color:var(--text);line-height:1.6;-webkit-font-smoothing:antialiased;overflow-x:hidden;min-height:100vh}
+.orbs{position:fixed;inset:0;z-index:0;pointer-events:none;overflow:hidden}
+.orbs i{position:absolute;border-radius:50%;filter:blur(70px);opacity:.28;animation:orbDrift 18s ease-in-out infinite}
+.orbs i:nth-child(1){width:340px;height:340px;left:4%;top:18%;background:#5fb6cc;animation-duration:19s}
+.orbs i:nth-child(2){width:300px;height:300px;left:70%;top:4%;background:#e6b34a;animation-duration:23s;animation-delay:2s}
+.orbs i:nth-child(3){width:320px;height:320px;left:82%;top:62%;background:#5fb6cc;animation-duration:21s;animation-delay:1s}
+.orbs i:nth-child(4){width:260px;height:260px;left:2%;top:70%;background:#c97f9b;animation-duration:25s;animation-delay:3s}
+@keyframes orbDrift{0%,100%{transform:translate(0,0) scale(1);opacity:.24}50%{transform:translate(40px,-30px) scale(1.15);opacity:.38}}
+@media(prefers-reduced-motion:reduce){.orbs i{animation:none}}
+a{text-decoration:none;color:inherit}
+img{display:block}
+.wrap{max-width:1220px;margin:0 auto;padding:0 2.5rem;position:relative;z-index:1}
+::selection{background:rgba(59,130,196,.35);color:#fff}
+
+.nav{position:sticky;top:0;z-index:150;padding:1.05rem 2.5rem;display:flex;align-items:center;justify-content:space-between;background:rgba(8,15,26,.55);backdrop-filter:blur(18px) saturate(140%);-webkit-backdrop-filter:blur(18px) saturate(140%);border-bottom:1px solid var(--border)}
+.brand{font-family:'Cormorant Garamond',serif;font-size:1.4rem;font-weight:600;color:var(--text-bright);display:flex;align-items:center;gap:.6rem;letter-spacing:.2px;line-height:1}
+.brand .glyph{width:18px;height:22px;color:var(--blue-light)}
+.nav-links{display:flex;gap:.15rem}
+.nav-links a{font-size:.78rem;color:var(--text-dim);padding:.45rem .85rem;border-radius:7px;transition:color .25s,background .25s}
+.nav-links a:hover{color:var(--text-bright);background:rgba(255,255,255,.05)}
+.nav-links a.active{color:var(--text-bright);background:rgba(95,182,204,.12)}
+.nav-search{display:flex;align-items:center;gap:.5rem;background:rgba(255,255,255,.05);border:1px solid var(--border);border-radius:9px;padding:.5rem 1rem;transition:border-color .25s}
+.nav-search:hover{border-color:var(--border-2)}
+.nav-search svg{width:14px;height:14px;stroke:var(--text-dim)}
+.nav-search span{font-size:.74rem;color:var(--text-dim)}
+
+.top{display:flex;align-items:flex-end;justify-content:space-between;gap:2rem;margin-top:2rem;flex-wrap:wrap}
+.head{max-width:680px}
+.head .eyebrow{display:inline-flex;align-items:center;gap:.7rem;font-size:.7rem;font-weight:500;letter-spacing:3px;text-transform:uppercase;color:var(--blue-light);margin-bottom:1rem}
+.head .eyebrow .dot{width:7px;height:7px;border-radius:50%;background:var(--blue);box-shadow:0 0 12px var(--blue)}
+.head h1{font-family:'Cormorant Garamond',serif;font-weight:500;font-size:clamp(2.4rem,4.6vw,3.6rem);line-height:1.02;letter-spacing:-1px;color:var(--text-bright);margin-bottom:.8rem}
+.head h1 em{font-style:italic;color:var(--blue-light)}
+.head p{color:var(--text-dim);font-weight:300;font-size:1rem;max-width:54ch}
+.back{flex-shrink:0;display:inline-flex;align-items:center;gap:.5rem;font-size:.8rem;font-weight:500;color:var(--text-dim);padding:.55rem 1rem .55rem .8rem;border:1px solid var(--border);border-radius:999px;background:rgba(143,212,224,.04);transition:.25s cubic-bezier(.16,1,.3,1)}
+.back:hover{color:var(--blue-light);border-color:var(--border-2);transform:translateX(-3px)}
+.back span{font-size:1.05rem;line-height:1}
+
+/* the explorer is one cohesive instrument panel */
+.panel{position:relative;margin:2rem 0 3rem;border:1px solid var(--border-2);border-radius:26px;background:linear-gradient(180deg,rgba(16,26,44,.62),rgba(9,19,33,.62));backdrop-filter:blur(16px);-webkit-backdrop-filter:blur(16px);overflow:hidden;box-shadow:0 50px 100px -50px rgba(0,0,0,.9)}
+.panel::before{content:"";position:absolute;inset:0;background:radial-gradient(680px 420px at 26% 8%,var(--glow,rgba(95,182,204,.12)),transparent 70%);pointer-events:none;transition:background .55s ease;z-index:0}
+.explorer{position:relative;z-index:1;display:grid;grid-template-columns:236px 348px 1fr;gap:2.4rem;padding:2.4rem 2.6rem;align-items:stretch}
+
+.rail h2{font-family:'Cormorant Garamond',serif;font-weight:500;font-size:1.1rem;color:var(--text-bright);margin-bottom:.15rem}
+.rail .sub{font-size:.72rem;color:var(--text-dim);margin-bottom:1.2rem}
+.spine{display:flex;flex-direction:column;gap:.55rem}
+.seg{width:100%;border:1px solid var(--border);cursor:pointer;text-align:left;background:rgba(143,212,224,.03);border-radius:12px;padding:.85rem .95rem;display:flex;align-items:center;gap:.85rem;transition:.28s cubic-bezier(.16,1,.3,1);font-family:inherit;color:var(--text-bright);position:relative;overflow:hidden}
+.seg::before{content:"";position:absolute;left:0;top:0;bottom:0;width:3px;background:var(--rc);transform:scaleY(0);transform-origin:top;transition:transform .35s cubic-bezier(.16,1,.3,1)}
+.seg:hover{background:rgba(143,212,224,.07);transform:translateX(3px);border-color:var(--border-2)}
+.seg.is-active{background:rgba(143,212,224,.09);border-color:var(--rc);box-shadow:0 0 0 1px var(--rc),0 14px 30px -20px var(--rc)}
+.seg.is-active::before{transform:scaleY(1)}
+.seg__vert{display:flex;flex-direction:column;gap:3px;flex-shrink:0;align-items:center;width:30px}
+.seg__vert i{display:block;height:6px;border-radius:2px;background:var(--rc);opacity:.45;transition:.28s}
+.seg.is-active .seg__vert i,.seg:hover .seg__vert i{opacity:1}
+.seg__body{flex:1;min-width:0}
+.seg__name{font-family:'Cormorant Garamond',serif;font-size:1.14rem;font-weight:600;line-height:1.1}
+.seg__range{font-size:.69rem;color:var(--text-dim);letter-spacing:.03em;margin-top:1px}
+.seg__chev{color:var(--rc);font-size:1rem;opacity:0;transform:translateX(-4px);transition:.28s}
+.seg.is-active .seg__chev,.seg:hover .seg__chev{opacity:1;transform:none}
+
+/* clean vertical MRI with a refined level marker */
+.scan{position:relative;width:100%;align-self:start;border-radius:16px;overflow:hidden;border:1px solid var(--border-2);background:#05080e;box-shadow:0 30px 60px -34px rgba(0,0,0,.9)}
+.scan img{width:100%;height:auto;display:block;filter:grayscale(1) contrast(1.08) brightness(1.07)}
+.scan::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(11,24,41,.06),rgba(20,52,92,.16) 60%,rgba(95,182,204,.26));mix-blend-mode:overlay;pointer-events:none}
+.scan__tag{position:absolute;left:12px;bottom:12px;z-index:4;font-size:.6rem;letter-spacing:.13em;text-transform:uppercase;font-weight:600;color:var(--text-bright);background:rgba(6,26,38,.8);border:1px solid var(--border-2);border-radius:7px;padding:.32rem .58rem;backdrop-filter:blur(6px)}
+.marker{position:absolute;left:0;right:0;z-index:3;pointer-events:none;opacity:0;height:0;border-top:2px solid var(--mc,var(--blue-light));box-shadow:0 0 18px var(--mc,var(--blue-light)),0 0 3px var(--mc,var(--blue-light));transition:top .55s cubic-bezier(.16,1,.3,1),opacity .45s,border-color .45s,box-shadow .45s}
+.marker::before{content:"";position:absolute;left:0;right:0;top:-13px;height:26px;background:var(--mc,var(--blue-light));opacity:.1}
+.marker .node{position:absolute;left:9px;top:0;width:9px;height:9px;border-radius:50%;transform:translateY(-50%);background:var(--mc,var(--blue-light));box-shadow:0 0 12px var(--mc,var(--blue-light));animation:pulse 1.9s ease-in-out infinite}
+.marker .lbl{position:absolute;right:10px;top:0;transform:translateY(-50%);font-size:.58rem;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:#05131a;background:var(--mc,var(--blue-light));border-radius:5px;padding:.16rem .5rem;box-shadow:0 3px 12px rgba(0,0,0,.5)}
+.marker.show{opacity:1}
+@keyframes pulse{0%,100%{transform:translateY(-50%) scale(1);opacity:1}50%{transform:translateY(-50%) scale(1.55);opacity:.5}}
+.scan__line{position:absolute;left:0;right:0;top:-22%;height:12%;z-index:4;pointer-events:none;opacity:0;background:linear-gradient(180deg,transparent,rgba(143,212,224,.6),transparent);box-shadow:0 0 18px rgba(143,212,224,.55)}
+.scan.sweep .scan__line{animation:scanSweep 1s cubic-bezier(.45,0,.2,1)}
+@keyframes scanSweep{0%{top:-22%;opacity:0}12%{opacity:1}100%{top:118%;opacity:0}}
+@media(prefers-reduced-motion:reduce){.scan.sweep .scan__line{animation:none}.marker .node{animation:none}}
+
+/* info */
+.info{display:flex;flex-direction:column;align-self:center}
+.info.swap{animation:infoSwap .5s cubic-bezier(.16,1,.3,1)}
+@keyframes infoSwap{from{opacity:.15;transform:translateY(12px)}to{opacity:1;transform:none}}
+.info__crest{font-size:.66rem;letter-spacing:.22em;text-transform:uppercase;color:var(--rc);font-weight:600;margin-bottom:.5rem;transition:color .4s}
+.info__title{font-family:'Cormorant Garamond',serif;font-weight:500;font-size:clamp(2.6rem,4vw,3.4rem);line-height:1;color:var(--rc);margin-bottom:.2rem;transition:color .4s}
+.info__range{font-size:.88rem;color:var(--text-dim);letter-spacing:.05em;margin-bottom:1.3rem}
+.info__desc{color:var(--text);opacity:.9;font-weight:300;font-size:.98rem;line-height:1.75;margin-bottom:1.7rem}
+.info__stats{display:flex;gap:0;margin-bottom:1.7rem;border:1px solid var(--border);border-radius:14px;overflow:hidden}
+.info__stats div{flex:1;display:flex;flex-direction:column;padding:.95rem 1.1rem;border-right:1px solid var(--border)}
+.info__stats div:last-child{border-right:none}
+.info__stats b{font-family:'Cormorant Garamond',serif;font-weight:600;font-size:1.55rem;line-height:1}
+.info__stats span{font-size:.6rem;letter-spacing:.1em;text-transform:uppercase;color:var(--text-dim);margin-top:.4rem}
+.info__label{font-size:.62rem;letter-spacing:.2em;text-transform:uppercase;color:var(--text-dim);font-weight:600;margin-bottom:.75rem}
+.chips{display:flex;flex-wrap:wrap;gap:.5rem;margin-bottom:1.9rem}
+.chip{font-size:.76rem;color:var(--text);background:rgba(143,212,224,.06);border:1px solid var(--border);border-radius:999px;padding:.4rem .85rem;transition:.22s}
+.chip:hover{border-color:var(--rc);color:var(--rc);transform:translateY(-1px)}
+.cta-row{display:flex;flex-wrap:wrap;gap:1rem}
+.btn{position:relative;display:inline-flex;align-items:center;justify-content:center;gap:.55rem;min-width:210px;padding:.95rem 1.9rem;font-family:'Outfit',sans-serif;font-size:.9rem;font-weight:500;letter-spacing:.2px;border-radius:11px;cursor:pointer;overflow:hidden;border:1px solid transparent;transition:transform .3s cubic-bezier(.16,1,.3,1),box-shadow .35s}
+.btn svg{width:16px;height:16px;stroke:currentColor;transition:transform .3s cubic-bezier(.16,1,.3,1)}
+.btn:hover svg{transform:translateX(5px)}
+.btn:focus-visible{outline:2px solid var(--blue-light);outline-offset:3px}
+.btn.primary{background:var(--blue);color:#fff;box-shadow:0 10px 38px -12px rgba(95,182,204,.75)}
+.btn.primary::after{content:"";position:absolute;top:0;left:-130%;width:55%;height:100%;background:linear-gradient(100deg,transparent,rgba(255,255,255,.38),transparent);transform:skewX(-18deg);transition:left .65s cubic-bezier(.16,1,.3,1);pointer-events:none}
+.btn.primary:hover{transform:translateY(-3px);box-shadow:0 18px 52px -12px rgba(95,182,204,.95)}
+.btn.primary:hover::after{left:150%}
+
+footer{display:flex;justify-content:space-between;align-items:center;padding:2rem 0 2.6rem;border-top:1px solid var(--border)}
+.footer-left{font-size:.74rem;color:var(--text-dim);font-weight:300}.footer-left a{color:var(--blue-light)}
+.footer-right{font-size:.68rem;color:var(--text-dim);opacity:.6;max-width:380px;text-align:right;line-height:1.5}
+
+@media (prefers-reduced-motion: no-preference){
+  .reveal{opacity:0;transform:translateY(20px);animation:up .8s cubic-bezier(.16,1,.3,1) forwards}
+  .reveal.d1{animation-delay:.12s}
+}
+@keyframes up{to{opacity:1;transform:none}}
+
+@media(max-width:1080px){
+  .explorer{grid-template-columns:1fr;gap:1.8rem}
+  .spine{flex-direction:row;flex-wrap:wrap}
+  .seg{flex:1;min-width:200px}
+  .scan{max-width:380px;margin:0 auto}
+}
+@media(max-width:980px){.nav{padding:1rem 1.4rem}.nav-links{display:none}.wrap{padding:0 1.4rem}}
+@media(max-width:560px){footer{flex-direction:column;gap:1rem;text-align:center}.footer-right{text-align:center}.seg{min-width:100%}.info__stats{flex-direction:column}.info__stats div{border-right:none;border-bottom:1px solid var(--border)}}
+</style>
+</head>
+<body>
+<div class="orbs" aria-hidden="true"><i></i><i></i><i></i><i></i></div>
+
+<nav class="nav">
+  <a href="/" class="brand">
+    <svg class="glyph" viewBox="0 0 24 30" fill="none"><path d="M12 2c3 0 4 2 4 3s-1 2-4 2-4-1-4-2 1-3 4-3Z" stroke="currentColor" stroke-width="1.4"/><path d="M12 9c3 0 4 2 4 3.5s-1 2.5-4 2.5-4-1-4-2.5S9 9 12 9Z" stroke="currentColor" stroke-width="1.4"/><path d="M12 16c3 0 4.2 2.2 4.2 4s-1.2 3-4.2 3-4.2-1.2-4.2-3 1.2-4 4.2-4Z" stroke="currentColor" stroke-width="1.4"/></svg>
+    Spine&nbsp;<span style="color:#89ccd9">Radiology</span>
+  </a>
+  <div class="nav-links">
+    <a href="/">Home</a><a href="anatomy/">Anatomy</a><a href="imaging-modalities/">Imaging</a><a href="degenerative-disease/">Degenerative</a><a href="trauma/">Trauma</a><a class="active" href="spine-regions.html">Regions</a>
+  </div>
+  <a href="anatomy/" class="nav-search"><svg fill="none" viewBox="0 0 24 24" stroke-width="1.5"><path stroke-linecap="round" stroke-linejoin="round" d="m21 21-5.197-5.197m0 0A7.5 7.5 0 1 0 5.196 5.196a7.5 7.5 0 0 0 10.607 10.607Z"/></svg><span>Search articles…</span></a>
+</nav>
+
+<div class="wrap">
+  <div class="top">
+    <header class="head">
+      <div class="eyebrow reveal"><span class="dot"></span> Interactive Anatomy</div>
+      <h1 class="reveal">The regions of the <em>spine</em></h1>
+      <p class="reveal d1">Choose a region — the sagittal MRI marks its level, and the panel fills with its vertebrae, curvature, and key structures.</p>
+    </header>
+    <a href="/" class="back reveal d1"><span>←</span> Back to home</a>
+  </div>
+
+  <section class="panel reveal d1" id="panel">
+    <div class="explorer">
+      <div class="rail">
+        <h2>Regions</h2>
+        <div class="sub">Top → bottom · C1 to coccyx</div>
+        <div class="spine" id="spine">
+          <button class="seg" data-region="cervical" style="--rc:var(--r-cervical)">
+            <span class="seg__vert"><i style="width:16px"></i><i style="width:16px"></i><i style="width:16px"></i><i style="width:16px"></i></span>
+            <span class="seg__body"><span class="seg__name">Cervical</span><span class="seg__range">C1 – C7 · 7 vertebrae</span></span>
+            <span class="seg__chev">→</span>
+          </button>
+          <button class="seg" data-region="thoracic" style="--rc:var(--r-thoracic)">
+            <span class="seg__vert"><i style="width:22px"></i><i style="width:22px"></i><i style="width:22px"></i><i style="width:22px"></i><i style="width:22px"></i></span>
+            <span class="seg__body"><span class="seg__name">Thoracic</span><span class="seg__range">T1 – T12 · 12 vertebrae</span></span>
+            <span class="seg__chev">→</span>
+          </button>
+          <button class="seg is-active" data-region="lumbar" style="--rc:var(--r-lumbar)">
+            <span class="seg__vert"><i style="width:28px"></i><i style="width:28px"></i><i style="width:28px"></i><i style="width:28px"></i></span>
+            <span class="seg__body"><span class="seg__name">Lumbar</span><span class="seg__range">L1 – L5 · 5 vertebrae</span></span>
+            <span class="seg__chev">→</span>
+          </button>
+          <button class="seg" data-region="sacral" style="--rc:var(--r-sacral)">
+            <span class="seg__vert"><i style="width:24px"></i><i style="width:18px"></i><i style="width:13px"></i></span>
+            <span class="seg__body"><span class="seg__name">Sacral / Coccyx</span><span class="seg__range">S1 – S5 + coccyx</span></span>
+            <span class="seg__chev">→</span>
+          </button>
+        </div>
+      </div>
+
+      <div class="scan" id="scan">
+        <img src="assets/mri-sagittal.png" alt="Sagittal MRI of the spine">
+        <div class="marker" id="marker"><span class="node"></span><span class="lbl" id="markerLabel">Lumbar</span></div>
+        <span class="scan__line"></span>
+        <div class="scan__tag">Sagittal T2 MRI</div>
+      </div>
+
+      <div class="info" id="info">
+        <div class="info__crest" id="crest">Region 03</div>
+        <h2 class="info__title" id="title">Lumbar</h2>
+        <div class="info__range" id="range">L1 – L5 · lower back</div>
+        <p class="info__desc" id="desc"></p>
+        <div class="info__stats" id="stats"></div>
+        <div class="info__label">Key structures &amp; findings</div>
+        <div class="chips" id="chips"></div>
+        <div class="cta-row">
+          <a class="btn primary" href="/#categories">Browse the library <svg viewBox="0 0 24 24" fill="none" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M5 12h14M13 6l6 6-6 6"/></svg></a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <div class="footer-left">A project by <a href="https://www.expertradiology.com">Expert Radiology</a> · © 2025</div>
+    <div class="footer-right">Interactive anatomy reference · For educational purposes only.</div>
+  </footer>
+</div>
+
+<script>
+(() => {
+  const DATA = {
+    cervical:{crest:"Region 01",title:"Cervical",range:"C1 – C7 · the neck",rc:"var(--r-cervical)",mc:"#7ad0e0",glow:"rgba(122,208,224,.16)",mark:"13%",
+      desc:"The most mobile segment of the spine. Seven vertebrae support the skull and protect the upper spinal cord, with a natural lordotic (forward) curve. C1 (atlas) and C2 (axis) are uniquely shaped to let the head nod and rotate.",
+      stats:[["7","Vertebrae"],["Lordotic","Curve"],["Highest","Mobility"]],
+      chips:["Atlas (C1)","Axis (C2) / dens","Vertebral arteries","Uncovertebral joints","Greatest motion"]},
+    thoracic:{crest:"Region 02",title:"Thoracic",range:"T1 – T12 · mid-back",rc:"var(--r-thoracic)",mc:"#5fb6cc",glow:"rgba(95,182,204,.16)",mark:"37%",
+      desc:"Twelve vertebrae that articulate with the ribs, forming the posterior wall of the thorax. A kyphotic (backward) curve and rib attachments make this the least mobile and most stable region of the spine.",
+      stats:[["12","Vertebrae"],["Kyphotic","Curve"],["Lowest","Mobility"]],
+      chips:["Costovertebral joints","Rib articulations","Narrow canal","Demifacets","Limited rotation"]},
+    lumbar:{crest:"Region 03",title:"Lumbar",range:"L1 – L5 · lower back",rc:"var(--r-lumbar)",mc:"#e6b34a",glow:"rgba(230,179,74,.15)",mark:"60%",
+      desc:"Five large, weight-bearing vertebrae of the lower back, with a lordotic curve. The biggest vertebral bodies in the spine carry the greatest mechanical load — making this the most common site of degenerative disc disease, herniation, and stenosis.",
+      stats:[["5","Vertebrae"],["Lordotic","Curve"],["Highest","Load"]],
+      chips:["Largest vertebral bodies","Intervertebral discs","Conus medullaris","Cauda equina","Common herniation site"]},
+    sacral:{crest:"Region 04",title:"Sacral / Coccyx",range:"S1 – S5 + coccyx · pelvis",rc:"var(--r-sacral)",mc:"#c97f9b",glow:"rgba(201,127,155,.16)",mark:"85%",
+      desc:"Five sacral vertebrae fuse into the sacrum, a triangular bone that connects the spine to the pelvis through the sacroiliac joints. Below it, the coccyx (tailbone) is the small terminal segment of three to five rudimentary vertebrae.",
+      stats:[["5+","Segments"],["Fused","Sacrum"],["Pelvic","Junction"]],
+      chips:["Sacroiliac joints","Sacral foramina","Fused vertebrae","Coccyx (tailbone)","Sacral hiatus"]}
+  };
+  const spine=document.getElementById('spine'),info=document.getElementById('info'),scan=document.getElementById('scan');
+  const panel=document.getElementById('panel'),marker=document.getElementById('marker'),markerLabel=document.getElementById('markerLabel');
+  const reduce=window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  function render(region,animate){
+    const d=DATA[region]; if(!d) return;
+    info.style.setProperty('--rc',d.rc);
+    panel.style.setProperty('--glow',d.glow);
+    const crest=document.getElementById('crest'); crest.textContent=d.crest; crest.style.color=d.rc;
+    const title=document.getElementById('title'); title.textContent=d.title; title.style.color=d.rc;
+    document.getElementById('range').textContent=d.range;
+    document.getElementById('desc').textContent=d.desc;
+    document.getElementById('stats').innerHTML=d.stats.map(([b,s])=>`<div><b style="color:${d.rc}">${b}</b><span>${s}</span></div>`).join('');
+    document.getElementById('chips').innerHTML=d.chips.map(c=>`<span class="chip" style="--rc:${d.rc}">${c}</span>`).join('');
+    marker.style.setProperty('--mc',d.mc); marker.style.top=d.mark; markerLabel.textContent=d.title; marker.classList.add('show');
+    spine.querySelectorAll('.seg').forEach(s=>s.classList.toggle('is-active',s.dataset.region===region));
+    if(animate&&!reduce){
+      info.classList.remove('swap'); void info.offsetWidth; info.classList.add('swap');
+      scan.classList.remove('sweep'); void scan.offsetWidth; scan.classList.add('sweep');
+    }
+  }
+  spine.querySelectorAll('.seg').forEach(seg=>seg.addEventListener('click',()=>render(seg.dataset.region,true)));
+  render('lumbar',false);
+})();
+</script>
+</body>
+</html>
