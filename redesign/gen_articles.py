@@ -26,7 +26,7 @@ TAB = {
     "post-surgical-spine": "Post-Surgical", "special-topics": "Special Topics",
 }
 # categories whose Emily category file now exists -> renumber articles to match her category order
-BUILD = ["infection", "inflammatory-autoimmune", "congenital-developmental", "vascular"]
+BUILD = ["anatomy", "imaging-modalities", "degenerative-disease", "trauma", "neoplasms", "infection", "inflammatory-autoimmune", "congenital-developmental", "vascular", "metabolic-systemic", "post-surgical-spine", "special-topics"]
 
 CATS = [
     ("Home", "/", "1"), ("Anatomy", "/anatomy/", "1"), ("Imaging", "/imaging-modalities/", "1"),
