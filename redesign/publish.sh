@@ -43,7 +43,7 @@ TMP="$(mktemp -d)"; trap 'rm -rf "$TMP"' EXIT
 # mkdocs every run and are NOT covered by the diff-gate, so a version bump could
 # ship drifted assets silently. We abort on drift; bump these intentionally and
 # re-verify the live site, then update them here.
-PIN_MKDOCS="1.6.1"; PIN_MATERIAL="9.7.5"; PIN_PLUGIN="1.5.1"; PIN_PIL="11.1.0"
+PIN_MKDOCS="1.6.1"; PIN_MATERIAL="9.7.5"; PIN_PLUGIN="1.5.1"; PIN_PIL="11.1.0"; PIN_GLIGHTBOX="0.5.2"
 PIN_WRANGLER="4.85"                       # major.minor; wrangler changes [assets] upload semantics across versions
 export WRANGLER_SEND_METRICS=false
 # Resolve wrangler: a PATH-installed global (CI pins it) else npx (local Mac). Avoids npx silently
@@ -59,11 +59,11 @@ die(){ printf '\033[31m[publish ABORT]\033[0m %s\n' "$*" >&2; exit "${2:-1}"; }
 # -- 0. preflight -------------------------------------------------------------
 "$PYBIN" -c "import mkdocs, mkdocs_git_revision_date_localized_plugin, PIL" 2>/dev/null \
   || die "python env missing mkdocs / git-revision-date-localized plugin / Pillow (set PUBLISH_PY)" 1
-"$PYBIN" - "$PIN_MKDOCS" "$PIN_MATERIAL" "$PIN_PLUGIN" "$PIN_PIL" <<'PY' \
-  || die "toolchain drift — built assets may differ from the approved site. Verify the live site, then update PIN_* in publish.sh." 1
+"$PYBIN" - "$PIN_MKDOCS" "$PIN_MATERIAL" "$PIN_PLUGIN" "$PIN_PIL" "$PIN_GLIGHTBOX" <<'PY' \
+  || die "toolchain drift / missing plugin — built assets may differ from the approved site. Verify the live site, then update PIN_* in publish.sh." 1
 import sys
 from importlib.metadata import version
-want = dict(zip(["mkdocs","mkdocs-material","mkdocs-git-revision-date-localized-plugin","Pillow"], sys.argv[1:5]))
+want = dict(zip(["mkdocs","mkdocs-material","mkdocs-git-revision-date-localized-plugin","Pillow","mkdocs-glightbox"], sys.argv[1:6]))
 bad = [f"{d}: have {version(d)} want {w}" for d, w in want.items() if version(d) != w]
 if bad:
     sys.stderr.write("  " + "\n  ".join(bad) + "\n"); sys.exit(1)

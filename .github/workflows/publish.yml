@@ -35,7 +35,8 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install "mkdocs==1.6.1" "mkdocs-material==9.7.5" \
-                      "mkdocs-git-revision-date-localized-plugin==1.5.1" "Pillow==11.1.0"
+                      "mkdocs-git-revision-date-localized-plugin==1.5.1" "Pillow==11.1.0" \
+                      "mkdocs-glightbox==0.5.2"
 
       - name: Install wrangler (pinned, global so publish.sh resolves it on PATH)
         run: npm install -g wrangler@4.85.0
