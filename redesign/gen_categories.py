@@ -9,8 +9,8 @@ Everything else of Emily's category design is untouched. Articles are a separate
 """
 import re, os
 
-ROOT = "/Users/light/Downloads/spineradiology"
-TD   = "/Users/light/Downloads/Template design"
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))   # repo root (this file is in redesign/)
+TD   = os.path.join(ROOT, "redesign", "templates")                  # vendored category sources (== Emily's)
 OUT  = os.path.join(ROOT, "site")
 
 CATEGORIES = [

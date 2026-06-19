@@ -1,0 +1,84 @@
+name: Publish editor edit
+
+# Fires when an editor's PR is merged to main (a docs/<cat>/<slug>.md change lands).
+# Runs the SAME redesign/publish.sh a human would: clean regen of the edited article, restore the
+# approved overlay, surgical body+date+search splice, hard diff-gate, deploy, then re-freeze the
+# overlay and commit it back. So: merge the PR -> the site updates itself.
+on:
+  push:
+    branches: [main]
+    paths: ['docs/**/*.md']        # only doc edits; the bot's overlay commit (redesign/**) won't re-trigger
+  workflow_dispatch: {}            # manual run from the Actions tab
+
+permissions:
+  contents: write                  # to push the re-frozen overlay back to main
+
+concurrency:
+  group: spineradiology-publish    # never run two publishes at once (avoids overlay races)
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout (full history — needed for git 'Updated' dates)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python (match the pinned local toolchain)
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+
+      - name: Install pinned build toolchain
+        run: |
+          python -m pip install --upgrade pip
+          pip install "mkdocs==1.6.1" "mkdocs-material==9.7.5" \
+                      "mkdocs-git-revision-date-localized-plugin==1.5.1" "Pillow==11.1.0"
+
+      - name: Install wrangler (pinned, global so publish.sh resolves it on PATH)
+        run: npm install -g wrangler@4.85.0
+
+      - name: Resolve changed docs (robust for squash / merge / multi-commit pushes)
+        id: changed
+        run: |
+          if [ "${{ github.event_name }}" = "push" ] && [ "${{ github.event.before }}" != "0000000000000000000000000000000000000000" ]; then
+            files="$(git diff --name-only "${{ github.event.before }}" "${{ github.sha }}" -- 'docs/**/*.md' | tr '\n' ' ')"
+          else
+            files=""        # workflow_dispatch -> let publish.sh derive from HEAD^ HEAD
+          fi
+          echo "files=$files" >> "$GITHUB_OUTPUT"
+          echo "Changed docs: ${files:-<none / dispatch>}"
+
+      - name: Publish (regen -> diff-gate -> deploy -> re-freeze)
+        id: publish
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CHANGED_FILES: ${{ steps.changed.outputs.files }}
+        run: |
+          if [ -n "${CHANGED_FILES// /}" ]; then
+            bash redesign/publish.sh --files $CHANGED_FILES
+          else
+            bash redesign/publish.sh
+          fi
+
+      - name: Commit the re-frozen overlay back to main (rebase + retry)
+        if: steps.publish.outputs.deployed == 'true'
+        run: |
+          git config user.name  "spineradiology-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add redesign/snapshots/redesign-overlay.tar.gz redesign/bodies
+          git commit -m "publish: re-freeze overlay after edit [skip ci]"
+          for i in 1 2 3; do
+            if git pull --rebase --autostash origin main && git push; then
+              echo "overlay pushed."; exit 0
+            fi
+            echo "push attempt $i failed; retrying after rebase…"; sleep 3
+          done
+          echo "::error::Overlay push FAILED after 3 tries — LIVE is updated but the committed overlay is STALE. Run 'bash redesign/snapshot.sh' + commit it before the next edit, or the next publish will revert this one."
+          exit 1
+
+      - name: Surface failure loudly
+        if: failure()
+        run: echo "::error::Auto-publish FAILED. If the deploy succeeded but a later step failed, the live site and the committed overlay may have diverged — fix before the next edit."

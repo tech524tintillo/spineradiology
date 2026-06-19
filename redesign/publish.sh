@@ -31,7 +31,7 @@
 # =============================================================================
 set -euo pipefail
 
-ROOT="/Users/light/Downloads/spineradiology"   # generators hard-code this path
+ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"   # repo root (this script lives in redesign/)
 cd "$ROOT"
 SITE="$ROOT/site"
 OVERLAY="$ROOT/redesign/snapshots/redesign-overlay.tar.gz"
@@ -44,6 +44,11 @@ TMP="$(mktemp -d)"; trap 'rm -rf "$TMP"' EXIT
 # ship drifted assets silently. We abort on drift; bump these intentionally and
 # re-verify the live site, then update them here.
 PIN_MKDOCS="1.6.1"; PIN_MATERIAL="9.7.5"; PIN_PLUGIN="1.5.1"; PIN_PIL="11.1.0"
+PIN_WRANGLER="4.85"                       # major.minor; wrangler changes [assets] upload semantics across versions
+export WRANGLER_SEND_METRICS=false
+# Resolve wrangler: a PATH-installed global (CI pins it) else npx (local Mac). Avoids npx silently
+# downloading a different "latest" wrangler and deploying with it.
+if command -v wrangler >/dev/null 2>&1; then WRANGLER="wrangler"; else WRANGLER="npx wrangler"; fi
 
 DRYRUN=0
 if [ "${1:-}" = "--dry-run" ]; then DRYRUN=1; shift; fi
@@ -63,6 +68,8 @@ bad = [f"{d}: have {version(d)} want {w}" for d, w in want.items() if version(d)
 if bad:
     sys.stderr.write("  " + "\n  ".join(bad) + "\n"); sys.exit(1)
 PY
+$WRANGLER --version 2>/dev/null | grep -q "$PIN_WRANGLER" \
+  || die "wrangler version != $PIN_WRANGLER ($($WRANGLER --version 2>/dev/null | tr -d '\n')) — pin drift; verify a deploy then update PIN_WRANGLER" 1
 [ -f "$OVERLAY" ] || die "approved overlay tarball missing: $OVERLAY" 1
 [ -f "$ROOT/.git/shallow" ] && die "shallow clone — git 'Updated' dates would be wrong; use a full clone" 1
 git diff --quiet -- "$OVERLAY" 2>/dev/null \
@@ -205,13 +212,16 @@ say "smoke check OK ($marked redesign pages, landing + assets present)."
 if [ "$DRYRUN" -eq 1 ]; then say "--dry-run: skipping deploy + overlay re-freeze. site/ is staged & verified."; exit 0; fi
 
 # -- 8. deploy ----------------------------------------------------------------
-npx wrangler whoami >/dev/null 2>&1 || die "wrangler not authenticated (run: npx wrangler login)" 6
+$WRANGLER whoami >/dev/null 2>&1 || die "wrangler not authenticated (set CLOUDFLARE_API_TOKEN, or run: npx wrangler login)" 6
 say "deploying to production…"
-npx wrangler deploy
+$WRANGLER deploy
 
 # -- 9. re-freeze the overlay so future build.sh keeps the edit ---------------
 bash "$ROOT/redesign/snapshot.sh" \
   || die "LIVE IS UPDATED but overlay re-freeze FAILED — run 'bash redesign/snapshot.sh' then commit the overlay BEFORE the next publish (else restore.sh reverts this edit)" 7
+# Signal CI (the Action) that a real deploy + re-freeze happened, so it commits the overlay back
+# only on a true publish (not a no-op). Both deploy + snapshot are proven done if we reach here.
+[ -n "${GITHUB_OUTPUT:-}" ] && echo "deployed=true" >> "$GITHUB_OUTPUT"
 say "DONE. Live + overlay re-frozen."
 say "COMMIT the refreshed overlay + bodies so the repo stays source of truth:"
 say "    git add redesign/snapshots/redesign-overlay.tar.gz redesign/bodies && git commit -m 'publish: <article>' && git push origin main"

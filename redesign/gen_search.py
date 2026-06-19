@@ -12,7 +12,7 @@ try:
 except Exception:
     Image = None
 
-ROOT = "/Users/light/Downloads/spineradiology"
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))   # repo root (this file is in redesign/)
 OUT  = os.path.join(ROOT, "site")
 
 # cache of intrinsic (w,h) per asset path so we don't re-open an image once per page that uses it

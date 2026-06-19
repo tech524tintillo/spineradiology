@@ -11,8 +11,8 @@ head/body/nav + template-name links are touched.
 """
 import re, os
 
-ROOT  = "/Users/light/Downloads/spineradiology"
-TPL   = "/Users/light/Downloads/Template design/article-template-v2.html"
+ROOT  = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))   # repo root (this file is in redesign/)
+TPL   = os.path.join(ROOT, "redesign", "templates", "article-template-v2.html")  # vendored == Emily's original
 OUT   = os.path.join(ROOT, "site")
 CACHE_ROOT = os.path.join(ROOT, "redesign/bodies")
 MKDOCS = open(os.path.join(ROOT, "mkdocs.yml"), encoding="utf-8").read().splitlines()
