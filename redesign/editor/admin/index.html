@@ -53,7 +53,7 @@
           site and the 220 published pages are never touched directly.</p>
         <ul class="empty__hints">
           <li><kbd class="kbd">⌘K</kbd> filter articles</li>
-          <li><kbd class="kbd">⌘S</kbd> save &amp; open PR</li>
+          <li><kbd class="kbd">⌘S</kbd> save &amp; publish</li>
           <li><kbd class="kbd">⌘P</kbd> toggle preview</li>
         </ul>
       </section>
@@ -71,7 +71,7 @@
             <span id="dirtyDot" class="dirty" hidden title="Unsaved changes">●</span>
             <button id="previewToggle" class="btn btn--ghost btn--sm" aria-pressed="true">Preview</button>
             <button id="revertBtn" class="btn btn--ghost btn--sm" disabled>Revert</button>
-            <button id="saveBtn" class="btn btn--primary btn--sm" disabled>Save &amp; open PR</button>
+            <button id="saveBtn" class="btn btn--primary btn--sm" disabled>Save &amp; publish</button>
           </div>
         </div>
 
@@ -122,10 +122,10 @@
 <div id="modal" class="modal" hidden>
   <div class="modal__backdrop" data-close></div>
   <div class="modal__card" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
-    <h2 id="modalTitle" class="modal__title">Save &amp; open pull request</h2>
+    <h2 id="modalTitle" class="modal__title">Save &amp; publish</h2>
     <div class="modal__body">
-      <p>This will commit your edits to a new branch and open a PR for review.
-         Nothing merges automatically.</p>
+      <p>This saves your edit and publishes it: it lands on a new branch + PR
+         that auto-merges, and the site updates itself in about a minute.</p>
       <label class="field">
         <span class="field__label">Change summary (commit message)</span>
         <input id="commitMsg" type="text" placeholder="Edit cervical-vertebrae: clarify facet orientation" />
@@ -134,12 +134,12 @@
         <div class="planrow"><span class="planrow__k">File</span><code id="planPath">—</code></div>
         <div class="planrow"><span class="planrow__k">Branch</span><code id="planBranch">—</code></div>
         <div class="planrow"><span class="planrow__k">Base</span><code id="planBase">—</code></div>
-        <div class="planrow"><span class="planrow__k">Action</span><span id="planAction">commit + open PR</span></div>
+        <div class="planrow"><span class="planrow__k">Action</span><span id="planAction">save → PR → auto-merge → live</span></div>
       </div>
     </div>
     <div class="modal__actions">
       <button class="btn btn--ghost" data-close>Cancel</button>
-      <button id="confirmSave" class="btn btn--primary">Commit &amp; open PR</button>
+      <button id="confirmSave" class="btn btn--primary">Save &amp; publish</button>
     </div>
   </div>
 </div>

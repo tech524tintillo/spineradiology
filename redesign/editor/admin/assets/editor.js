@@ -275,7 +275,7 @@
     var branch = "edit/" + (f.slug || "article") + "-" + stamp();
     $("#planPath").textContent = state.current;
     $("#planBranch").textContent = branch;
-    $("#planBase").textContent = "redesign-templates";
+    $("#planBase").textContent = "main";
     $("#commitMsg").value = "Edit " + (f.slug || state.current) + ": ";
     $("#modal").hidden = false;
     setTimeout(function () { $("#commitMsg").focus(); var el = $("#commitMsg"); el.selectionStart = el.selectionEnd = el.value.length; }, 30);
@@ -298,7 +298,7 @@
       body: JSON.stringify({ path: path, content: content, message: msg, branch: branch })
     }).then(function (r) { return r.json(); })
       .then(function (d) {
-        btn.disabled = false; btn.textContent = "Commit & open PR";
+        btn.disabled = false; btn.textContent = "Save & publish";
         if (d.ok) {
           // committed → it's now the saved version
           state.original = content;
@@ -309,14 +309,18 @@
           var link = d.prUrl
             ? ' <a href="' + d.prUrl + '" target="_blank" rel="noopener">View PR →</a>'
             : (d.note ? ' <span class="muted">' + escHtml(d.note) + "</span>" : "");
-          toast("Committed to <code>" + escHtml(branch) + "</code>." + link, "ok", 9000);
+          if (d.merged) {
+            toast("Published ✓ — your change goes live in about a minute." + link, "ok", 9000);
+          } else {
+            toast("Saved — couldn't auto-publish, so it's a pull request awaiting a manual merge." + link, "ok", 12000);
+          }
         } else {
           toast(d.error || "Commit failed.", "err", 7000);
         }
       })
       .catch(function () {
-        btn.disabled = false; btn.textContent = "Commit & open PR";
-        toast("Commit failed (server offline?).", "err");
+        btn.disabled = false; btn.textContent = "Save & publish";
+        toast("Save failed (server offline?).", "err");
       });
   }
 

@@ -18,6 +18,8 @@
 
 export const GH_API = "https://api.github.com";
 
+const sleep = (ms) => new Promise((res) => setTimeout(res, ms));
+
 export function json(data, status = 200, extraHeaders = {}) {
   return new Response(JSON.stringify(data), {
     status,
@@ -161,7 +163,7 @@ export async function commitAndPR(env, { path, content, message, branch, author 
   });
 
   // 5. open the PR (ignore "already exists")
-  let prUrl = null;
+  let prUrl = null, prNumber = null;
   try {
     const pr = await gh(env, "POST", `/repos/${o}/${r}/pulls`, {
       title: message,
@@ -169,18 +171,50 @@ export async function commitAndPR(env, { path, content, message, branch, author 
       base,
       body: `Automated edit from the SpineRadiology hidden editor.\n\n` +
             `- **File:** \`${path}\`\n- **Editor:** ${author || "unknown"}\n\n` +
-            `Review and merge to publish. CI rebuild runs on merge.`,
+            `Auto-published on save: this PR squash-merges itself and the publish ` +
+            `Action takes it live in ~1 min. (If it could not auto-merge, it is left ` +
+            `open here for a manual merge.)`,
       maintainer_can_modify: true,
     });
-    prUrl = pr.html_url;
+    prUrl = pr.html_url; prNumber = pr.number;
   } catch (e) {
     if (e.status === 422 && e.data && /already exists/i.test(JSON.stringify(e.data))) {
       // find existing PR for this head
       const prs = await gh(env, "GET",
         `/repos/${o}/${r}/pulls?head=${o}:${branch}&state=open`);
-      if (prs && prs[0]) prUrl = prs[0].html_url;
+      if (prs && prs[0]) { prUrl = prs[0].html_url; prNumber = prs[0].number; }
     } else { throw e; }
   }
 
-  return { prUrl, branch, commitSha: commit.commit && commit.commit.sha };
+  // 6. auto-merge so the edit publishes with no manual click. The bot token
+  //    (Contents:RW + Pull requests:RW) can squash-merge. GitHub computes
+  //    mergeability asynchronously, so retry a few times on 405/409; if it
+  //    still won't merge, degrade gracefully — leave the PR open for a manual
+  //    merge rather than failing the editor's save.
+  let merged = false;
+  if (prNumber != null) {
+    for (let attempt = 0; attempt < 4 && !merged; attempt++) {
+      try {
+        await gh(env, "PUT", `/repos/${o}/${r}/pulls/${prNumber}/merge`, {
+          merge_method: "squash",
+          commit_title: `${message} (#${prNumber})`,
+        });
+        merged = true;
+      } catch (e) {
+        // 405 = not mergeable yet (still computing) / 409 = head moved.
+        if ((e.status === 405 || e.status === 409) && attempt < 3) {
+          await sleep(1200);
+          continue;
+        }
+        break; // give up gracefully; PR stays open for manual merge
+      }
+    }
+    // best-effort branch cleanup once merged (matches the manual "Delete branch")
+    if (merged) {
+      try { await gh(env, "DELETE", `/repos/${o}/${r}/git/refs/heads/${branch}`); }
+      catch { /* non-fatal */ }
+    }
+  }
+
+  return { prUrl, branch, merged, commitSha: commit.commit && commit.commit.sha };
 }
