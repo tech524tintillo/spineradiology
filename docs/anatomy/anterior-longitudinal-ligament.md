@@ -1,6 +1,6 @@
 # Anterior Longitudinal Ligament
 
-## Definition
+## Definition**
 
 The anterior longitudinal ligament (ALL) is the longest and one of the strongest ligaments of the vertebral column. It runs as a continuous band along the anterior and anterolateral surfaces of the vertebral bodies from the basilar part of the occiput to the anterior surface of the sacrum.
 
