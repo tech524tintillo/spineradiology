@@ -80,6 +80,36 @@ jobs:
           echo "::error::Overlay push FAILED after 3 tries — LIVE is updated but the committed overlay is STALE. Run 'bash redesign/snapshot.sh' + commit it before the next edit, or the next publish will revert this one."
           exit 1
 
-      - name: Surface failure loudly
+      - name: Telegram ping — published (best-effort; skips if secrets unset)
+        if: steps.publish.outputs.deployed == 'true'
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          CHANGED_FILES: ${{ steps.changed.outputs.files }}
+        run: |
+          if [ -z "$TELEGRAM_BOT_TOKEN" ] || [ -z "$TELEGRAM_CHAT_ID" ]; then
+            echo "Telegram secrets not set — skipping ping."; exit 0
+          fi
+          text="✅ SpineRadiology published — live now.
+          Files: ${CHANGED_FILES:-<derived from HEAD>}
+          ${{ github.server_url }}/${{ github.repository }}/commit/${{ github.sha }}"
+          curl -sS -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
+            --data-urlencode "chat_id=${TELEGRAM_CHAT_ID}" \
+            --data-urlencode "text=${text}" \
+            -d disable_web_page_preview=true >/dev/null \
+            && echo "telegram ping sent." || echo "telegram ping failed (non-fatal)."
+
+      - name: Surface failure loudly (+ Telegram)
         if: failure()
-        run: echo "::error::Auto-publish FAILED. If the deploy succeeded but a later step failed, the live site and the committed overlay may have diverged — fix before the next edit."
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          echo "::error::Auto-publish FAILED. If the deploy succeeded but a later step failed, the live site and the committed overlay may have diverged — fix before the next edit."
+          if [ -n "$TELEGRAM_BOT_TOKEN" ] && [ -n "$TELEGRAM_CHAT_ID" ]; then
+            text="❌ SpineRadiology auto-publish FAILED — the site may NOT have updated. Check the run:
+          ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+            curl -sS -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
+              --data-urlencode "chat_id=${TELEGRAM_CHAT_ID}" \
+              --data-urlencode "text=${text}" >/dev/null || true
+          fi
