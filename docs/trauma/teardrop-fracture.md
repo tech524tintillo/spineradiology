@@ -9,8 +9,7 @@ Teardrop fractures of the cervical spine are characterized by a triangular bone 
 ### Mechanism
 Severe hyperflexion with axial compression — the classic scenario is diving into shallow water or a motor vehicle collision with a direct blow to the vertex of the head.
 
-### Pathology
-This is one of the most devastating cervical spine injuries. The axial-flexion force causes:
+This is an unstable fracture and one of the most devastating cervical spine injuries. The axial-flexion force causes:
 
 - A triangular fragment to shear from the anteroinferior vertebral body
 - Comminution of the vertebral body with retropulsion of the posterior body into the spinal canal
@@ -38,7 +37,7 @@ This is one of the most devastating cervical spine injuries. The axial-flexion f
 Flexion teardrop fractures are strongly associated with **anterior cord syndrome** — loss of motor function and pain/temperature sensation below the level of injury, with preservation of posterior column function (proprioception, vibration, deep pressure). This occurs because the retropulsed bone fragment damages the anterior two-thirds of the spinal cord.
 
 !!! tip "Clinical Pearl"
-    The sagittal vertebral body fracture is a critical distinguishing feature of the flexion teardrop fracture. If you see a triangular anteroinferior fragment AND a sagittal body fracture on coronal CT, this is a flexion teardrop injury — an unstable, three-column injury — not a benign extension teardrop.
+    The sagittal vertebral body fracture is a critical distinguishing feature of the flexion teardrop fracture. If you see a triangular anteroinferior fragment AND a sagittal body fracture on coronal CT AND distraction of the posterior elements, this is a flexion teardrop injury — an unstable, three-column injury — not a benign extension teardrop.
 
 <figure markdown="span">
   ![Flexion teardrop fracture C3 CT](../assets/images/trauma/teardrop-fracture-c3-ct.png){ width="500" }
