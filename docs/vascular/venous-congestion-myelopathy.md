@@ -2,12 +2,12 @@
 
 ## Definition
 
-Venous congestion myelopathy (Foix-Alajouanine syndrome in its most severe form) results from impaired venous drainage of the spinal cord, most commonly caused by a spinal dural AVF. The elevated venous pressure reduces the arteriovenous pressure gradient, causing cord edema, ischemia, and progressive neurological deterioration.
+Venous congestion myelopathy (Foix-Alajouanine syndrome in its most severe form) results from impaired venous drainage of the spinal cord, most commonly caused by a spinal dural arteriovenous fistula. The elevated venous pressure reduces the arteriovenous pressure gradient, causing cord edema, ischemia, and progressive neurological deterioration.
 
 ## Etiology
 
-- **Spinal dural AVF** — The most common cause
-- **Perimedullary AVF**
+- **Spinal dural arteriovenous fistula** — The most common cause
+- **Perimedullary arteriovenous fistula**
 - **Spinal venous thrombosis** — Rare
 - **Epidural venous compression** — From tumors or other mass lesions
 
