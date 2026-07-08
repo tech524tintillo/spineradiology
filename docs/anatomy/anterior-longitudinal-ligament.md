@@ -57,7 +57,7 @@ The ALL consists of three layers:
 - **STIR** outperforms standard T2 for detecting acute ALL injury — one prospective MRI/surgical correlation series reported 87.9% agreement with intraoperative findings on STIR versus 60.6% on T2, because the disc annulus and ALL are difficult to separate on T2
 
 !!! note "Key MRI Finding"
-    In extension-distraction injuries, MRI may show disruption of the ALL and the anterior annulus with prevertebral hemorrhage (high T2 signal anterior to the vertebral bodies). Disc space widening anteriorly is a secondary sign. Reported MRI sensitivity for ALL injury is lower (~71%) than for the disc, PLL, or interspinous soft tissues — direct ligament discontinuity may be missed, so indirect signs (prevertebral edema, anterior disc gap, avulsion fragment) must be sought.
+    In extension-distraction injuries, MRI may show disruption of the ALL and the anterior annulus with prevertebral hemorrhage with varying T1/T2 signal intensity depending on acuity and temporal evolution of hemoglobin products (typically T2 hyperintense and T1 iso to hyperintense in the hyperacute stage). Disc space widening anteriorly is a secondary sign. Reported MRI sensitivity for ALL injury is lower (~71%) than for the disc, PLL, or interspinous soft tissues — direct ligament discontinuity may be missed, so indirect signs (prevertebral edema, anterior disc gap, avulsion fragment) must be sought.
 
 ### Pathogenesis note — DISH
 
