@@ -65,8 +65,11 @@ MRI is the definitive modality for evaluating the conus and cauda equina:
 When MRI is contraindicated, CT myelography demonstrates:
 
 - Conus level and morphology
-- Nerve root cutoff or compression
+- Nerve root cutoff or compression, Cauda Equina syndrome
 - Intradural filling defects (tumors, disc fragments)
+- Evaluation for CSF leaks
+- Evaluation for arachnoiditis or clumping of nerve roots
+- CSF venous fistula evaluation
 
 ## Clinical Syndromes
 
