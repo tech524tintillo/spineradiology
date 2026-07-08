@@ -2,7 +2,7 @@
 
 ## Definition
 
-The spinal cord receives its arterial blood supply from three longitudinal arteries — one anterior and two posterior spinal arteries — which are reinforced at multiple levels by segmental radiculomedullary arteries. The largest and most clinically important of these feeders is the **artery of Adamkiewicz**, which supplies the anterior spinal artery in the lower thoracic and lumbar cord.
+The spinal cord receives its arterial blood supply from three longitudinal arteries — one anterior and two posterior spinal arteries — which are reinforced at multiple levels by segmental radiculomedullary arteries. The largest and most clinically important of these feeders is the **artery of Adamkiewicz (also known as  great anterior radiculomedullary artery or arteria radicularis anterior magna)**, which supplies the anterior spinal artery in the lower thoracic and lumbar cord.
 
 ## Anatomy
 
@@ -33,7 +33,7 @@ The longitudinal arteries cannot sustain the entire cord alone and are reinforce
 - This region is most vulnerable to ischemia during hypotension, aortic surgery, or interruption of segmental feeders
 
 !!! tip "Clinical Pearl"
-    The artery of Adamkiewicz is critically important during **aortic surgery**, **thoracolumbar spine surgery**, and **embolization procedures**. Interruption of this vessel can result in **anterior cord syndrome** — paraplegia with loss of pain/temperature sensation but preservation of proprioception and vibration (posterior column sparing). Preoperative identification by CTA or MRA is increasingly performed before thoracoabdominal aortic repair.
+    The artery of Adamkiewicz is critically important during **aortic surgery**, **thoracolumbar spine surgery**, and **embolization procedures**. Interruption of this vessel can result in **anterior cord syndrome** — paraplegia with loss of pain/temperature sensation but preservation of proprioception and vibration (posterior column sparing). Preoperative identification by CTA or MRA is increasingly performed before thoracoabdominal aortic repair. Imaging findings of anterior cord syndrome include **punctate hyperintense T2 signal appearing as two bright-dots on axial imaging resulting in the so called "owl eye appearance "**
 
 ## Imaging Findings
 
