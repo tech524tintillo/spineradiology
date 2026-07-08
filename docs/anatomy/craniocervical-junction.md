@@ -33,7 +33,7 @@ The craniocervical junction (CCJ), also called the craniovertebral junction (CVJ
 
 - **Transverse ligament of the atlas** — the most important stabilizer of the atlantoaxial joint; holds the dens against the anterior arch of C1; its disruption results in atlantoaxial instability
 - **Alar ligaments** — paired ligaments from the lateral dens to the occipital condyles; limit rotation and lateral bending
-- **Tectorial membrane** — continuation of the PLL; attaches to the clivus; a secondary stabilizer
+- **Tectorial membrane** — continuation of the posterior longitudinal ligament; attaches to the clivus; a secondary stabilizer
 - **Cruciate (cruciform) ligament** — formed by the transverse ligament plus superior and inferior longitudinal bands
 - **Apical ligament** — from the tip of the dens to the basion; relatively weak
 
@@ -69,7 +69,7 @@ The craniocervical junction (CCJ), also called the craniovertebral junction (CVJ
 |---------|------------|
 | **Transverse ligament** | Low-signal band posterior to the dens on axial T1/T2; disruption seen as discontinuity with edema |
 | **Alar ligaments** | Low-signal bands from dens to condyles on coronal images |
-| **Tectorial membrane** | Low-signal band posterior to the dens on sagittal images, continuous with PLL |
+| **Tectorial membrane** | Low-signal band posterior to the dens on sagittal images, continuous with posterior longitudinal ligament |
 | **Cord compression** | T2 hyperintensity within the cord at the cervicomedullary junction |
 
 !!! note "Key MRI Finding"
