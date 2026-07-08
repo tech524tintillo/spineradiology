@@ -53,6 +53,7 @@ Oscar Batson described this valveless venous network in 1940, noting that increa
 | **Dilated epidural veins** | Prominent flow voids or enhancing structures in the anterior epidural space; may mimic disc herniation |
 | **Basivertebral vein** | Focal bright signal on T2 in the posterior vertebral body (slow flow); enhances on post-contrast imaging |
 | **Epidural venous engorgement** | Seen with IVC obstruction, pregnancy, or SVC syndrome; prominent flow voids throughout the epidural space |
+| **Normal CSF pulsation artifact** | Caused by the cardiac-driven oscillatory motion of cerebrospinal fluid within the spinal canal; Can stimulate or mimick the appearance of enlarged vessels such as seen in in cases of CSF-venous vistulas |
 
 !!! note "Key MRI Finding"
     Dilated anterior epidural veins can mimic disc herniation on axial MRI. The key distinguishing feature is that epidural veins show **prominent enhancement** on post-contrast images and may demonstrate **flow voids** on T2, whereas disc herniations have signal similar to the parent disc and do not enhance (except at the periphery in chronic herniations).
