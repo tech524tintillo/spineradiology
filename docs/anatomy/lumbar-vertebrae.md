@@ -62,6 +62,13 @@ CT excels at evaluating:
 
 MRI is the primary modality for lumbar spine evaluation:
 
+** Marrow Signal**:
+| Age | T1 Signal | T2 Signal | Notes |
+|-----------|-----------|-----------|-------|
+| Infant/young child | Hypointense| Hypointense | signal relative to discs |
+| Adult | Hyperintense| Intermediate | reflecting predominant fatty marrow |
+
+** Disc Signal: **
 | Structure | T1 Signal | T2 Signal | Notes |
 |-----------|-----------|-----------|-------|
 | Normal disc (young) | Intermediate | **Bright** | High T2 signal = normal hydration |
