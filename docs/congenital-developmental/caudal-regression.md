@@ -12,7 +12,7 @@ Caudal regression syndrome (sacral agenesis) is a spectrum of congenital anomali
 - Hip and lower extremity anomalies may be present
 
 ### MRI
-- **Abrupt termination of the conus** — The conus ends bluntly at a high level, with a characteristic "wedge-shaped" or "blunted" appearance
+- **Abrupt termination of the conus** — The conus ends bluntly at a high level, with a characteristic "wedge-shaped" or "blunted" appearance. The actual level of cord termination can range widely; and in severe cases it may terminate as high as T6 with agenesis of the vertebral bodies below T9. 
 - Absence of sacral and/or lumbar segments
 - The thecal sac terminates prematurely
 - Associated anomalies of the genitourinary system (renal agenesis, horseshoe kidney) and anorectal malformations
