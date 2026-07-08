@@ -2,13 +2,13 @@
 
 ## Definition
 
-Diastematomyelia (split cord malformation) is a congenital anomaly in which the spinal cord is split longitudinally into two hemicords by a bony, cartilaginous, or fibrous septum. Each hemicord contains a central canal, a dorsal horn, and a ventral horn. The split most commonly occurs in the lower thoracic or lumbar spine.
+Diastematomyelia (split cord malformation) is a type of spinal dyspraphism characterized by the spinal cord being split longitudinally into two hemicords by a bony, cartilaginous, or fibrous septum. Each hemicord contains a central canal, a dorsal horn, and a ventral horn. The split most commonly occurs in the lower thoracic or lumbar spine.
 
 ## Classification — Pang
 
-**Type I** — Two hemicords in separate dural tubes, separated by a rigid osseocartilaginous septum (bony spur). This type is more likely to cause tethering and neurological symptoms.
+**Type I** — Two hemicords in separate dural tubes = 2 dural sacs, separated by a rigid osseocartilaginous septum (bony spur). This type is more likely to cause tethering and neurological symptoms. Vertebral anomalies are also more commonly associated. 
 
-**Type II** — Two hemicords within a single dural tube, separated by a fibrous band. This type is less likely to cause symptoms.
+**Type II** — Two hemicords within a single shared dural tube = 1 dural sac, separated by a fibrous band. This type is less likely to cause symptoms.
 
 ## Imaging Findings
 
