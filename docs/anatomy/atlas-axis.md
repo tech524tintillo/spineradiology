@@ -50,14 +50,14 @@ The C1–C2 complex relies heavily on ligaments for stability:
 | **Cruciate ligament** | Composite of transverse ligament plus superior and inferior longitudinal bands |
 
 !!! tip "Clinical Pearl"
-    The **transverse ligament** is the most critical stabilizer at C1–C2. Rupture results in atlantoaxial instability with a predental interval > 3 mm in adults. This is assessed on lateral flexion radiographs or sagittal CT/MRI. In rheumatoid arthritis, pannus formation can erode the transverse ligament, causing progressive instability.
+    The **transverse ligament** is the most critical stabilizer at C1–C2. Rupture results in atlantoaxial instability with an atlantodental interval (the distance between the posterior surface of the anterior arch of C1 and the anterior surface of the odontoid process of C2) > 3 mm in adults. This is assessed on lateral flexion radiographs or sagittal CT/MRI. In rheumatoid arthritis, pannus formation can erode the transverse ligament, causing progressive instability.
 
 ## Imaging Findings
 
 ### Radiography
 
 - **Open-mouth (odontoid) view** — evaluates dens integrity, C1 lateral mass symmetry, and lateral overhang
-- **Lateral view** — measures the predental interval (ADI) and posterior atlanto-dens interval (PADI)
+- **Lateral view** — measures the atlantodental interval (ADI) and posterior atlanto-dens interval (PADI)
 
 | Measurement | Normal | Significance |
 |-------------|--------|-------------|
@@ -80,7 +80,7 @@ MRI is essential for evaluating ligamentous integrity and spinal cord compressio
 
 - **Transverse ligament** — best seen on axial T2 or proton density images; appears as a dark band posterior to the dens
 - **Dens — T1:** intermediate signal; **T2:** intermediate signal
-- **Cord compression** — sagittal T2 demonstrates compression and myelopathy signal
+- **Cord compression** — sagittal T2 demonstrates compression and myelopathy signal (intramedullary T2 hyperintensity within the spinal cord, representing edema, gliosis, demyelination, or myelomalacia resulting from cord injury)
 
 ## Differential Diagnosis
 
