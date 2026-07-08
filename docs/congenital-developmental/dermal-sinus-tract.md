@@ -2,7 +2,7 @@
 
 ## Definition
 
-A dermal sinus tract is a congenital epithelium-lined tract extending from the skin surface inward toward (and sometimes into) the spinal canal. It represents a failure of complete separation of cutaneous ectoderm from neural ectoderm during embryological development. The tract may terminate in the subcutaneous tissues, the epidural space, or extend to the dura, subarachnoid space, or even the spinal cord. It is most common in the lumbosacral region.
+A dermal sinus tract is a congenital epithelium-lined tract extending from the skin surface inward toward (and sometimes into) the spinal canal, potentially extending to the thecal sac / neural placode. It represents a failure of complete separation of cutaneous ectoderm from neural ectoderm during embryological development. The tract may terminate in the subcutaneous tissues, the epidural space, or extend to the dura, subarachnoid space, or even the spinal cord. It is most common in the lumbosacral region.
 
 ## Clinical Significance
 
