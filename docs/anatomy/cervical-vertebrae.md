@@ -74,7 +74,7 @@ MRI is essential for evaluating the cervical spinal cord, discs, and ligaments:
 | CSF | Dark | **Bright** |
 
 !!! warning "Important"
-    Increased T2 signal within the cervical spinal cord on MRI suggests myelopathy and is an important finding that may influence surgical decision-making. See [Cervical Spondylotic Myelopathy](../degenerative-disease/cervical-spondylotic-myelopathy.md).
+    Increased T2 signal within the cervical spinal cord on MRI could suggest underlying myelopathy and is an important finding that may influence surgical decision-making. See [Cervical Spondylotic Myelopathy](../degenerative-disease/cervical-spondylotic-myelopathy.md).
 
 ## Key Points
 
