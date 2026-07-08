@@ -49,7 +49,7 @@ Transitional vertebrae at the lumbosacral junction are common variants (prevalen
 | Finding | Appearance |
 |---------|------------|
 | **L5–S1 disc degeneration** | Loss of T2 signal (dark disc), decreased disc height, Modic endplate changes |
-| **Spondylolisthesis** | Anterior translation of L5 on S1 on sagittal images; evaluate for cord/root compression |
+| **Spondylolisthesis** | Anterior or posterior translation of L5 on S1 on sagittal images; evaluate for cord/root compression |
 | **Pars defect (spondylolysis)** | Low-signal discontinuity on sagittal T1 through the pars; marrow edema on STIR if active |
 | **LSTV** | Enlarged transverse process; sagittal images help identify the transition |
 | **Far lateral disc herniation** | Disc fragment in or beyond the neural foramen, compressing the exiting L5 root |
