@@ -2,7 +2,7 @@
 
 ## Definition
 
-Chiari I malformation is defined as caudal displacement of the cerebellar tonsils below the foramen magnum by ≥5 mm. Unlike Chiari II (associated with myelomeningocele), Chiari I is not associated with open spinal dysraphism and is often an incidental finding or presents in adolescence/adulthood with headache, syringomyelia, or brainstem symptoms.
+Chiari I deformity is defined as caudal displacement of the cerebellar tonsils below the foramen magnum by ≥5 mm. Unlike Chiari II (associated with myelomeningocele), Chiari I is not associated with open spinal dysraphism and is often an incidental finding or presents in adolescence/adulthood with headache, syringomyelia, or brainstem symptoms.
 
 ## Imaging Findings
 
@@ -10,12 +10,12 @@ Chiari I malformation is defined as caudal displacement of the cerebellar tonsil
 - **Sagittal T1** — Cerebellar tonsils extending ≥5 mm below the foramen magnum (McRae line — the line connecting the basion to the opisthion)
 - **Tonsillar morphology** — Pointed (peg-like) tonsils are more clinically significant than rounded tonsils
 - **Crowding at the foramen magnum** — Effacement of the CSF spaces around the cervicomedullary junction
-- **Syringomyelia** — Present in 30–70% of Chiari I patients; typically cervicothoracic
+- **Syringomyelia (syrinx)** — Present in 30–70% of Chiari I patients; typically cervicothoracic
 - **CSF flow study (cine MRI)** — May demonstrate impaired CSF flow at the foramen magnum, which helps determine surgical candidacy
 
 ### Key Measurements
 - Tonsillar herniation ≥5 mm = Chiari I
-- 3–5 mm = borderline (assess tonsillar morphology and symptoms)
+- 3–5 mm = borderline (assess tonsillar morphology and symptoms, presence of syrinx)
 - <3 mm = normal variant
 
 !!! tip "Clinical Pearl"
