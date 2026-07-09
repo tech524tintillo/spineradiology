@@ -2,7 +2,7 @@
 
 ## Definition
 
-Klippel-Feil syndrome (KFS) is a congenital condition characterized by failure of segmentation of two or more cervical vertebrae, resulting in congenital fusion. The classic clinical triad is a short neck, low posterior hairline, and limited cervical range of motion, though the complete triad is present in fewer than 50% of patients.
+Klippel-Feil syndrome (KFS) is a complex congenital condition characterized by failure of segmentation of two or more cervical vertebrae, resulting in congenital fusion. The classic clinical triad is a short neck, low posterior hairline, and limited cervical range of motion, though the complete triad is present in fewer than 50% of patients. Most common fused segments are C2-C3 and C5-C6. 
 
 ## Imaging Findings
 
