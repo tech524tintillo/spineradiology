@@ -2,7 +2,7 @@
 
 ## Definition
 
-A hemivertebra is a congenital anomaly of vertebral formation in which only one half of the vertebral body develops. This results in a wedge-shaped vertebral body that produces lateral curvature (congenital scoliosis) or kyphosis depending on its location and whether it is segmented or unsegmented.
+A hemivertebra is a congenital anomaly of vertebral formation that results from unilateral failure of half of the vertebral body to form. This results in a wedge-shaped vertebral body that produces lateral curvature (congenital scoliosis) or kyphosis depending on its location and whether it is segmented or unsegmented.
 
 ## Classification
 
