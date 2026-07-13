@@ -2,8 +2,7 @@
 
 ## Overview
 
-Truncation artifact (Gibbs ringing) appears as alternating bright and dark lines parallel to sharp high-contrast interfaces — in the spine, most commonly at the cord-CSF interface. It can mimic an intramedullary lesion such as syringomyelia.
-
+Truncation artifact (Gibbs ringing) appears as alternating bright and dark lines parallel to sharp high-contrast interfaces. It is most commonly at the skull-brain and cord-CSF interfaces, and can mimic an intramedullary lesion such as syringomyelia ("pseudosyrinx").
 ## Appearance
 
 - Thin, linear, alternating bright and dark lines within the spinal cord, parallel to and adjacent to the cord-CSF boundary
