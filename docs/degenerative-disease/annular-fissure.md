@@ -2,7 +2,7 @@
 
 ## Definition
 
-An annular fissure (also called annular tear) is a disruption of the concentric collagen fibers of the annulus fibrosus. These fissures represent an early stage of disc degeneration and can serve as a pathway for nuclear material to herniate posteriorly.
+An annular fissure (also called annular tear) is a disruption of the concentric collagen fibers of the annulus fibrosus. These fissures or tears can be seen in both degnerative change as well as with acute injury and can serve as a pathway for nuclear material to herniate posteriorly.
 
 ## Classification
 
