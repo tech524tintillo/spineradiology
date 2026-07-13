@@ -1,8 +1,7 @@
 # Vacuum Disc Phenomenon
 
 ## Definition
-
-The vacuum disc phenomenon refers to the presence of gas (predominantly nitrogen) within a degenerated intervertebral disc. It occurs when negative intradiscal pressure — from disc desiccation, fissuring, and height loss — draws dissolved gas out of surrounding tissues into the disc space.
+The vacuum disc phenomenon refers to the presence of gas (predominantly nitrogen) within or around an intervertebral disc, which most commonly occurs in the setting of intervertebral disc degenerative disease. It occurs when negative intradiscal pressure — from disc desiccation, fissuring, and height loss — draws dissolved gas out of surrounding tissues into the disc space.
 
 ## Imaging Findings
 
@@ -18,10 +17,10 @@ The vacuum disc phenomenon refers to the presence of gas (predominantly nitrogen
 ### MRI
 - Signal void (dark on all sequences) — gas produces no MR signal
 - May be confused with calcification (also dark) — CT can differentiate
-- Susceptibility artifact may be present on gradient echo sequences
+- Susceptibility artifact may be present on gradient echo sequences - bright or dark dipole on phase-shift images (depending on the MRI scanner)
 
 !!! tip "Clinical Pearl"
-    The vacuum disc phenomenon is a reliable sign of **degenerative** disc disease and is essentially **never seen in infection**. In a patient with suspected discitis, the presence of a vacuum disc at the involved level is strong evidence against infection, as the positive intradiscal pressure and inflammatory fluid of infection prevent gas accumulation. This can be a useful distinguishing feature on CT when the clinical picture is ambiguous.
+    While vacuum disc phenomenon is most commonly seen in the setting of degenerative disc disease, it does not completely exclude presence of infection - especially in the presence of further clinical and radiological signs of spinal infection.
 
 ## Key Points
 
