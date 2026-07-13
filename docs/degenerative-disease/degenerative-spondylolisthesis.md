@@ -2,7 +2,7 @@
 
 ## Definition
 
-Degenerative spondylolisthesis is anterior translation of a vertebra on the one below due to degeneration of the disc and facet joints, with **intact pars interarticularis**. It is the most common type of spondylolisthesis in adults over 50 and is most frequent at L4–L5.
+Degenerative spondylolisthesis is the translation of a vertebra on the one below due to degeneration of the disc and facet joints, with **intact pars interarticularis**. It is the most common type of spondylolisthesis in adults over 50 and is most frequent at L4–L5.
 
 ## Risk Factors
 
