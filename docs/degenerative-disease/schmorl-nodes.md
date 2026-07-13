@@ -2,7 +2,7 @@
 
 ## Definition
 
-Schmorl nodes are herniations of disc material (nucleus pulposus) through the cartilaginous endplate into the adjacent vertebral body. They represent vertical (axial) disc herniations, in contrast to the more common horizontal (posterior or lateral) herniations.
+Schmorl nodes are herniations of disc material (nucleus pulposus) through the cartilaginous endplate into the adjacent vertebral body. They represent vertical (axial) disc herniations, in contrast to disc bulge/herniation, which are horizontal (posterior or lateral) herniations.
 
 ## Pathophysiology
 
@@ -25,7 +25,7 @@ Schmorl nodes are herniations of disc material (nucleus pulposus) through the ca
 
 | Phase | T1 Signal | T2/STIR Signal | Interpretation |
 |-------|-----------|----------------|---------------|
-| **Acute** | Low (edema) | High (edema) | Active; may be symptomatic; may mimic metastasis |
+| **Acute** | Low (edema) | High (edema) | Active; may be symptomatic; can also demonstrate peripheral enhancement, may mimic metastasis |
 | **Chronic** | Iso to low (sclerosis) | Low (sclerosis) with central disc signal | Stable; typically asymptomatic |
 
 !!! tip "Clinical Pearl"
