@@ -2,7 +2,8 @@
 
 ## Definition
 
-Spinal tuberculosis (Pott disease) is infection of the spine by Mycobacterium tuberculosis. It is the most common form of skeletal tuberculosis and the most common cause of spinal infection worldwide. Pott disease characteristically involves the anterior vertebral body, causes severe kyphotic deformity (gibbus), and produces large paravertebral abscesses — features that distinguish it from pyogenic spondylodiscitis.
+Spinal tuberculosis (Pott disease) is infection of the spine by Mycobacterium tuberculosis. It is the most common form of  musculoskeletal tuberculosis and the most common cause of spinal infection worldwide. 
+ Pott disease characteristically involves the anterior vertebral body, causes severe kyphotic deformity (gibbus), and produces large paravertebral abscesses — features that distinguish it from pyogenic spondylodiscitis.
 
 ## Key Imaging Differences from Pyogenic Infection
 
@@ -21,7 +22,7 @@ Spinal tuberculosis (Pott disease) is infection of the spine by Mycobacterium tu
 ### MRI
 - **Vertebral body** — Low T1, high T2/STIR signal centered in the anterior body. May show relative disc preservation early, with disc involvement developing later.
 - **Gibbus deformity** — Anterior collapse of one or more vertebral bodies producing an acute kyphotic angulation
-- **Paravertebral abscess** — Large, well-defined collections extending along the psoas muscle (psoas abscess) or along the prevertebral space. Rim enhancement. May be disproportionately large relative to the bony destruction.
+- **Paravertebral abscess** — Large rim-enhancing collections extending along the psoas muscle (psoas abscess) or along the prevertebral space. May be disproportionately large relative to the bony destruction.
 - **Subligamentous spread** — Inflammatory tissue tracking beneath the anterior longitudinal ligament across multiple levels, a characteristic finding
 - **Epidural extension** — Granulation tissue or abscess compressing the cord
 - **Skip lesions** — Non-contiguous vertebral involvement separated by normal vertebrae
@@ -43,7 +44,7 @@ Spinal tuberculosis (Pott disease) is infection of the spine by Mycobacterium tu
 ## Epidemiology
 
 - Most common in the thoracic and thoracolumbar spine
-- Endemic in developing countries; increasing in developed countries due to immigration and HIV
+- Endemic in developing countries; increasing in developed countries due to increase in multidrug-resistant mycobacteria, immigration, and HIV
 - Peak incidence in children and young adults in endemic areas; older adults in non-endemic areas
 
 ## Management
