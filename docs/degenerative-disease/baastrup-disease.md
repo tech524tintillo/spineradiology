@@ -2,7 +2,7 @@
 
 ## Definition
 
-Baastrup disease (also called "kissing spines") is a condition in which adjacent spinous processes make contact and develop degenerative changes — including sclerosis, flattening, bursitis, and osteophyte formation — at their points of contact. It results from loss of disc height and lumbar hyperextension.
+Baastrup disease (also called "kissing spines") is cause of low back pain in which adjacent spinous processes make contact and develop degenerative changes — including sclerosis, flattening, bursitis, and osteophyte formation — at their points of contact. It results from loss of disc height and lumbar hyperextension.
 
 ## Pathophysiology
 
