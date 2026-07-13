@@ -2,7 +2,7 @@
 
 ## Definition
 
-Diffuse idiopathic skeletal hyperostosis (DISH), also known as Forestier disease, is a systemic condition characterized by flowing calcification and ossification along the **anterolateral** aspect of at least **four contiguous vertebral bodies** with preservation of disc height and absence of facet joint or sacroiliac joint disease. It affects the spine and peripheral entheses (tendon/ligament insertions).
+Diffuse idiopathic skeletal hyperostosis (DISH), also known as Forestier disease, is a systemic condition characterized by flowing calcification and ossification along the **anterolateral** aspect of at least **four contiguous vertebral bodies** with preservation of disc height and absence of facet joint or sacroiliac joint disease. 
 
 ## Diagnostic Criteria (Resnick and Niwayama)
 
