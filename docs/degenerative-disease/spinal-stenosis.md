@@ -25,6 +25,7 @@ Spinal stenosis is the narrowing of the spinal canal, neural foramina, or latera
 - Facet hypertrophy and osteophytes (lateral narrowing)
 - Degenerative spondylolisthesis (dynamic narrowing)
 - Often a combination — "triple crush" or "trefoil" stenosis
+- Additional causes of acquired spinal stenosis include iatrogenic, inflammatory, and traumatic etiologies
 
 ### Congenital
 - Congenitally short pedicles → narrowed AP canal diameter
@@ -52,7 +53,7 @@ Spinal stenosis is the narrowing of the spinal canal, neural foramina, or latera
 
 ## Key Points
 
-- Stenosis occurs at three locations: central canal, lateral recess, and foramen
+- Stenosis can occur at three locations: central canal, lateral recess, and foramen
 - Degenerative stenosis is the most common type — typically multifactorial (disc + ligament + facet)
 - MRI is the primary modality — axial T2 for grading, sagittal T2 for overview
 - Cross-sectional area <100 mm² = severe stenosis
