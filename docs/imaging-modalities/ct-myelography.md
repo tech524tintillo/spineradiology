@@ -9,16 +9,18 @@ CT myelography combines intrathecal contrast injection with CT scanning to evalu
 ### Procedure
 
 1. **Lumbar puncture** — typically performed at L2–L3 or L3–L4 under fluoroscopic guidance
-2. **Contrast injection** — non-ionic, water-soluble iodinated contrast (e.g., iohexol) is injected into the subarachnoid space
+2. **Contrast injection** — non-ionic, water-soluble iodinated contrast (e.g., iohexol) is injected into the subarachnoid space, contrast concentration depends on level being visualized, dose depends on contrast type
 3. **Patient positioning** — the patient is tilted to distribute contrast to the region of interest (Trendelenburg for cervical studies)
 4. **CT acquisition** — thin-section CT is performed after contrast has distributed to the target level (typically 1–4 hours after injection)
 
 ### Key Technical Points
 
-- Contrast volume: 10–15 mL for lumbar, 15–20 mL for cervical/thoracic studies
-- Delayed imaging (3–6 hours post-injection) may be needed for complete distribution
+- Contrast volume: 10–15 mL for lumbar, 15–20 mL for cervical/thoracic studies; must consider cooncentration 
+- May need to reposition patient prior to scanning (barrel roll techniques to adequately "coat" the canal)
+- Delayed imaging (3–6 hours post-injection) may rarely be needed for complete distribution
 - Both bone and soft tissue windows should be reviewed
 - Prone and supine imaging can help differentiate ventral from dorsal compression
+- Dynamic techniques may be needed in evaluation for CSF leak analysis 
 
 ## Indications
 
