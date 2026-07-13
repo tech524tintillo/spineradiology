@@ -32,6 +32,8 @@ The most important clinical implication of LSTVs is **vertebral numbering confus
 ### MRI
 - The disc above a sacralized L5 is typically the last mobile disc and may show premature degeneration
 - The "last normal disc" sign — the lowest disc with a normal nucleus pulposus signal helps identify the transitional level
+- The most accurate method of numbering the vertebrae is to count down the vertebrae from C2 from the localizer sequences of the entire spine 
+- The iliolumbar ligament usually arises from the transverse process of L5 and can also be used to  base numbering
 
 !!! tip "Clinical Pearl"
     The most important clinical consequence of a transitional vertebra is the risk of **wrong-level surgery** due to vertebral numbering confusion. A whole-spine localizer or correlation with a prior study that includes the cervicothoracic junction is essential for accurate surgical planning. When reporting an MRI with an LSTV, clearly state the numbering convention used.
