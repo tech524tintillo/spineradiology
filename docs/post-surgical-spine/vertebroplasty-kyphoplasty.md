@@ -17,7 +17,7 @@ Vertebroplasty and kyphoplasty are minimally invasive percutaneous procedures fo
 - Some restoration of vertebral height (more with kyphoplasty)
 
 ### MRI
-- PMMA is low signal on both T1 and T2 (signal void)
+- PMMA demonstrates signal void on both T1 and T2
 - Surrounding marrow edema may persist for weeks
 
 ## Complications
