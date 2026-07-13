@@ -60,7 +60,7 @@ Features suggesting an aggressive hemangioma that may cause symptoms:
 - Vertebral hemangiomas are the most common benign vertebral tumor
 - High T1 and high T2 signal on MRI is characteristic (fat + vascular)
 - "Polka-dot" pattern on axial CT and "corduroy" pattern on sagittal CT are diagnostic
-- Atypical hemangiomas with low T1 signal can mimic metastases — CT confirms the diagnosis
+- Atypical hemangiomas with low T1 signal can mimic metastases — CT can help differentiate
 - Aggressive hemangiomas with epidural extension are rare but may require treatment
 
 ## References
