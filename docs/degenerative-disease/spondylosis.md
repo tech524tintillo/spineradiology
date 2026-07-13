@@ -51,7 +51,7 @@ These changes are interrelated — disc height loss increases facet loading, acc
 - It is nearly universal with aging and does not necessarily indicate disease
 - The three-joint complex (disc + paired facets) degenerates as an interdependent unit
 - Clinical significance depends on the presence of neural compression or symptomatic instability
-- CT is best for evaluating bony changes; MRI for soft tissue compression
+- CT is best for evaluating bony changes; MRI is best for evaluate spinal cord compression
 
 ## References
 
