@@ -2,8 +2,7 @@
 
 ## Definition
 
-Tethered cord syndrome (TCS) results from abnormal fixation of the spinal cord at the caudal end, restricting its normal ascent during growth and placing traction on the conus medullaris. The normal conus position is at or above the L1–L2 disc level in adults and L2–L3 in neonates. A conus below L2–L3 in neonates or below L2 in adults, combined with a thickened filum terminale (>2 mm), suggests tethering.
-
+Tethered cord syndrome (TCS) results from abnormal fixation of the spinal cord at the caudal end, restricting its normal ascent during growth and placing traction on the conus medullaris. The normal conus position is at or above the L1–L2 disc level in adults and L2–L3 in neonates. A conus below L2–L3 in neonates or below L2 in adults, combined with a thickened filum terminale (>2 mm), suggests tethering. The diagnosis of tethered cord syndrome requires correlation of imaging findings with clinical symptoms — progressive lower extremity weakness, foot deformities, scoliosis, and/or bladder dysfunction.
 ## Causes
 
 - **Tight filum terminale** — Thickened, fibrofatty filum (most common cause of occult tethered cord)
