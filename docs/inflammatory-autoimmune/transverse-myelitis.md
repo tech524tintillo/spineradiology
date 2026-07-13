@@ -7,7 +7,7 @@ Transverse myelitis (TM) is an inflammatory disorder of the spinal cord characte
 ## Imaging Findings
 
 ### MRI
-- **T2-weighted** — Hyperintense intramedullary signal spanning variable lengths of the cord
+- **T2-weighted** — Hyperintense intramedullary signal spanning variable lengths of the cord, often >3 segments
 - **Cord expansion** — Mild swelling of the cord at the affected segment during the acute phase
 - **Enhancement** — Variable; may show patchy, nodular, or ring enhancement on post-contrast images during the acute phase
 - **Location** — Can affect any level; thoracic cord is most common for idiopathic TM
@@ -28,7 +28,7 @@ Transverse myelitis (TM) is an inflammatory disorder of the spinal cord characte
 
 ## Key Points
 
-- Transverse myelitis produces T2 hyperintensity with variable cord expansion and enhancement
+- Transverse myelitis demonstrates intramedullary spinal cord T2 hyperintensity with variable cord expansion and enhancement
 - Short-segment, peripheral lesions suggest MS; long-segment, central lesions suggest NMOSD
 - Test for AQP4 antibodies when longitudinally extensive myelitis is present
 - Thoracic cord is most commonly affected in idiopathic TM
