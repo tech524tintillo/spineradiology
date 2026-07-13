@@ -29,7 +29,7 @@ Metastases reach the spine via three routes:
 ### MRI
 MRI is the most sensitive modality for detecting vertebral metastases:
 
-- **T1-weighted** — Low signal replacing normal bright fatty marrow. Focal or diffuse marrow replacement.
+- **T1-weighted** — Low signal replacing normal bright fatty marrow, which can be focal or diffuse.
 - **T2-weighted** — Usually high signal, though variable
 - **STIR** — High signal; most sensitive for detection
 - **Post-contrast T1 with fat saturation** — Enhancement of the metastatic deposits; essential for detecting epidural extension and cord compression
@@ -59,8 +59,7 @@ MRI is the most sensitive modality for detecting vertebral metastases:
 
 ## Spinal Stability
 
-The Spinal Instability Neoplastic Score (SINS) evaluates mechanical stability in patients with vertebral metastases, incorporating location, pain, bone quality (lytic/blastic/mixed), alignment, vertebral body collapse, and posterolateral involvement.
-
+The Spinal Instability Neoplastic Score (SINS) evaluates mechanical stability in patients with vertebral metastases, incorporating location, pain, bone lesion quality (lytic/blastic/mixed), alignment, vertebral body collapse, and posterolateral involvement. 
 ## Management
 
 - **Radiation therapy** — Mainstay for pain control and local tumor control
