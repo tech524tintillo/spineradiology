@@ -71,7 +71,7 @@ Compression fractures involve failure of the anterior column only. The middle co
 - CT shows anterior wedge deformity with preserved posterior wall and normal interpedicular distance
 - MRI distinguishes acute from chronic fractures and benign from malignant etiologies
 - Treatment is predominantly conservative; vertebral augmentation is reserved for refractory pain
-- Always consider pathological causes (metastatic disease, myeloma) in patients without significant osteoporosis
+- Always consider pathological causes (metastatic disease, myeloma) in patients without significant osteoporosis or history of trauma
 
 ## References
 
