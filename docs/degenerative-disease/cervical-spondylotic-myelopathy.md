@@ -2,7 +2,7 @@
 
 ## Definition
 
-Cervical spondylotic myelopathy (CSM) is spinal cord dysfunction caused by degenerative narrowing of the cervical spinal canal. It is the **most common cause of spinal cord impairment** in adults over 55 and typically presents with progressive gait difficulty, hand clumsiness, and upper motor neuron signs.
+Cervical spondylotic myelopathy (CSM) is spinal cord dysfunction caused by degenerative narrowing of the cervical spinal canal. It typically presents with progressive gait difficulty, hand clumsiness, and upper motor neuron signs.
 
 ## Pathophysiology
 
