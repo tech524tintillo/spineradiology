@@ -36,7 +36,7 @@ Modic changes are MRI signal alterations in the vertebral body marrow adjacent t
 | **Acute fracture edema** | Fracture shows vertebral height loss and cortical disruption |
 
 !!! tip "Clinical Pearl"
-    **Modic Type 1 changes are the most clinically significant** — they correlate with active inflammation and are the type most strongly associated with low back pain. Some studies suggest that patients with Modic 1 changes may benefit from anti-inflammatory treatment or, in refractory cases, antibiotic therapy (the controversial Modic Antibiotic Spine Therapy — MAST protocol), based on the theory that low-grade bacterial infection of the disc contributes to Modic 1 changes. This remains a topic of active research and debate.
+    **Modic Type 1 changes are the most clinically significant** — they typically represent edema / inflammation and are the type most strongly associated with low back pain. Some studies suggest that patients with Modic 1 changes may benefit from anti-inflammatory treatment or, in refractory cases, antibiotic therapy (the controversial Modic Antibiotic Spine Therapy — MAST protocol), based on the theory that low-grade bacterial infection of the disc contributes to Modic 1 changes. This remains a topic of active research and debate.
 
 ## Key Points
 
