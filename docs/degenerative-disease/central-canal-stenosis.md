@@ -2,7 +2,7 @@
 
 ## Definition
 
-Central canal stenosis is narrowing of the central spinal canal, resulting in compression of the spinal cord (cervical and thoracic) or the cauda equina (lumbar). It is the most clinically significant form of spinal stenosis and the primary indication for decompressive surgery.
+Central canal stenosis is a narrowing of the central spinal canal, and can result in in compression of the spinal cord (cervical and thoracic) or the cauda equina (lumbar). It is the most clinically significant form of spinal stenosis and the primary indication for decompressive surgery.
 
 ## Causes
 
@@ -12,6 +12,9 @@ Central canal stenosis is narrowing of the central spinal canal, resulting in co
 - **Spondylolisthesis** — narrows the canal dynamically as one vertebra slides forward
 - **Congenitally short pedicles** — reduced baseline canal diameter
 - **OPLL** — narrows the canal anteriorly (cervical spine)
+- **Epidural collections** - can result in cord compression
+- **Tumors/masses** - can result in cord compression depending on location
+
 
 ## Imaging Findings
 
