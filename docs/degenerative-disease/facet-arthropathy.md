@@ -2,7 +2,7 @@
 
 ## Definition
 
-Facet arthropathy (facet joint osteoarthritis) is the degenerative deterioration of the facet (zygapophyseal) joints, characterized by cartilage loss, joint space narrowing, subchondral sclerosis, osteophyte formation, and joint effusion. It is a major contributor to axial back/neck pain and spinal stenosis.
+Facet arthropathy (facet joint osteoarthritis) is the degenerative deterioration of the facet (zygapophyseal) joints, characterized by cartilage loss, joint space narrowing, subchondral sclerosis, osteophyte formation, and joint effusion. It is a major contributor of back/neck pain and spinal stenosis.
 
 ## Pathophysiology
 
