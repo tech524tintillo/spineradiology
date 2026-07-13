@@ -2,7 +2,7 @@
 
 ## Definition
 
-Vertebral osteomyelitis refers specifically to infection of the vertebral body bone. In practice, it almost always coexists with discitis (spondylodiscitis) in pyogenic infections because the endplate destruction allows spread to the adjacent disc. The term is used when the primary pathology is centered in the vertebral body, particularly in granulomatous infections (tuberculosis, brucellosis, fungal) where disc involvement may be delayed or minimal.
+Vertebral osteomyelitis refers specifically to infection of the vertebral body bone. In practice, it almost always coexists with discitis (spondylodiscitis) in pyogenic infections - in adults, infection usually starts at the vertebral endplate and spreads to the disc, whereas in children it begins in the disc and extends to the adjacent endplates. The term is used when the primary pathology is centered in the vertebral body, particularly in granulomatous infections (tuberculosis, brucellosis, fungal) where disc involvement may be delayed or minimal.
 
 ## Imaging Findings
 
