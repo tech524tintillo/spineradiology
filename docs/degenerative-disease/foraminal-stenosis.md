@@ -2,7 +2,7 @@
 
 ## Definition
 
-Foraminal stenosis is narrowing of the neural foramen (intervertebral foramen), compressing the **exiting nerve root** and dorsal root ganglion. It is a common cause of radiculopathy, particularly in the cervical and lumbar spine, and is best evaluated on sagittal T1 MRI.
+Foraminal stenosis is narrowing of the neural foramen (intervertebral foramen), compressing the **exiting nerve root** and dorsal root ganglion. It is a common cause of radiculopathy, particularly in the cervical and lumbar spine, and is best evaluated on sagittal T2 MRI.
 
 ## Anatomy
 
@@ -33,9 +33,9 @@ The neural foramen is bounded by:
 
 ## Imaging Findings
 
-### MRI — Sagittal T1 is Key
+### MRI — Sagittal T2 is Key
 
-- **Sagittal T1:** bright epidural fat normally surrounds the dark nerve root in the foramen; stenosis = loss of this fat signal
+- **Sagittal T2:** bright epidural fat normally surrounds the dark nerve root in the foramen; stenosis = loss of this fat signal
 - **Axial T2:** evaluate the cause (disc, osteophyte, facet) and direction of compression
 - Look for nerve root edema (T2 hyperintensity) and enhancement (suggests active inflammation)
 
@@ -46,12 +46,12 @@ The neural foramen is bounded by:
 - Sagittal reformats through the foramina are essential
 
 !!! tip "Clinical Pearl"
-    **Sagittal T1 MRI** is the single most useful sequence for evaluating foraminal stenosis. The normal bright epidural fat provides excellent contrast against the dark nerve root. When this fat is obliterated, the root is being compressed. Always review sagittal T1 images scrolled through the foramina — foraminal stenosis can be invisible on axial images if the slices don't pass through the exact level of maximal narrowing.
+    **Sagittal T2 MRI** is the single most useful sequence for evaluating foraminal stenosis. The normal bright epidural fat provides excellent contrast against the dark nerve root. When this fat is obliterated, the root is being compressed. Always review sagittal T1 images scrolled through the foramina — foraminal stenosis can be invisible on axial images if the slices don't pass through the exact level of maximal narrowing.
 
 ## Key Points
 
 - Foraminal stenosis compresses the exiting nerve root and dorsal root ganglion
-- Sagittal T1 MRI is the most important sequence — loss of perineural fat = stenosis
+- Sagittal T2 MRI is the most important sequence — loss of perineural fat = stenosis
 - Lee grading (0–3) classifies severity based on fat obliteration and root deformation
 - Multiple causes: disc loss, osteophytes, facet hypertrophy, spondylolisthesis
 - In the cervical spine, uncovertebral osteophytes are a major foraminal contributor
