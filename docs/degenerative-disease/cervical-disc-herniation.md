@@ -2,7 +2,7 @@
 
 ## Definition
 
-Cervical disc herniation is the focal displacement of disc material beyond the normal margin of the intervertebral disc space in the cervical spine. It most commonly occurs at C5–C6 and C6–C7 and can cause radiculopathy (nerve root compression) or myelopathy (spinal cord compression).
+Cervical disc herniation is the  displacement of disc material beyond the normal margin of the intervertebral disc space in the cervical spine. It most commonly occurs at C5–C6 and C6–C7 and can cause radiculopathy (nerve root compression) or myelopathy (spinal cord compression).
 
 ## Epidemiology
 
