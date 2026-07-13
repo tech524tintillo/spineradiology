@@ -2,7 +2,7 @@
 
 ## Definition
 
-Spondylolisthesis is the anterior (or rarely posterior) displacement of one vertebra relative to the adjacent vertebra below. It is graded by the Meyerding classification based on the percentage of vertebral body translation, and has several distinct etiologic subtypes.
+Spondylolisthesis is the displacement of one vertebra relative to the adjacent vertebra below, most commonly anteriorly.  It is graded by the Meyerding classification based on the percentage of vertebral body translation, and has several distinct etiologic subtypes.
 
 ## Classification
 
@@ -58,7 +58,7 @@ Spondylolisthesis is the anterior (or rarely posterior) displacement of one vert
 - Meyerding grading: I (<25%), II (25–50%), III (50–75%), IV (75–100%), V (>100%)
 - The Wiltse classification identifies the etiology — isthmic and degenerative are most common
 - Pars integrity is the key distinguishing feature between isthmic and degenerative types
-- Lateral radiograph for measuring slip; CT for pars assessment; MRI for neural compression
+- Lateral radiograph for measuring slip; CT for pars assessment; MRI for assessing neural compression
 
 ## References
 
